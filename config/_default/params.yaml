@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: ocean
-  theme_night: dark
+  theme_day: datalab
+  theme_night: 
   font: native
   font_size: S
 
