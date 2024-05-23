@@ -10,7 +10,7 @@ sections:
       title: |
         Data Lab
       image:
-        filename: werlcome.jpg
+        filename: welcome.jpg
       text: |
         <br>
         
@@ -44,7 +44,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: markus-spiske-unsplash.jpg
           filters:
             brightness: 1
           parallax: false
