@@ -47,12 +47,11 @@ sections:
       view: citation
       columns: '1'
 
-  - block: collection
+  - block: markdown
+    id: section-1
     content:
       title: Contacto
-      text: "contact@training-datalab.com"
-    design:
-      columns: '1'
+      text: contact@training-datalab.com
 
 ---
 
