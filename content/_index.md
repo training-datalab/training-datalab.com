@@ -11,11 +11,11 @@ sections:
         Wowchemy
         Research Group
       image:
-        filename: welcome.jpg
+        filename: markus-spiske-unsplash.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+**Training Data Lab** focuses on data science applications in social sciences in three interconnected areas: data mining, econometric modelling and machine learning.
   
   - block: collection
     content:
