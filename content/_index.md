@@ -47,13 +47,10 @@ sections:
       view: citation
       columns: '2'
 
-  - block: collection
+  - block: contact
     content:
       title: Contacto
       text: ""
-      filters:
-        folders:
-          - contact
     design:
       columns: '1'
 
