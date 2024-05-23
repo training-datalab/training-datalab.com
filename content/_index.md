@@ -8,10 +8,9 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Data Lab
       image:
-        filename: markus-spiske-unsplash.jpg
+        filename: werlcome.jpg
       text: |
         <br>
         
