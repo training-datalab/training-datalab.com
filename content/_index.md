@@ -8,9 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-        Data Lab
       image:
-        filename: welcome.jpg
+        filename: tDL_logo.png
       text: |
         <br>
         
