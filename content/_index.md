@@ -31,7 +31,7 @@ sections:
       order: desc
       page_type: post
     design:
-      view: showcase
+      view: compact
       columns: '1'
  
   - block: collection
