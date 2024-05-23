@@ -4,6 +4,10 @@ title: Rodrigo Cuevas
 ## weight: 34
 shortname: Cuevas, R.
 
+# Full Name (for SEO)
+first_name: Rodrigo
+last_name: Cuevas
+
 # Username (this should match the folder name)
 authors:
 - rcuevas
