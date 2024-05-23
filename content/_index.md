@@ -32,7 +32,7 @@ sections:
       page_type: post
     design:
       view: compact
-      columns: '1'
+      columns: '2'
  
   - block: collection
     content:
@@ -50,7 +50,7 @@ sections:
   - block: contact
     content:
       title: Contacto
-      text: "email: contact@training-datalab.com"
+      text: "contact@training-datalab.com"
     design:
       columns: '1'
 
