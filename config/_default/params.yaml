@@ -8,7 +8,7 @@
 appearance:
   theme_day: datalab
   theme_night: 
-  font: Roboto-Medium
+  font: native
   font_size: S
 
 # SEO
