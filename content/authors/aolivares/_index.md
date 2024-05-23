@@ -4,6 +4,10 @@ title: Alejandro Olivares
 ## weight: 2
 shortname: Olivares, A.
 
+# Full Name (for SEO)
+first_name: Alejandro
+last_name: Olivares
+
 # Username (this should match the folder name)
 authors:
 - aolivares
