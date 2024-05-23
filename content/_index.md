@@ -44,7 +44,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: 'article'
+        publication_type: 'pub_wos'
     design:
       view: citation
       columns: '2'
