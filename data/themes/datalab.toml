@@ -1,0 +1,18 @@
+# Theme metadata
+name = "Ocean"
+
+[light]
+  # Primary
+  primary = "#222222"
+
+  # Menu
+  menu_primary = "#222222"
+  menu_text = "#FFFFFF"
+  menu_text_active = "##FFC107" # Material Complemantary 500
+  menu_title = "#FFFFFF"
+
+  # Home sections
+  ## home_section_odd = "rgb(255, 255, 255)"
+  ## home_section_even = "rgb(247, 247, 247)"
+  home_section_odd = "rgb(225, 232, 235)"
+  home_section_even = "rgb(255, 255, 255)"
