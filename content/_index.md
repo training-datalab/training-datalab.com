@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-**Training Data Lab** focuses on data science applications in social sciences in three interconnected areas: data mining, econometric modelling and machine learning.
+        **Training Data Lab** focuses on data science applications in social sciences in three interconnected areas: data mining, econometric modelling and machine learning.
   
   - block: collection
     content:
