@@ -4,6 +4,10 @@ title: Carla Cisternas
 ## weight: 4
 shortname: Cisternas, C.
 
+# Full Name (for SEO)
+first_name: Carla
+last_name: Cisternas
+
 # Username (this should match the folder name)
 authors:
 - ccisternas
