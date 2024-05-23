@@ -36,7 +36,7 @@ sections:
  
   - block: collection
     content:
-      title: Latest Preprints
+      title: Publicaciones destacadas
       text: ""
       count: 5
       filters:
@@ -47,4 +47,17 @@ sections:
       view: citation
       columns: '1'
 
+  - block: collection
+    content:
+      title: Contacto
+      text: ""
+      count: 1
+      filters:
+        folders:
+          - contact
+    design:
+      view: citation
+      columns: '1'
+
 ---
+
