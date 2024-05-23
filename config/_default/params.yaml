@@ -6,12 +6,10 @@
 # Appearance
 
 appearance:
-  ## theme_day: minimal
-  ## theme_night:
+  theme_day: 
+  theme_night: minimal
   font: native
   font_size: M
-  mode: light
-  color: rose
 
 # SEO
 
