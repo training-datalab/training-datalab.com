@@ -45,13 +45,17 @@ sections:
         publication_type: 'article'
     design:
       view: citation
-      columns: '1'
+      columns: '2'
 
-  - block: markdown
-    id: section-1
+  - block: collection
     content:
       title: Contacto
-      text: contact@training-datalab.com
+      text: ""
+      filters:
+        folders:
+          -contact
+    design:
+      columns: '1'
 
 ---
 
