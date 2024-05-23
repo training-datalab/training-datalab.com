@@ -32,8 +32,8 @@ sections:
       order: desc
       page_type: post
     design:
-      view: compact
-      columns: '2'
+      view: showcase
+      columns: '1'
  
   - block: collection
     content:
