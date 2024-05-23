@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: ocean
-  theme_night: dark
+  theme_day: 
+  theme_night: mrrobot
   font: native
   font_size: M
 
