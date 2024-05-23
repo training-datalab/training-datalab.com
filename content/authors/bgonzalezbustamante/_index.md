@@ -23,6 +23,8 @@ organizations:
 - name: Leiden University
   url: "https://www.universiteitleiden.nl/en"
 
+affiliation: Leiden University
+
 # Short bio (displayed in user profile at end of posts)
 bio: Post-doctoral Researcher in Computational Social Science at the Institute of Security and Global Affairs (ISGA) at the Faculty of Governance and Global Affairs at Leiden University, Netherlands.
 
