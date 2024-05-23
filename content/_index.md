@@ -50,13 +50,8 @@ sections:
   - block: collection
     content:
       title: Contacto
-      text: ""
-      count: 1
-      filters:
-        folders:
-          - contact
+      text: "contact@training-datalab.com"
     design:
-      view: citation
       columns: '1'
 
 ---
