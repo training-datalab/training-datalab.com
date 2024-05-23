@@ -1,8 +1,12 @@
 ---
 # Display name
 title: Bastián González-Bustamante
-weight: 1
+## weight: 1
 shortname: González-Bustamante, B.
+
+# Full Name (for SEO)
+first_name: Bastián
+last_name: González-Bustamante
 
 # Username (this should match the folder name)
 authors:
