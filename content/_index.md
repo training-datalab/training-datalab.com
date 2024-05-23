@@ -53,7 +53,7 @@ sections:
       text: ""
       filters:
         folders:
-          -contact
+          - contact
     design:
       columns: '1'
 
