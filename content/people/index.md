@@ -13,10 +13,10 @@ sections:
       user_groups:
           - Principal Investigators
           - Investigadores Asociados
-          - Grad Students
+          - Investigadores Adjuntos
           - Administration
           - Visitors
-          - Alumni
+          - Ex Asistentes de Investigación
       sort_by: Params.last_name
       sort_ascending: true
     design:
