@@ -50,7 +50,7 @@ sections:
   - block: contact
     content:
       title: Contacto
-      text: ""
+      text: "email: contact@training-datalab.com"
     design:
       columns: '1'
 
