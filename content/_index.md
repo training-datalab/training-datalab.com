@@ -18,7 +18,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: Noticias recientes
       subtitle:
       text:
       count: 5
@@ -33,7 +33,7 @@ sections:
       page_type: post
     design:
       view: card
-      columns: '1'
+      columns: '2'
  
   - block: collection
     content:
