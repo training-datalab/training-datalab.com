@@ -102,7 +102,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+  - Associates
 ---
 
 I am a post-doctoral researcher in Computational Social Science at the Institute of Security and Global Affairs (ISGA) at the [Faculty of Governance and Global Affairs at Leiden University](https://www.universiteitleiden.nl/en/governance-and-global-affairs), Netherlands. I hold a [DPhil (PhD) in Politics from the University of Oxford](https://www.politics.ox.ac.uk/), United Kingdom. Before my DPhil, I earned an MA (1st) in Political Science and a BA (2:1) in Government, both from the Universidad de Chile.
