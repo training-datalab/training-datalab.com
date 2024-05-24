@@ -67,13 +67,6 @@ sections:
 
   - block: markdown
     content:
-      title: Financiamiento y apoyo
-      text: <img src="/leiden.png" style="width: 150px"><img src="/udp.png" style="width: 150px"> &nbsp; <img src="/oxford.jpg" style="width: 55px"> &nbsp;&nbsp; <img src="/usach.png" style="width: 50px"> &nbsp;&nbsp;&nbsp; <img src="/umayor.png" style="width: 55px"> &nbsp;&nbsp; <img src="/anid.png" style="width: 55px">'
-    design
-      columns: '1'
-
-  - block: markdown
-    content:
       title: Contacto
       subtitle: "contact@training-datalab.com"
     design:
