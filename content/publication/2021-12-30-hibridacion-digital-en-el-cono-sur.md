@@ -3,7 +3,7 @@ title: 'Hibridación digital en el Cono Sur: Consumo de medios tradicionales, di
 date: '2021-12-30'
 slug: hibridacion-digital-en-el-cono-sur
 ## categories: []
-## tags: []
+tags: [latindex-article]
 authors: ["bgonzalezbustamante"]
 doi: ''
 ## publishDate: '2019-12-15T20:47:28Z'

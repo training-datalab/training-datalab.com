@@ -3,7 +3,7 @@ title: 'The Politics‐Administration Dichotomy: A Case Study of the Chilean Exe
 date: '2020-11-18'
 slug: the-politics-administration-dichotomy
 ## categories: []
-## tags: []
+tags: [wos-article]
 authors: ["bgonzalezbustamante"]
 doi: ''
 ## publishDate: ''
