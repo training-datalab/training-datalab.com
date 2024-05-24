@@ -2,7 +2,7 @@
 title: Noticias recientes
 
 # Listing view
-view: compact
+view: list
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:

@@ -22,7 +22,7 @@ sections:
   
   - block: collection
     content:
-      title: Proyectos emblemáticos
+      title: Proyectos relevantes
       subtitle:
       text:
       count: 2
@@ -80,6 +80,7 @@ sections:
         folders:
           - publication
         publication_type: 'article-journal'
+        tag: 'wos'
     design:
       view: citation
       columns: '2'
