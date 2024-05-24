@@ -1,13 +1,5 @@
 <footer class="site-footer">
 
-  <img src="/tDL_logo.png" style="width: 60px"> &nbsp;&nbsp;
-  <img src="/leiden.png" style="width: 150px">  &nbsp;
-  <img src="/udp.png" style="width: 150px">  &nbsp;
-  <img src="/oxford.jpg" style="width: 55px"> &nbsp;&nbsp;
-  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logos/uct.png" style="width: 160px">  &nbsp;&nbsp;-->
-  <img src="/usach.png" style="width: 50px"> &nbsp;&nbsp;&nbsp;
-  <img src="/umayor.png" style="width: 55px">
-
   {{ partial "blox-core/functions/get_hook" (dict "hook" "footer-start" "context" .) }}
 
   {{/* Load footer block */}}
@@ -18,5 +10,13 @@
   {{ end }}
   {{ partial $footer_section_path . }}
 
+<p class="powered-by">
+  <img src="/tDL_logo.png" style="width: 60px"> &nbsp;&nbsp;
+  <img src="/leiden.png" style="width: 150px">  &nbsp;
+  <img src="/udp.png" style="width: 150px">  &nbsp;
+  <img src="/oxford.jpg" style="width: 55px"> &nbsp;&nbsp;
+  <img src="/usach.png" style="width: 50px"> &nbsp;&nbsp;&nbsp;
+  <img src="/umayor.png" style="width: 55px">
+</p>
   
 </footer>
