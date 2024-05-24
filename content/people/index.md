@@ -15,7 +15,7 @@ sections:
           - Investigadores Asociados
           - Investigadores Adjuntos
           - Administration
-          - Visitors
+          - Asistentes de Investigación
           - Ex Asistentes de Investigación
       sort_by: Params.last_name
       sort_ascending: true
