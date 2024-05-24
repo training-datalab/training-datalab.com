@@ -36,7 +36,7 @@ sections:
       order: desc
       page_type: project
     design:
-      view: showcase
+      view: card
       columns: '1'
       spacing:
         padding:
