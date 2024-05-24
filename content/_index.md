@@ -42,11 +42,6 @@ sections:
 
   - block: collection
     content:
-      title |
-
-
-  - block: collection
-    content:
       title: Noticias recientes
       subtitle:
       text:
