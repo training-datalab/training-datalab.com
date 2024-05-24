@@ -9,7 +9,7 @@ doi: ''
 ## publishDate: ''
 
 # Publication type.
-publication_types: ['Artículo WoS']
+publication_types: ['Artículo-WoS']
 
 publication: '*The International Journal of Press/Politics, 29*(1), 100-123'
 publication_short: ''
