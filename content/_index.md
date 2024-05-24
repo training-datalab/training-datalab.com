@@ -37,7 +37,7 @@ sections:
       page_type: project
     design:
       view: compact
-      columns: '1'
+      columns: '2'
       flip_alt_rows: true
       spacing:
         padding:
