@@ -3,16 +3,17 @@ name = "datalab"
 
 [light]
   # Primary
-  primary = "#FFC107"
+  primary = "#C88509"
 
   # Menu
   menu_primary = "#222222"
   menu_text = "#FFFFFF"
-  menu_text_active = "#FFC107"
+  menu_text_active = "#FFA600"
   menu_title = "#FFFFFF"
 
   # Home sections
   ## home_section_odd = "rgb(255, 255, 255)"
   ## home_section_even = "rgb(247, 247, 247)"
-  home_section_odd = "rgb(225, 232, 235)"
+  ## home_section_odd = "rgb(225, 232, 235)"
+  home_section_odd = "#E1E8EB"
   home_section_even = "rgb(247, 247, 247)"
