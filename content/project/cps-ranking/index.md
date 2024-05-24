@@ -1,8 +1,8 @@
 ---
 title: Chilean Political Science Ranking
 date: 2020-12-02
-image:
-  focal_point: 'top'
+## image:
+  ## focal_point: 'top'
 tags:
 - flagship
 ---
