@@ -48,7 +48,7 @@ sections:
 
   - block: collection
     content:
-      title: Noticias recientes
+      title: Noticias
       subtitle:
       text:
       count: 5
