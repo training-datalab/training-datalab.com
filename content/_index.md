@@ -63,7 +63,13 @@ sections:
       page_type: post
     design:
       view: list
-      columns: '1'
+      columns: '2'
+      spacing:
+        padding:
+          - 50px
+          - '0'
+          - 50px
+          - '0'
  
   - block: collection
     content:
