@@ -12,7 +12,7 @@ sections:
         filename: code.jpg
       text: |
 
-         <img src="/tDL_logo.png" style="width: 60px"> <p align="justify"><font size="3">Nuestro grupo de investigación se enfoca en aplicaciones de ciencia de datos en ciencias sociales en tres áreas interconectadas: minería de datos, modelamiento econométrico y aprendizaje automático.</font></p> 
+         <img src="/tDL_logo.png" style="width: 60px; float: right; border: 10px"> <p align="justify"><font size="3">Nuestro grupo de investigación se enfoca en aplicaciones de ciencia de datos en ciencias sociales en tres áreas interconectadas: minería de datos, modelamiento econométrico y aprendizaje automático.</font></p> 
   
   - block: collection
     content:
@@ -65,7 +65,15 @@ sections:
       view: citation
       columns: '2'
 
-  - block: contact
+  - block: markdown
+    content:
+      title:
+      text: |
+          <img src="/tDL_logo.png" style="width: 60px>
+    design:
+      columns: '1'
+
+  - block: markdown
     content:
       title: Contacto
       subtitle: "contact@training-datalab.com"
