@@ -34,6 +34,18 @@ interests:
 - Multi-Method research
 - Chilean politics
 
+education:
+  courses:
+  - course: Doctorado en Ciencias Sociales
+    institution: Universidad de Chile
+    year: ?-?
+  - course: MA Ciencia Política
+    institution: Universidad de Chile
+    year: ?-?
+  - course: BA Ciencia Política
+    institution: Universidad Central de Chile
+    year: ?-?
+
 # Social/Academic Networking
 social:
 - icon: envelope

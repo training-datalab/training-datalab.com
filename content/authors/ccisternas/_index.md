@@ -36,15 +36,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Politics
+  - course: PhD Politics
     institution: Leiden University
-    year: ?-
-  - course: MA in Political Science
+    year: 2022-
+  - course: MA Ciencia Política
     institution: Universidad de Chile
-    year: ?-?
-  - course: BA in Public Administration
-    institution: Universidad de Chile
-    year: ?-?
+    year: 2017-2019
+  - course: BA Administración Pública
+    institution: Universidad de Santiago de Chile
+    year: 2011-2016
 
 # Social/Academic Networking
 social:

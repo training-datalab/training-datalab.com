@@ -29,6 +29,15 @@ bio: Investigador Adjunto.
 interests:
 - 
 
+education:
+  courses:
+  - course: MA Ciencia Política
+    institution: Universidad de Chile
+    year: ?-?
+  - course: BA Administración Pública
+    institution: Universidad de Chile
+    year: ?-?
+
 # Social/Academic Networking
 social:
 ## - icon: envelope
