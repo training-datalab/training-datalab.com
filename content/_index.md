@@ -38,6 +38,7 @@ sections:
     design:
       view: compact
       columns: '1'
+      flip_alt_rows: true
       spacing:
         padding:
           - 50px
