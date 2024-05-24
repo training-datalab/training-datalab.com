@@ -17,7 +17,9 @@ sections:
   - block: markdown
     content:
       title: |
-      text: '<img src="/tDL_logo.png" style="width: 150px; float: left; margin-right: 30px"> <p align="justify"><font size="3">Nuestro grupo de investigación se enfoca en aplicaciones de ciencia de datos en ciencias sociales en tres áreas interconectadas: minería de datos, modelamiento econométrico y aprendizaje automático. Por una parte, buscamos recoger datos con técnicas de minería para elaborar modelos econométricos con técnicas observacionales o de emparejamiento.</font></p>'
+      text: |
+
+          <img src="/tDL_logo.png" style="width: 150px; float: right; margin-left: 30px"> <p align="justify"><font size="3">Desde 2020, nuestro grupo de investigación es un punto de encuentro de investigadores en distintos niveles de su carrera y con diferentes trasfondos que se enfocan en aplicaciones de ciencia de datos en ciencias sociales y humanidades en tres áreas interconectadas: minería de datos, modelamiento econométrico y aprendizaje automático. </font></p>
     design:
       columns: '1'
   
