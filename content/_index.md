@@ -80,7 +80,7 @@ sections:
         folders:
           - publication
         publication_type: 'article-journal'
-        tag: 'wos'
+        tag: 'wos-article'
     design:
       view: citation
       columns: '2'
