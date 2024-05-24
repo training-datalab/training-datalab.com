@@ -38,6 +38,12 @@ sections:
     design:
       view: showcase
       columns: '1'
+      spacing:
+        padding:
+          - 50px
+          - '0'
+          - 50px
+          - '0'
 
   - block: collection
     content:
@@ -70,6 +76,12 @@ sections:
     design:
       view: citation
       columns: '2'
+      spacing:
+        padding:
+          - 50px
+          - '0'
+          - 50px
+          - '0'
 
   - block: markdown
     content:
@@ -77,6 +89,12 @@ sections:
       subtitle: "contact@training-datalab.com"
     design:
       columns: '1'
+      spacing:
+        padding:
+          - 50px
+          - '0'
+          - 50px
+          - '0'
 
 ---
 
