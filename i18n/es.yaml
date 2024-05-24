@@ -174,29 +174,32 @@
 - id: location
   translation: Localización
 
-- id: pub_paper_conference
-  translation: Artículo de conferencia
+- id: pub_wos
+  translation: Artículo WoS-ISI/SSCI
 
-- id: pub_article_journal
-  translation: Artículo de revista
+- id: pub_scopus
+  translation: Artículo Scopus
 
-- id: pub_article
-  translation: Prepublicación
-
-- id: pub_report
-  translation: Informe
+- id: pub_esci
+  translation: Artículo WoS-ISI/ESCI
 
 - id: pub_book
   translation: Libro
 
-- id: pub_chapter
+- id: pub_book_section
   translation: Capítulo de libro
+
+- id: pub_scielo
+  translation: Artículo SciELO/Latindex
+
+- id: pub_preprint
+  translation: Preprint
+
+- id: pub_conf
+  translation: Ponencia de conference
 
 - id: pub_thesis
   translation: Tesis
-
-- id: pub_patent
-  translation: Patente
 
 # Project details
 
