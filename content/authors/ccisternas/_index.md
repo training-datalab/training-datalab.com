@@ -34,6 +34,18 @@ interests:
 - Mixed methods
 - Latin America
 
+education:
+  courses:
+  - course: PhD in Politics
+    institution: Leiden University
+    year: ?-
+  - course: MA in Political Science
+    institution: Universidad de Chile
+    year: ?-?
+  - course: BA in Public Administration
+    institution: Universidad de Chile
+    year: ?-?
+
 # Social/Academic Networking
 social:
 - icon: envelope
@@ -44,7 +56,7 @@ social:
   link: https://carlacisternas.com/
 - icon: university
   icon_pack: fas
-  link: https://training-datalab.com/
+  link: https://www.universiteitleiden.nl/en/staffmembers/carla-cisternas-guasch
 - icon: orcid
   icon_pack: fab
   link: http://orcid.org/0000-0001-7948-6194
@@ -66,9 +78,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/carlacisternasg
-- icon: cv
-  icon_pack: ai
-  link: https://carlacisternas.com/CV-Carla-Cisternas.pdf
+## - icon: cv
+  ## icon_pack: ai
+  ## link: https://carlacisternas.com/CV-Carla-Cisternas.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
