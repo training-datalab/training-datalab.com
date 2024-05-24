@@ -2,6 +2,8 @@
 title: Carla Cisternas fue galardonada con el premio Slicher van Bath
 date: 2023-02-22
 authors: ["ccisternas"]
+image:
+  caption: 'Créditos de la imagen: **Luciana Solar**'
 
 ---
 
