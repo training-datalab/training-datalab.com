@@ -7,8 +7,10 @@ slug: determinantes-del-gobierno-electronico-en-las-municipalidades
 authors: ["bgonzalezbustamante", "acarvajal", "agonzalez"]
 doi: ''
 ## publishDate: ''
-publication_types:
-  - '0'
+
+# Publication type.
+publication_types: ['article-journal']
+
 publication: '*Gestión y Política Pública, XXIX*(1), 97-129'
 publication_short: ''
 abstract: 'This study analyses the level of electronic government and its determinants in the municipalities of the five most densely-populated regions in Chile. We use a database of 188 municipalities where 71 per cent of the national population is concentrated, according to 2016 estimates. In this paper, we calculate, describe and geo-reference a 2016 e-value index to evaluate the supply of digital services in each one of the municipalities. The predictors of the index are analysed using Ordinary Least Squares models. The factors analysed are related to the dimensions distinguished by theory as necessary for the implementation of strategies of electronic government. The highlight findings reveal recognisable spatial distribution patterns in the Metropolitan region and enable us to identify the importance of the infrastructure, the political capital of the mayor and the financial independence of the municipality as significant determinants for successful development of electronic government initiatives at a municipal level.'

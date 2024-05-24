@@ -7,8 +7,10 @@ slug: nuevos-desafios-enfoques-y-perspectivas-para-estudiar-elites-politicas
 authors: ["aolivares", "bgonzalezbustamante", "storo", "jcarellano", "ayanesrojas", "jzuritatapia", "avlopes", "crobledoguzman", "jbcanavesisosa"]
 doi: ''
 ## publishDate: ''
-publication_types:
-  - '1'
+
+# Publication type.
+publication_types: ['article-journal']
+
 publication: '*Iberoamericana. América Latina - España - Portugal, XX*(74), 229-259'
 publication_short: ''
 abstract: 'This article analyses some theoretical difficulties briefly and offers a study object overview and the recent lines of research in the framework of the study of governmental political elites in Latin American. Subsequently, some methodological challenges and brief conclusions are presented.'

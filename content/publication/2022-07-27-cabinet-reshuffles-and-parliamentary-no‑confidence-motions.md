@@ -7,8 +7,10 @@ slug: cabinet-reshuffles-and-parliamentary-no‑confidence-motions
 authors: ["tgfleming", "bgonzalezbustamante", "pschleiter"]
 doi: ''
 ## publishDate: ''
-publication_types:
-  - '0'
+
+# Publication type.
+publication_types: ['article-journal']
+
 publication: '*Government and Opposition*. FirstView'
 publication_short: ''
 abstract: 'How do cabinet reshuffles affect the parliamentary opposition’s use of no-confidence motions in the government? Opposition parties employ no-confidence motions as electoral signals to highlight government incompetence, and to position themselves as a government in waiting. We argue that cabinet reshuffles - by which prime ministers respond to policy failures, scandals, poor ministerial performance, and disloyalty - present an opportunity for the opposition to deploy no-confidence motions to this end. The incentives for this strategy, however, are contingent on the nature of the party system and are greatest where party system concentration positions a single opposition party as the alternative to the government and sole beneficiary of a no-confidence vote. We test this expectation using a multilevel modelling approach applied to data on reshuffles in 316 governments and sixteen parliamentary democracies, and find support for our expectation: Cabinet reshuffles raise the probability of no-confidence motions conditional on party system concentration.'
