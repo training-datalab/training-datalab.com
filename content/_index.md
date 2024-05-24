@@ -13,6 +13,12 @@ sections:
           <img src="/tDL_logo.png" style="width: 100px; float: left; margin-right: 30px"> <p align="justify"><font size="3">Desde 2020, nuestro grupo ha sido un punto de encuentro para investigadores en diferentes etapas de su carrera y con distintos trasfondos que comparten un interés común por las aplicaciones de la ciencia de datos en las ciencias sociales y las humanidades en tres áreas interconectadas: minería de datos, modelamiento econométrico y aprendizaje automático e inteligencia artificial.</font></p>
     design:
       columns: '1'
+      spacing:
+        padding:
+          - 50px
+          - '0'
+          - 50px
+          - '0'
   
   - block: collection
     content:
