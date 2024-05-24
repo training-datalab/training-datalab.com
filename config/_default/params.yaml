@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© 2020-{year} Training Data Lab'
+    notice: '© 2020-{year} Training Data Lab ha sido apoyado y financiado por'
     license:
       enable: false
       allow_derivatives: true
