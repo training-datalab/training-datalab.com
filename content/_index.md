@@ -12,7 +12,7 @@ sections:
         filename: tDL_logo.png
       text: |
 
-        ![Resize](/images/tDL_logo.png?width=200px) <p align="justify"><font size="3">Nuestro grupo de investigación se enfoca en aplicaciones de ciencia de datos en ciencias sociales en tres áreas interconectadas: minería de datos, modelamiento econométrico y aprendizaje automático.</font></p>
+        ![Resize](/tDL_logo.png?width=200px) <p align="justify"><font size="3">Nuestro grupo de investigación se enfoca en aplicaciones de ciencia de datos en ciencias sociales en tres áreas interconectadas: minería de datos, modelamiento econométrico y aprendizaje automático.</font></p>
   
   - block: collection
     content:
