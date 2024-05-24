@@ -1,10 +1,10 @@
 ---
-title: Tercera Data Lab Workshop
+title: Tercer Data Lab Workshop
 
-event: Workshop anual Training Data Lab 
+event: Tercer Data Lab Workshop
 ## event_url: 
 
-location: Wowchemy HQ
+location: CEPEC USACH
 address:
   street: Centro de Estudios de Postgrado y Educación Continua (CEPEC) de la USACH, Cruz del Sur 77
   city: Santiago
@@ -13,7 +13,7 @@ address:
   country: Chile
 
 summary: Tercer workshop anual del Training Data Lab
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: ''
 
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
