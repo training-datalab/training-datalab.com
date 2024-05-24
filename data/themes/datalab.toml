@@ -3,7 +3,7 @@ name = "datalab"
 
 [light]
   # Primary
-  primary = "#222222"
+  primary = "#FFC107"
 
   # Menu
   menu_primary = "#222222"
