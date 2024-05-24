@@ -1,6 +1,7 @@
 ---
 title: Digital Activism, Protests and Incivility in Latin America
 date: 2023-04-22
+authors: ["bgonzalezbustamante"]
 tags:
 - flagship
 ---
