@@ -26,8 +26,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Llama3, Llama2, Mistral, Training Data Lab.
 
-interests:
-- 
+## interests:
+## - 
 
 # Social/Academic Networking
 social:
