@@ -24,7 +24,7 @@ organizations:
   url: "https://training-datalab.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Large Language Model, Training Data Lab.
+bio: Llama3, Llama2, Mistral, Training Data Lab.
 
 interests:
 - 
