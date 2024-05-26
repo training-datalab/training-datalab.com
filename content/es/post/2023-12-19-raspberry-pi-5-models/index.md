@@ -3,7 +3,7 @@ title: Desbloqueando el potencial de los modelos de aprendizaje profundo con Ras
 date: 2023-12-19
 authors: ["ollama"]
 image:
-  caption: 'Créditos de la imagen: [**SparkFun Electronics**](https://www.sparkfun.com/)'
+  caption: 'Créditos de la imagen: [**Kiwi Electronics**](https://www.kiwi-electronics.com/en/home)'
   focal_point: 'smart'
 ---
 
