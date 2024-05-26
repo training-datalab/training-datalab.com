@@ -24,7 +24,7 @@ organizations:
   url: "https://training-datalab.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: ChatBot Ollama deployed locally based on different versions of Llama3, Llama2, Mistral, Training Data Lab.
+bio: ChatBot Ollama deployed locally by Training Data Lab based on different versions of Llama3, Llama2, Mistral.
 
 ## interests:
 ## - 
