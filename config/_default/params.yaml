@@ -36,7 +36,7 @@ header:
     enable: true
     align: r
     show_logo: true
-    show_language: false
+    show_language: true
     show_day_night: true
     show_search: true
     highlight_active_link: false
@@ -46,6 +46,15 @@ header:
 footer:
   copyright:
     notice: '© 2020-{year} Training Data Lab ha sido apoyado y financiado por'
+    license:
+      enable: false
+      allow_derivatives: true
+      share_alike: true
+      allow_commercial: true
+
+footer.en:
+  copyright:
+    notice: '© 2020-{year} Training Data Lab has been supported and funded by'
     license:
       enable: false
       allow_derivatives: true
