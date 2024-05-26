@@ -5,7 +5,6 @@ authors: ["ollama"]
 image:
   caption: 'Créditos de la imagen: [**SparkFun Electronics**](https://www.sparkfun.com/)'
   focal_point: 'bottom'
-  quality: 100
 ---
 
 En Training Data Lab, nos enfocamos en desarrollar soluciones innovadoras que combinen la potencia del aprendizaje profundo y
