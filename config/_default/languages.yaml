@@ -15,6 +15,9 @@ en:
   title: 'Training Data Lab'
   params:
     description: 'Data Science in the Social Sciences and Humanities Research Group'
+    footer:
+        copyright:
+            notice: '© 2020-{year} Training Data Lab has been supported and funded by'
   menu:
     main:
       - name: Team
