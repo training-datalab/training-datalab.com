@@ -11,7 +11,7 @@ doi: ''
 # Publication type.
 publication_types: ['chapter']
 
-publication: 'En S. Bozzo, R. Remeseiro, I. Esis (Eds)., *Memorias III Congreso Internacional de Regulación y Consumo*. Santiago: RIL Editores'
+publication: 'En S. Bozzo, R. Remeseiro, I. Esis (eds.), *Memorias III Congreso Internacional de Regulación y Consumo*. Santiago: RIL Editores'
 publication_short: ''
 abstract: 'In Chilean law the concept of arbitrariness is used, through article 16 letter a) of Law 19.496, as a cause to determine the abusiveness of a clause in an adhesion contract, however, what is meant by that is not defined. This article addresses the notion of abusive clauses and, specifically, the concept of arbitrariness, using a case of the air travel market as an example, with the aim of lending support to the invocation that is made of said rule. Based on a comparative analysis to understand the treatment that different Latin American legislations make about abusive clauses and arbitrariness as a causal, the criteria that the National Consumer Service (SERNAC) has used in Chile to impute it will be investigated; proceeding to expose some of the jurisprudential criteria that have been developed to sanction their violation. Finally, after examining the «no show» clause, it is thought that, even though the Chilean law does not provide a definition for the concept of arbitrariness, it is possible to conclude, from the jurisprudence, that this refers to any contractual clause where it is possible to observe a position of exorbitant abuse with correlative risk of detriment and subordination of the weak counterparty and that does not have a justification that explains it.'
 summary: ''
