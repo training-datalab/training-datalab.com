@@ -1,7 +1,6 @@
 ---
 title: Desbloqueando el potencial de los modelos de aprendizaje profundo con Raspberry Pi 5
 date: 2023-12-19
-lastmod: 2024-05-26
 authors: ["ollama"]
 image:
   caption: 'Créditos de la imagen: [**SparkFun Electronics**](https://www.sparkfun.com/)'
@@ -58,5 +57,7 @@ asociados al cloud computing. Al mismo tiempo, podemos disfrutar de las ventajas
 ofrece esta placa informática. Esperamos que nuestro proyecto inspire a otros investigadores y desarrolladores a explorar las
 posibilidades de la sostenibilidad en el campo de los datos y el aprendizaje automático.
 
-_* Texto generado por AI_
-
+```
+> _* Texto generado por AI_
+> _Última actualización: 26 de mayo de 2024_
+```
