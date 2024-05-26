@@ -26,5 +26,5 @@ main:
     url: tufte-working-papers
     weight: 70
   - name: Contacto
-    url: '#Contacto'
+    url: '#contacto'
     weight: 80
