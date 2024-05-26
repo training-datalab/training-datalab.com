@@ -24,15 +24,26 @@ organizations:
   url: "https://training-datalab.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Adjunct Researcher in Training Data Lab.
+bio: Investigador Adjunto en Training Data Lab.
 
 interests:
-## -
-## -
-## -
-## -
-## -
-## -
+- Transparencia 
+- Gobierno abierto
+- Políticas públicas
+- Asuntos indígenas 
+- Relaciones internacionales
+
+education:
+  courses:
+  - course: MA Global Politics
+    institution: McMaster University
+    year: ??-??
+  - course: Magíster en Ciencia Política
+    institution: Universidad de Chile
+    year: ??-??
+  - course: Licenciatura en Derecho
+    institution: Universidad Alberto Hurtado
+    year: ??-??
 
 # Social/Academic Networking
 social:
@@ -42,9 +53,9 @@ social:
 ## - icon: home
   ## icon_pack: fas
   ## link: https://
-- icon: university
-  icon_pack: fas
-  link: https://training-datalab.com/team/daguilar/
+## - icon: university
+  ## icon_pack: fas
+  ## link: 
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0003-4531-5922
@@ -76,6 +87,6 @@ user_groups:
   - Investigadores Adjuntos
 ---
 
-Soy un funcionario público que trabaja en asuntos indígenas en el gobierno federal canadiense. Actualmente resido en la provincia de Ontario, Canadá. Además, soy network leader de Brantford Immigration Partnership. Antes de trasladarme a Canadá, trabajé como abogado y coordinador de relaciones internacionales en el Servicio Nacional del Consumidor (SERNAC) en Chile.
+Soy un funcionario público que trabaja en asuntos indígenas en el gobierno federal canadiense. Actualmente resido en la provincia de Ontario, Canadá. Además, soy network leader de [Brantford Immigration Partnership](https://www.brantford.ca/en/things-to-do/brantford-immigration-partnership.aspx). Antes de trasladarme a Canadá, trabajé como abogado y coordinador de relaciones internacionales en el Servicio Nacional del Consumidor (SERNAC) en Chile.
 
-Tengo un Magíster en Ciencia Política por el Instituto de Asuntos Públicos de la Universidad de Chile y un MA in Global Politics por la Universidad McMaster de Canadá. Además, obtuve una Licenciatura en Derecho de la Universidad Alberto Hurtado, Chile. Me interesan la transparencia y el gobierno abierto, las políticas públicas, los asuntos indígenas y las relaciones internacionales.
+Tengo un Magíster en Ciencia Política por el [Institute of Public Affairs](https://inap.uchile.cl/) de la Universidad de Chile y un MA in Global Politics por la [McMaster University](https://socialsciences.mcmaster.ca/) de Canadá. Además, obtuve una Licenciatura en Derecho de la [Universidad Alberto Hurtado](https://derecho.uahurtado.cl/), Chile. Me interesan la transparencia y el gobierno abierto, las políticas públicas, los asuntos indígenas y las relaciones internacionales.

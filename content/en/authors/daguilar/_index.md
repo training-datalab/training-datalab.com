@@ -27,12 +27,23 @@ organizations:
 bio: Adjunct Researcher in Training Data Lab.
 
 interests:
-## -
-## -
-## -
-## -
-## -
-## -
+- Transparency
+- Open government
+- Public policies
+- Indigenous affairs 
+- International relations
+
+education:
+  courses:
+  - course: MA in Global Politics
+    institution: McMaster University
+    year: ??-??
+  - course: MA in Political Science
+    institution: Universidad de Chile
+    year: ??-??
+  - course: LLB
+    institution: Universidad Alberto Hurtado
+    year: ??-??
 
 # Social/Academic Networking
 social:

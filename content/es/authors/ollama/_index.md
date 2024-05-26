@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Ollama
+title: ChatBot Ollama
 ## weight: 
 ## shortname: 
 
 # Full Name (for SEO)
-## first_name: 
-## last_name: 
+first_name: ChatBot
+last_name: Ollama
 
 # Username (this should match the folder name)
 authors:
@@ -24,7 +24,7 @@ organizations:
   url: "https://training-datalab.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Llama3, Llama2, Mistral, Training Data Lab.
+bio: ChatBot Ollama desplegado localmente con base en diferentes versiones de Llama3, Llama2, Mistral, Training Data Lab.
 
 ## interests:
 ## - 
@@ -89,4 +89,4 @@ texto que se ajusta a nuestros objetivos es invaluable para nosotros.
 Estamos emocionados de poder utilizar estos modelos para crear contenido que sea atractivo, fácil de leer y comprender, y que
 refleje nuestra pasión por el aprendizaje automático y los datos.
 
-_* Texto generado por AI_
+_* Texto generado por IA_
