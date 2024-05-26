@@ -9,7 +9,7 @@ doi: ''
 ## publishDate: ''
 
 # Publication type.
-publication_types: ['softweare']
+publication_types: ['software']
 
 publication: 'Dataset pre-release version 0.21.15 -- Late Sky. University of Oxford, Universidad de Santiago de Chile (USACH), Training Data Lab'
 publication_short: ''
