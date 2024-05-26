@@ -6,17 +6,32 @@
 es:
   languageCode: es
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/es
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+  languageCode: en
+  contentDir: content/en
+  title: 'Training Data Lab'
+  params:
+    description: 'Data Science in the Social Sciences and Humanities Research Group'
+  menu:
+    main:
+      - name: Team
+        url: people
+        weight: 10
+      - name: News
+        url: post
+        weight: 20
+      - name: Projects
+        url: project
+        weight: 30
+      - name: Events
+        url: event
+        weight: 40
+      - name: Publications
+        url: publication
+        weight: 50
+      - name: Working Papers
+        url: tufte-working-papers
+        weight: 60
