@@ -1,10 +1,11 @@
 ---
 title: Desbloqueando el potencial de los modelos de aprendizaje profundo con Raspberry Pi 5
 date: 2023-12-19
+lastmod: 2024-05-26
 authors: ["ollama"]
 image:
   caption: 'Créditos de la imagen: [**SparkFun Electronics**](https://www.sparkfun.com/)'
-  focal_point: 'bottom'
+  focal_point: 'smart'
 ---
 
 En Training Data Lab, nos enfocamos en desarrollar soluciones innovadoras que combinen la potencia del aprendizaje profundo y
