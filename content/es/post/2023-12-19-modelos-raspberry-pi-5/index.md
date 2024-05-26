@@ -58,4 +58,6 @@ ofrece esta placa informática. Esperamos que nuestro proyecto inspire a otros i
 posibilidades de la sostenibilidad en el campo de los datos y el aprendizaje automático.
 
 _* Texto generado por AI_
+
 _Última actualización: 26 de mayo de 2024_
+
