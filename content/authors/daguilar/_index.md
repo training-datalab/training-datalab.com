@@ -76,6 +76,6 @@ user_groups:
   - Investigadores Adjuntos
 ---
 
-I am a public servant working on indigenous affairs in the Canadian federal government. I am currently based in the province of Ontario, Canada. Furthermore, I am a Network Leader at the [Brantford Immigration Partnership](https://www.brantford.ca/en/things-to-do/brantford-immigration-partnership.aspx). Before relocating to Canada, I served as a Lawyer and International Relations Coordinator at the Servicio Nacional del Consumidor (SERNAC) in Chile.
+Soy un funcionario público que trabaja en asuntos indígenas en el gobierno federal canadiense. Actualmente resido en la provincia de Ontario, Canadá. Además, soy network leader de Brantford Immigration Partnership. Antes de trasladarme a Canadá, trabajé como abogado y coordinador de relaciones internacionales en el Servicio Nacional del Consumidor (SERNAC) en Chile.
 
-I hold an MA in Political Science from the [Institute of Public Affairs](https://inap.uchile.cl/) at the Universidad de Chile and an MA in Global Politics from [McMaster University](https://socialsciences.mcmaster.ca/), Canada. Moreover, I earned an LLB from [Universidad Alberto Hurtado](https://derecho.uahurtado.cl/), Chile. I am interested in transparency and open government, public policies, indigenous affairs and international relations.
+Tengo un Magíster en Ciencia Política por el Instituto de Asuntos Públicos de la Universidad de Chile y un MA in Global Politics por la Universidad McMaster de Canadá. Además, obtuve una Licenciatura en Derecho de la Universidad Alberto Hurtado, Chile. Me interesan la transparencia y el gobierno abierto, las políticas públicas, los asuntos indígenas y las relaciones internacionales.
