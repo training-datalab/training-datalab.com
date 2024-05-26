@@ -16,7 +16,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Post-doctoral Researcher
+role: Investigador postdoctoral
 
 # Organizations/Affiliations
 organizations:
@@ -24,28 +24,28 @@ organizations:
   url: "https://www.universiteitleiden.nl/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Post-doctoral Researcher in Computational Social Science and Lecturer at the Institute of Public Administration at the Faculty of Governance and Global Affairs at Leiden University, Netherlands. Lecturer at the School of Public Administration at Universidad Diego Portales, Chile.
+bio: Investigador postdoctoral en Ciencias Sociales Computacionales en el Instituto de Administración Pública de la Facultad de Gobernanza y Asuntos Globales de la Universidad de Leiden, Países Bajos. Profesor de la Escuela de Administración Pública de la Universidad Diego Portales, Chile.
 
 interests:
-- Comparative politics
-- Machine learning
-- Artificial intelligence
-- Quantitative methods
-- Ministerial turnover
-- Elites and civil service
+- Política comparada
+- Aprendizaje automático
+- Inteligencia artificial
+- Métodos cuantitativos
+- Rotación ministerial
+- Élites y servicio civil
 
 education:
   courses:
   ## - course: DPhil (PhD) in Politics
-  - course: DPhil (PhD) Politics
+  - course: DPhil (PhD) en Ciencia Política
     institution: University of Oxford
     year: 2019-2023
   ## - course: MA in Political Science
-  - course: MA Ciencia Política
+  - course: Magíster en Ciencia Política
     institution: Universidad de Chile
     year: 2010-2013
   ## - course: BA in Government
-  - course: BA Administración Pública
+  - course: Licenciatura en Ciencias Políticas Políticas y Gubernamentales
     institution: Universidad de Chile
     year: 2004-2009
 
@@ -112,8 +112,10 @@ user_groups:
 - Investigadores Asociados
 ---
 
-I am a post-doctoral researcher in Computational Social Science at the Institute of Public Administration at the [Faculty of Governance and Global Affairs at Leiden University](https://www.universiteitleiden.nl/en/governance-and-global-affairs), Netherlands. I hold a [DPhil (PhD) in Politics from the University of Oxford](https://www.politics.ox.ac.uk/), United Kingdom. Before my DPhil, I earned an MA (1st) in Political Science and a BA (2:1) in Public Administration, both from the Universidad de Chile.
+Soy investigador posdoctoral en Ciencias Sociales Computacionales en el Instituto de Administración Pública de la [Facultad de Gobernanza y Asuntos Globales de la Universidad de Leiden](https://www.universiteitleiden.nl/en/governance-and-global-affairs), Países Bajos. Tengo un [DPhil (PhD) en Ciencia Política por la Universidad de Oxford](https://www.politics.ox.ac.uk/), Reino Unido. Antes de mi DPhil, obtuve un Magíster en Ciencia Política y una Licenciatura en Ciencias Políticas y Gubernamentales, ambos por la Universidad de Chile.
 
-My research interests lie in the intersection of comparative politics and government, focusing mainly on cabinets, political regimes and civil services. Methodologically, my interests rely on the application of quantitative text analysis, machine learning methods and causal inference strategies in the comparative politics field. In the last  years, my work has been published in *The International Journal of Press/Politics*, *World Development*, *Government and Opposition*, *The British Journal of Politics and International Relations*, *Bulletin of Latin American Research* and elsewhere.
+Además, en Chile, soy profesor en la Escuela de Administración Pública de la Universidad Diego Portales e investigador asociado en el Training Data Lab, un grupo de investigación centrado en la minería de datos, la modelización econométrica y el aprendizaje automático e IA en ciencias sociales.
 
-During my post-doctorate, I will be working on two research projects funded by the Dutch Research Council (NWO) related to how the rule of law has changed over time and automated text analysis of investment data to study the effects of governance on sustainable investments. Specifically, I will employ Natural Language Processing (NLP) and text-as-data techniques to find patterns and topics within big text data.
+Mis intereses de investigación se encuentran en la intersección de la política comparada y el gobierno, centrándose principalmente en los gabinetes, los regímenes políticos y los servicios civiles. Metodológicamente, mis intereses se basan en la aplicación del análisis cuantitativo de textos, los métodos de aprendizaje automático y las estrategias de inferencia causal en el campo de la política comparada. En los últimos años, mi trabajo ha sido publicado en *The International Journal of Press/Politics*, *World Development*, *Government and Opposition*, *The British Journal of Politics and International Relations*, *Bulletin of Latin American Research* y otros.
+
+Durante mi posdoctorado en Leiden, trabajaré en dos proyectos de investigación financiados por el Consejo Holandés de Investigación (NWO) relacionados con la evolución del Estado de Derecho a lo largo del tiempo y el análisis automatizado de texto de datos de inversión para estudiar los efectos de la gobernanza en las inversiones sostenibles. En concreto, emplearé técnicas de Procesamiento del Lenguaje Natural (PLN) y de texto como datos para encontrar patrones y temas en grandes volúmenes de datos de texto.
