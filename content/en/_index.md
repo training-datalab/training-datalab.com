@@ -10,7 +10,7 @@ sections:
       title: |
       text: |
 
-          <img src="/tDL_logo.png" style="width: 100px; float: left; margin-right: 30px"> <p align="justify"><font size="3">Desde 2020, nuestro grupo ha sido un punto de encuentro para investigadores en diferentes etapas de su carrera y con distintos trasfondos que comparten un interés común por las aplicaciones de la ciencia de datos en las ciencias sociales y las humanidades en tres áreas interconectadas: minería de datos, modelamiento econométrico y aprendizaje automático e inteligencia artificial.</font></p>
+          <img src="/tDL_logo.png" style="width: 100px; float: left; margin-right: 30px"> <p align="justify"><font size="3">Since 2020, our group has been a meeting point for researchers at different career stages and with various backgrounds who share a common interest in the applications of data science in the social sciences and humanities in three interconnected areas: data mining, econometric modelling, and machine learning and artificial intelligence.</font></p>
     design:
       columns: '1'
       spacing:
@@ -22,7 +22,7 @@ sections:
   
   - block: collection
     content:
-      title: Proyectos relevantes
+      title: Flagship projects
       subtitle:
       text:
       count: 2
@@ -48,7 +48,7 @@ sections:
 
   - block: collection
     content:
-      title: Noticias
+      title: News
       subtitle:
       text:
       count: 5
@@ -73,7 +73,7 @@ sections:
  
   - block: collection
     content:
-      title: Publicaciones destacadas
+      title: Featured publications
       text: ""
       count: 5
       filters:
@@ -93,7 +93,7 @@ sections:
 
   - block: markdown
     content:
-      title: Contacto
+      title: Contact
       subtitle: "contact@training-datalab.com"
     design:
       columns: '1'

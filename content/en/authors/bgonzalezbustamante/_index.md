@@ -36,16 +36,13 @@ interests:
 
 education:
   courses:
-  ## - course: DPhil (PhD) in Politics
-  - course: DPhil (PhD) Politics
+  - course: DPhil (PhD) in Politics
     institution: University of Oxford
     year: 2019-2023
-  ## - course: MA in Political Science
-  - course: MA Ciencia Política
+  - course: MA in Political Science
     institution: Universidad de Chile
     year: 2010-2013
-  ## - course: BA in Government
-  - course: BA Administración Pública
+  - course: BA in Public Administration
     institution: Universidad de Chile
     year: 2004-2009
 
@@ -109,7 +106,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Investigadores Asociados
+  - Research Associates
 ---
 
 I am a post-doctoral researcher in Computational Social Science at the Institute of Public Administration at the [Faculty of Governance and Global Affairs at Leiden University](https://www.universiteitleiden.nl/en/governance-and-global-affairs), Netherlands. I hold a [DPhil (PhD) in Politics from the University of Oxford](https://www.politics.ox.ac.uk/), United Kingdom. Before my DPhil, I earned an MA (1st) in Political Science and a BA (2:1) in Public Administration, both from the Universidad de Chile.

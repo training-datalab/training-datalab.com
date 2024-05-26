@@ -36,13 +36,13 @@ interests:
 
 education:
   courses:
-  - course: PhD Politics
+  - course: PhD in Politics
     institution: Leiden University
     year: 2022-
-  - course: MA Ciencia Política
+  - course: MA in Political Science
     institution: Universidad de Chile
     year: 2017-2019
-  - course: BA Administración Pública
+  - course: BA in Public Administration
     institution: Universidad de Santiago de Chile
     year: 2011-2016
 
@@ -88,7 +88,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Investigadores Asociados
+  - Research Associates
 ---
 
 \

@@ -36,13 +36,13 @@ interests:
 
 education:
   courses:
-  - course: Doctorado en Ciencias Sociales
+  - course: Doctorate in Social Sciences
     institution: Universidad de Chile
     year: ?-?
-  - course: MA Ciencia Política
+  - course: MA in Poliitical Science
     institution: Universidad de Chile
     year: ?-?
-  - course: BA Ciencia Política
+  - course: BA in Political Science
     institution: Universidad Central de Chile
     year: ?-?
 
@@ -82,7 +82,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Investigadores Asociados
+  - Research Associates
 ---
 
 \

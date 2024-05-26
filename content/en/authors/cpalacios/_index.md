@@ -31,10 +31,10 @@ interests:
 
 education:
   courses:
-  - course: MA Ciencia Política
+  - course: MA in Political Science
     institution: Universidad de Chile
     year: ?-?
-  - course: BA Administración Pública
+  - course: BA in Public Administration
     institution: Universidad de Chile
     year: ?-?
 
@@ -80,7 +80,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Investigadores Adjuntos
+  - Adjunct Researchers
 ---
 
 \

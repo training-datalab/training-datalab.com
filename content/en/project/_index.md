@@ -1,5 +1,5 @@
 ---
-title: Projectos de investigación
+title: Research Projects
 
 # Listing view
 view: compact

@@ -1,5 +1,5 @@
 ---
-title: Equipo
+title: Team
 date: 2022-10-24
 
 type: landing
@@ -7,15 +7,15 @@ type: landing
 sections:
   - block: people
     content:
-      title: Equipo
+      title: Team
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Principal Investigators
-          - Investigadores Asociados
-          - Investigadores Adjuntos
+          - Research Associates
+          - Adjunct Researchers
           - Administration
-          - Asistentes de Investigación
+          - Research Assistants
       sort_by: Params.last_name
       sort_ascending: true
     design:
