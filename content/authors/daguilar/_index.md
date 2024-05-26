@@ -76,7 +76,6 @@ user_groups:
   - Investigadores Adjuntos
 ---
 
-\
-\
-Adjunct Researcher \
-Training Data Lab
+Soy un funcionario público que trabaja en asuntos indígenas en el gobierno federal canadiense. Actualmente resido en la provincia de Ontario, Canadá. Además, soy network leader de Brantford Immigration Partnership. Antes de trasladarme a Canadá, trabajé como abogado y coordinador de relaciones internacionales en el Servicio Nacional del Consumidor (SERNAC) en Chile.
+
+Tengo un Magíster en Ciencia Política por el Instituto de Asuntos Públicos de la Universidad de Chile y un MA in Global Politics por la Universidad McMaster de Canadá. Además, obtuve una Licenciatura en Derecho de la Universidad Alberto Hurtado, Chile. Me interesan la transparencia y el gobierno abierto, las políticas públicas, los asuntos indígenas y las relaciones internacionales.
