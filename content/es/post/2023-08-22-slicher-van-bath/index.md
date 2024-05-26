@@ -4,6 +4,7 @@ date: 2023-02-22
 authors: ["ollama"]
 image:
   caption: 'Créditos de la imagen: **Luciana Solar**'
+draft: true
 ---
 
 Felicitaciones a Carla Cisternas por ganar el premio Slicher van Bath del CEDLA de University of Amsterdam
