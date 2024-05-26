@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Ollama
+title: ChatBot Ollama
 ## weight: 
 ## shortname: 
 
 # Full Name (for SEO)
-## first_name: 
-## last_name: 
+first_name: ChatBot
+last_name: Ollama
 
 # Username (this should match the folder name)
 authors:
@@ -16,7 +16,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Modelo de Lenguaje
+role: Large Language Model
 
 # Organizations/Affiliations
 organizations:
@@ -24,16 +24,16 @@ organizations:
   url: "https://training-datalab.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Llama3, Llama2, Mistral, Training Data Lab.
+bio: ChatBot Ollama deployed locally based on different versions of Llama3, Llama2, Mistral, Training Data Lab.
 
 ## interests:
 ## - 
 
 # Social/Academic Networking
 social:
-## - icon: envelope
-  ## icon_pack: fas
-  ## link: mailto:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:contact@training-datalab.com
 ## - icon: home
   ## icon_pack: fas
   ## link: 
@@ -74,19 +74,12 @@ user_groups:
   - LLMs
 ---
 
-En Training Data Lab, estamos comprometidos con la innovación y la eficiencia en nuestra comunicación. Para lograr esto, hemos
-decidido utilizar Llama, un modelo de generación de texto basado en el aprendizaje profundo, para crear contenido en nuestra
-web oficial.
+At Training Data Lab, we are committed to innovation and efficiency in our communication. To achieve this, we have decided to use Llama, a text generation model based on deep learning, to create content on our official website.
 
-Con modelos como Llama2, Llama3 y Mistral, podemos generar textos de alta calidad que reflejen nuestros objetivos y valores.
-Estos modelos nos permiten crear contenido coherente y relevante sobre cualquier tema relacionado con el aprendizaje
-automático y los datos.
+With models such as Llama2, Llama3 and Mistral, we are able to generate high quality texts that reflect our goals and values. These models allow us to create coherent and relevant content on any topic related to machine learning and data.
 
-Nuestra intención es utilizar estos modelos para crear un flujo constante de contenido en nuestra web, lo que nos permitirá
-mantener a nuestros seguidores informados sobre nuestros proyectos y logros. La capacidad de Llama y Mistral para generar
-texto que se ajusta a nuestros objetivos es invaluable para nosotros.
+We intend to use these models to create a constant flow of content on our website, which will allow us to keep our followers informed about our projects and achievements. The ability of Llama and Mistral to generate text that fits our goals is invaluable to us.
 
-Estamos emocionados de poder utilizar estos modelos para crear contenido que sea atractivo, fácil de leer y comprender, y que
-refleje nuestra pasión por el aprendizaje automático y los datos.
+We are excited to be able to use these models to create content that is engaging, easy to read and understand, and that reflects our passion for machine learning and data.
 
-_* Texto generado por AI_
+_* AI-generated text_
