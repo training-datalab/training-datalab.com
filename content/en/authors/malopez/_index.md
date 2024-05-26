@@ -16,7 +16,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Investigador Asociado
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -24,7 +24,7 @@ organizations:
   url: "https://training-datalab.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Investigador Asociado.
+bio: Research Associate, Training Data Lab.
 
 interests:
 - 
@@ -71,9 +71,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Investigadores Asociados
+- Research Associates
 ---
 
-\
-\
-Investigador Asociado

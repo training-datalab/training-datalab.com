@@ -27,22 +27,37 @@ organizations:
 bio: Investigadora Asociada.
 
 interests:
-- 
+- Comportamiento electoral
+- Democracia
+- Congresistas
+- Política comercial
+
+education:
+  courses:
+  - course: Doctorado en Ciencias de la Complejidad Social
+    institution: Universidad del Desarrollo
+    year: ??-??
+  - course: Magíster en Estrategia Internacional y Política Comercial
+    institution: Universidad de Chile
+    year: ??-??
+  - course: Estudios Internacionales
+    institution: Universidad Torcuato Di Tella
+    year: ??-??
 
 # Social/Academic Networking
 social:
-## - icon: envelope
-  ## icon_pack: fas
-  ## link: mailto:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:jmorillor@udd.cl
 ## - icon: home
   ## icon_pack: fas
   ## link: 
 ## - icon: university
   ## icon_pack: fas
   ## link: https://training-datalab.com/
-## - icon: orcid
-  ## icon_pack: fab
-  ## link: 
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-2870-2691
 ## - icon: github
   ## icon_pack: fab
   ## link: https://github.com/
@@ -71,9 +86,11 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Investigadores Asociados
+- Investigadores Asociados
 ---
 
-\
-\
-Investigadora Asociada
+Soy estudiante de doctorado en [Ciencias de la Complejidad Social en la Universidad del Desarrollo](https://dccs.udd.cl/en/), Chile. Mis intereses en ciencias políticas y comportamiento humano me han llevado a seguir una trayectoria académica centrada en metodologías cuantitativas y experimentales.
+
+Mi formación académica es en estudios internacionales en la [Universidad Torcuato Di Tella]((https://www.utdt.edu/), Argentina. Además, tengo un máster en [Estrategia Internacional y Política Comercial por la Universidad de Chile]((https://iei.uchile.cl/).
+
+Mis intereses de investigación se centran en enfoques cuantitativos aplicados al comportamiento electoral, la democracia, los congresistas y la dinámica del comportamiento humano en contextos sociopolíticos y la política comercial.
