@@ -1,0 +1,18 @@
+<footer class="site-footer">
+
+  {{ partial "blox-core/functions/get_hook" (dict "hook" "footer-start" "context" .) }}
+
+  {{/* Load footer block */}}
+  {{ $footer_section_name := site.Params.footer.block | default "minimal" }}
+  {{ $footer_section_path := printf "components/footers/%s.html" $footer_section_name }}
+  {{ if not (templates.Exists (printf "partials/%s" $footer_section_path)) }}
+    {{ errorf "Check your `params.yaml`. Cannot find footer block at `layouts/partials/%s`" $footer_section_path }}
+  {{ end }}
+  {{ partial $footer_section_path . }}
+
+<p align = "center", class="powered-by">
+  <p class="powered-by copyright-license-text">© 2020-2024 Training Data Lab has been supported and funded by</p>
+  <img src="/leiden.png" style="width: 135px; display:inline-block"> &nbsp; <img src="/udp.png" style="width: 135px; display:inline-block"> &nbsp; <img src="/oxford.jpg" style="width: 50px; display:inline-block"> &nbsp;&nbsp; <img src="/st_hildas.png" style="width: 40px; display:inline-block"> &nbsp;&nbsp; <img src="/usach.png" style="width: 130px; display:inline-block"> &nbsp;&nbsp; <img src="/umayor.png" style="width: 50px; display:inline-block"> &nbsp;&nbsp; <img src="/openAI.png" style="width: 50px; display:inline-block"> &nbsp;&nbsp; <img src="/ollama.png" style="width: 50px; display:inline-block"> &nbsp;&nbsp; <img src="/anid.png" style="width: 55px; display:inline-block"> 
+</p><br>
+  
+</footer>
