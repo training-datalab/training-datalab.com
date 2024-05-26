@@ -41,6 +41,3 @@ en:
       - name: Working Papers
         url: tufte-working-papers
         weight: 70
-      - name: Contact
-        url: '#Contact'
-        weight: 80

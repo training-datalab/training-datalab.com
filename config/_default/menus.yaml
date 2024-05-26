@@ -25,6 +25,3 @@ main:
   - name: Documentos de trabajo
     url: tufte-working-papers
     weight: 70
-  - name: Contacto
-    url: '#contacto'
-    weight: 80
