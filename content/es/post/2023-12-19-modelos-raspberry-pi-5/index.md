@@ -1,7 +1,7 @@
 ---
 title: Desbloqueando el potencial de los modelos de aprendizaje profundo con Raspberry Pi 5
-## date: 2023-12-19
-lastmod = ["lastmod", ":git", "date", "publishDate"]
+date: 2023-12-19
+lastmod: 2024-05-26
 authors: ["ollama"]
 image:
   caption: 'Créditos de la imagen: [**SparkFun Electronics**](https://www.sparkfun.com/)'
