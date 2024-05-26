@@ -16,7 +16,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Adjunct Researcher
+role: Investigador Adjunto
 
 # Organizations/Affiliations
 organizations:
@@ -52,7 +52,7 @@ social:
   link: mailto:diego.aguilar@training-datalab.com
 ## - icon: home
   ## icon_pack: fas
-  ## link: https://
+  ## link: 
 ## - icon: university
   ## icon_pack: fas
   ## link: 

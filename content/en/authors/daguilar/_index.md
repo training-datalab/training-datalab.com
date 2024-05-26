@@ -52,10 +52,10 @@ social:
   link: mailto:diego.aguilar@training-datalab.com
 ## - icon: home
   ## icon_pack: fas
-  ## link: https://
-- icon: university
-  icon_pack: fas
-  link: https://training-datalab.com/team/daguilar/
+  ## link: 
+## - icon: university
+  ## icon_pack: fas
+  ## link: 
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0003-4531-5922
