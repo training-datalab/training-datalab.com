@@ -24,25 +24,25 @@ organizations:
   url: "https://www.umayor.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Associate Professor in the Government School at the Universidad Mayor, Chile.
+bio: Profesor Asociado en la Escuela de Gobierno de la Universidad Mayor, Chile.
 
 interests:
-- Cabinets composition
-- Comparative politics
-- Political elites
-- Qualitative research
-- Multi-Method research
-- Chilean politics
+- Composición de gabinetes
+- Política comparada
+- Élites políticas
+- Investigación cuantitativa
+- Investigación multi-metodológica
+- Política chilena
 
 education:
   courses:
   - course: Doctorado en Ciencias Sociales
     institution: Universidad de Chile
     year: ?-?
-  - course: MA Ciencia Política
+  - course: Magíster en Ciencia Política
     institution: Universidad de Chile
     year: ?-?
-  - course: BA Ciencia Política
+  - course: Licenciatura en Ciencia Política
     institution: Universidad Central de Chile
     year: ?-?
 
@@ -84,9 +84,3 @@ email: ""
 user_groups:
   - Investigadores Asociados
 ---
-
-\
-\
-Associate Professor \
-Government School \
-Universidad Mayor, Chile

@@ -16,15 +16,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Asistente de Investigación
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
 - name: Training Data Lab
-  url: "https://training-datalab.com/team/"
+  url: "https://training-datalab.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Asistente de Investigación.
+bio: Research Assistant in Training Data Lab.
 
 interests:
 - 
@@ -73,7 +73,3 @@ email: ""
 user_groups:
   - Research Assistants
 ---
-
-\
-\
-Asistente de Investigación

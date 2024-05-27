@@ -21,10 +21,10 @@ role: Asistente de Investigación
 # Organizations/Affiliations
 organizations:
 - name: Training Data Lab
-  url: "https://training-datalab.com/team/"
+  url: "https://training-datalab.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Asistente de Investigación.
+bio: Asistente de Investigación en Training Data Lab.
 
 interests:
 - 
@@ -73,7 +73,3 @@ email: ""
 user_groups:
   - Asistentes de Investigación
 ---
-
-\
-\
-Asistente de Investigación

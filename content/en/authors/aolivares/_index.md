@@ -84,9 +84,3 @@ email: ""
 user_groups:
   - Research Associates
 ---
-
-\
-\
-Associate Professor \
-Government School \
-Universidad Mayor, Chile
