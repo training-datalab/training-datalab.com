@@ -87,6 +87,6 @@ user_groups:
 ---
 
 
-Soy Licenciada en Ciencia Política por la Universidad del Rosario, Colombia, con mención en Desarrollo y Participación. También estudié Licenciatura en Matemáticas Aplicadas e Informática durante tres años en la misma universidad.
+Soy Licenciada en Ciencia Política por la [Universidad del Rosario](https://urosario.edu.co/), Colombia, con mención en Desarrollo y Participación. También estudié Licenciatura en Matemáticas Aplicadas e Informática durante tres años en la misma universidad.
 
 Tengo tres años de experiencia en investigación cuantitativa y cualitativa en ciencias sociales. Mi experiencia se centra en la programación y el uso avanzado de software. Me interesa trabajar en equipos interdisciplinares y diversos, y mis intereses de investigación se centran principalmente en las elecciones, el análisis de datos para las ciencias sociales, la democracia, el posconflicto y la paz.
