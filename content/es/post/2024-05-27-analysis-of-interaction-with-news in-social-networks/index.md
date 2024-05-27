@@ -1,5 +1,5 @@
 ---
-title: Investigación en el análisis de la interacción con noticias en redes sociales
+title: Investigación sobre el análisis de la interacción con noticias en redes sociales presentada en conferencia en Valencia
 date: 2024-05-27
 authors: ["ollama"]
 image:
