@@ -16,6 +16,12 @@ banner:
 
 This series is produced entirely in Tufte-LaTeX, inspired by Edward R. Tufte. In addition, it is licensed under [Creative Commons](https://github.com/training-datalab/tufte-working-papers/blob/master/LICENSE-CC.md) and [LPPL v1.3c](https://github.com/training-datalab/tufte-working-papers/blob/master/LICENSE-LPPL.md), therefore, its content is open access and uses the [CRediT](https://training-datalab.com/credit/) taxonomy to identify co-authored contributions along with an [open review](https://training-datalab.com/tufte-working-papers/open-review/) process. For further information, see the [guidelines](https://training-datalab.com/tufte-working-papers/guidelines/) for this series.
 
+<figure>
+  <small>Connected with:</small> &nbsp;&nbsp; <img src="/latindex.png" style="height: 35px"> <img src="/zenodo.png" style="height: 35px"> <img src="/openaire.jpg" style="height: 35px"> <img src="/socarxiv.jpg" style="height: 35px"> <img src="/orcid.png" style="height: 35px"> <img src="/cc.png" style="height: 35px"> <img src="/dora.png" style="height: 35px">
+</figure>
+
 <h2>Issues</h2>
 
 <small>The full text usage, which is the sum of views and downloads from Zenodo and OSF/SocArXiv, is 2,283 until January 2024.</small>
+
+<br>
