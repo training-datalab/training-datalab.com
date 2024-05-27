@@ -94,9 +94,11 @@ sections:
   - block: markdown
     content:
       title: Contacto
-      subtitle: "contact@training-datalab.com"
+      subtitle: |
+          
+          contact@training-datalab.com
     design:
-      columns: '1'
+      columns: '2'
       spacing:
         padding:
           - 50px
