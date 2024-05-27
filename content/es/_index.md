@@ -97,7 +97,7 @@ sections:
       subtitle: contact
       subtitle: "contact@training-datalab.com"
     design:
-      columns: '2'
+      columns: '1'
       spacing:
         padding:
           - 50px
