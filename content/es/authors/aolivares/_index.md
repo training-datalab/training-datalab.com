@@ -16,7 +16,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Profesor Asociado
 
 # Organizations/Affiliations
 organizations:

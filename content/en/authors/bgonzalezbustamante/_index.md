@@ -24,7 +24,7 @@ organizations:
   url: "https://www.universiteitleiden.nl/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Post-doctoral Researcher in Computational Social Science at the Institute of Public Administration at the Faculty of Governance and Global Affairs at Leiden University, Netherlands. Lecturer at the School of Public Administration at Universidad Diego Portales, Chile.
+bio: Post-doctoral Researcher in Computational Social Science at the Institute of Public Administration at the Faculty of Governance and Global Affairs at Leiden University, Netherlands. Lecturer at the School of Public Administration at Universidad Diego Portales and Research Associate in Training Data Lab, Chile.
 
 interests:
 - Comparative politics

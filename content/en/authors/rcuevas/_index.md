@@ -72,9 +72,3 @@ email: ""
 user_groups:
   - Research Associates
 ---
-
-\
-\
-Assistant Professor \
-Department of Sociology and Political Science \
-Universidad Católica de Temuco, Chile

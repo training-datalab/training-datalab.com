@@ -16,7 +16,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Researcher
+role: PhD candidate
 
 # Organizations/Affiliations
 organizations:
@@ -24,10 +24,13 @@ organizations:
   url: "https://www.polisci.uci.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Researcher.
+bio: PhD candidate in Political Science at the University of California, Irvine. Research Associate in Training Data Lab, Chile.
 
 interests:
-- Comunicación política
+- Public opinion
+- Election campaigns
+- Media consumption
+- Political participation
 
 # Social/Academic Networking
 social:
@@ -74,6 +77,8 @@ user_groups:
 - Research Associates
 ---
 
-\
-\
-PhD Researcher 
+I am a [PhD candidate in Political Science at the University of California, Irvine](https://www.polisci.uci.edu/). I received an MA in Political Science from UC Irvine and an MA in Communication from the [Universidad Diego Portales (UDP)](https://www.udp.cl/), Chile. I also hold a BA in Political Science from the [Universidad Alberto Hurtado](https://www.uahurtado.cl/), Chile.
+
+I study comparative political behavior in Latin America, with a particular focus on Chile. My research interests include public opinion, election campaigns, media consumption, and political participation. My current research agenda focuses on the personalization of politics from a comparative perspective, with a special focus on Latin America. I am interested in understanding why candidates personalize their election campaigns, why people look at candidates’ characteristics when making voting decisions, and how election campaigns shape political attitudes and behaviors. I am also interested in understanding people’s political involvement, both online and offline.
+
+In Chile, my home country, I am affiliated with the [Centro de Investigación en Comunicación, Literatura y Observación Social (CICLOS)](https://ciclos.udp.cl/) at UDP and the [Núcleo Milenio para el Estudio de la Política, Opinión Pública y Medios en Chile (MEPOP)](https://mepop.cl/).

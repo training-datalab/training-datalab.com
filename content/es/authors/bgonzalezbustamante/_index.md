@@ -16,7 +16,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Investigador postdoctoral
+role: Investigador Postdoctoral
 
 # Organizations/Affiliations
 organizations:
@@ -24,7 +24,7 @@ organizations:
   url: "https://www.universiteitleiden.nl/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Investigador postdoctoral en Ciencias Sociales Computacionales en el Instituto de Administración Pública de la Facultad de Gobernanza y Asuntos Globales de la Universidad de Leiden, Países Bajos. Profesor de la Escuela de Administración Pública de la Universidad Diego Portales, Chile.
+bio: Investigador postdoctoral en Ciencias Sociales Computacionales en el Instituto de Administración Pública de la Facultad de Gobernanza y Asuntos Globales de la Universidad de Leiden, Países Bajos. Profesor de la Escuela de Administración Pública de la Universidad Diego Portales e Investigador Asociado en Training Data Lab, Chile.
 
 interests:
 - Política comparada

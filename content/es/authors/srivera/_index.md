@@ -16,7 +16,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Researcher
+role: Candidato a Doctor
 
 # Organizations/Affiliations
 organizations:
@@ -24,10 +24,13 @@ organizations:
   url: "https://www.polisci.uci.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Researcher.
+bio: Candidato a Doctor en Ciencia Política en University of California, Irvine. Investigador Asociado en Training Data Lab, Chile.
 
 interests:
-- Comunicación política
+- Opinión pública
+- Campañas electorales
+- Consumo de medios
+- Participación política
 
 # Social/Academic Networking
 social:
@@ -71,9 +74,11 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Investigadores Asociados
+- Investigadores Asociados
 ---
 
-\
-\
-PhD Researcher 
+Soy [candidato a Doctor en Ciencia Política por la Universidad de California, Irvine](https://www.polisci.uci.edu/). Obtuve un Magíster en Ciencia Política de la UC Irvine y un Magíster en Comunicación de la [Universidad Diego Portales (UDP)](https://www.udp.cl/), Chile. También soy Licenciado en Ciencia Política por la [Universidad Alberto Hurtado](https://www.uahurtado.cl/), Chile.
+
+Estudio el comportamiento político comparado en América Latina, con especial énfasis en Chile. Mis intereses de investigación incluyen opinión pública, campañas electorales, consumo de medios y participación política. Mi agenda de investigación actual se centra en la personalización de la política desde una perspectiva comparada, con un enfoque especial en América Latina. Me interesa entender por qué los candidatos personalizan sus campañas electorales, por qué la gente se fija en las características de los candidatos a la hora de decidir su voto y cómo las campañas electorales moldean las actitudes y comportamientos políticos. También me interesa entender la participación política de la gente, tanto online como offline.
+
+En Chile, mi país de origen, estoy afiliadp al [Centro de Investigación en Comunicación, Literatura y Observación Social (CICLOS)](https://ciclos.udp.cl/) de la UDP y al [Núcleo Milenio para el Estudio de la Política, Opinión Pública y Medios en Chile (MEPOP)](https://mepop.cl/).

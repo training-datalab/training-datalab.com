@@ -16,7 +16,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Lecturer
+role: Profesor Asistente
 
 # Organizations/Affiliations
 organizations:
@@ -24,15 +24,15 @@ organizations:
   url: "http://soccipol.uct.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Assistant Professor in the Department of Sociology and Political Science at the Universidad Católica de Temuco, Chile.
+bio: Profesor Asistente en el Departamento de Sociología y Ciencia Política en la Universidad Católica de Temuco, Chile.
 
 interests:
-- International politics
-- Governance
-- International relations
-- Comparative politics
-- Political economy
-- Quantitative methods
+- Política internacional
+- Gobernanza
+- Relaciones internacionales
+- Política comparada
+- Economía política
+- Métodos cuantitativos
 
 # Social/Academic Networking
 social:
@@ -73,8 +73,3 @@ user_groups:
   - Investigadores Asociados
 ---
 
-\
-\
-Assistant Professor \
-Department of Sociology and Political Science \
-Universidad Católica de Temuco, Chile
