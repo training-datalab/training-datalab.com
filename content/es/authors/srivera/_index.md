@@ -32,6 +32,21 @@ interests:
 - Consumo de medios
 - Participación política
 
+education:
+  courses:
+  - course: PhD en Ciencia Política
+    institution: University of California, Irvine
+    year: ??-??
+  - course: Magíster en Ciencia Política
+    institution: University of California, Irvine
+    year: ??-??
+  - course: Magíster en Comunicación
+    institution: Universidad Diego Portales
+    year: ??-??
+  - course: Licenciatura en Ciencia Política
+    institution: Universidad Alberto Hurtado
+    year: ??-??
+
 # Social/Academic Networking
 social:
 - icon: envelope
