@@ -18,5 +18,4 @@ This series is produced entirely in Tufte-LaTeX, inspired by Edward R. Tufte. In
 
 <h2>Issues</h2>
 
-<br>
-
+<small>The full text usage, which is the sum of views and downloads from Zenodo and OSF/SocArXiv, is 2,283 until January 2024.</small>

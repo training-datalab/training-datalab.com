@@ -18,4 +18,4 @@ Esta serie se produce íntegramente en Tufte-LaTeX, inspirado por Edward R. Tuft
 
 <h2>Números</h2>
 
-<br>
+<small>El uso del texto completo, que es la suma de visualizaciones y descargas de Zenodo y OSF/SocArXiv, es de 2.283 hasta enero de 2024.</small>
