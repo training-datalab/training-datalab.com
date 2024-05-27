@@ -94,9 +94,10 @@ sections:
   - block: markdown
     content:
       title: Contacto
-      subtitle: |
+      subtitle: contact
+      text: |
           
-          contact@training-datalab.com
+          <font size="5">contact@training-datalab.com</font>
     design:
       columns: '2'
       spacing:
