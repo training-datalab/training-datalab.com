@@ -22,7 +22,7 @@ sections:
   
   - block: collection
     content:
-      title: Proyectos relevantes
+      title: Proyectos relevante
       subtitle:
       text:
       count: 2
@@ -95,11 +95,7 @@ sections:
     content:
       title: Contacto
       subtitle: contact
-      text: |
-          
-          <font size="5"><i class="fa-regular fa-envelope"></i> contact@training-datalab.com</font><br>
-          <font size="5"><i class="fa-brands fa-github"></i> https://github.com/training-datalab</font><br>
-          <font size="5"><i class="ai ai-zenodo-square ai-3x"></i> https://zenodo.org/communities/tdl/</font>
+      subtitle: "contact@training-datalab.com"
     design:
       columns: '2'
       spacing:

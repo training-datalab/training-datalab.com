@@ -22,7 +22,7 @@ sections:
   
   - block: collection
     content:
-      title: Flagship Projects
+      title: Flagship Project
       subtitle:
       text:
       count: 2
