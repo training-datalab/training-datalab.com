@@ -21,13 +21,25 @@ role: Asistente de Investigación
 # Organizations/Affiliations
 organizations:
 - name: Training Data Lab
-  url: "https://training-datalab.com/team/"
+  url: "https://training-datalab.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Asistente de Investigación.
+bio: Asistente de Investigación en Training Data Lab.
 
 interests:
-- 
+- Elecciones
+- Análisis de datos
+- Democracia
+- Posconflicto y paz
+
+education:
+  courses:
+  - course: Magíster en ?? (en progreso)
+    institution: ??
+    year: ??-??
+  - course: Licenciatura en Ciencia Política
+    institution: Universidad del Rosario
+    year: ??-??
 
 # Social/Academic Networking
 social:
@@ -74,6 +86,7 @@ user_groups:
   - Asistentes de Investigación
 ---
 
-\
-\
-Asistente de Investigación
+
+Soy Licenciada en Ciencia Política por la Universidad del Rosario, Colombia, con mención en Desarrollo y Participación. También estudié Licenciatura en Matemáticas Aplicadas e Informática durante tres años en la misma universidad.
+
+Tengo tres años de experiencia en investigación cuantitativa y cualitativa en ciencias sociales. Mi experiencia se centra en la programación y el uso avanzado de software. Me interesa trabajar en equipos interdisciplinares y diversos, y mis intereses de investigación se centran principalmente en las elecciones, el análisis de datos para las ciencias sociales, la democracia, el posconflicto y la paz.

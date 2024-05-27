@@ -16,18 +16,30 @@ authors:
 superuser: false
 
 # Role/position
-role: Asistente de Investigación
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
 - name: Training Data Lab
-  url: "https://training-datalab.com/team/"
+  url: "https://training-datalab.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Asistente de Investigación.
+bio: Research Assistant in Training Data Lab.
 
 interests:
-- 
+- Elections
+- Data analysis
+- Democracy
+- Post-conflict and peace
+
+education:
+  courses:
+  - course: MA in ?? (in progress)
+    institution: ??
+    year: ??-??
+  - course: BA in Political Science
+    institution: Universidad del Rosario
+    year: ??-??
 
 # Social/Academic Networking
 social:
@@ -74,6 +86,6 @@ user_groups:
   - Research Assistants
 ---
 
-\
-\
-Asistente de Investigación
+I hold a BA in Political Science from the Universidad del Rosario, Colombia, with a mention in Development and Participation. I also studied BA Applied Mathematics and Computer Science for three years at the same university.
+
+I have three years of experience in quantitative and qualitative research in social sciences. My expertise focuses on programming and the advanced use of software. I am interested in working in interdisciplinary and diverse teams, and my research interests mainly focus on elections, data analysis for social sciences, democracy, post-conflict and peace.
