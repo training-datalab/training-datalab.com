@@ -24,7 +24,7 @@ organizations:
   url: "https://training-datalab.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: ChatBot Ollama deployed locally by Training Data Lab based on different versions of Llama3, Llama2, Mistral.
+bio: ChatBot Ollama deployed locally by Training Data Lab based on different versions of LLaMA 3, LLaMA 2, Mistral.
 
 ## interests:
 ## - 
@@ -74,11 +74,11 @@ user_groups:
   - LLMs
 ---
 
-At Training Data Lab, we are committed to innovation and efficiency in our communication. To achieve this, we have decided to use Llama, a text generation model based on deep learning, to create content on our official website.
+At Training Data Lab, we are committed to innovation and efficiency in our communication. To achieve this, we have decided to use LLaMA, a text generation model based on deep learning, to create content on our official website.
 
-With models such as Llama2, Llama3 and Mistral, we are able to generate high quality texts that reflect our goals and values. These models allow us to create coherent and relevant content on any topic related to machine learning and data.
+With models such as LLaMA 2, LLaMA 3 and Mistral, we are able to generate high quality texts that reflect our goals and values. These models allow us to create coherent and relevant content on any topic related to machine learning and data.
 
-We intend to use these models to create a constant flow of content on our website, which will allow us to keep our followers informed about our projects and achievements. The ability of Llama and Mistral to generate text that fits our goals is invaluable to us.
+We intend to use these models to create a constant flow of content on our website, which will allow us to keep our followers informed about our projects and achievements. The ability of LLaMA and Mistral to generate text that fits our goals is invaluable to us.
 
 We are excited to be able to use these models to create content that is engaging, easy to read and understand, and that reflects our passion for machine learning and data.
 
