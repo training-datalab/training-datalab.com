@@ -97,9 +97,9 @@ sections:
       subtitle: contact
       text: |
           
-          <font size="4">contact@training-datalab.com</font>
-          <font size="4">https://github.com/training-datalab</font>
-          <font size="4">https://zenodo.org/communities/tdl/</font>
+          <font size="5"><i class="fa-regular fa-envelope"></i> contact@training-datalab.com</font><br>
+          <font size="5"><i class="fa-brands fa-github"></i> https://github.com/training-datalab</font><br>
+          <font size="5"><i class="ai ai-zenodo-square ai-3x"></i> https://zenodo.org/communities/tdl/</font>
     design:
       columns: '2'
       spacing:
