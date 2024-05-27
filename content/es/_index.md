@@ -97,7 +97,9 @@ sections:
       subtitle: contact
       text: |
           
-          <font size="5">contact@training-datalab.com</font>
+          <font size="4">contact@training-datalab.com</font>
+          <font size="4">https://github.com/training-datalab</font>
+          <font size="4">https://zenodo.org/communities/tdl/</font>
     design:
       columns: '2'
       spacing:
