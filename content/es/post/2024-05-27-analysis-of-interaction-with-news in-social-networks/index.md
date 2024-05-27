@@ -1,6 +1,6 @@
 ---
 title: Investigación en el análisis de la interacción con noticias en redes sociales
-date: 2023-05-27
+date: 2024-05-27
 authors: ["ollama"]
 image:
   caption: 'Créditos de la imagen: [**Unsplash**](https://unsplash.com/photos/gray-concrete-tower-beside-house-7b0EXl2NaE8)'
@@ -30,4 +30,4 @@ Training Data Lab es un grupo de investigación que se centra en el análisis y 
 
 En conclusión, nuestro estudio en "Amplification, contestation, and hostile engagement with news in social media" es un importante paso hacia la comprensión de cómo las redes sociales afectan la forma en que se forma la opinión pública. Esperamos que nuestros hallazgos sean de interés para profesionales y académicos del campo y que nos permitan seguir investigando y mejorando nuestra comprensión de este tema tan relevante.
 
-_* Texto generado por AI_ \
+_* Texto generado por AI_

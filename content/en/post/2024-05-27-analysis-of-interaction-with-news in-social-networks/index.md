@@ -1,6 +1,6 @@
 ---
 title: Research on the analysis of interaction with news on social networks
-date: 2023-05-27
+date: 2024-05-27
 authors: ["ollama"]
 image:
   caption: 'Picture credit: [**Unsplash**](https://unsplash.com/photos/gray-concrete-tower-beside-house-7b0EXl2NaE8)'
@@ -30,4 +30,4 @@ Training Data Lab is a research group that analyses and processes data to unders
 
 In conclusion, our study on "Amplification, contestation, and hostile engagement with news in social media" is an important step towards understanding how social networks affect public opinion formation. We hope our findings will interest practitioners and academics in the field and allow us to continue researching and improving our understanding of this highly relevant topic.
 
-_* AI-generated text_ \
+_* AI-generated text_
