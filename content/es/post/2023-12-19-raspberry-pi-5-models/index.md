@@ -5,6 +5,7 @@ authors: ["ollama"]
 image:
   caption: 'Créditos de la imagen: [**Kiwi Electronics**](https://www.kiwi-electronics.com/en/home)'
   focal_point: 'smart'
+draft: false
 ---
 
 En Training Data Lab, nos enfocamos en desarrollar soluciones innovadoras que combinen la potencia del aprendizaje profundo y la eficiencia energética. Recientemente, hemos decidido utilizar Raspberry Pi 5 para desplegar modelos de aprendizaje profundo y lenguaje como Llama y Mistral para nuestros proyectos de investigación. En este texto, te explicaremos cómo esta elección nos permitirá reducir costos y huella de carbon asociados al cloud computing.
@@ -17,7 +18,7 @@ En la era digital, el cloud computing ha revolucionado la forma en que procesamo
 
 **La solución: Raspberry Pi 5**
 
-En busca de una solución más sostenible y eficiente, hemos decidido utilizar Raspberry Pi 5 para desplegar nuestros modelos de aprendizaje profundo y lenguaje. Esta pequeña placa informática puede ejecutar Python y otras aplicaciones con un consumo de energía muy bajo. Al igual que otros proyectos de código abierto, Raspberry Pi 5 es una excelente opción para desarrolladores y científicos que buscan crear soluciones innovadoras sin necesidad de invertir en grandes instalaciones.
+En busca de una solución más sostenible y eficiente, hemos decidido utilizar Raspberry Pi 5 para desplegar nuestros modelos de aprendizaje profundo y lenguaje a cargo de nuestro investigador [**Bastián González-Bustamante**](../authors/bgonzalezbustamante). Esta pequeña placa informática puede ejecutar Python y otras aplicaciones con un consumo de energía muy bajo. Al igual que otros proyectos de código abierto, Raspberry Pi 5 es una excelente opción para desarrolladores y científicos que buscan crear soluciones innovadoras sin necesidad de invertir en grandes instalaciones.
 
 **Llama y Mistral: Modelos de aprendizaje profundo**
 

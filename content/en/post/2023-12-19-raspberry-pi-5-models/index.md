@@ -3,8 +3,9 @@ title: Unlocking the potential of deep learning models with Raspberry Pi 5
 date: 2023-12-19
 authors: ["ollama"]
 image:
-  caption: 'Image credits: [**Kiwi Electronics**](https://www.kiwi-electronics.com/en/home)'
+  caption: 'Picture credits: [**Kiwi Electronics**](https://www.kiwi-electronics.com/en/home)'
   focal_point: 'smart'
+draft: false
 ---
 
 At Training Data Lab, we focus on developing innovative solutions that combine the power of deep learning and energy efficiency. We recently decided to use Raspberry Pi 5 to deploy deep learning and language models such as Llama and Mistral for our research projects. This text will explain how this choice will allow us to reduce costs and carbon footprint associated with cloud computing.
@@ -17,7 +18,7 @@ In the digital age, cloud computing has revolutionised how we process and analys
 
 **The solution: Raspberry Pi 5**
 
-In search of a more sustainable and efficient solution, we decided to use Raspberry Pi 5 to deploy our deep learning and language models. This small computer board can run Python and other applications with very low power consumption. Like other open-source projects, Raspberry Pi 5 is an excellent choice for developers and scientists looking to create innovative solutions without the need to invest in large installations.
+In search of a more sustainable and efficient solution, we decided to use Raspberry Pi 5 to deploy our deep learning and language models by our researcher [**Bastián González-Bustamante**](../authors/bgonzalezbustamante). This small computer board can run Python and other applications with very low power consumption. Like other open-source projects, Raspberry Pi 5 is an excellent choice for developers and scientists looking to create innovative solutions without the need to invest in large installations.
 
 **Llama and Mistral: Deep learning models**
 
