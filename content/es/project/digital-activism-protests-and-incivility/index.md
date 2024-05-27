@@ -2,8 +2,11 @@
 title: Digital Activism, Protests and Incivility in Latin America
 date: 2023-04-22
 authors: ["bgonzalezbustamante"]
+image:
+  focal_point: 'smart'
 tags:
-- flagship
+- research-project
+- active-project
 ---
 
 We are analysing online interactions on social media around specific hashtags used during mass protests in Latin America since 2019. Therefore, we download the network activity using particular social media APIs.

@@ -14,7 +14,7 @@ en:
   contentDir: content/en
   title: 'Training Data Lab'
   params:
-    description: 'Data Science in the Social Sciences and Humanities Research Group'
+    description: 'Data and Computational Social Science Research Group'
     footer:
         copyright:
             notice: '<i class="fa-brands fa-creative-commons"></i> 2020-{year} Training Data Lab has been supported and funded by'
@@ -26,7 +26,7 @@ en:
       - name: Team
         url: people
         weight: 20
-      - name: News
+      - name: News and Columns
         url: post
         weight: 30
       - name: Projects

@@ -10,7 +10,7 @@ main:
   - name: Equipo
     url: people
     weight: 20
-  - name: Noticias
+  - name: Noticias y columnas
     url: post
     weight: 30
   - name: Proyectos

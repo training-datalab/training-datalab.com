@@ -22,7 +22,7 @@ sections:
   
   - block: collection
     content:
-      title: Proyectos relevantes
+      title: CPS-Ranking
       subtitle:
       text:
       count: 2
@@ -48,7 +48,7 @@ sections:
 
   - block: collection
     content:
-      title: Noticias
+      title: Noticias y columnas
       subtitle:
       text:
       count: 5

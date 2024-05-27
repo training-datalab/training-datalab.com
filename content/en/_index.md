@@ -22,7 +22,7 @@ sections:
   
   - block: collection
     content:
-      title: Flagship projects
+      title: CPS-Ranking
       subtitle:
       text:
       count: 2
@@ -48,7 +48,7 @@ sections:
 
   - block: collection
     content:
-      title: News
+      title: News and Columns
       subtitle:
       text:
       count: 5
@@ -73,7 +73,7 @@ sections:
  
   - block: collection
     content:
-      title: Featured publications
+      title: Featured Publications
       text: ""
       count: 5
       filters:
