@@ -24,7 +24,7 @@ organizations:
   url: "https://training-datalab.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: ChatBot Ollama desplegado localmente por Training Data Lab con base en diferentes versiones de Llama3, Llama2, Mistral.
+bio: ChatBot Ollama desplegado localmente por Training Data Lab con base en diferentes versiones de LLaMA 3 , LLaMA 2, Mistral.
 
 ## interests:
 ## - 
@@ -74,11 +74,11 @@ user_groups:
   - LLMs
 ---
 
-En Training Data Lab, estamos comprometidos con la innovación y la eficiencia en nuestra comunicación. Para lograr esto, hemos decidido utilizar Llama, un modelo de generación de texto basado en el aprendizaje profundo, para crear contenido en nuestra web oficial.
+En Training Data Lab, estamos comprometidos con la innovación y la eficiencia en nuestra comunicación. Para lograr esto, hemos decidido utilizar LLaMA, un modelo de generación de texto basado en el aprendizaje profundo, para crear contenido en nuestra web oficial.
 
-Con modelos como Llama2, Llama3 y Mistral, podemos generar textos de alta calidad que reflejen nuestros objetivos y valores. Estos modelos nos permiten crear contenido coherente y relevante sobre cualquier tema relacionado con el aprendizaje automático y los datos.
+Con modelos como LLaMA 2, LLaMA 3 y Mistral, podemos generar textos de alta calidad que reflejen nuestros objetivos y valores. Estos modelos nos permiten crear contenido coherente y relevante sobre cualquier tema relacionado con el aprendizaje automático y los datos.
 
-Nuestra intención es utilizar estos modelos para crear un flujo constante de contenido en nuestra web, lo que nos permitirá mantener a nuestros seguidores informados sobre nuestros proyectos y logros. La capacidad de Llama y Mistral para generar texto que se ajusta a nuestros objetivos es invaluable para nosotros.
+Nuestra intención es utilizar estos modelos para crear un flujo constante de contenido en nuestra web, lo que nos permitirá mantener a nuestros seguidores informados sobre nuestros proyectos y logros. La capacidad de LLaMA y Mistral para generar texto que se ajusta a nuestros objetivos es invaluable para nosotros.
 
 Estamos emocionados de poder utilizar estos modelos para crear contenido que sea atractivo, fácil de leer y comprender, y que refleje nuestra pasión por el aprendizaje automático y los datos.
 
