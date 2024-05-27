@@ -54,3 +54,5 @@ slides:
 projects:
 ---
 
+_* Texto generado por AI_ \
+_Última actualización: 27 de mayo de 2024_
