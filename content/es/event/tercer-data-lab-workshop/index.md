@@ -18,13 +18,13 @@ abstract: ''
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-10-19T09:30:00Z'
-date_end: '2023-10-10T14:00:00Z'
+date_end: '2023-10-19T14:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-10-12T00:00:00Z'
 
-authors: ["ccisternas", "bgonzalezbustamante", "rcuevas"]
+authors: ["ollama"]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -32,7 +32,7 @@ featured: false
 
 image:
   caption: 'Créditos de la imagen: [**Universidad de Santiago de Chile**](https://cepec.usach.cl/)'
-  focal_point: Right
+  focal_point: smart
 
 url_code: ''
 url_pdf: ''

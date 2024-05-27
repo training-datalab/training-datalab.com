@@ -18,7 +18,7 @@ In the digital age, cloud computing has revolutionised how we process and analys
 
 **The solution: Raspberry Pi 5**
 
-In search of a more sustainable and efficient solution, we decided to use Raspberry Pi 5 to deploy our deep learning and language models by our researcher [**Bastián González-Bustamante**](../authors/bgonzalezbustamante). This small computer board can run Python and other applications with very low power consumption. Like other open-source projects, Raspberry Pi 5 is an excellent choice for developers and scientists looking to create innovative solutions without the need to invest in large installations.
+In search of a more sustainable and efficient solution, we decided to use Raspberry Pi 5 to deploy our deep learning and language models by our researcher [**Bastián González-Bustamante**]({{< relref "../authors/bgonzalezbustamante" >}}). This small computer board can run Python and other applications with very low power consumption. Like other open-source projects, Raspberry Pi 5 is an excellent choice for developers and scientists looking to create innovative solutions without the need to invest in large installations.
 
 **Llama and Mistral: Deep learning models**
 
