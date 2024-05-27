@@ -10,7 +10,7 @@ sections:
       title: |
       text: |
 
-          <img src="/tDL_logo.png" style="width: 100px; float: left; margin-right: 30px"> <p align="justify"><font size="3">Since 2020, our group has been a meeting point for researchers at different career stages and with various backgrounds who share a common interest in the applications of data science in the social sciences and humanities in three interconnected areas: data mining, econometric modelling, and machine learning and artificial intelligence.</font></p>
+          <img src="/tDL_logo.png" style="width: 100px; float: left; margin-right: 30px"> <p align="justify"><font size="3">Since 2020, our group has been a meeting point for researchers at different career stages and with various backgrounds who share a common interest in the applications of data and computational social science in three interconnected areas: **data mining**, **econometric modelling**, and **machine learning and artificial intelligence**.</font></p>
     design:
       columns: '1'
       spacing:
