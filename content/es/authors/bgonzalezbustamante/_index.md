@@ -36,15 +36,12 @@ interests:
 
 education:
   courses:
-  ## - course: DPhil (PhD) in Politics
   - course: DPhil (PhD) en Ciencia Política
     institution: University of Oxford
     year: 2019-2023
-  ## - course: MA in Political Science
   - course: Magíster en Ciencia Política
     institution: Universidad de Chile
     year: 2010-2013
-  ## - course: BA in Government
   - course: Licenciatura en Ciencias Políticas Políticas y Gubernamentales
     institution: Universidad de Chile
     year: 2004-2009

@@ -24,25 +24,35 @@ organizations:
   url: "https://training-datalab.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Investigador Adjunto.
+bio: Investigador Adjunto en Training Data Lab.
 
 interests:
-- 
+- Radicalización política
+- Comportamiento político
+
+education:
+  courses:
+  - course: Magíster en Psicología
+    institution: Universidad Diego Portales
+    year: ??-??
+  - course: Licenciatura en Ciencia Política
+    institution: Universidad Diego Portales
+    year: ??-??
 
 # Social/Academic Networking
 social:
-## - icon: envelope
-  ## icon_pack: fas
-  ## link: mailto:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:gonzalo.espinozab@mail.udp.cl
 ## - icon: home
   ## icon_pack: fas
   ## link: 
 ## - icon: university
   ## icon_pack: fas
   ## link: https://training-datalab.com/
-## - icon: orcid
-  ## icon_pack: fab
-  ## link: 
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0003-3288-2450
 ## - icon: github
   ## icon_pack: fab
   ## link: https://github.com/
@@ -74,6 +84,6 @@ user_groups:
   - Investigadores Adjuntos
 ---
 
-\
-\
-Investigador Adjunto
+Soy cientista político y Magíster en Psicología de la Universidad Diego Portales (UDP), Chile. Actualmente me desempeño como docente de la [Escuela de Ciencia Política](https://cienciapolitica.udp.cl/) y soy director del Laboratorio para el Estudio de la Radicalización (LabRad) de la UDP.
+
+Mis intereses de investigación se centran en el estudio de todo tipo de radicalización desde una perspectiva psicosocial, tanto a nivel individual (es decir, explorando cómo un ciudadano se radicaliza políticamente) como a nivel grupal (es decir, analizando cómo la estructura de un grupo promueve la formación de una secta a través de la radicalización de sus ideas). Además, estudio la sintomatología depresiva y sus efectos en el comportamiento político.
