@@ -16,7 +16,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Investigadora Adjunta
+role: Adjunct Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -24,25 +24,25 @@ organizations:
   url: "https://training-datalab.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Investigadora Adjunta.
+bio: Adjunct Researcher in Training Data Lab.
 
 interests:
 - 
 
 # Social/Academic Networking
-social:
-## - icon: envelope
-  ## icon_pack: fas
-  ## link: mailto:
+social:rocio.saezvergara@training-datalab.com
+- icon: envelope
+  icon_pack: fas
+  link: mailto:
 ## - icon: home
   ## icon_pack: fas
   ## link: 
 ## - icon: university
   ## icon_pack: fas
   ## link: https://training-datalab.com/
-## - icon: orcid
-  ## icon_pack: fab
-  ## link: 
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-4074-2493
 ## - icon: github
   ## icon_pack: fab
   ## link: https://github.com/
@@ -71,9 +71,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Adjunct Researchers
+- Adjunct Researchers
 ---
 
-\
-\
-Investigadora Adjunta

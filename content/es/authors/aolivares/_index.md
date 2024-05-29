@@ -51,9 +51,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:alejandro.olivares@umayor.cl
-- icon: university
-  icon_pack: fas
-  link: https://training-datalab.com/
+## - icon: university
+  ## icon_pack: fas
+  ## link: 
 - icon: orcid
   icon_pack: fab
   link: http://orcid.org/0000-0001-6934-2437
@@ -82,5 +82,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Investigadores Asociados
+- Investigadores Asociados
 ---
