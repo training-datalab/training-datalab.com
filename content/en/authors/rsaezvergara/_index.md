@@ -30,10 +30,10 @@ interests:
 - 
 
 # Social/Academic Networking
-social:rocio.saezvergara@training-datalab.com
+social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:
+  link: mailto:rocio.saezvergara@training-datalab.com
 ## - icon: home
   ## icon_pack: fas
   ## link: 
