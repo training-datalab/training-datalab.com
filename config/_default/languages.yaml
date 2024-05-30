@@ -17,7 +17,7 @@ en:
     description: 'Data and Computational Social Science Research Group'
     footer:
         copyright:
-            notice: '<i class="custom ollama"></i> <img src="/ollama.png" style="width: 20px; display:inline-block"> Sections AI-generated have been indicated <br> <i class="fa-brands fa-github"></i> [GitHub repositories](https://github.com/training-datalab) &middot; <i class="fa-regular fa-calendar"></i> Last updated in May {year} <br> <i class="fa-brands fa-creative-commons"></i> 2020-{year} Training Data Lab has been supported and funded by'
+            notice: '<i class="custom-ollama"></i> <img src="/ollama.png" style="width: 20px; display:inline-block"> Sections AI-generated have been indicated <br> <i class="fa-brands fa-github"></i> [GitHub repositories](https://github.com/training-datalab) &middot; <i class="fa-regular fa-calendar"></i> Last updated in May {year} <br> <i class="fa-brands fa-creative-commons"></i> 2020-{year} Training Data Lab has been supported and funded by'
   menu:
     main:
       - name: Home
