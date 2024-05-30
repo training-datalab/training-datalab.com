@@ -20,6 +20,10 @@ Esta serie se produce íntegramente en Tufte-LaTeX, inspirado por Edward R. Tuft
   <small>Conectados con:</small> &nbsp;&nbsp; <img src="/latindex.png" style="height: 35px; display:inline-block"> &nbsp;&nbsp <img src="/zenodo.png" style="height: 35px; display:inline-block"> &nbsp;&nbsp <img src="/openaire.jpg" style="height: 35px; display:inline-block"> &nbsp;&nbsp <img src="/socarxiv.jpg" style="height: 35px; display:inline-block"> &nbsp;&nbsp <img src="/orcid.png" style="height: 35px; display:inline-block"> &nbsp;&nbsp <img src="/cc.png" style="height: 35px; display:inline-block"> &nbsp;&nbsp <img src="/dora.png" style="height: 35px; display:inline-block">
 </p>
 
-<small>El uso del texto completo, que es la suma de visualizaciones y descargas de Zenodo y OSF/SocArXiv, es de 2.283 hasta enero de 2024.</small>
+<p align = "center"><small>El uso del texto completo, que es la suma de visualizaciones y descargas de Zenodo y OSF/SocArXiv, es de 2.283 hasta enero de 2024.</small></p>
+
+<small>Esta serie de documentos de trabajo busca retomar, en parte, el trabajo de la **Serie Política, Gestión y Políticas Públicas** editada bimestralmente durante 2016 por el Centro de Estudios de Gestión y Política Públia. Aquella serie buscaba promover el deabte sobre política, gestión públcia y políticas públicas en español. El equipo editorial lo conformó Bastián González-Bustamante, Diego Barría Traversom, Federico Rojas de Galarreta y el comité editorial lo conformaron Adriano Codato, Gonzalo Delamaza, Mauricio Dussauge–Laguna, Alfredo Joignant, Florencia Luci y Álvaro Ramírez–Alujas.</small>
 
 <h2>Números</h2>
+
+<br>
