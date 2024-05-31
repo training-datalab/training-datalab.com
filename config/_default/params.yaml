@@ -92,7 +92,7 @@ features:
       repo_id: 'R_kgDOMDVzMg'
       category: 'General'
       category_id: 'DIC_kwDOMDVzMs4CfxgP'
-      theme: 'light_high_contrast'
+      theme: 'light'
       language_code: en
   search:
     provider: wowchemy
