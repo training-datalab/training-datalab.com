@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: 'Training Data Lab'
     description: 'Grupo de investigación en datos y ciencias sociales computacionales'
-    twitter: 'GetResearchDev'
+    twitter: 'training-datalab'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -74,24 +74,24 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/training-datalab/web-research-group'
     content_dir: content
     branch: main
   avatar:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
+    provider: 'giscus'
     disqus:
       shortname: ''
       show_count: true
     commento:
       url: ''
     giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
+      repo: 'training-datalab/giscus'
+      repo_id: 'R_kgDOMDVzMg'
+      category: 'General'
+      category_id: 'DIC_kwDOMDVzMs4CfxgP'
   search:
     provider: wowchemy
     algolia:
