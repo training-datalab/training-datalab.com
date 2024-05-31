@@ -94,7 +94,6 @@ features:
       category_id: 'DIC_kwDOMDVzMs4CfxgP'
       theme: 'light'
       language_code: en
-      reactions_enabled: '0'
   search:
     provider: wowchemy
     algolia:
