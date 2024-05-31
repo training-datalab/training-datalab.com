@@ -18,9 +18,13 @@ banner:
 
 Esta serie se produce íntegramente en Tufte-LaTeX, inspirado por Edward R. Tufte. Además, se licencia bajo [Creative Commons](https://github.com/training-datalab/tufte-working-papers/blob/master/LICENSE-CC.md) y [LPPL v1.3c](https://github.com/training-datalab/tufte-working-papers/blob/master/LICENSE-LPPL.md), por tanto, su contenido es de acceso abierto y utiliza la taxonomía CRediT para identificar contribuciones en coautorías junto con un proceso de [revisión abierto](https://training-datalab.com/tufte-working-papers/open-review/). Para más información, revisar los [lineamientos]((https://training-datalab.com/tufte-working-papers/guidelines/)) de esta serie.
 
+<h2>Equipo editorial</h2>
+
+Esta serie tiene como órgano ejecutivo únicamente al equipo editorial. El equipo editorial está formado por el editor, [**Bastián González-Bustamante**]({{< relref "../authors/bgonzalezbustamante" >}}), que dirige la serie en su sentido más amplio, y [**Jaquelin Morillo**]({{< relref "../authors/jmorillo" >}}), editora asociada.
+
 <h2>Herencia intelectual</h2>
 
-La presente serie de documentos de trabajo busca retomar el trabajo de la **Serie Política, Gestión y Políticas Públicas (ISSN 0719-739X)**, publicada con periodicidad bimestral por el Centro de Estudios de Gestión y Política Pública en 2016. Esta serie tenía como objetivo principal promover un debate enriquecedor sobre política, gestión pública y políticas públicas en español. El equipo editorial estuvo conformado por  Bastián González-Bustamante, Diego Barría Traverso, Federico Rojas de Galarreta y Carlos Palacios.
+La presente serie de documentos de trabajo busca retomar el trabajo de la **Serie Política, Gestión y Políticas Públicas (ISSN 0719-739X)**, publicada con periodicidad bimestral por el Centro de Estudios de Gestión y Política Pública en 2016. Esta serie tenía como objetivo principal promover un debate enriquecedor sobre política, gestión pública y políticas públicas en español. El equipo editorial estuvo conformado por [**Bastián González-Bustamante**]({{< relref "../authors/bgonzalezbustamante" >}}), Diego Barría Traverso, Federico Rojas de Galarreta y [**Carlos Palacios**]({{< relref "../authors/cpalacios" >}}).
 
 En cuanto al comité editorial, contó con la participación de reconocidos académicos, entre los que se encontraban Adriano Codato, Gonzalo Delamaza, Mauricio Dussauge-Laguna, Alfredo Joignant, Florencia Luci y Álvaro Ramírez-Alujas.
 
