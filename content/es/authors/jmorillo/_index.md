@@ -91,6 +91,6 @@ user_groups:
 
 Soy estudiante de doctorado en [Ciencias de la Complejidad Social en la Universidad del Desarrollo](https://dccs.udd.cl/en/), Chile. Mis intereses en ciencias políticas y comportamiento humano me han llevado a seguir una trayectoria académica centrada en metodologías cuantitativas y experimentales.
 
-Mi formación académica es en estudios internacionales en la [Universidad Torcuato Di Tella](https://www.utdt.edu/), Argentina. Además, tengo un máster en [Estrategia Internacional y Política Comercial por la Universidad de Chile](https://iei.uchile.cl/).
+Mi formación académica es en estudios internacionales en la [Universidad Torcuato Di Tella, Argentina](https://www.utdt.edu/). Además, tengo un máster en [Estrategia Internacional y Política Comercial por la Universidad de Chile](https://iei.uchile.cl/).
 
 Mis intereses de investigación se centran en enfoques cuantitativos aplicados al comportamiento electoral, la democracia, los congresistas y la dinámica del comportamiento humano en contextos sociopolíticos y la política comercial.

@@ -88,11 +88,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Associates
+- Research Associates
 ---
 
-\
-\
-PhD Researcher \
-Faculty of Humanities \
-Leiden University, Netherlands
+I am a PhD Researcher in the Department of Latin American Studies at the Faculty of Humanities at [Leiden University, Netherlands](https://www.universiteitleiden.nl/en/staffmembers/carla-cisternas-guasch). I hold an MA (1st) in Political Science from the [Institute of Public Affairs](http://www.inap.uchile.cl/) at the Universidad de Chile. Moreover, I earned a BA (1st) and a BPS (1st) in Public Administration from the Universidad de Santiago de Chile (USACH).
+
+I am interested in technocracy in Latin America, public policies and legislative processes, social network analysis and mixed methods. My doctoral project is supervised by [Professor Patricio Silva](https://www.universiteitleiden.nl/en/staffmembers/patricio-silva#tab-1) and [Dr María Gabriela Palacio](https://www.universiteitleiden.nl/en/staffmembers/maria-gabriela-palacio-ludena#tab-1) and focuses on the relationship between technocracy, democracy, and sociopolitical conflicts. In particular, I study ad hoc presidential advisory commissions. The Chilean National Agency for Research and Development and the Slicher van Bath de Jong Foundation, through the Centre for Latin American Research and Documentation (CEDLA) of the University of Amsterdam, fund my PhD project.

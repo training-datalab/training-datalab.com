@@ -91,8 +91,6 @@ user_groups:
   - Investigadores Asociados
 ---
 
-\
-\
-PhD Researcher \
-Faculty of Humanities \
-Leiden University, Netherlands
+Soy investigadora doctoral en el Departamento de Estudios Latinoamericanos de la Facultad de Humanidades de la [Universidad de Leiden, Países Bajos](https://www.universiteitleiden.nl/en/staffmembers/carla-cisternas-guasch). Poseo un Magíster en Ciencia Política por el [Instituto de Asuntos Públicos](http://www.inap.uchile.cl/) de la Universidad de Chile. Además, obtuve una Licenciatura y un título profesional en administración pública por la Universidad de Santiago de Chile (USACH).
+
+Me interesan la tecnocracia en América Latina, las políticas públicas y los procesos legislativos, el análisis de redes sociales y los métodos mixtos. Mi proyecto doctoral es supervisado por el [Profesor Patricio Silva](https://www.universiteitleiden.nl/en/staffmembers/patricio-silva#tab-1) y la (Dra. María Gabriela Palacio)[https://www.universiteitleiden.nl/en/staffmembers/maria-gabriela-palacio-ludena#tab-1] y se centra en la relación entre tecnocracia, democracia y conflictos sociopolíticos. En particular, estudio las comisiones asesoras presidenciales ad hoc. La Agencia Nacional de Investigación y Desarrollo de Chile y la Fundación Slicher van Bath de Jong, a través del Centro de Investigación y Documentación Latinoamericana (CEDLA) de la Universidad de Amsterdam, financian mi proyecto de doctorado.

@@ -36,16 +36,16 @@ education:
   courses:
   - course: PhD en Ciencia Política
     institution: University of California, Irvine
-    year: ??-??
+    year: start-end
   - course: Magíster en Ciencia Política
     institution: University of California, Irvine
-    year: ??-??
+    year: start-end
   - course: Magíster en Comunicación
     institution: Universidad Diego Portales
-    year: ??-??
+    year: start-end
   - course: Licenciatura en Ciencia Política
     institution: Universidad Alberto Hurtado
-    year: ??-??
+    year: start-end
 
 # Social/Academic Networking
 social:
@@ -92,7 +92,7 @@ user_groups:
 - Investigadores Asociados
 ---
 
-Soy [candidato a Doctor en Ciencia Política por la Universidad de California, Irvine](https://www.polisci.uci.edu/). Obtuve un Magíster en Ciencia Política de la UC Irvine y un Magíster en Comunicación de la [Universidad Diego Portales (UDP)](https://www.udp.cl/), Chile. También soy Licenciado en Ciencia Política por la [Universidad Alberto Hurtado](https://www.uahurtado.cl/), Chile.
+Soy [candidato a Doctor en Ciencia Política por la Universidad de California, Irvine](https://www.polisci.uci.edu/). Obtuve un Magíster en Ciencia Política de la UC Irvine y un Magíster en Comunicación de la [Universidad Diego Portales (UDP), Chile](https://www.udp.cl/). También soy Licenciado en Ciencia Política por la [Universidad Alberto Hurtado, Chile](https://www.uahurtado.cl/).
 
 Estudio el comportamiento político comparado en América Latina, con especial énfasis en Chile. Mis intereses de investigación incluyen opinión pública, campañas electorales, consumo de medios y participación política. Mi agenda de investigación actual se centra en la personalización de la política desde una perspectiva comparada, con un enfoque especial en América Latina. Me interesa entender por qué los candidatos personalizan sus campañas electorales, por qué la gente se fija en las características de los candidatos a la hora de decidir su voto y cómo las campañas electorales moldean las actitudes y comportamientos políticos. También me interesa entender la participación política de la gente, tanto online como offline.
 

@@ -92,7 +92,7 @@ user_groups:
 - Research Associates
 ---
 
-I am a [PhD candidate in Political Science at the University of California, Irvine](https://www.polisci.uci.edu/). I received an MA in Political Science from UC Irvine and an MA in Communication from the [Universidad Diego Portales (UDP)](https://www.udp.cl/), Chile. I also hold a BA in Political Science from the [Universidad Alberto Hurtado](https://www.uahurtado.cl/), Chile.
+I am a [PhD candidate in Political Science at the University of California, Irvine](https://www.polisci.uci.edu/). I received an MA in Political Science from UC Irvine and an MA in Communication from the [Universidad Diego Portales (UDP), Chile](https://www.udp.cl/). I also hold a BA in Political Science from the [Universidad Alberto Hurtado, Chile](https://www.uahurtado.cl/).
 
 I study comparative political behavior in Latin America, with a particular focus on Chile. My research interests include public opinion, election campaigns, media consumption, and political participation. My current research agenda focuses on the personalization of politics from a comparative perspective, with a special focus on Latin America. I am interested in understanding why candidates personalize their election campaigns, why people look at candidates’ characteristics when making voting decisions, and how election campaigns shape political attitudes and behaviors. I am also interested in understanding people’s political involvement, both online and offline.
 
