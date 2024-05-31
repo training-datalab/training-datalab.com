@@ -22,7 +22,7 @@ sections:
   
   - block: collection
     content:
-      title: Proyectos relevante
+      title: Proyecto relevante
       subtitle:
       text:
       count: 2
