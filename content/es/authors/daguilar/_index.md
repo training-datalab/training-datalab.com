@@ -37,13 +37,13 @@ education:
   courses:
   - course: MA Global Politics
     institution: McMaster University
-    year: ??-??
+    year: start-end
   - course: Magíster en Ciencia Política
     institution: Universidad de Chile
-    year: ??-??
+    year: start-end
   - course: Licenciatura en Derecho
     institution: Universidad Alberto Hurtado
-    year: ??-??
+    year: start-end
 
 # Social/Academic Networking
 social:

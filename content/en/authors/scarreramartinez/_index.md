@@ -36,10 +36,10 @@ education:
   courses:
   - course: MA in ?? (in progress)
     institution: ??
-    year: ??-??
+    year: start-end
   - course: BA in Political Science
     institution: Universidad del Rosario
-    year: ??-??
+    year: start-end
 
 # Social/Academic Networking
 social:

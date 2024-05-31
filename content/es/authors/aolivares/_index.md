@@ -38,13 +38,13 @@ education:
   courses:
   - course: Doctorado en Ciencias Sociales
     institution: Universidad de Chile
-    year: ?-?
+    year: start-end
   - course: Magíster en Ciencia Política
     institution: Universidad de Chile
-    year: ?-?
+    year: start-end
   - course: Licenciatura en Ciencia Política
     institution: Universidad Central de Chile
-    year: ?-?
+    year: start-end
 
 # Social/Academic Networking
 social:

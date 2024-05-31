@@ -24,7 +24,7 @@ organizations:
   url: "https://training-datalab.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Investigador Asociado.
+bio: Investigador Asociado en Training Data Lab.
 
 interests:
 - 

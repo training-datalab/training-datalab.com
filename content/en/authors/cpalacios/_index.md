@@ -33,10 +33,10 @@ education:
   courses:
   - course: MA in Political Science
     institution: Universidad de Chile
-    year: ??-??
+    year: start-end
   - course: BA in Government
     institution: Universidad de Chile
-    year: ??-??
+    year: start-end
 
 # Social/Academic Networking
 social:

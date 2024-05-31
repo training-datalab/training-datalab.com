@@ -36,16 +36,16 @@ education:
   courses:
   - course: PhD in Political Science
     institution: University of California, Irvine
-    year: ??-??
+    year: start-end
   - course: MA in Political Science
     institution: University of California, Irvine
-    year: ??-??
+    year: start-end
   - course: MA in Communication
     institution: Universidad Diego Portales
-    year: ??-??
+    year: start-end
   - course: BA in Political Science
     institution: Universidad Alberto Hurtado
-    year: ??-??
+    year: start-end
 
 # Social/Academic Networking
 social:

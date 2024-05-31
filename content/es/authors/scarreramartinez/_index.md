@@ -36,10 +36,10 @@ education:
   courses:
   - course: Magíster en ?? (en progreso)
     institution: ??
-    year: ??-??
+    year: start-end
   - course: Licenciatura en Ciencia Política
     institution: Universidad del Rosario
-    year: ??-??
+    year: start-end
 
 # Social/Academic Networking
 social:

@@ -37,13 +37,13 @@ education:
   courses:
   - course: MA in Global Politics
     institution: McMaster University
-    year: ??-??
+    year: start-end
   - course: MA in Political Science
     institution: Universidad de Chile
-    year: ??-??
+    year: start-end
   - course: LLB
     institution: Universidad Alberto Hurtado
-    year: ??-??
+    year: start-end
 
 # Social/Academic Networking
 social:
@@ -84,7 +84,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Adjunct Researchers
+- Adjunct Researchers
 ---
 
 I am a public servant working on indigenous affairs in the Canadian federal government. I am currently based in the province of Ontario, Canada. Furthermore, I am a Network Leader at the [Brantford Immigration Partnership](https://www.brantford.ca/en/things-to-do/brantford-immigration-partnership.aspx). Before relocating to Canada, I served as a Lawyer and International Relations Coordinator at the Servicio Nacional del Consumidor (SERNAC) in Chile.

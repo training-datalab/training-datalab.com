@@ -34,6 +34,18 @@ interests:
 - Political economy
 - Quantitative methods
 
+education:
+  courses:
+  - course: Doctorate in Social Sciences
+    institution: Universidad de Chile
+    year: start-end
+  - course: MA in International Studies
+    institution: Universidad de Chile
+    year: start-end
+  - course: BA in Journalism
+    institution: Pontifica Universidad Católica de Valparaíso
+    year: start-end
+
 # Social/Academic Networking
 social:
 - icon: envelope
@@ -72,3 +84,7 @@ email: ""
 user_groups:
 - Research Associates
 ---
+
+I am an assistant professor in the [Department of Sociology, Political Science and Public Administration at the Universidad Católica de Temuco, Chile](https://soccipol.uct.cl/). My teaching activities involve quantitative and data analysis techniques applied to public policy. I have also served as a lecturer at the Universidad de Chile, de Valparaíso, and de Santiago.
+
+I am a Doctor of Social Sciences and hold an MA in International Studies, both from the Universidad de Chile. Previously, I earned a BA in Journalism at the Pontificia Universidad Católica de Valparaíso, Chile. My research is mainly focused on international trade and interest groups, specifically on their collective action during trade processes. In addition, my ancillary areas of interest are related to the study and measurement of political values using survey data.

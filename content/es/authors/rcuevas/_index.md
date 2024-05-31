@@ -34,6 +34,18 @@ interests:
 - Economía política
 - Métodos cuantitativos
 
+education:
+  courses:
+  - course: Doctorado en Ciencias Sociales
+    institution: Universidad de Chile
+    year: start-end
+  - course: Magíster en Estudios Internacionales
+    institution: Universidad de Chile
+    year: start-end
+  - course: Licenciatura en Periodismo
+    institution: Pontifica Universidad Católica de Valparaíso
+    year: start-end
+
 # Social/Academic Networking
 social:
 - icon: envelope
@@ -73,3 +85,6 @@ user_groups:
 - Investigadores Asociados
 ---
 
+Soy profesor asistente en el [Departamento de Sociología, Ciencia Política y Administración Pública de la Universidad Católica de Temuco, Chile](https://soccipol.uct.cl/). Mis actividades docentes se centran en técnicas cuantitativas y de análisis de datos aplicadas a las políticas públicas. También me he desempeñado como docente en la Universidad de Chile, de Valparaíso y de Santiago.
+
+Soy Doctor en Ciencias Sociales y Magíster en Estudios Internacionales, ambos por la Universidad de Chile. Anteriormente, me licencié en Periodismo en la Pontificia Universidad Católica de Valparaíso, Chile. Mi investigación se centra principalmente en el comercio internacional y los grupos de interés, específicamente en su acción colectiva durante los procesos comerciales. Además, mis áreas auxiliares de interés están relacionadas con el estudio y medición de valores políticos utilizando datos de encuestas.

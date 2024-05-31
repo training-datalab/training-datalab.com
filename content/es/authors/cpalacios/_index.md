@@ -33,10 +33,10 @@ education:
   courses:
   - course: Magíster en Ciencia Política
     institution: Universidad de Chile
-    year: ??-??
+    year: start-end
   - course: Licenciatura en Ciencias Políticas y Gubernamentales
     institution: Universidad de Chile
-    year: ??-??
+    year: start-end
 
 # Social/Academic Networking
 social:

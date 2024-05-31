@@ -34,10 +34,10 @@ education:
   courses:
   - course: Magíster en Psicología
     institution: Universidad Diego Portales
-    year: ??-??
+    year: start-end
   - course: Licenciatura en Ciencia Política
     institution: Universidad Diego Portales
-    year: ??-??
+    year: start-end
 
 # Social/Academic Networking
 social:
@@ -81,7 +81,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Investigadores Adjuntos
+- Investigadores Adjuntos
 ---
 
 Soy cientista político y Magíster en Psicología de la Universidad Diego Portales (UDP), Chile. Actualmente me desempeño como docente de la [Escuela de Ciencia Política](https://cienciapolitica.udp.cl/) y soy director del Laboratorio para el Estudio de la Radicalización (LabRad) de la UDP.

@@ -34,10 +34,10 @@ education:
   courses:
   - course: MA in Psychology
     institution: Universidad Diego Portales
-    year: ??-??
+    year: start-end
   - course: BA in Political Science
     institution: Universidad Diego Portales
-    year: ??-??
+    year: start-end
 
 # Social/Academic Networking
 social:
@@ -81,7 +81,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Adjunct Researchers
+- Adjunct Researchers
 ---
 
 I am a political scientist with an MA in Psychology from Universidad Diego Portales (UDP), Chile. Currently, I serve as a lecturer in the [School of Political Science](https://cienciapolitica.udp.cl/) and am the director of the Laboratory for the Study of Radicalisation (LabRad) at UDP.
