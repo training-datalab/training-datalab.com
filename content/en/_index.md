@@ -11,6 +11,8 @@ sections:
       text: |
 
           <img src="/tDL_logo.png" style="width: 100px; float: left; margin-right: 30px"> <p align="justify"><font size="3">Since 2020, our group has been a meeting point for researchers at different career stages and with various backgrounds who share a common interest in the applications of data and computational social science in three interconnected areas: **data mining**, **econometric modelling**, and **machine learning and artificial intelligence**.</font></p>
+
+          <p align="justify"><font size="3">Our mission is to foster collaboration and the exchange of ideas among computational social science researchers to **foster research** and **disseminate specific knowledge and techniques to wider audiences**. Our commitment to open science leads us to promote transparency and open access to our data, results, and processes in order to generate effective solutions to current challenges and foster a positive impact on society.</font></p>
     design:
       columns: '1'
       spacing:
