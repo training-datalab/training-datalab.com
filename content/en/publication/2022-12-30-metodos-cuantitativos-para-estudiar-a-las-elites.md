@@ -25,10 +25,10 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  - icon: file-pdf
-    icon_pack: far
-    name: PDF
-    url: 'https://derechoycienciapolitica.uct.cl/index.php/RDCP/article/view/103'
+  ## - icon: file-pdf
+    ## icon_pack: far
+    ## name: PDF
+    ## url: 'https://derechoycienciapolitica.uct.cl/index.php/RDCP/article/view/103'
   - icon: doi
     icon_pack: ai
     name: DOI

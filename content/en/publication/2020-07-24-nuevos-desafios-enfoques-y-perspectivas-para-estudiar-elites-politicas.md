@@ -25,10 +25,10 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  - icon: file-pdf
-    icon_pack: far
-    name: PDF
-    url: 'https://journals.iai.spk-berlin.de/index.php/iberoamericana/article/view/2736'
+  ## - icon: file-pdf
+    ## icon_pack: far
+    ## name: PDF
+    ## url: 'https://journals.iai.spk-berlin.de/index.php/iberoamericana/article/view/2736'
   - icon: doi
     icon_pack: ai
     name: DOI

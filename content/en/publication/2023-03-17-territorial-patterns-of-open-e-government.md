@@ -25,10 +25,10 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  - icon: file-pdf
-    icon_pack: far
-    name: PDF
-    url: 'https://www.tandfonline.com/doi/full/10.1080/2474736X.2023.2194369'
+  ## - icon: file-pdf
+    ## icon_pack: far
+    ## name: PDF
+    ## url: 'https://www.tandfonline.com/doi/full/10.1080/2474736X.2023.2194369'
   - icon: doi
     icon_pack: ai
     name: DOI

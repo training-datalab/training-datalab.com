@@ -25,10 +25,10 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  - icon: file-pdf
-    icon_pack: far
-    name: PDF
-    url: 'http://www.gestionypoliticapublica.cide.edu/ojscide/index.php/gypp/article/view/658'
+  ## - icon: file-pdf
+    ## icon_pack: far
+    ## name: PDF
+    ## url: 'http://www.gestionypoliticapublica.cide.edu/ojscide/index.php/gypp/article/view/658'
   - icon: doi
     icon_pack: ai
     name: DOI

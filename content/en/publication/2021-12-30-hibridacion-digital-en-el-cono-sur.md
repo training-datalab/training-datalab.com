@@ -29,10 +29,7 @@ links:
     ## icon_pack: far
     ## name: PDF
     ## url: 'https://revistas.unife.edu.pe/index.php/comunife/article/view/2580/'
-  - icon: file-pdf
-    icon_pack: far
-    name: PDF
-    url: 'https://www.researchgate.net/publication/363158016_Hibridacion_digital_en_el_Cono_Sur_Consumo_de_medios_tradicionales_digitales_y_uso_de_redes_sociales'  
+    ## url: 'https://www.researchgate.net/publication/363158016_Hibridacion_digital_en_el_Cono_Sur_Consumo_de_medios_tradicionales_digitales_y_uso_de_redes_sociales'  
   - icon: doi
     icon_pack: ai
     name: DOI

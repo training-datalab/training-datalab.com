@@ -25,10 +25,10 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  - icon: file-pdf
-    icon_pack: far
-    name: PDF
-    url: 'https://journals.sagepub.com/doi/10.1177/19401612221089482'
+  ## - icon: file-pdf
+    ## icon_pack: far
+    ## name: PDF
+    ## url: 'https://journals.sagepub.com/doi/10.1177/19401612221089482'
   - icon: doi
     icon_pack: ai
     name: DOI
@@ -36,7 +36,7 @@ links:
   ## - icon: arxiv
     ## icon_pack: ai
     ## name: Preprint Upon Request
-    ## url: 'mailto:bastian.gonzalezbustamante@politics.ox.ac.uk'
+    ## url: 'mailto:b.a.gonzalez.bustamante@fgga.leidenuniv.nl'
   ## - icon: osf
     ## icon_pack: ai
     ## name: OSF-Project

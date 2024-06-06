@@ -25,10 +25,10 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  - icon: file-pdf
-    icon_pack: far
-    name: PDF
-    url: 'https://revistas.ucr.ac.cr/index.php/eciencias/article/view/50078'
+  ## - icon: file-pdf
+    ## icon_pack: far
+    ## name: PDF
+    ## url: 'https://revistas.ucr.ac.cr/index.php/eciencias/article/view/50078'
   - icon: doi
     icon_pack: ai
     name: DOI

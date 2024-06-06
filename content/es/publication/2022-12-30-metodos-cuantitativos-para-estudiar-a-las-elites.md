@@ -25,10 +25,10 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  - icon: file-pdf
-    icon_pack: far
-    name: PDF
-    url: 'https://derechoycienciapolitica.uct.cl/index.php/RDCP/article/view/103'
+  ## - icon: file-pdf
+    ## icon_pack: far
+    ## name: PDF
+    ## url: 'https://derechoycienciapolitica.uct.cl/index.php/RDCP/article/view/103'
   - icon: doi
     icon_pack: ai
     name: DOI
@@ -36,7 +36,7 @@ links:
   - icon: arxiv
     icon_pack: ai
     ## name: Preprint Upon Request
-    ## url: 'mailto:bastian.gonzalezbustamante@politics.ox.ac.uk'
+    ## url: 'mailto:b.a.gonzalez.bustamante@fgga.leidenuniv.nl'
     name: Preprint
     url: 'https://doi.org/10.31235/osf.io/5m2ur'
   - icon: osf

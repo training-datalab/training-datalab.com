@@ -25,10 +25,10 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  - icon: file-pdf
-    icon_pack: far
-    name: PDF
-    url: 'https://www.cambridge.org/core/journals/government-and-opposition/article/cabinet-reshuffles-and-parliamentary-noconfidence-motions/AB183B83794E391A27D5855A70ACF1A2'
+  ## - icon: file-pdf
+    ## icon_pack: far
+    ## name: PDF
+    ## url: 'https://www.cambridge.org/core/journals/government-and-opposition/article/cabinet-reshuffles-and-parliamentary-noconfidence-motions/AB183B83794E391A27D5855A70ACF1A2'
   - icon: doi
     icon_pack: ai
     name: DOI
