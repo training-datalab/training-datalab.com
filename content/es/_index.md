@@ -97,7 +97,7 @@ sections:
     content:
       title: Contacto
       subtitle: contact
-      subtitle: "contact@training-datalab.com <br> Suscríbete a nuestro boletín trimestral"
+      subtitle: "contact@training-datalab.com <br> <a href="https://zcmp.eu/e28J" target="_blank">Suscríbete a nuestro boletín trimestral</a>"
     design:
       columns: '1'
       spacing:
@@ -108,4 +108,3 @@ sections:
           - '0'
 
 ---
-
