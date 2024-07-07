@@ -24,7 +24,7 @@ organizations:
   url: "https://www.universiteitleiden.nl/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Post-doctoral Researcher in Computational Social Science at the Institute of Public Administration at the Faculty of Governance and Global Affairs at Leiden University, Netherlands. Lecturer at the School of Public Administration at Universidad Diego Portales and Research Associate in Training Data Lab, Chile.
+bio: Post-doctoral Researcher in Computational Social Science and a lecturer in Governance and Development at the Institute of Public Administration at the Faculty of Governance and Global Affairs at Leiden University, Netherlands. Lecturer at the School of Public Administration at Universidad Diego Portales and Research Associate in Training Data Lab, Chile.
 
 interests:
 - Comparative politics
@@ -99,10 +99,10 @@ user_groups:
   - Research Associates
 ---
 
-I am a post-doctoral researcher in Computational Social Science at the Institute of Public Administration at the [Faculty of Governance and Global Affairs at Leiden University](https://www.universiteitleiden.nl/en/governance-and-global-affairs), Netherlands. I hold a [DPhil (PhD) in Politics from the University of Oxford](https://www.politics.ox.ac.uk/), United Kingdom. Before my DPhil, I earned an MA (1st) in Political Science and a BA (2:1) in Public Administration, both from the Universidad de Chile.
+I am a post-doctoral researcher in Computational Social Science and a lecturer in Governance and Development at the Institute of Public Administration at the [Faculty of Governance and Global Affairs at Leiden University](https://www.universiteitleiden.nl/en/governance-and-global-affairs), Netherlands. I hold a [DPhil (PhD) in Politics from the University of Oxford](https://www.politics.ox.ac.uk/), United Kingdom. Before my DPhil, I earned an MA (1st) in Political Science and a BA (2:1) in Public Administration, both from the Universidad de Chile.
 
 In addition, in Chile, I am a lecturer in the School of Public Administration at the [Universidad Diego Portales (UDP)](https://www.udp.cl/) and a research associate at the Training Data Lab, a research group focused on data mining, econometric modelling and AI machine learning in social sciences.
 
 My research interests lie in the intersection of comparative politics and government, focusing mainly on cabinets, political regimes and civil services. Methodologically, my interests rely on the application of quantitative text analysis, machine learning methods and causal inference strategies in the comparative politics field. In the last  years, my work has been published in *The International Journal of Press/Politics*, *World Development*, *Government and Opposition*, *The British Journal of Politics and International Relations*, *Bulletin of Latin American Research* and elsewhere.
 
-During my post-doctorate at Leiden, I will be working on two research projects funded by the Dutch Research Council (NWO) related to how the rule of law has changed over time and automated text analysis of investment data to study the effects of governance on sustainable investments. Specifically, I will employ Natural Language Processing (NLP) and text-as-data techniques to find patterns and topics within big text data.
+During my post-doctorate at Leiden, I work on two research projects funded by the Dutch Research Council (NWO) related to how the rule of law has changed over time and automated text analysis of investment data to study the effects of governance on sustainable investments. Specifically, I will employ Natural Language Processing (NLP) and text-as-data techniques to find patterns and topics within big text data.
