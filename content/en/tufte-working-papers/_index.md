@@ -34,6 +34,12 @@ The editorial board was made up of renowned academics, including Adriano Codato,
 
 <p align = "center"><small>The full text usage, which is the sum of views and downloads from Zenodo and OSF/SocArXiv, is 2,283 until January 2024.</small></p>
 
+<h2>Forthcoming Issues</h2>
+
+* Bastián González-Bustamante (2025, *forthcoming*). Cinco años del ranking chileno de ciencia política: Explorando la producción científica y el impacto de la disciplina. *Tufte Working Papers*, 6.
+
+* Carla Cisternas, Bastián González-Bustamante, Jaquelin Morillo, Diego Aguilar (2024, *forthcoming*). Clasificación de proyectos de ley y mociones legislativas: Modelos supervisados y no supervisados aplicados al caso chileno. *Tufte Working Papers*, 5.
+
 <h2>Issues</h2>
 
 <br>
