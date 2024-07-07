@@ -24,7 +24,7 @@ organizations:
   url: "https://www.universiteitleiden.nl/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Investigador postdoctoral en Ciencias Sociales Computacionales en el Instituto de Administración Pública de la Facultad de Gobernanza y Asuntos Globales de la Universidad de Leiden, Países Bajos. Profesor de la Escuela de Administración Pública de la Universidad Diego Portales e Investigador Asociado en Training Data Lab, Chile.
+bio: Investigador postdoctoral en Ciencias Sociales Computacionales y docente de Gobernanza y Desarrollo en el Instituto de Administración Pública de la Facultad de Gobernanza y Asuntos Globales de la Universidad de Leiden, Países Bajos. Profesor de la Escuela de Administración Pública de la Universidad Diego Portales e Investigador Asociado en Training Data Lab, Chile.
 
 interests:
 - Política comparada
@@ -109,10 +109,10 @@ user_groups:
 - Investigadores Asociados
 ---
 
-Soy investigador posdoctoral en Ciencias Sociales Computacionales en el Instituto de Administración Pública de la [Facultad de Gobernanza y Asuntos Globales de la Universidad de Leiden](https://www.universiteitleiden.nl/en/governance-and-global-affairs), Países Bajos. Tengo un [DPhil (PhD) en Ciencia Política por la Universidad de Oxford](https://www.politics.ox.ac.uk/), Reino Unido. Antes de mi DPhil, obtuve un Magíster en Ciencia Política y una Licenciatura en Ciencias Políticas y Gubernamentales, ambos por la Universidad de Chile.
+Soy investigador posdoctoral en Ciencias Sociales Computacionales y docente de Gobernanza y Desarrollo en el Instituto de Administración Pública de la [Facultad de Gobernanza y Asuntos Globales de la Universidad de Leiden](https://www.universiteitleiden.nl/en/governance-and-global-affairs), Países Bajos. Tengo un [DPhil (PhD) en Ciencia Política por la Universidad de Oxford](https://www.politics.ox.ac.uk/), Reino Unido. Antes de mi DPhil, obtuve un Magíster en Ciencia Política y una Licenciatura en Ciencias Políticas y Gubernamentales, ambos por la Universidad de Chile.
 
-Además, en Chile, soy profesor en la Escuela de Administración Pública de la [Universidad Diego Portales (UDP)](https://www.udp.cl/) e investigador asociado en el Training Data Lab, un grupo de investigación centrado en la minería de datos, la modelización econométrica y el aprendizaje automático e IA en ciencias sociales.
+Además, en Chile, soy académico en la Escuela de Administración Pública de la [Universidad Diego Portales (UDP)](https://www.udp.cl/) e investigador asociado en el Training Data Lab, un grupo de investigación centrado en la minería de datos, la modelización econométrica y el aprendizaje automático e IA en ciencias sociales.
 
 Mis intereses de investigación se encuentran en la intersección de la política comparada y el gobierno, centrándose principalmente en los gabinetes, los regímenes políticos y los servicios civiles. Metodológicamente, mis intereses se basan en la aplicación del análisis cuantitativo de textos, los métodos de aprendizaje automático y las estrategias de inferencia causal en el campo de la política comparada. En los últimos años, mi trabajo ha sido publicado en *The International Journal of Press/Politics*, *World Development*, *Government and Opposition*, *The British Journal of Politics and International Relations*, *Bulletin of Latin American Research* y otros.
 
-Durante mi posdoctorado en Leiden, trabajaré en dos proyectos de investigación financiados por el Consejo Holandés de Investigación (NWO) relacionados con la evolución del Estado de Derecho a lo largo del tiempo y el análisis automatizado de texto de datos de inversión para estudiar los efectos de la gobernanza en las inversiones sostenibles. En concreto, emplearé técnicas de Procesamiento del Lenguaje Natural (PLN) y de texto como datos para encontrar patrones y temas en grandes volúmenes de datos de texto.
+Durante mi posdoctorado en Leiden, trabajo en dos proyectos de investigación financiados por el Consejo Holandés de Investigación (NWO) relacionados con la evolución del Estado de Derecho a lo largo del tiempo y el análisis automatizado de texto de datos de inversión para estudiar los efectos de la gobernanza en las inversiones sostenibles. En concreto, emplearé técnicas de Procesamiento del Lenguaje Natural (PLN) y de texto como datos para encontrar patrones y temas en grandes volúmenes de datos de texto.
