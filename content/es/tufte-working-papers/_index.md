@@ -34,7 +34,6 @@ En cuanto al comité editorial, contó con la participación de reconocidos acad
 
 <p align = "center"><small>El uso del texto completo, que es la suma de visualizaciones y descargas de Zenodo y OSF/SocArXiv, es de 2.283 hasta enero de 2024.</small></p>
 
-
 <h2>Números</h2>
 
 <br>
