@@ -98,6 +98,7 @@ sections:
       title: Contacto
       subtitle: contact
       subtitle: "contact@training-datalab.com"
+      text: "Suscríbete a nuestro boletín trimestral"
     design:
       columns: '1'
       spacing:
