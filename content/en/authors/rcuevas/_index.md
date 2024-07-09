@@ -24,7 +24,7 @@ organizations:
   url: "http://soccipol.uct.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Assistant Professor in the Department of Sociology and Political Science at the Universidad Católica de Temuco, Chile.
+bio: Assistant Professor in the Department of Sociology and Political Science at the Universidad Católica de Temuco, Chile. Research Associate in Training Data Lab, Chile.
 
 interests:
 - International politics
