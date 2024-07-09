@@ -24,7 +24,7 @@ organizations:
   url: "https://www.universiteitleiden.nl/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Researcher in the Department of Latin American Studies at the Faculty of Humanities at Leiden University, Netherlands. Lecturer at the Faculty of Social Sciences and Arts at the Universidad Mayor, Chile.
+bio: Investigadora doctoral en el Departamento de Estudios Latinoamericanos de la Facultad de Humanidades de la Universidad de Leiden, Países Bajos.
 
 interests:
 - Technocracy
