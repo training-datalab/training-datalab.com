@@ -13,7 +13,7 @@ doi: ''
 
 publication: '*Tufte Working Papers*, 6. Forthcoming'
 publication_short: ''
-abstract: ''
+abstract: 'Work in progress.'
 summary: ''
 featured: no
 url_pdf: ~

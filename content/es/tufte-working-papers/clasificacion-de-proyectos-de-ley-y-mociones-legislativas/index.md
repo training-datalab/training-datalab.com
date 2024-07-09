@@ -11,9 +11,9 @@ doi: ''
 # Publication type.
 ## publication_types: ['article-journal']
 
-publication: '*Tufte Working Papers*, 5. Forthcoming'
+publication: '*Tufte Working Papers*, 5. Próximamente'
 publication_short: ''
-abstract: ''
+abstract: 'Trabajo en progreso.'
 summary: ''
 featured: no
 url_pdf: ~
