@@ -11,7 +11,7 @@ doi: ''
 # Publication type.
 publication_types: ['article-journal']
 
-publication: '*Revista de Estudios Políticos, 194, 249-279'
+publication: '*Revista de Estudios Políticos*, 194, 249-279'
 publication_short: ''
 abstract: 'Este artículo analiza el copatrocinio legislativo en la Cámara de Diputados de Chile durante los periodos legislativos 2010-‍2014 y 2014-‍2018. En específico, mediante un análisis de redes sociales (ARS), se estudia la coautoría de las mociones legislativas ingresadas por los representantes con el objetivo de identificar y comparar lógicas de trabajo legislativo. Explorar el copatrocinio de las mociones permite observar y analizar el comportamiento de los actores y las estrategias partidarias y de coalición. Los hallazgos de este trabajo muestran la importancia y centralidad de ciertos actores en el copatrocinio de mociones, así como también la existencia de lógicas de trabajo colectivo, que rompen y modifican las coaliciones en la Cámara.'
 summary: ''
