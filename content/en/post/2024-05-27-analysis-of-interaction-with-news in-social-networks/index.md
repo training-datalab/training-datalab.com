@@ -8,7 +8,7 @@ image:
 draft: false
 ---
 
-Between 15 and 17 May, our researchers [**Bastián González-Bustamante**]({{< relref "../authors/bgonzalezbustamante" >}}) and [**Carla Cisternas**]({{< relref "../authors/ccisternas" >}}), in collaboration with Ximena Orchard, presented a paper entitled "Amplification, contestation, and hostile engagement with news in social media" at the conference Medios de Gobernanza en América Latina, España y Portugal, held in Valencia and also online.
+Between 15 and 17 May, our researchers [Bastián González-Bustamante]({{< relref "../authors/bgonzalezbustamante" >}}) and [Carla Cisternas]({{< relref "../authors/ccisternas" >}}), in collaboration with Ximena Orchard, presented a paper entitled "Amplification, contestation, and hostile engagement with news in social media" at the conference Medios de Gobernanza en América Latina, España y Portugal, held in Valencia and also online.
 
 <!--more-->
 
