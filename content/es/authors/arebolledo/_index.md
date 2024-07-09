@@ -24,7 +24,7 @@ organizations:
   url: "https://training-datalab.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Asistente de Investigación en Training Data Lab.
+bio: Asistente de Investigación en Training Data Lab, Chile.
 
 interests:
 - 

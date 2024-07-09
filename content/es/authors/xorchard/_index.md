@@ -12,12 +12,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Head of Department
+role: Profesora Asociada
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad de Alberto Hurtado
-  url: "https://www.uahurtado.cl/"
+- name: Universidad de Santiago de Chile
+  url: "https://www.usach.cl/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Head of the Journalism Department at the Universidad Alberto Hurtado, Chile.

@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Researcher
+role: Investigadora Doctoral
 
 # Organizations/Affiliations
 organizations:

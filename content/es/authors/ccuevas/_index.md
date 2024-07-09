@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MA in Social Work
+role: Magíster en Trabajo Social
 
 # Organizations/Affiliations
 organizations:

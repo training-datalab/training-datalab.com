@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MA Student
+role: Estudiante de maestría
 
 # Organizations/Affiliations
 organizations:

@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BA in Political Science
+role: Licenciado en Ciencia Política
 
 # Organizations/Affiliations
 organizations:

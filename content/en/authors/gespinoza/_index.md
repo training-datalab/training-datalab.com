@@ -24,7 +24,7 @@ organizations:
   url: "https://training-datalab.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Adjunct Researcher in Training Data Lab.
+bio: Adjunct Researcher in Training Data Lab, Chile.
 
 interests:
 - Political radicalisation

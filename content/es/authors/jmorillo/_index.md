@@ -24,7 +24,7 @@ organizations:
   url: "https://training-datalab.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Investigadora Asociada, Training Data Lab.
+bio: Investigadora Asociada en Training Data Lab, Chile.
 
 interests:
 - Comportamiento electoral

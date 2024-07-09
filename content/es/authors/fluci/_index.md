@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Lecturer
+role: Académica
 
 # Organizations/Affiliations
 organizations:

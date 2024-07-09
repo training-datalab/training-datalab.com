@@ -24,7 +24,7 @@ organizations:
   url: "https://www.umayor.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Associate Professor in the Government School at the Universidad Mayor, Chile.
+bio: Associate Professor in the Government School at the Universidad Mayor, Chile. Adjuntct Researcher in Training Data Lab, Chile.
 
 interests:
 - Cabinets composition

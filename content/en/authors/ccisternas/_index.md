@@ -24,7 +24,7 @@ organizations:
   url: "https://www.universiteitleiden.nl/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Researcher in the Department of Latin American Studies at the Faculty of Humanities at Leiden University, Netherlands.
+bio: PhD Researcher in the Department of Latin American Studies at the Faculty of Humanities at Leiden University, Netherlands. Research Associate in Training Data Lab, Chile.
 
 interests:
 - Technocracy

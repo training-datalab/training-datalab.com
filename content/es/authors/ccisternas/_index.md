@@ -16,7 +16,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Researcher
+role: Investigadora doctoral
 
 # Organizations/Affiliations
 organizations:
@@ -24,7 +24,7 @@ organizations:
   url: "https://www.universiteitleiden.nl/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Investigadora doctoral en el Departamento de Estudios Latinoamericanos de la Facultad de Humanidades de la Universidad de Leiden, Países Bajos.
+bio: Investigadora doctoral en el Departamento de Estudios Latinoamericanos de la Facultad de Humanidades de la Universidad de Leiden, Países Bajos. Investigadora Asociada en Training Data Lab, Chile.
 
 interests:
 - Technocracy

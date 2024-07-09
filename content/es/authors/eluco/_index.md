@@ -16,11 +16,11 @@ last_name: Luco
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Asistente de Investigación
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad de Santiago
+- name: Universidad de Santiago de Chile
   url: "https://fae.usach.cl/"
 
 # Short bio (displayed in user profile at end of posts)

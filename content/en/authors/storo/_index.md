@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Full Professor
 
 # Organizations/Affiliations
 organizations:

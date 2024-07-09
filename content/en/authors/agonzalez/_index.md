@@ -16,7 +16,7 @@ role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad de Santiago
+- name: Universidad de Santiago de Chile
   url: "https://fae.usach.cl/"
 
 # Short bio (displayed in user profile at end of posts)

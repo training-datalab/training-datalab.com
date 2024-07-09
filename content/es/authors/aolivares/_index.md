@@ -24,7 +24,7 @@ organizations:
   url: "https://www.umayor.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Profesor Asociado en la Escuela de Gobierno de la Universidad Mayor, Chile.
+bio: Profesor Asociado en la Escuela de Gobierno de la Universidad Mayor, Chile. Investigador Adjunto en Training Data Lab, Chile.
 
 interests:
 - Composición de gabinetes
