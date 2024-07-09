@@ -1,11 +1,12 @@
 ---
-title: Un cambio en nuestra estrategia comunicativa
+title: Un cambio en nuestra estrategia comunicacional
 date: 2024-07-09
 authors: ["ollama"]
 image:
   caption: 'Créditos de la imagen: [**Ollama**](https://ollama.com)'
   focal_point: 'smart'
 draft: false
+commentable: false
 ---
 
 Como grupo de investigación enfocado en ciencias sociales y métodos computacionales, Training Data Lab se ha comprometido a compartir nuestros hallazgos e insigths con la comunidad académica más amplia y más allá. Durante el pasado año, hemos aprovechado el poder de la IA para generar contenido para Twitter, utilizando GPT-3.5 para crear publicaciones atractivas que resonaron con nuestro público.

@@ -6,6 +6,7 @@ image:
   caption: 'Picture credit: [**Ollama**](https://ollama.com)'
   focal_point: 'smart'
 draft: false
+commentable: false
 ---
 
 As a research group focused on social science and computational methods, Training Data Lab is committed to sharing our findings and insights with the wider academic community and beyond. Over the past year, we have harnessed the power of AI to generate content for Twitter, using GPT-3.5 to create engaging posts that resonated with our audience.
