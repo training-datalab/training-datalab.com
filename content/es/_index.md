@@ -23,9 +23,9 @@ sections:
           - '0'
   
     - block: markdown
-    content:
-      title: Projecto relevante
-      text: |
+      content:
+        title: Projecto relevante
+        text: |
 
           <div class="ml-3"><a href="/cps-ranking/"><img src="/cps-ranking.png" style="width: 150px; float: right; margin-left: 30px"></a></div> <div class="section-subheading article-title mb-0 mt-0"><a href="/cps-ranking/">Ranking Chileno de Ciencia Política</a></div>
 
