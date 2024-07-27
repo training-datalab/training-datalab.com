@@ -1,6 +1,6 @@
 ---
 title: CPS-Ranking June 2024
-date: 2024-07-09
+date: 2024-06-02
 ## authors: ["bgonzalezbustamante"]
 ## image:
   ## caption: 'Créditos de la imagen: [**Ollama**](https://ollama.com)'
@@ -8,8 +8,6 @@ date: 2024-07-09
 draft: false
 commentable: false
 ---
-
-*Data collected on June 2, 2024*
 
 <!--more-->
 
