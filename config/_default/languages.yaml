@@ -38,6 +38,9 @@ en:
       - name: Publications
         url: publication
         weight: 60
+      - name: CPS-Ranking
+        url: cps-ranking
+        weight: 70
       - name: Working Papers
         url: tufte-working-papers
-        weight: 70
+        weight: 80
