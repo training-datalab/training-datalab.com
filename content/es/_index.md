@@ -21,39 +21,13 @@ sections:
           - '0'
           - 50px
           - '0'
-  
-  - block: collection
-    content:
-      title: Proyecto relevante
-      subtitle:
-      text:
-      count: 2
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: 'flagship'
-      offset: 0
-      order: desc
-      page_type: project
-    design:
-      view: compact
-      columns: '2'
-      flip_alt_rows: true
-      spacing:
-        padding:
-          - 50px
-          - '0'
-          - 50px
-          - '0'
 
   - block: collection
     content:
       title: Noticias recientes
       subtitle:
       text:
-      count: 5
+      count: 2
       filters:
         author: ''
         category: ''
@@ -64,7 +38,7 @@ sections:
       order: desc
       page_type: post
     design:
-      view: list
+      view: showcase
       columns: '2'
       spacing:
         padding:
