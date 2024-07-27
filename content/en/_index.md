@@ -56,7 +56,7 @@ sections:
       page_type: post
     design:
       view: showcase
-      columns: '1'
+      columns: '2'
       flip_alt_rows: true
       spacing:
         padding:
