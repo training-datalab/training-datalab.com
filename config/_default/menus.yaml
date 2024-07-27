@@ -22,6 +22,9 @@ main:
   - name: Publicaciones
     url: publication
     weight: 60
+  - name: CPS-Ranking
+    url: cps-ranking
+    weight: 70
   - name: Documentos de trabajo
     url: tufte-working-papers
-    weight: 70
+    weight: 80
