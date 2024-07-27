@@ -55,7 +55,7 @@ sections:
       order: desc
       page_type: post
     design:
-      view: compact
+      view: card
       columns: '1'
       flip_alt_rows: true
       spacing:
