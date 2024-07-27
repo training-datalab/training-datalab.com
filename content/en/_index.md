@@ -56,7 +56,7 @@ sections:
       page_type: post
     design:
       view: compact
-      columns: '2'
+      columns: '1'
       flip_alt_rows: true
       spacing:
         padding:
