@@ -1,5 +1,13 @@
 ---
 title: Chilean Political Science Ranking
+date: 2020-01-01
+authors: ["bgonzalezbustamante", "ccisternas", "rcuevas", "aolivares"]
+image:
+  focal_point: 'smart'
+tags:
+- flagship
+- research-project
+- active-project
 
 # Listing view
 view: citation
