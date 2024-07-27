@@ -1,7 +1,7 @@
 ---
 title: CPS-Ranking June 2024
 date: 2024-07-09
-authors: ["bgonzalezbustamante"]
+## authors: ["bgonzalezbustamante"]
 ## image:
   ## caption: 'Créditos de la imagen: [**Ollama**](https://ollama.com)'
   ## focal_point: 'smart'
@@ -9,11 +9,13 @@ draft: false
 commentable: false
 ---
 
+*Data collected on June 2, 2024*
+
+<!--more-->
+
 # CPS-Ranking June 2024
 
 *Data collected on June 2, 2024*
-
-<p align="justify"><a href="https://zcmp.eu/e28J" target="_blank">**SUBSCRIBE TO OUR NEWSLETTER!**</a> **Soon we will renew our website and will have several new features.**</p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
