@@ -12,4 +12,8 @@ banner:
 
 <br>
 
-CPS-Ranking
+<h2>About</h2>
+
+<h2>Quarterly Series</h2>
+
+<br>
