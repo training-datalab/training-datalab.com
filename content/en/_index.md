@@ -28,10 +28,9 @@ sections:
       text: |
 
           <a href="/en/cps-ranking/"><img src="/cps-ranking.png" style="width: 150px; float: right; margin-left: 30px"></a>
-          
           <div class="section-subheading article-title mb-0 mt-0"><a href="/en/cps-ranking/">Chilean Political Science Ranking</a></div>
 
-           <p><font size="2.5">This ranking of political science in Chile is one of our flagship projects. It presents a group of researchers at different stages of their careers ordered by H-index and uses the number of accumulated citations as a tie-breaker. It is based on Google Scholar and will soon be five years old with quarterly time series.</font></p>
+           <p><font size="2.75">This ranking of political science in Chile is one of our flagship projects. It presents a group of researchers at different stages of their careers ordered by H-index and uses the number of accumulated citations as a tie-breaker. It is based on Google Scholar and will soon be five years old with quarterly time series.</font></p>
     design:
       columns: '2'
       spacing:
