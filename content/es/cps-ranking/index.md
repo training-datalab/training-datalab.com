@@ -10,7 +10,7 @@ tags:
 - active-project
 
 # Listing view
-view: citation
+view: compact
 
 image:
   focal_point: 'smart'
