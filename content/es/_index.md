@@ -24,7 +24,7 @@ sections:
 
   - block: markdown
     content:
-      title: Flagship Project
+      title: Proyecto relevante
       text: |
 
           <div class="ml-3"><a href="/en/cps-ranking/"><img src="/cps-ranking.png" style="width: 150px; float: right; margin-left: 30px"></a></div> <div class="section-subheading article-title mb-0 mt-0"><a href="/en/cps-ranking/">Chilean Political Science Ranking</a></div>
@@ -56,7 +56,7 @@ sections:
       page_type: post
     design:
       view: showcase
-      columns: '1'
+      columns: '2'
       spacing:
         padding:
           - 50px
