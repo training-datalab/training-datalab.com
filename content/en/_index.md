@@ -27,9 +27,9 @@ sections:
       title: Flagship Project
       text: |
 
-          <img src="/cps-ranking.png" style="width: 150px; float: right; margin-left: 30px"> [<h3>Chilean Political Science Ranking</h3>](/cps-ranking)
+          <img src="/cps-ranking.png" style="width: 150px; float: right; margin-left: 30px"> <h3>[Chilean Political Science Ranking](/cps-ranking)</h3>
 
-           <p><font size="2">This ranking of political science in Chile is one of our flagship projects. It presents a group of researchers at different stages of their careers ordered by H-index and uses the number of accumulated citations as a tie-breaker. It is based on Google Scholar and will soon be five years old with quarterly time series in March, June, September and December.</font></p>
+           <p><font size="2.5">This ranking of political science in Chile is one of our flagship projects. It presents a group of researchers at different stages of their careers ordered by H-index and uses the number of accumulated citations as a tie-breaker. It is based on Google Scholar and will soon be five years old with quarterly time series in March, June, September and December.</font></p>
     design:
       columns: '2'
       spacing:
