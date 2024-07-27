@@ -22,25 +22,16 @@ sections:
           - 50px
           - '0'
   
-  - block: collection
+    - block: markdown
     content:
-      title: Proyecto relevante
-      subtitle:
-      text:
-      count: 2
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: 'flagship'
-      offset: 0
-      order: desc
-      page_type: project
+      title: Projecto relevante
+      text: |
+
+          <div class="ml-3"><a href="/cps-ranking/"><img src="/cps-ranking.png" style="width: 150px; float: right; margin-left: 30px"></a></div> <div class="section-subheading article-title mb-0 mt-0"><a href="/cps-ranking/">Ranking Chileno de Ciencia Política</a></div>
+
+           <p><font size="3">Este <strong>ranking de ciencia política en Chile</strong> es uno de nuestros proyectos emblemáticos. Presenta un grupo de investigadores en distintas etapas de su carrera ordenados por <strong>índice H</strong> y utiliza el número de citas acumuladas como criterio de desempate. Se basa en Google Scholar y pronto cumplirá cinco años con <strong>series temporales trimestrales</strong>.</font></p>           
     design:
-      view: compact
       columns: '2'
-      flip_alt_rows: true
       spacing:
         padding:
           - 50px
@@ -53,7 +44,7 @@ sections:
       title: Noticias recientes
       subtitle:
       text:
-      count: 5
+      count: 2
       filters:
         author: ''
         category: ''
@@ -64,7 +55,7 @@ sections:
       order: desc
       page_type: post
     design:
-      view: list
+      view: compact
       columns: '2'
       spacing:
         padding:
