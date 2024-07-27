@@ -1,12 +1,11 @@
 ---
 title: "Impact Ranking March 2023"
 ## weight:
-date: '2023-03-03'
-slug: 2023-03-03-impact-ranking
+date: 2023-03-03
 authors: ["bgonzalezbustamante"]
 ## categories: []
 ## tags: []
-summary: 'Data collected on March 3, 2023'
+## summary: 'Data collected on March 3, 2023'
 ---
 
 **This project remains active, however, it was transferred to the [Training Data Lab](https://training-datalab.com/projects/cps-ranking) site in June 2023.**
