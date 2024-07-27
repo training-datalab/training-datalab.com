@@ -13,10 +13,6 @@ commentable: false
 
 <!--more-->
 
-# CPS-Ranking June 2024
-
-*Data collected on June 2, 2024*
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
 .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
