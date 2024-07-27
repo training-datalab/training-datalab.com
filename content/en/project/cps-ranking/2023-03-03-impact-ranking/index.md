@@ -2,6 +2,7 @@
 title: "Impact Ranking March 2023"
 ## weight:
 date: '2023-03-03'
+slug: 2023-03-03-impact-ranking
 authors: ["bgonzalezbustamante"]
 ## categories: []
 ## tags: []
