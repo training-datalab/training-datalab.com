@@ -29,7 +29,7 @@ sections:
 
           <div class="ml-3"><a href="/en/cps-ranking/"><img src="/cps-ranking.png" style="width: 150px; float: right; margin-left: 30px"></a></div> <div class="section-subheading article-title mb-0 mt-0"><a href="/en/cps-ranking/">Chilean Political Science Ranking</a></div>
 
-           <p><font size="3">This <strong>ranking of political science in Chile</strong> is one of our flagship projects. It presents a group of researchers at different stages of their careers ordered by <strong>H-index</strong> and uses the number of accumulated citations as a tie-breaker. It is based on Google Scholar and will soon be five years old with <strong>quarterly time series</strong>.</font></p>
+           <p><font size="3">Este ranking de <strong>ciencia política en Chile</strong> es uno de nuestros proyectos emblemáticos. Presenta un grupo de investigadores en distintas etapas de su carrera ordenados por <strong>índice H</strong> y utiliza el número de citas acumuladas como criterio de desempate. Se basa en Google Scholar y pronto cumplirá cinco años con <strong>series temporales trimestrales</strong>.</font></p>
     design:
       columns: '2'
       spacing:
@@ -56,7 +56,7 @@ sections:
       page_type: post
     design:
       view: showcase
-      columns: '2'
+      columns: '1'
       spacing:
         padding:
           - 50px
