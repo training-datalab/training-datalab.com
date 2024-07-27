@@ -13,7 +13,7 @@ doi: ''
 
 publication: '*Tufte Working Papers*, 1, 1-15'
 publication_short: ''
-abstract: 'This working paper tests an alternative algorithm for the legislative periods analysed by [González-Bustamante and Cisternas (2016)](/publication/elites-politicas-en-el-poder-legislativo-chileno-la-camara-de-diputados/) in Chile between 1990 and 2014. Specifically, ForceAtlas2 is used, which is a continuous graph layout algorithm developed by Jacomy et al. (2014) based on a force-directed design. The social composition, partisanship and educational background are analysed in order to identify the level of homogeneity in each legislature.'
+abstract: 'This working paper tests an alternative algorithm for the legislative periods analysed by [González-Bustamante and Cisternas (2016)](https://bgonzalezbustamante.com/publication/elites-politicas-en-el-poder-legislativo-chileno-la-camara-de-diputados/) in Chile between 1990 and 2014. Specifically, ForceAtlas2 is used, which is a continuous graph layout algorithm developed by Jacomy et al. (2014) based on a force-directed design. The social composition, partisanship and educational background are analysed in order to identify the level of homogeneity in each legislature.'
 summary: ''
 featured: no
 url_pdf: ~
@@ -28,7 +28,7 @@ links:
   ## - icon: file-pdf
     ## icon_pack: far
     ## name: PDF
-    ## url: 'https://training-datalab.com/tufte-working-papers/'
+    ## url: ''
   - icon: doi
     icon_pack: ai
     name: DOI
@@ -53,4 +53,4 @@ projects: []
 slides: ''
 ---
 
-This working paper tests an alternative algorithm for the legislative periods analysed by [González-Bustamante and Cisternas (2016)](/publication/elites-politicas-en-el-poder-legislativo-chileno-la-camara-de-diputados/) in Chile between 1990 and 2014. Specifically, ForceAtlas2 is used, which is a continuous graph layout algorithm developed by Jacomy et al. (2014) based on a force-directed design. The social composition, partisanship and educational background are analysed in order to identify the level of homogeneity in each legislature.
+This working paper tests an alternative algorithm for the legislative periods analysed by [González-Bustamante and Cisternas (2016)](https://bgonzalezbustamante.com/publication/elites-politicas-en-el-poder-legislativo-chileno-la-camara-de-diputados/) in Chile between 1990 and 2014. Specifically, ForceAtlas2 is used, which is a continuous graph layout algorithm developed by Jacomy et al. (2014) based on a force-directed design. The social composition, partisanship and educational background are analysed in order to identify the level of homogeneity in each legislature.
