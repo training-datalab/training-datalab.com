@@ -22,17 +22,17 @@ This series is produced entirely in Tufte-LaTeX, inspired by Edward R. Tufte. In
 
 This series has only the editorial team as its executive body. The editorial team comprises the editor, [Bastián González-Bustamante]({{< relref "../authors/bgonzalezbustamante" >}}), who manages the series in its broadest sense, and [Jaquelin Morillo]({{< relref "../authors/jmorillo" >}}), associate editor.
 
-<h2>Intellectual Heritage</h2>
-
-This series of working papers seeks to take up the work of the **Serie Política, Gestión y Políticas Públicas (ISSN 0719-739X)**, published bimonthly by the Centro de Estudios de Gestión y Política Pública in 2016. The main objective of this series was to promote an enriching debate on politics, public management and public policy in Spanish. The editorial team consisted of [Bastián González-Bustamante]({{< relref "../authors/bgonzalezbustamante" >}}), Diego Barría Traverso, Federico Rojas de Galarreta and [Carlos Palacios]({{< relref "../authors/cpalacios" >}}).
-
-The editorial board was made up of renowned academics, including Adriano Codato, Gonzalo Delamaza, Mauricio Dussauge-Laguna, Alfredo Joignant, Florencia Luci and Álvaro Ramírez-Alujas.
-
 <p align = "center", class="powered-by">
   <small>Connected with:</small> &nbsp;&nbsp; <img src="/latindex.png" style="height: 35px; display:inline-block"> &nbsp;&nbsp <img src="/zenodo.png" style="height: 35px; display:inline-block"> &nbsp;&nbsp <img src="/openaire.jpg" style="height: 35px; display:inline-block"> &nbsp;&nbsp <img src="/socarxiv.jpg" style="height: 35px; display:inline-block"> &nbsp;&nbsp <img src="/orcid.png" style="height: 35px; display:inline-block"> &nbsp;&nbsp <img src="/cc.png" style="height: 35px; display:inline-block"> &nbsp;&nbsp <img src="/dora.png" style="height: 35px; display:inline-block">
 </p>
 
 <p align = "center"><small>The full text usage, which is the sum of views and downloads from Zenodo and OSF/SocArXiv, is 2,283 until January 2024.</small></p>
+
+<h3>Intellectual Heritage</h3>
+
+<small>This series of working papers seeks to take up the work of the **Serie Política, Gestión y Políticas Públicas (ISSN 0719-739X)**, published bimonthly by the Centro de Estudios de Gestión y Política Pública in 2016. The main objective of this series was to promote an enriching debate on politics, public management and public policy in Spanish. The editorial team consisted of [Bastián González-Bustamante]({{< relref "../authors/bgonzalezbustamante" >}}), Diego Barría Traverso, Federico Rojas de Galarreta and [Carlos Palacios]({{< relref "../authors/cpalacios" >}}).</small>
+
+<small>The editorial board was made up of renowned academics, including Adriano Codato, Gonzalo Delamaza, Mauricio Dussauge-Laguna, Alfredo Joignant, Florencia Luci and Álvaro Ramírez-Alujas.</small>
 
 <h2>Issues</h2>
 
