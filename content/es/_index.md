@@ -50,7 +50,7 @@ sections:
         category: ''
         exclude_featured: false
         publication_type: ''
-        tag: 'flagship'
+        tag: 'research-project'
       offset: 0
       order: desc
       page_type: project
