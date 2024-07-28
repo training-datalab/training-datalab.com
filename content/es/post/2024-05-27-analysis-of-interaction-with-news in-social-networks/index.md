@@ -7,7 +7,7 @@ image:
   focal_point: 'smart'
 pager: true
 commentable: true
-show_related: true
+show_related: false
 show_breadcrumb: true
 draft: false
 tags:
