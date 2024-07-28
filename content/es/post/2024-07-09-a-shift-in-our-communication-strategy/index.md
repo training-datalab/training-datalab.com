@@ -8,7 +8,8 @@ image:
 pager: true
 commentable: true
 show_related: true
-show_breadcrumb: truedraft: false
+show_breadcrumb: true
+draft: false
 tags:
 - blog
 - large-language-models
