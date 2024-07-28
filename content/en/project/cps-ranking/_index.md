@@ -8,6 +8,11 @@ view: compact
 banner:
   caption: ''
   image: ''
+
+tags:
+- flagship
+- research-project
+- active-project
 ---
 
 <br>
