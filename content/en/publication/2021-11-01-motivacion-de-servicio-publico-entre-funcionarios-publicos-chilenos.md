@@ -3,13 +3,16 @@ title: 'Motivación de servicio público entre funcionarios públicos chilenos'
 date: '2021-11-01'
 slug: motivacion-de-servicio-publico-entre-funcionarios-publicos-chilenos
 ## categories: []
-tags: [wos-article]
+tags: ["wos-article", "civil-service", "exploratory-data-analysis"]
 ## authors: ["ccuevas", "bgonzalezbustamante", "mcalderonorellana", "dbarria"]
 authors:
 - "Carolina Cuevas"
 - "bgonzalezbustamante"
 - "Magdalena Calderón-Orellana"
 - "Diego Barría"
+pager: true
+commentable: true
+show_related: true
 show_breadcrumb: true
 doi: ''
 ## publishDate: '2021-09-14'

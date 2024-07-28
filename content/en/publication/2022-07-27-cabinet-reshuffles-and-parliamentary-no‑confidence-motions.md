@@ -3,12 +3,15 @@ title: 'Cabinet Reshuffles and Parliamentary No‑Confidence Motions'
 date: '2022-07-27'
 slug: cabinet-reshuffles-and-parliamentary-no‑confidence-motions
 ## categories: []
-tags: [wos-article]
+tags: ["wos-article", "executive-politics", "multilevel-models"]
 ## authors: ["tgfleming", "bgonzalezbustamante", "pschleiter"]
 authors:
 - "Thomas G. Fleming"
 - "bgonzalezbustamante"
 - "Petra Schleiter"
+pager: true
+commentable: true
+show_related: true
 show_breadcrumb: true
 doi: ''
 ## publishDate: ''

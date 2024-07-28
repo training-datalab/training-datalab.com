@@ -3,11 +3,14 @@ title: 'Territorial patterns of open e-government: evidence from Chilean municip
 date: '2023-03-17'
 slug: territorial-patterns-of-open-e-government
 ## categories: []
-tags: [scopus-article]
+tags: ["scopus-article", "local-governments", "geospatial models"]
 ## authors: ["bgonzalezbustamante", "daguilar"]
 authors:
 - "bgonzalezbustamante"
 - "daguilar"
+pager: true
+commentable: true
+show_related: true
 show_breadcrumb: true
 doi: ''
 ## publishDate: ''

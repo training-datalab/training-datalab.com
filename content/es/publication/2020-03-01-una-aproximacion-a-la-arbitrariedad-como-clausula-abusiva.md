@@ -3,10 +3,13 @@ title: 'Una aproximación a la arbitrariedad como cláusula abusiva: análisis a
 date: '2020-03-01'
 slug: una-aproximacion-a-la-arbitrariedad-como-clausula-abusiva
 ## categories: []
-tags: [book-chapter]
+tags: ["book-chapter", "legislative-studies"]
 ## authors: ["daguilar"]
 authors:
 - "daguilar"
+pager: true
+commentable: true
+show_related: true
 show_breadcrumb: true
 doi: ''
 ## publishDate: ''

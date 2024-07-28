@@ -3,11 +3,14 @@ title: ' Data Set on Local Government Indicators in Chile'
 date: '2023-03-17'
 slug: data-set-on-local-government-indicators-in-chile
 ## categories: []
-tags: [dataset]
+tags: ["dataset", "local-governments", "data-mining"]
 ## authors: ["bgonzalezbustamante", "daguilar"]
 authors:
 - "bgonzalezbustamante"
 - "daguilar"
+pager: true
+commentable: true
+show_related: true
 show_breadcrumb: true
 doi: ''
 ## publishDate: ''

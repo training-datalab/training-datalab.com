@@ -3,11 +3,14 @@ title: 'Élites políticas en América Latina: Socialización, trayectorias y ca
 date: '2021-12-30'
 slug: elites-politicas-en-america-latina-socializacion-trayectorias-y-capitales
 ## categories: []
-tags: [scielo-article]
+tags: ["scielo-article", "elites"]
 ## authors: ["bgonzalezbustamante", "fluci"]
 authors:
 - "bgonzalezbustamante"
 - "Florencia Luci"
+pager: true
+commentable: true
+show_related: true
 show_breadcrumb: true
 doi: ''
 ## publishDate: '2019-12-15T20:47:28Z'

@@ -3,7 +3,7 @@ title: 'Nuevos desafíos, enfoques y perspectivas para estudiar élites polític
 date: '2020-07-24'
 slug: nuevos-desafios-enfoques-y-perspectivas-para-estudiar-elites-politicas
 ## categories: []
-tags: [scopus-article]
+tags: ["scopus-article", "elites"]
 ## authors: ["aolivares", "bgonzalezbustamante", "storo", "jcarellano", "ayanesrojas", "jzuritatapia", "avlopes", "crobledoguzman", "jbcanavesisosa"]
 authors:
 - "aolivares"
@@ -15,6 +15,9 @@ authors:
 - "Amanda Vitoria Lopes"
 - "Claudio Robledo Guzmán"
 - "Juan Bautista Canavesi Sosa"
+pager: true
+commentable: true
+show_related: true
 show_breadcrumb: true
 doi: ''
 ## publishDate: ''
