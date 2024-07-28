@@ -4,7 +4,11 @@ date: '2023-03-17'
 slug: data-set-on-local-government-indicators-in-chile
 ## categories: []
 tags: [dataset]
-authors: ["bgonzalezbustamante", "daguilar"]
+## authors: ["bgonzalezbustamante", "daguilar"]
+authors:
+- "bgonzalezbustamante"
+- "daguilar"
+show_breadcrumb: true
 doi: ''
 ## publishDate: ''
 

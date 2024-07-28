@@ -4,7 +4,10 @@ date: '2021-12-30'
 slug: hibridacion-digital-en-el-cono-sur
 ## categories: []
 tags: [latindex-article]
-authors: ["bgonzalezbustamante"]
+## authors: ["bgonzalezbustamante"]
+authors:
+- "bgonzalezbustamante"
+show_breadcrumb: true
 doi: ''
 ## publishDate: '2019-12-15T20:47:28Z'
 
