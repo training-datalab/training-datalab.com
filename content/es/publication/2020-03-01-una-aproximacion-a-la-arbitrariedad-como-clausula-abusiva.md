@@ -4,7 +4,10 @@ date: '2020-03-01'
 slug: una-aproximacion-a-la-arbitrariedad-como-clausula-abusiva
 ## categories: []
 tags: [book-chapter]
-authors: ["daguilar"]
+## authors: ["daguilar"]
+authors:
+- "daguilar"
+show_breadcrumb: true
 doi: ''
 ## publishDate: ''
 
