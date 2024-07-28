@@ -41,7 +41,7 @@ sections:
 
   - block: collection
     content:
-      title: Noticias y columnas
+      title: Blog
       subtitle:
       text:
       count: 2

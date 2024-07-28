@@ -41,7 +41,7 @@ sections:
 
   - block: collection
     content:
-      title: News \& Columns
+      title: Blog
       subtitle:
       text:
       count: 2

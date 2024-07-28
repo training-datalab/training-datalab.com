@@ -1,5 +1,5 @@
 ---
-title: Noticias y columnas
+title: Blog
 
 # Listing view
 view: compact
