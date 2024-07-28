@@ -44,6 +44,4 @@ Please send an email to cps-ranking@training-datalab.com.
 
 [González-Bustamante, B.]({{< relref "../authors/bgonzalezbustamante" >}}), [Cisternas, C.]({{< relref "../authors/ccisternas" >}}), [Cuevas, R.]({{< relref "../authors/rcuevas" >}}), & [Olivares, A.](({{< relref "../authors/aolivares" >}})) (2024). Chilean Political Science Ranking. Dataset, Leiden University, Universidad Diego Portales and Training Data Lab. http://doi.org/10.17605/OSF.IO/C8PRA.
 
-<h1>Quarterly Series</h1>
-
-<br>
+<h2>Quarterly Series</h2>
