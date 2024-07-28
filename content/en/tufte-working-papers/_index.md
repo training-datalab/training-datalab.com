@@ -30,6 +30,8 @@ This series has only the editorial team as its executive body. The editorial tea
 
 <small><strong>Intellectual Heritage.</strong> This series of working papers seeks to take up the work of the **Serie Política, Gestión y Políticas Públicas (ISSN 0719-739X)**, published bimonthly by the Centro de Estudios de Gestión y Política Pública in 2016. The main objective of this series was to promote an enriching debate on politics, public management and public policy in Spanish. The editorial team consisted of [Bastián González-Bustamante]({{< relref "../authors/bgonzalezbustamante" >}}), Diego Barría Traverso, Federico Rojas de Galarreta and [Carlos Palacios]({{< relref "../authors/cpalacios" >}}). The editorial board was made up of renowned academics, including Adriano Codato, Gonzalo Delamaza, Mauricio Dussauge-Laguna, Alfredo Joignant, Florencia Luci and Álvaro Ramírez-Alujas.</small>
 
+<br>
+
 <h2>Issues</h2>
 
 <br>
