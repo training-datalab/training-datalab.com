@@ -28,7 +28,7 @@ This series has only the editorial team as its executive body. The editorial tea
 
 <p align = "center"><small>The full text usage, which is the sum of views and downloads from Zenodo and OSF/SocArXiv, is 2,283 until January 2024.</small></p>
 
-<h3>Intellectual Heritage</h3>
+<strong>Intellectual Heritage</strong>
 
 <small>This series of working papers seeks to take up the work of the **Serie Política, Gestión y Políticas Públicas (ISSN 0719-739X)**, published bimonthly by the Centro de Estudios de Gestión y Política Pública in 2016. The main objective of this series was to promote an enriching debate on politics, public management and public policy in Spanish. The editorial team consisted of [Bastián González-Bustamante]({{< relref "../authors/bgonzalezbustamante" >}}), Diego Barría Traverso, Federico Rojas de Galarreta and [Carlos Palacios]({{< relref "../authors/cpalacios" >}}).</small>
 
