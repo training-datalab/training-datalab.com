@@ -4,7 +4,10 @@ date: '2024-01-01'
 slug: power-hierarchies-and-visibility-in-the-news
 ## categories: []
 tags: [wos-article]
-authors: ["xorchard", "bgonzalezbustamante"]
+## authors: ["xorchard", "bgonzalezbustamante"]
+authors:
+- "Ximena Orchard"
+- "bgonzalezbustamante"
 doi: ''
 ## publishDate: ''
 
