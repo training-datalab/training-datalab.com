@@ -25,7 +25,11 @@ all_day: false
 publishDate: '2023-10-12T00:00:00Z'
 
 authors: ["ollama"]
-tags: []
+pager: true
+commentable: true
+show_related: false
+show_breadcrumb: true
+tags: ["workshop"]
 
 # Is this a featured talk? (true/false)
 featured: false
