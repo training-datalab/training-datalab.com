@@ -41,7 +41,7 @@ sections:
 
   - block: collection
     content:
-      title: Noticias recientes
+      title: Noticias y columnas
       subtitle:
       text:
       count: 2

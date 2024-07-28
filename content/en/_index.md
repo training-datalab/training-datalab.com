@@ -41,7 +41,7 @@ sections:
 
   - block: collection
     content:
-      title: Recent News
+      title: News \& Columns
       subtitle:
       text:
       count: 2
@@ -55,7 +55,7 @@ sections:
       order: desc
       page_type: post
     design:
-      view: showcase
+      view: compact
       columns: '2'
       flip_alt_rows: true
       spacing:
