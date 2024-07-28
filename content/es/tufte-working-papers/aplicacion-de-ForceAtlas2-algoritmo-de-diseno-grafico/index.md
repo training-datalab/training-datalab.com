@@ -3,7 +3,7 @@ title: 'Aplicación de ForceAtlas2, un algoritmo de diseño gráfico continuo, p
 date: '2020-09-13'
 slug: aplicacion-de-forceatlas2-algoritmo-de-diseno-grafico-continuo
 ## categories: []
-tags: ["tufte-working-paper", "legislative-studies", "social-network-analysis"]
+tags: ["tufte-working-paper"]
 ## authors: ["bgonzalezbustamante", "ccisternas"]
 authors:
 - "bgonzalezbustamante"

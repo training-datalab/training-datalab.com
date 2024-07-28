@@ -3,7 +3,7 @@ title: 'Democracia y acuerdos de libre comercio: Una relación más de mercado q
 date: '2022-12-31'
 slug: democracia-y-acuerdos-de-libre-comercio
 ## categories: []
-tags: ["tufte-working-paper", "international-relations", "multilevel-models"]
+tags: ["tufte-working-paper"]
 ## authors: ["rcuevas"]
 authors:
 - "rcuevas"
