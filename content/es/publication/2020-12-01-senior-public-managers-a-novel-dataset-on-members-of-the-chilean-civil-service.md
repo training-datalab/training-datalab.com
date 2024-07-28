@@ -3,7 +3,7 @@ title: 'Altos directivos públicos: Un nuevo conjunto de datos de miembros del s
 date: '2020-12-01'
 slug: senior-public-managers-a-novel-dataset-on-members-of-the-chilean-civil-service
 ## categories: []
-tags: ["scopus-article", "civil-service", "data-mining"]
+tags: ["scopus-article"]
 ## authors: ["bgonzalezbustamante", "mastete", "borvenes"]
 authors:
 - "bgonzalezbustamante"
