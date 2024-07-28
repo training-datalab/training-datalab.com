@@ -26,7 +26,7 @@ en:
       - name: Team
         url: people
         weight: 20
-      - name: News \& Columns
+      - name: News & Columns
         url: post
         weight: 30
       - name: Projects
