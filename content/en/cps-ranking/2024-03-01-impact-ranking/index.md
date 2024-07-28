@@ -1,17 +1,17 @@
 ---
 title: CPS-Ranking March 2024
 date: 2024-03-01
-## authors: ["bgonzalezbustamante"]
+authors: ["bgonzalezbustamante", "aolivares", "ccisternas", "rcuevas"]
 ## image:
   ## caption: 'Créditos de la imagen: [**Ollama**](https://ollama.com)'
   ## focal_point: 'smart'
 draft: false
 commentable: false
+tags:
+- cps-ranking
 ---
 
-<!--more-->
-
-| Ranking | Name                                           | ID             | Affiliation |  Cites | H\_Index | Quartile |
+| Ranking | Name                                           | ID             | Affiliation |  Cites | H-Index | Quartile |
 |:-------:|------------------------------------------------|----------------|-------------|:------:|:--------:|:--------:|
 |   $1$   | Cristóbal Rovira Kaltwasser                    | 4iRjwbMAAAAJ   | PUC         | 16,244 |   $43$   |    $1$   |
 |   $2$   | David Altman                                   | xWbhhH8AAAAJ   | PUC-VDEM    | 10,740 |   $43$   |    $1$   |
@@ -97,7 +97,7 @@ commentable: false
 |   $82$  | Marcelo Mella Polanco                          | qdm2fHgAAAAJ   | USACH       |   277  |   $10$   |    $2$   |
 |   $83$  | Kenneth Bunker                                 | kFHaW6wAAAAJ   | USS         |   271  |   $10$   |    $2$   |
 |   $84$  | Vesna Mandakovic                               | VqjxJ4gAAAAJ   | UDD         |   622  |    $9$   |    $2$   |
-|   $85$  | Ignacio Cienfuegos  			   | desdAPoAAAAJ   | UAH         |   516  |    $9$   |    $2$   |
+|   $85$  | Ignacio Cienfuegos  			                     | desdAPoAAAAJ   | UAH         |   516  |    $9$   |    $2$   |
 |   $86$  | Rodolfo Disi Pavlic                            | xFcbnmMAAAAJ   | USACH       |   449  |    $9$   |    $2$   |
 |   $87$  | Lorena Oyarzún Serrano                         | 5kiG1xgAAAAJ   | UCHILE      |   339  |    $9$   |    $2$   |
 |   $88$  | Armando Cartes Montory                         | bjlo-TEAAAAJ   | UDEC        |   265  |    $9$   |    $2$   |
@@ -226,6 +226,3 @@ commentable: false
 ### How to download and cite this dataset?
 
 - González-Bustamante, B., Olivares, A., Cisternas, C., & Cuevas, R. (2024). Chilean Political Science Ranking. Dataset, Leiden University, Universidad Diego Portales and Training Data Lab. <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">http://doi.org/10.17605/OSF.IO/C8PRA</a>.
-
-<br />
-<small><a href="https://training-datalab.com/projects/cps-ranking">Further details about this project</a>.</small>
