@@ -41,6 +41,32 @@ sections:
 
   - block: collection
     content:
+      title: Flagship Project
+      subtitle:
+      text:
+      count: 1
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: 'flagship'
+      offset: 0
+      order: desc
+      page_type: project
+    design:
+      view: compact
+      columns: '2'
+      flip_alt_rows: true
+      spacing:
+        padding:
+          - 50px
+          - '0'
+          - 50px
+          - '0'
+
+  - block: collection
+    content:
       title: Noticias recientes
       subtitle:
       text:
