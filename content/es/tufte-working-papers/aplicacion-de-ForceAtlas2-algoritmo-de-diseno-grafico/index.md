@@ -8,7 +8,7 @@ tags: ["tufte-working-paper", "legislative-studies", "social-network-analysis"]
 authors:
 - "bgonzalezbustamante"
 - "ccisternas"
-pager: false
+pager: true
 commentable: true
 show_related: true
 show_breadcrumb: true

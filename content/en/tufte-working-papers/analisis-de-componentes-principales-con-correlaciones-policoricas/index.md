@@ -7,7 +7,7 @@ tags: ["tufte-working-paper", "political-communication", " exploratory-data-anal
 ## authors: ["bgonzalezbustamante"]
 authors:
 - "bgonzalezbustamante"
-pager: false
+pager: true
 commentable: true
 show_related: true
 show_breadcrumb: true
