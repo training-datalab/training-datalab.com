@@ -8,10 +8,10 @@ image:
 pager: true
 commentable: true
 show_related: true
-show_breadcrumb: true
-draft: false
+show_breadcrumb: truedraft: false
 tags:
-- news
+- blog
+- large-language-models
 ---
 
 Como grupo de investigación enfocado en ciencias sociales y métodos computacionales, Training Data Lab se ha comprometido a compartir nuestros hallazgos e insigths con la comunidad académica más amplia y más allá. Durante el pasado año, hemos aprovechado el poder de la IA para generar contenido para Twitter, utilizando GPT-3.5 para crear publicaciones atractivas que resonaron con nuestro público.
