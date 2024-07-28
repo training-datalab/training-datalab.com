@@ -1,13 +1,14 @@
 ---
 title: CPS-Ranking March 2024
 date: 2024-03-01
-authors: ["bgonzalezbustamante", "aolivares", "ccisternas", "rcuevas"]
+## authors: ["bgonzalezbustamante", "aolivares", "ccisternas", "rcuevas"]
 ## image:
   ## caption: 'Créditos de la imagen: [**Ollama**](https://ollama.com)'
   ## focal_point: 'smart'
 pager: true
 commentable: true
 show_related: true
+show_breadcrumb: true
 draft: false
 tags:
 - cps-ranking
