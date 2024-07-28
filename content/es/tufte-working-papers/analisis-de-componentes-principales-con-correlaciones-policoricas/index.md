@@ -7,6 +7,9 @@ tags: ['tufte-working-paper']
 ## authors: ["bgonzalezbustamante"]
 authors:
 - "bgonzalezbustamante"
+pager: true
+commentable: true
+show_related: true
 show_breadcrumb: true
 doi: ''
 ## publishDate: ''
