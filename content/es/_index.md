@@ -68,7 +68,7 @@ sections:
   - block: collection
     content:
       title: Publicaciones destacadas
-      subtitle: Investigación académica
+      subtitle: Artículos en revistas científicas
       text: ""
       count: 5
       filters:

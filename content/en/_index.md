@@ -69,7 +69,7 @@ sections:
   - block: collection
     content:
       title: Featured Publications
-      subtitle: Academic Research
+      subtitle: Scientific journal articles
       text: ""
       count: 5
       filters:
