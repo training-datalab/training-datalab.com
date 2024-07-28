@@ -19,7 +19,7 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: Investigadora Asociada
+role: Investigadora Doctoral
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +27,7 @@ organizations:
   url: "https://training-datalab.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Investigadora Asociada en Training Data Lab, Chile.
+bio:  Investigadora doctoral en la Universidad del Desarrollo, Chile. Investigadora Asociada en Training Data Lab, Chile.
 
 interests:
 - Comportamiento electoral

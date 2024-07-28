@@ -19,7 +19,7 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: Research Associate
+role:  PhD Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +27,7 @@ organizations:
   url: "https://training-datalab.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Associate in Training Data Lab, Chile.
+bio:  PhD Researcher at the Universidad del Desarrollo, Chile. Research Associate in Training Data Lab, Chile.
 
 interests:
 - Electoral behaviour

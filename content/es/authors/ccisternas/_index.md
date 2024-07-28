@@ -19,7 +19,7 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: Investigadora doctoral
+role: Investigadora Doctoral
 
 # Organizations/Affiliations
 organizations:

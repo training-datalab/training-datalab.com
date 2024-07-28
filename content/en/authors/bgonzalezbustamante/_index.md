@@ -75,9 +75,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?&user=UknWOrEAAAAJ
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Bastian_Gonzalez-Bustamante
+## - icon: researchgate
+  ## icon_pack: fab
+  ## link: https://www.researchgate.net/profile/Bastian_Gonzalez-Bustamante
 ## - icon: academia
   ## icon_pack: ai
   ## link: https://oxford.academia.edu/GonzalezBustamante
