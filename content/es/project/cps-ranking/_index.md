@@ -2,15 +2,12 @@
 title: CPS-Ranking
 date: 2020-01-01
 authors: ["bgonzalezbustamante", "ccisternas", "rcuevas", "aolivares"]
-
 # Listing view
 ## view: compact
-
 # Optional banner image (relative to `assets/media/` folder).
 ## banner:
   ## caption: ''
   ## image: ''
-
 image:
   focal_point: 'smart'
 tags:
