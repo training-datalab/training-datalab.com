@@ -8,7 +8,7 @@ tags: [scopus-article]
 authors:
 - "aolivares"
 - "bgonzalezbustamante"
-- "Sergio Toro",
+- "Sergio Toro"
 - "Juan Carlos Arellano"
 - "Anabel Yanes-Rojas"
 - "José Zurita-Tapia"
