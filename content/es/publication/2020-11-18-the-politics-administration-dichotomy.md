@@ -19,7 +19,7 @@ publication_types: ['article-journal']
 
 publication: '*Bulletin of Latin American Research, 39*(5), 582-597'
 publication_short: ''
-abstract: 'This article presents a case study of the Chilean executive, focusing on the civil service in the period after the Pinochet dictatorship and the transition of the country to democracy. It provides synchronic and diachronic analysis of the organisation of the executive, public employment and the civil service. Both the qualitative description and statistical evidence reveal the establishment of a flexible regime of public employment with low levels of stability in senior public management positions.'
+abstract: 'Este artículo presenta un estudio de caso del ejecutivo chileno, centrándose en la función pública en el periodo posterior a la dictadura de Pinochet y la transición del país a la democracia. Se analiza de forma sincrónica y diacrónica la organización del ejecutivo, el empleo público y la función pública. Tanto la descripción cualitativa como la evidencia estadística revelan el establecimiento de un régimen flexible de empleo público con bajos niveles de estabilidad en los puestos de alta dirección pública.'
 summary: ''
 featured: no
 url_pdf: ~

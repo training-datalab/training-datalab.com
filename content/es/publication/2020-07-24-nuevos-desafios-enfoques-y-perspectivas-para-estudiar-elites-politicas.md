@@ -27,7 +27,7 @@ publication_types: ['article-journal']
 
 publication: '*Iberoamericana. América Latina - España - Portugal, XX*(74), 229-259'
 publication_short: ''
-abstract: 'This article analyses some theoretical difficulties briefly and offers a study object overview and the recent lines of research in the framework of the study of governmental political elites in Latin American. Subsequently, some methodological challenges and brief conclusions are presented.'
+abstract: 'En este artículo se analizan brevemente algunas dificultades teóricas y se ofrece una visión general del objeto de estudio y de las líneas de investigación recientes en el marco del estudio de las élites políticas gubernamentales en América Latina. Posteriormente, se presentan algunos retos metodológicos y unas breves conclusiones.'
 summary: ''
 featured: no
 url_pdf: ~

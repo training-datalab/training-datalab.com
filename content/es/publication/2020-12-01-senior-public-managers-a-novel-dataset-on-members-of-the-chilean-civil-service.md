@@ -1,7 +1,7 @@
 ---
 title: 'Altos directivos públicos: Un nuevo conjunto de datos de miembros del servicio civil chileno'
 date: '2020-12-01'
-slug: senior-public-managers-a-novel-dataset-on-members-of-the-chilean-civil-service
+slug: altos-directivos-publicos-un-nuevo-conjunto-de-datos-de-miembros-del-servicio-civil-chileno
 ## categories: []
 tags: ["scopus-article"]
 ## authors: ["bgonzalezbustamante", "mastete", "borvenes"]
@@ -21,7 +21,7 @@ publication_types: ['article-journal']
 
 publication: '*Revista de Gestión Pública, IX*(2), 151-169'
 publication_short: ''
-abstract: 'Where do appointments based on political trust end and meritocratic recruitments begin? This question dates to the end of the nineteenth century and is linked to civil service systems’ modernisation processes in the twentieth century. The Chilean civil service has been an example of modernisation in Latin America over the past decades, however, the existing evidence is descriptive and mainly evaluates its coverage. There is no clear, systematic empirical evidence on its stability. This paper presents a novel data set of senior public managers in Chile during the 2009-2017 period. The focus of this methodological article is demonstrating how data mining and machine learning processes could be useful in order to create the data set and its potential applications. First, we present how we created and validated this data set. Then, we present some descriptive applications and nonparametric survival estimates with Kaplan-Meier curves. We hope that this data set will be a relevant resource for deepening understanding of the Chilean civil service and making different comparisons to extend this research line on political and government personnel.'
+abstract: 'Este artículo presenta un conjunto de datos novedoso de altos directivos públicos chilenos durante el período 2009-2017. El foco de este artículo metodológico es demostrar cómo el uso de procesos de minería de datos y aprendizaje automático pueden ser útiles para la creación del conjunto de datos y sus potenciales aplicaciones. Primero, presentamos cómo creamos y validamos esta base. Luego, presentamos algunas aplicaciones descriptivas y estimaciones no-paramétricas de supervivencia con curvas Kaplan-Meier. Esperamos que este conjunto de datos sea un recurso relevante para profundizar la compresión del funcionamiento del servicio civil en Chile y realizar distintas comparaciones que permitan ampliar la línea de investigación sobre personal político y gubernamental.'
 summary: ''
 featured: no
 url_pdf: ~
