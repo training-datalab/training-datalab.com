@@ -24,7 +24,8 @@ sections:
 
   - block: markdown
     content:
-      title: Flagship Project
+      title: Ranking
+      subtitle: Flagship Project
       text: |
 
           <div class="ml-3"><a href="/en/cps-ranking/"><img src="/cps-ranking.png" style="width: 150px; float: right; margin-left: 30px"></a></div> <div class="section-subheading article-title mb-0 mt-0"><a href="/en/cps-ranking/">Chilean Political Science Ranking</a></div>
@@ -68,6 +69,7 @@ sections:
   - block: collection
     content:
       title: Featured Publications
+      subtitle: Academic Research
       text: ""
       count: 5
       filters:
