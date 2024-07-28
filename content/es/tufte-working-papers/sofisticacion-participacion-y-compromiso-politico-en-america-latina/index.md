@@ -4,7 +4,10 @@ date: '2021-12-31'
 slug: sofisticacion-participacion-y-compromiso-politico-en-america-latina
 ## categories: []
 tags: ['tufte-working-paper']
-authors: ["bgonzalezbustamante"]
+## authors: ["bgonzalezbustamante"]
+authors:
+- "bgonzalezbustamante"
+show_breadcrumb: true
 doi: ''
 ## publishDate: ''
 

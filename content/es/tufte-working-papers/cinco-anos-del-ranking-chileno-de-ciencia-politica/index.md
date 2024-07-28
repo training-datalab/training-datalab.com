@@ -4,7 +4,10 @@ date: '2024-07-02'
 slug: cinco-anos-del-ranking-chileno-de-ciencia-politica
 ## categories: []
 tags: ['tufte-working-paper', 'cps-ranking']
-authors: ["bgonzalezbustamante"]
+## authors: ["bgonzalezbustamante"]
+authors:
+- "bgonzalezbustamante"
+show_breadcrumb: true
 doi: ''
 ## publishDate: ''
 

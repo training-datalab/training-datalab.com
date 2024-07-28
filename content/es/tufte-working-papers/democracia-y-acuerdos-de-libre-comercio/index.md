@@ -4,7 +4,10 @@ date: '2022-12-31'
 slug: democracia-y-acuerdos-de-libre-comercio
 ## categories: []
 tags: ['tufte-working-paper']
-authors: ["rcuevas"]
+## authors: ["rcuevas"]
+authors:
+- "rcuevas"
+show_breadcrumb: true
 doi: ''
 ## publishDate: ''
 
