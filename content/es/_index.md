@@ -42,7 +42,7 @@ sections:
   - block: collection
     content:
       title: Blog
-      subtitle: Noticias y columnas
+      subtitle: "Noticias y columnas"
       text:
       count: 2
       filters:
@@ -87,7 +87,6 @@ sections:
   - block: markdown
     content:
       title: Contacto
-      subtitle: contact
       subtitle: "contact@training-datalab.com <br> [Suscríbete a nuestro boletín trimestral](https://zcmp.eu/e28J)"
     design:
       columns: '1'
