@@ -5,8 +5,13 @@ authors: ["ollama"]
 image:
   caption: 'Picture credit: [**Unsplash**](https://unsplash.com/photos/gray-concrete-tower-beside-house-7b0EXl2NaE8)'
   focal_point: 'smart'
+pager: true
+commentable: true
+show_related: true
+show_breadcrumb: true
 draft: false
-commentable: false
+tags:
+- blog
 ---
 
 Between 15 and 17 May, our researchers [Bastián González-Bustamante]({{< relref "../authors/bgonzalezbustamante" >}}) and [Carla Cisternas]({{< relref "../authors/ccisternas" >}}), in collaboration with Ximena Orchard, presented a paper entitled "Amplification, contestation, and hostile engagement with news in social media" at the conference Medios de Gobernanza en América Latina, España y Portugal, held in Valencia and also online.
