@@ -15,6 +15,9 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
 # Role/position
 role: Investigador Postdoctoral
 
