@@ -41,32 +41,6 @@ sections:
 
   - block: collection
     content:
-      title: Flagship Project
-      subtitle:
-      text:
-      count: 2
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: 'research-project'
-      offset: 0
-      order: desc
-      page_type: project
-    design:
-      view: compact
-      columns: '2'
-      flip_alt_rows: true
-      spacing:
-        padding:
-          - 50px
-          - '0'
-          - 50px
-          - '0'
-
-  - block: collection
-    content:
       title: Noticias recientes
       subtitle:
       text:
