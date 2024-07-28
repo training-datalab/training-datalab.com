@@ -4,7 +4,10 @@ date: '2023-12-29'
 slug: analisis-de-componentes-principales-con-correlaciones-policoricas
 ## categories: []
 tags: ['tufte-working-paper']
-authors: ["bgonzalezbustamante"]
+## authors: ["bgonzalezbustamante"]
+authors:
+- "bgonzalezbustamante"
+show_breadcrumb: true
 doi: ''
 ## publishDate: ''
 

@@ -4,7 +4,11 @@ date: '2020-09-13'
 slug: aplicacion-de-forceatlas2-algoritmo-de-diseno-grafico-continuo
 ## categories: []
 tags: ['working-paper']
-authors: ["bgonzalezbustamante", "ccisternas"]
+## authors: ["bgonzalezbustamante", "ccisternas"]
+authors:
+- "bgonzalezbustamante"
+- "ccisternas"
+show_breadcrumb: true
 doi: ''
 ## publishDate: ''
 
