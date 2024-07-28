@@ -6,7 +6,6 @@ authors: ["bgonzalezbustamante", "aolivares", "ccisternas", "rcuevas"]
   ## caption: 'Créditos de la imagen: [**Ollama**](https://ollama.com)'
   ## focal_point: 'smart'
 pager: true
-editable: true
 commentable: true
 show_related: true
 draft: false
