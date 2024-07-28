@@ -4,7 +4,10 @@ date: '2020-11-18'
 slug: the-politics-administration-dichotomy
 ## categories: []
 tags: [wos-article]
-authors: ["bgonzalezbustamante"]
+## authors: ["bgonzalezbustamante"]
+authors:
+- "bgonzalezbustamante"
+show_breadcrumb: true
 doi: ''
 ## publishDate: ''
 
