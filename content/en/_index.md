@@ -42,7 +42,7 @@ sections:
   - block: collection
     content:
       title: Blog
-      subtitle: "News and Columns"
+      subtitle: 
       text:
       count: 2
       filters:
