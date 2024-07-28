@@ -6,9 +6,9 @@ image:
   caption: 'Picture credit: [**Ollama**](https://ollama.com)'
   focal_point: 'smart'
 pager: true
-editable: true
 commentable: true
 show_related: true
+show_breadcrumb: true
 draft: false
 tags:
 - news
