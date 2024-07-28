@@ -5,11 +5,16 @@ authors: ["bgonzalezbustamante", "aolivares", "ccisternas", "rcuevas"]
 ## image:
   ## caption: 'Créditos de la imagen: [**Ollama**](https://ollama.com)'
   ## focal_point: 'smart'
+pager: true
+editable: true
+commentable: true
+show_related: true
 draft: false
-commentable: false
 tags:
 - cps-ranking
 ---
+
+<!--more-->
 
 | Ranking | Name                                           | ID             | Affiliation |  Cites | H-Index | Quartile |
 |:-------:|------------------------------------------------|----------------|-------------|:------:|:--------:|:--------:|
