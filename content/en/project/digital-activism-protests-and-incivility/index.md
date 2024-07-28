@@ -4,6 +4,10 @@ date: 2023-04-22
 authors: ["bgonzalezbustamante"]
 image:
   focal_point: 'smart'
+pager: true
+commentable: true
+show_related: false
+show_breadcrumb: true
 tags:
 - research-project
 - active-project
