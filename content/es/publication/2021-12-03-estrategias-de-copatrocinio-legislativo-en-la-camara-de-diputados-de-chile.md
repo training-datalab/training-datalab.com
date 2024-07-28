@@ -4,7 +4,10 @@ date: '2021-12-03'
 slug: estrategias-de-copatrocinio-legislativo-en-la-camara-de-diputados-de-chile
 ## categories: []
 tags: [wos-article]
-authors: ["ccisternas"]
+## authors: ["ccisternas"]
+authors:
+- "ccisternas"
+show_breadcrumb: true
 doi: ''
 ## publishDate: ''
 
