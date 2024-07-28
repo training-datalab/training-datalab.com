@@ -1,7 +1,7 @@
 ---
 # Generate Decap CMS
 type: decap_cms
-private: false
+private: true
 outputs:
   - decap_cms_config
   - HTML
