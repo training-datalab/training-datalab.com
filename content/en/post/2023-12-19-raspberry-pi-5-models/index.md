@@ -7,13 +7,11 @@ image:
   focal_point: 'smart'
 pager: true
 commentable: true
-show_related: true
+show_related: false
 show_breadcrumb: true
 draft: false
 tags:
 - blog
-- machine-learning
-- large-language-models
 ---
 
 At Training Data Lab, we focus on developing innovative solutions that combine the power of deep learning and energy efficiency. We recently decided to use Raspberry Pi 5 to deploy deep learning and language models such as Llama and Mistral for our research projects. This text will explain how this choice will allow us to reduce costs and carbon footprint associated with cloud computing.

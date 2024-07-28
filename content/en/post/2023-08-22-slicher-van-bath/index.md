@@ -6,7 +6,7 @@ image:
   caption: 'Picture credit: **Luciana Solar**'
 pager: true
 commentable: true
-show_related: true
+show_related: false
 show_breadcrumb: true
 draft: true
 tags:

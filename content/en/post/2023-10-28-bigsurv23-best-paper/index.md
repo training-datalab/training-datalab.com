@@ -4,7 +4,7 @@ date: 2023-10-28
 authors: ["ollama"]
 pager: true
 commentable: true
-show_related: true
+show_related: false
 show_breadcrumb: true
 draft: true
 tags:
