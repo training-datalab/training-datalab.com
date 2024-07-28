@@ -10,7 +10,7 @@ authors:
 - "Florencia Luci"
 pager: true
 commentable: true
-show_related: true
+show_related: false
 show_breadcrumb: true
 doi: ''
 ## publishDate: '2019-12-15T20:47:28Z'

@@ -12,7 +12,7 @@ authors:
 - "Diego Barría"
 pager: true
 commentable: true
-show_related: true
+show_related: false
 show_breadcrumb: true
 doi: ''
 ## publishDate: '2021-09-14'

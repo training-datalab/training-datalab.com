@@ -11,7 +11,7 @@ authors:
 - "Petra Schleiter"
 pager: true
 commentable: true
-show_related: true
+show_related: false
 show_breadcrumb: true
 doi: ''
 ## publishDate: ''
