@@ -22,6 +22,11 @@ Furthermore, a **consistency index (C-Index)** was calculated on March 2021. C-I
 
 We would like to thank **Patricio Navia** for his valuable comments and contributions.
 
+<h2>Researchers to be Added</h2>
+
+1. José Luis Saldaña Castro (ID bLsqv30AAAAJ)
+2. Alexis Marambio (ID s2XicxcAAAAJ)
+
 <h2>Disclaimer</h2>
 
 Please bear in mind that this citation data comes from own user-created profiles on Google Scholar, whose coverage is not as rigorous as Scopus or Web of Science. In addition, the main ranking criterion is the H-Index, which has some limitations and is subject to bias and manipulation in some cases. Our quarterly ranking elaboration does not involve rearranging data, we focus on ordering the list by H-Index and citation.

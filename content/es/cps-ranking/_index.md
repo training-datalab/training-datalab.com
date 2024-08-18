@@ -26,6 +26,11 @@ Agradecemos a **Patricio Navia** sus valiosos comentarios y contribuciones.
 
 Tenga en cuenta que estos datos de citas proceden de perfiles creados por los propios usuarios en Google Scholar, cuya cobertura no es tan rigurosa como la de Scopus o Web of Science. Además, el principal criterio de clasificación es el índice H, que tiene algunas limitaciones y está sujeto a sesgos y manipulaciones en algunos casos. Nuestra elaboración trimestral de la clasificación no implica reordenar los datos, sino que nos centramos en ordenar la lista por índice H y citación.
 
+<h2>Investigadores por añadir</h2>
+
+1. José Luis Saldaña Castro (ID bLsqv30AAAAJ)
+2. Alexis Marambio (ID s2XicxcAAAAJ)
+
 <h2>Recursos</h2>
 
 * [Repositorio en GitHub](https://github.com/bgonzalezbustamante/CPS-Ranking).
