@@ -12,6 +12,7 @@ pager: true
 commentable: true
 show_related: false
 show_breadcrumb: true
+draft: false
 doi: ''
 ## publishDate: ''
 
