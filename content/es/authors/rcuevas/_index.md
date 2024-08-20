@@ -41,13 +41,13 @@ education:
   courses:
   - course: Doctorado en Ciencias Sociales
     institution: Universidad de Chile
-    year: start-end
+    year: 2014-2020
   - course: Magíster en Estudios Internacionales
     institution: Universidad de Chile
-    year: start-end
+    year: 2005-2012
   - course: Licenciatura en Periodismo
     institution: Pontifica Universidad Católica de Valparaíso
-    year: start-end
+    year: 1999-2004
 
 # Social/Academic Networking
 social:
