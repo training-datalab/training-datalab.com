@@ -19,7 +19,7 @@ doi: ''
 # Publication type.
 publication_types: ['article-journal']
 
-publication: '*Studia Politica: Romanian Political Science Review, 20*(2), 203-222.'
+publication: '*Studia Politica: Romanian Political Science Review, 20*(2), 203-222'
 publication_short: ''
 abstract: 'Social movements have been studied for their possible influence within political systems. In the past 12 years, Chile has registered an increasing number of social movements that have played an important role in the political system. This article adopts a qualitative methodology with a comparative approach of a case, comparing the student movement of 2011 and the No+AFP movement of 2016 and the influence of each movement on the public policy process, their linkages with political parties and whether this connection contributes to the movement having a greater incidence in decision-making. For the development of the comparison, the responses of the political system to the movements will be used; the incidence of the social movements will be analyzed by the level of intervention in the stages of public policy; and finally, the influence of movements will be examined, distinguishing a reactive influence (refusing to accept any decision of the authority) from a proactive influence (participating in the decision-making process of policies).'
 summary: ''
