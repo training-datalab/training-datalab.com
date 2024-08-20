@@ -40,13 +40,13 @@ education:
   courses:
   - course: MA Global Politics
     institution: McMaster University
-    year: start-end
+    year: 2019-2020
   - course: Magíster en Ciencia Política
     institution: Universidad de Chile
-    year: start-end
+    year: 2017-2019
   - course: Licenciatura en Derecho
     institution: Universidad Alberto Hurtado
-    year: start-end
+    year: 2006-2012
 
 # Social/Academic Networking
 social:
@@ -90,6 +90,8 @@ user_groups:
   - Investigadores Adjuntos
 ---
 
-Soy un funcionario público que trabaja en asuntos indígenas en el gobierno federal canadiense. Actualmente resido en la provincia de Ontario, Canadá. Además, soy network leader de [Brantford Immigration Partnership](https://www.brantford.ca/en/things-to-do/brantford-immigration-partnership.aspx). Antes de trasladarme a Canadá, trabajé como abogado y coordinador de relaciones internacionales en el Servicio Nacional del Consumidor (SERNAC) en Chile.
+Soy oficial de política social en Indigenous Services Canada (Gobierno Federal), donde garantizo la ejecución eficaz de proyectos de infraestructuras sostenibles en las comunidades de las Primeras Naciones. También formo parte del [Consejo de la Biblioteca Pública de Brantford](https://www.brantfordlibrary.ca/en/about-the-library/library-board.aspx), donde contribuyo a la elaboración de políticas y a la supervisión financiera.
 
-Tengo un Magíster en Ciencia Política por el [Institute of Public Affairs](https://inap.uchile.cl/) de la Universidad de Chile y un MA in Global Politics por la [McMaster University, Canadá](https://socialsciences.mcmaster.ca/). Además, obtuve una Licenciatura en Derecho de la [Universidad Alberto Hurtado, Chile](https://derecho.uahurtado.cl/). Me interesan la transparencia y el gobierno abierto, las políticas públicas, los asuntos indígenas y las relaciones internacionales.
+Antes de trasladarme a Canadá, trabajé como abogado en el equipo de mediación colectiva y como coordinador de relaciones internacionales en el Servicio Nacional del Consumidor (SERNAC) en Chile.
+
+Tengo un Magíster en Ciencia Política por la [Universidad de Chile](https://gobierno.uchile.cl/), un Magíster en Política Global por la [Universidad de McMaster, Canadá](https://socialsciences.mcmaster.ca/), y una Licenciatura en Derecho por la [Universidad Alberto Hurtado, Chile](https://derecho.uahurtado.cl/). Mis intereses incluyen la transparencia y el gobierno abierto, las políticas públicas, los asuntos indígenas y las relaciones internacionales.
