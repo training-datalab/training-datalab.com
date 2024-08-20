@@ -64,9 +64,9 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0003-2642-2546
-## - icon: github
-  ## icon_pack: fab
-  ## link: https://github.com/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/seba-rivera
 ## - icon: osf
   ## icon_pack: ai
   ## link: https://osf.io/
