@@ -1,7 +1,7 @@
 ---
-title: 'Nuevos desafíos, enfoques y perspectivas para estudiar élites políticas'
-date: '2020-07-24'
-slug: nuevos-desafios-enfoques-y-perspectivas-para-estudiar-elites-politicas
+title: 'Presidencialismo en América Latina. Algunas consideraciones para el debate'
+date: '2022-03-22'
+slug: presidencialismo-en-america-latina
 ## categories: []
 tags: ["scopus-article"]
 ## authors: []
