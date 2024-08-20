@@ -20,7 +20,7 @@ doi: ''
 # Publication type.
 publication_types: ['article-journal']
 
-publication: 'Revista de Estudios Políticos y Estratégicos, 9*(1), 218-251'
+publication: '*Revista de Estudios Políticos y Estratégicos, 9*(1), 218-251'
 publication_short: ''
 abstract: 'We analyze the effect of people’s definition of democracy on their support for democracy. Using the Latin American Public Opinion Project (LAPOP) 2006 poll, we identify the most prevalent typologies of democracy and estimate using probit and OLS models their impact on support for democracy in four dimensions: commitment to democratic values, performance of the regime, support for institutions, and support and trust in political authorities. Those who define democracy with a minimalist typology support it more in the 4 dimensions, especially in commitment to democratic values. Those who define democracy using more ambitious typologies do not show significant differences in the four dimensions, though in general those with a maximalist definition support democracy less than the other typologies. The definition of democracy that people have impact their support for democracy.'
 summary: ''

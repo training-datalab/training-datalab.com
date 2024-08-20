@@ -20,7 +20,7 @@ doi: ''
 # Publication type.
 publication_types: ['article-journal']
 
-publication: 'Revista de Estudios Políticos y Estratégicos, 9*(1), 218-251'
+publication: '*Revista de Estudios Políticos y Estratégicos, 9*(1), 218-251'
 publication_short: ''
 abstract: 'Analizamos el efecto de la definición de democracia que manejan las personas en el apoyo efectivo a las democracias. Usando la encuesta Lapop en América Latina de 2006 (23.190 casos, 16 países), identificamos las tipologías de democracia más prevalentes y estimamos modelos probit y MCO para medir su impacto sobre el apoyo a la democracia en 4 dimensiones: compromiso con valores democráticos, desempeño del régimen, apoyo a las instituciones, respaldo y confianza en las autoridades. Reportamos que personas con definiciones minimalistas de democracia la apoyan más en las cuatro dimensiones, especialmente en cuanto a valores democráticos. En cambio, tipologías con definiciones más ambiciosas no presentan diferencias significativas en las cuatro dimensiones, aunque los que la definen desde concepciones maximalistas en general la apoyan menos que el resto. La definición de democracia que tienen las personas impacta en su apoyo al régimen democrático.'
 summary: ''
