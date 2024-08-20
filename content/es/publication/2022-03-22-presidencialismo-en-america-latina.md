@@ -7,7 +7,7 @@ tags: ["scopus-article"]
 ## authors: []
 authors:
 - "aolivares"
-- "Christopher Martínez Nourdin"
+- "Christopher A. Martínez"
 - "Juan Carlos Arellano"
 - "Sebastián Carrasco"
 - "Milagros Campos"
