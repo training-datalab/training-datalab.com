@@ -31,7 +31,7 @@ bio:  PhD Researcher at the Universidad del Desarrollo, Chile. Research Associat
 
 interests:
 - Electoral behaviour
-- Democrac
+- Democracy
 - Congressional members
 - Trade policy
 
