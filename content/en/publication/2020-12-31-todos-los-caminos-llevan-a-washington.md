@@ -7,7 +7,7 @@ tags: ["scopus-article"]
 ## authors: [""]
 authors:
 - "rcuevas"
-- "jamorillo"
+- "jmorillo"
 pager: true
 commentable: true
 show_related: false
