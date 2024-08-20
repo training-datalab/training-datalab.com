@@ -41,7 +41,7 @@ education:
   courses:
   - course: PhD en Ciencia Política
     institution: Leiden University
-    year: 2022-
+    year: 2022-Hoy
   - course: Magíster en Ciencia Política
     institution: Universidad de Chile
     year: 2017-2019
