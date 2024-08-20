@@ -1,5 +1,5 @@
 ---
-title: 'Rethinking the Teaching of University Statistics: Challenges and Opportunities Learned from the Colombia–UK Dialogue'
+title: 'Rethinking the Teaching of University Statistics: Challenges and Opportunities Learned from the Colombia-UK Dialogue'
 date: '2023-01-01'
 slug: rethinking-the-teaching-of-university-statistics
 ## categories: []
