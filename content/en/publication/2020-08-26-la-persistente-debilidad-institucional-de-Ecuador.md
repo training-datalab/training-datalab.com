@@ -19,7 +19,7 @@ doi: ''
 # Publication type.
 publication_types: ['article-journal']
 
-publication: '*Revista de Ciencia Política, 40*(2), 315-349'
+publication: 'Revista de Ciencia Política, 40(2), 315-349'
 publication_short: ''
 abstract: 'This article analyzes the main political events of 2019 in Ecuador. By examining the style of government, economic conditions, relations between the executive and the legislature, it is argued that the institutional framework is extremely dependent on the president's leadership style and the economic context, particularly on oil prices. Contrary to what was expected, the validity for more than ten years of the constitution has not strengthened institutions, the October protests and the risks of rupture of the institutional framework demonstrate this. This case, which serves as an example to understand the effects of presidential weakness on governance, allows us to see the influence of the economic and political context on the strength of institutions and, ultimately, on democracy in the Latin American region.'
 summary: ''

@@ -19,7 +19,7 @@ doi: ''
 # Publication type.
 publication_types: ['article-journal']
 
-publication: '*Revista de Ciencia Política, 40*(2), 315-349'
+publication: 'Revista de Ciencia Política, 40(2), 315-349'
 publication_short: ''
 abstract: 'El presente artículo analiza los eventos políticos más relevantes del año 2019 en Ecuador. Al examinar el estilo de gobierno, condiciones económicas, las relaciones entre el ejecutivo y legislativo, se sostiene que el marco institucional es extremadamente dependiente del estilo de liderazgo del presidente y del contexto económico, particularmente de los precios del petróleo. Contrario a lo que se esperaba, la vigencia por más de diez años de la constitución no ha entregado valor a las instituciones, las protestas de octubre y los riesgos de ruptura del marco institucional así lo demuestran. Este caso, que sirve de ejemplo para comprender los efectos de la debilidad presidencial sobre la gobernabilidad, permite ver la influencia del contexto económico y político sobre la fortaleza de las instituciones y, en última instancia, sobre la democracia en la región latinoamericana.'
 summary: ''
