@@ -61,9 +61,9 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-2870-2691
-## - icon: github
-  ## icon_pack: fab
-  ## link: https://github.com/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/JaquelinMorillo
 ## - icon: osf
   ## icon_pack: ai
   ## link: https://osf.io/
