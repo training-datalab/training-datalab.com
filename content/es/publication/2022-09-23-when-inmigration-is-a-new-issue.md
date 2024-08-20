@@ -21,7 +21,7 @@ doi: ''
 # Publication type.
 publication_types: ['article-journal']
 
-publication: '*Revista Latinoamericana De Opinión Pública, 11*(2), 35–72'
+publication: '*Revista Latinoamericana De Opinión Pública, 11*(2), 35-72'
 publication_short: ''
 abstract: 'En  países  donde  los  países  no  han  adoptado  posturas  políticas  claras  sobre  inmigración –y  donde  la  población  migrante  no  es  muy  grande– las percepciones populares sobre inmigrantes pudieran no reflejar las divisiones ideoló-gicas reportadas en estudios anteriores en países donde la inmigración es un tema políticamente  sensible.  Evaluamos  la  asociación  entre  la  identificación  ideológica con las percepciones de inmigrantes en Chile usando dos encuestas comparables, una de 2003, antes de la ola migratoria reciente, y otra de 2017, en el medio de la ola migratoria, pero antes de que los partidos adopta-ran formalmente posiciones políticas sobre la inmigración. Con estimaciones de  modelos  MCO,  reportamos  que,  como  esperábamos,  las  personas  de  iz-quierda tienen posturas más positivas hacia los inmigrantes que el resto, pero los  de  derecha  también  tienen  una  visión  positiva,  especialmente  en  2017.  Las percepciones eran más marcadas en 2017 que en 2003, con aquellos en ambos extremos reportando visiones más positivas sobre los inmigrantes.'
 summary: ''
