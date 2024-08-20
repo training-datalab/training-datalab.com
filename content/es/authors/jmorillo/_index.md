@@ -23,8 +23,8 @@ role: Investigadora Doctoral
 
 # Organizations/Affiliations
 organizations:
-- name: Training Data Lab
-  url: "https://training-datalab.com/"
+- name: Universidad del Desarrollo
+  url: "https://dccs.udd.cl/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:  Investigadora doctoral en la Universidad del Desarrollo, Chile. Investigadora Asociada en Training Data Lab, Chile.
