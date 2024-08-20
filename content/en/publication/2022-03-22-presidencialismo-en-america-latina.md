@@ -7,7 +7,7 @@ tags: ["scopus-article"]
 ## authors: []
 authors:
 - "aolivares"
-- "Christopher A. Martínez"
+- "Christopher Martínez"
 - "Juan Carlos Arellano"
 - "Sebastián Carrasco"
 - "Milagros Campos"
