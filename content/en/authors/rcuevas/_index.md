@@ -41,13 +41,13 @@ education:
   courses:
   - course: Doctorate in Social Sciences
     institution: Universidad de Chile
-    year: start-end
+    year: 2014-2020
   - course: MA in International Studies
     institution: Universidad de Chile
-    year: start-end
+    year: 2005-2012
   - course: BA in Journalism
     institution: Pontifica Universidad Católica de Valparaíso
-    year: start-end
+    year: 1999-2004
 
 # Social/Academic Networking
 social:
