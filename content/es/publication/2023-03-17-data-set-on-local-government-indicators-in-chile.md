@@ -1,5 +1,5 @@
 ---
-title: ' Data Set on Local Government Indicators in Chile'
+title: 'Data Set on Local Government Indicators in Chile'
 date: '2023-03-17'
 slug: data-set-on-local-government-indicators-in-chile
 ## categories: []
