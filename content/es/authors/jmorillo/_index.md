@@ -39,13 +39,13 @@ education:
   courses:
   - course: Doctorado en Ciencias de la Complejidad Social
     institution: Universidad del Desarrollo
-    year: ??-??
+    year: start-end
   - course: Magíster en Estrategia Internacional y Política Comercial
     institution: Universidad de Chile
-    year: ??-??
+    year: start-end
   - course: Estudios Internacionales
     institution: Universidad Torcuato Di Tella
-    year: ??-??
+    year: start-end
 
 # Social/Academic Networking
 social:
@@ -61,9 +61,9 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-2870-2691
-## - icon: github
-  ## icon_pack: fab
-  ## link: https://github.com/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/JaquelinMorillo
 ## - icon: osf
   ## icon_pack: ai
   ## link: https://osf.io/
