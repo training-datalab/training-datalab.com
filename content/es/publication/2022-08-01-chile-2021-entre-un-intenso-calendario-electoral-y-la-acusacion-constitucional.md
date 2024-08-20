@@ -1,5 +1,5 @@
 ---
-title: 'Chile 2021. Entre un intenso calendario electoral y la acusación constitucional en contra de Sebastián Piñera'
+title: 'Chile 2021: Entre un intenso calendario electoral y la acusación constitucional en contra de Sebastián Piñera'
 date: '2022-08-01'
 slug: chile-2021-entre-un-intenso-calendario-electoral-y-la-acusacion-constitucional
 ## categories: []

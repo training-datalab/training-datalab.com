@@ -1,7 +1,7 @@
 ---
 title: 'La persistente debilidad institucionaL de Ecuador: Protestas, elecciones y divisiones políticas durante el 2019'
 date: '2020-08-26'
-slug: la-persistente-debilidad-institucional-de-Ecuador
+slug: la-persistente-debilidad-institucional-de-ecuador
 ## categories: []
 tags: ["wos-article"]
 ## authors: [""]
