@@ -17,7 +17,7 @@ doi: ''
 ## publishDate: ''
 
 # Publication type.
-publication_types: ['software']
+publication_types: ['dataset']
 
 publication: 'Dataset pre-release version 0.21.15 -- Late Sky. University of Oxford, Universidad de Santiago de Chile (USACH), Training Data Lab'
 publication_short: ''
