@@ -20,7 +20,7 @@ doi: ''
 # Publication type.
 publication_types: ['article-journal']
 
-publication: '*Governance, 37*(3), 771-784'
+publication: "*Governance, 37*(3), 771-784"
 publication_short: ''
 abstract: 'The composition of cabinets under presidential regimes has constituted one of the top topics of the litterature in political science in recent years. However, nothing has been said about the proper size of those cabinets. That is, why some cabinets are 37 ministers large when other is formed by just 13 members? We carry on a theory of cabinet size under presidential regimes, using insights from both parliamentarist and presidentialist literature. Our model is composed of five hypotheses relying on an original dataset of 161 observations across 19 presidential countries of the Americas. Our main finding is that the inclusion of independents and/or technocrats impacts significantly on lowering cabinets' size.'
 summary: ''

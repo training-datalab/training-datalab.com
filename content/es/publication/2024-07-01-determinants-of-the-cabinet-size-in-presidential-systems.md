@@ -20,7 +20,7 @@ doi: ''
 # Publication type.
 publication_types: ['article-journal']
 
-publication: '*Governance, 37*(3), 771-784'
+publication: "*Governance, 37*(3), 771-784"
 publication_short: ''
 abstract: 'La composición de los gabinetes bajo regímenes presidenciales ha constituido uno de los temas estrella de la literatura en ciencia política en los últimos años. Sin embargo, nada se ha dicho sobre el tamaño adecuado de esos gabinetes. Es decir, ¿por qué algunos gabinetes tienen 37 ministros y otros sólo 13? Llevamos a cabo una teoría sobre el tamaño de los gabinetes bajo regímenes presidenciales, utilizando ideas tanto de la literatura parlamentarista como presidencialista. Nuestro modelo se compone de cinco hipótesis basadas en un conjunto de datos original de 161 observaciones en 19 países presidencialistas de las Américas. Nuestra principal conclusión es que la inclusión de independientes y/o tecnócratas influye significativamente en la reducción del tamaño de los gabinetes.'
 summary: ''
