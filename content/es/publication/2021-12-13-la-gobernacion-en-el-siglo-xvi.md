@@ -1,7 +1,7 @@
 ---
 title: 'La Gobernación en el siglo XVI: un análisis de las dinámicas de poder en Chile durante su etapa fundacional'
 date: '2021-12-13'
-slug: la-gobernacion-en-el-siglo-xvi
+slug: la-gobernacion-en-el-siglo-xvi-un-analisis-de-las-dinamicas-de-poder-en-chile
 ## categories: []
 tags: ["scopus-article"]
 ## authors: [""]
