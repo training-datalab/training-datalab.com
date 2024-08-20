@@ -32,6 +32,15 @@ bio: Adjunct Researcher in Training Data Lab, Chile.
 interests:
 - 
 
+education:
+  courses:
+  - course: MA in Political Science
+    institution: Pontificia Universidad Católica de Chile
+    year: start-end
+  - course: BA in Political Science
+    institution: Universidad Católica de Temuco, Chile
+    year: start-end
+
 # Social/Academic Networking
 social:
 - icon: envelope
@@ -77,3 +86,6 @@ user_groups:
 - Adjunct Researchers
 ---
 
+I hold an MA in Political Science, mention in government and public policy, from the Pontificia Universidad Católica de Chile and a BA in Political Science from the Universidad Católica de Temuco, Chile. I have been a Lecturer in the [Department of Sociology, Political Science and Public Administration](https://soccipol.uct.cl/) at the Universidad Católica de Temuco, Chile. In addition, since 2017, I have worked as a research assistant in several projects based on interdisciplinary methods and approaches with a focus on comparative politics and sociology, political institutions, the relationship between executive and legislative branches, social and labour movements in Latin America, power concentration in the sixteenth century and constitutional evolution worldwide.
+
+I have published in journals such as *Economía y Política* and *Revista Austral de Ciencias Sociales* and a book chapter in *Presidencialismo: Reflexiones para el debate Constitucional en Chile* (FCE, 2022). In 2021, I went to an internship at the Inter Pares programme at IDEA International and was a scholarship awardee at the [Centro de Estudios de Conflicto y Cohesión Social (COES)](https://coes.cl/). My main research interests focus on power concentration, government stability, political institutions, social movements and democracy.
