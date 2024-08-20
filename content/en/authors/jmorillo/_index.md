@@ -23,8 +23,8 @@ role:  PhD Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Training Data Lab
-  url: "https://training-datalab.com/"
+- name: Universidad del Desarrollo
+  url: "https://dccs.udd.cl/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:  PhD Researcher at the Universidad del Desarrollo, Chile. Research Associate in Training Data Lab, Chile.
