@@ -54,9 +54,9 @@ social:
 ## - icon: orcid
   ## icon_pack: fab
   ## link: 
-## - icon: github
-  ## icon_pack: fab
-  ## link: https://github.com/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/miguelpelayo7
 ## - icon: osf
   ## icon_pack: ai
   ## link: https://osf.io/
