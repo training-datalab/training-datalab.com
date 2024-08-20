@@ -19,7 +19,7 @@ doi: ''
 # Publication type.
 publication_types: ['article-journal']
 
-publication: '*Studia Politica: Romanian Political Science Review, 20*(2), 203-222.'
+publication: '*Studia Politica: Romanian Political Science Review, 20*(2), 203-222'
 publication_short: ''
 abstract: 'Los movimientos sociales han sido estudiados por su posible influencia dentro de los sistemas políticos. En los últimos 12 años, Chile ha registrado un número creciente de movimientos sociales que han jugado un papel importante en el sistema político. Este artículo adopta una metodología cualitativa con un enfoque comparativo de caso, comparando el movimiento estudiantil de 2011 y el movimiento No+AFP de 2016 y la influencia de cada movimiento en el proceso de políticas públicas, su vinculación con los partidos políticos y si esta conexión contribuye a que el movimiento tenga una mayor incidencia en la toma de decisiones. Para el desarrollo de la comparación, se utilizarán las respuestas del sistema político a los movimientos; se analizará la incidencia de los movimientos sociales por el nivel de intervención en las etapas de las políticas públicas; y finalmente, se examinará la influencia de los movimientos, distinguiendo una influencia reactiva (negarse a aceptar cualquier decisión de la autoridad) de una influencia proactiva (participar en el proceso de toma de decisiones de las políticas).'
 summary: ''
