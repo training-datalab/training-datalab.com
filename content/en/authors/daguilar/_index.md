@@ -40,13 +40,13 @@ education:
   courses:
   - course: MA in Global Politics
     institution: McMaster University
-    year: start-end
+    year: 2019-2020
   - course: MA in Political Science
     institution: Universidad de Chile
-    year: start-end
+    year: 2017-2019
   - course: LLB
     institution: Universidad Alberto Hurtado
-    year: start-end
+    year: 2006-2012
 
 # Social/Academic Networking
 social:
@@ -90,6 +90,8 @@ user_groups:
 - Adjunct Researchers
 ---
 
-I am a public servant working on indigenous affairs in the Canadian federal government. I am currently based in the province of Ontario, Canada. Furthermore, I am a Network Leader at the [Brantford Immigration Partnership](https://www.brantford.ca/en/things-to-do/brantford-immigration-partnership.aspx). Before relocating to Canada, I served as a Lawyer and International Relations Coordinator at the Servicio Nacional del Consumidor (SERNAC) in Chile.
+I am a Social Policy Officer at Indigenous Services Canada (Federal Government), where I ensure the efficient delivery of sustainable infrastructure projects in First Nation communities. I also serve on the [Board of the Brantford Public Library](https://www.brantfordlibrary.ca/en/about-the-library/library-board.aspx), contributing to policy development and financial oversight.
 
-I hold an MA in Political Science from the [Institute of Public Affairs](https://inap.uchile.cl/) at the Universidad de Chile and an MA in Global Politics from [McMaster University, Canada](https://socialsciences.mcmaster.ca/). Moreover, I earned an LLB from [Universidad Alberto Hurtado, Chile](https://derecho.uahurtado.cl/). I am interested in transparency and open government, public policies, indigenous affairs and international relations.
+Before relocating to Canada, I worked as a Lawyer on the collective mediation team and as an International Relations Coordinator at the Servicio Nacional del Consumidor (SERNAC) in Chile.
+
+I hold an MA in Political Science from the [Universidad de Chile](https://gobierno.uchile.cl/), an MA in Global Politics from [McMaster University, Canada](https://socialsciences.mcmaster.ca/), and an LLB from [Universidad Alberto Hurtado, Chile](https://derecho.uahurtado.cl/). My interests include transparency and open government, public policy, Indigenous affairs, and international relations.
