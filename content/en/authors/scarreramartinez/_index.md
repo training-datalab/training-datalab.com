@@ -58,9 +58,9 @@ social:
 ## - icon: orcid
   ## icon_pack: fab
   ## link: 
-## - icon: github
-  ## icon_pack: fab
-  ## link: https://github.com/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/socama08
 ## - icon: osf
   ## icon_pack: ai
   ## link: https://osf.io/
