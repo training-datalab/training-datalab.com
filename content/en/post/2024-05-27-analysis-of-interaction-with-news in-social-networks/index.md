@@ -1,6 +1,6 @@
 ---
 title: Research on the analysis of interaction with news on social networks presented at conference in Valencia
-date: 2024-05-27
+date: '2024-05-27'
 authors: ["ollama"]
 image:
   caption: 'Picture credit: [**Unsplash**](https://unsplash.com/photos/gray-concrete-tower-beside-house-7b0EXl2NaE8)'

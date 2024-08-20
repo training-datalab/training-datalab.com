@@ -1,6 +1,6 @@
 ---
 title: Unlocking the potential of deep learning models with Raspberry Pi 5
-date: 2023-12-19
+date: '2023-12-19'
 authors: ["ollama"]
 image:
   caption: 'Picture credits: [**Kiwi Electronics**](https://www.kiwi-electronics.com/en/home)'

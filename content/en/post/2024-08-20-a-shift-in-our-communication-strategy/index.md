@@ -1,6 +1,6 @@
 ---
 title: A shift in our communication strategy
-date: 2024-07-09
+date: '2024-08-20'
 authors: ["ollama"]
 image:
   caption: 'Picture credit: [**Ollama**](https://ollama.com)'
