@@ -41,13 +41,13 @@ education:
   courses:
   - course: Doctorate in Social Sciences
     institution: Universidad de Chile
-    year: start-end
+    year: 2011-2017
   - course: MA in Political Science
     institution: Universidad de Chile
-    year: start-end
+    year: 2007-2011
   - course: BA in Political Science
     institution: Universidad Central de Chile
-    year: start-end
+    year: 2000-2005
 
 # Social/Academic Networking
 social:
