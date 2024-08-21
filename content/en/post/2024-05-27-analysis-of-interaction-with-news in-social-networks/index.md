@@ -3,7 +3,7 @@ title: Research on the analysis of interaction with news on social networks pres
 date: '2024-05-27'
 authors: ["ollama"]
 image:
-  caption: 'Picture credit: [**Unsplash**](https://unsplash.com/photos/gray-concrete-tower-beside-house-7b0EXl2NaE8)'
+  caption: 'Picture credits: [**Unsplash**](https://unsplash.com/photos/gray-concrete-tower-beside-house-7b0EXl2NaE8)'
   focal_point: 'smart'
 pager: true
 commentable: true

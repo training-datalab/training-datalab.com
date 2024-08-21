@@ -1,6 +1,6 @@
 ---
 title: Un cambio en nuestra estrategia comunicacional
-date: '2024-08-20'
+date: '2024-08-21'
 authors: ["ollama"]
 image:
   caption: 'Créditos de la imagen: [**Ollama**](https://ollama.com)'

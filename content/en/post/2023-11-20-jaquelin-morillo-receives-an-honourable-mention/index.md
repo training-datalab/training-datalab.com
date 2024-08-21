@@ -3,7 +3,7 @@ title: Jaquelin Morillo receives an honourable mention at the IX Annual Congress
 date: '2023-11-20'
 authors: ["ollama"]
 image:
-  caption: 'Picture credit: [**Unsplash**](https://unsplash.com/photos/white-book-page-on-brown-wooden-table-Wxb7EMuRKag)'
+  caption: 'Picture credits: [**Unsplash**](https://unsplash.com/photos/white-book-page-on-brown-wooden-table-Wxb7EMuRKag)'
   focal_point: 'smart'
 pager: true
 commentable: true

@@ -35,7 +35,7 @@ tags: ["workshop"]
 featured: false
 
 image:
-  caption: 'Image credits: [**Universidad de Santiago de Chile**](https://cepec.usach.cl/)'
+  caption: 'Picture credits: [**Universidad de Santiago de Chile**](https://cepec.usach.cl/)'
   focal_point: smart
 
 url_code: ''

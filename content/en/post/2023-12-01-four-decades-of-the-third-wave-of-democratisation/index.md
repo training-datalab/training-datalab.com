@@ -3,7 +3,7 @@ title: Four Decades of the Third Wave of Democratisation in Latin America. Contr
 date: '2023-12-01'
 authors: ["ollama"]
 image:
-  caption: 'Picture credit: [**Unsplash**](https://unsplash.com/photos/cars-on-road-near-city-buildings-during-daytime-QhQ4WgX77G0)'
+  caption: 'Picture credits: [**Unsplash**](https://unsplash.com/photos/cars-on-road-near-city-buildings-during-daytime-QhQ4WgX77G0)'
   focal_point: 'smart'
 pager: true
 commentable: true
