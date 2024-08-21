@@ -13,7 +13,7 @@ main:
   - name: Blog
     url: post
     weight: 30
-  - name: Proyectos
+  - name: Proyectos y datos
     url: project
     weight: 40
   - name: Eventos

@@ -29,7 +29,7 @@ en:
       - name: Blog
         url: post
         weight: 30
-      - name: Projects
+      - name: Projects and Data
         url: project
         weight: 40
       - name: Events
