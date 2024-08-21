@@ -20,7 +20,7 @@ main:
     url: event
     weight: 50
   - name: Publicaciones
-    url: publication
+    url: publications
     weight: 60
   - name: CPS-Ranking
     url: cps-ranking

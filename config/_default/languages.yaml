@@ -36,7 +36,7 @@ en:
         url: event
         weight: 50
       - name: Publications
-        url: publication
+        url: publications
         weight: 60
       - name: CPS-Ranking
         url: cps-ranking
