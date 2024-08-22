@@ -23,7 +23,7 @@ role: Profesor Asistente
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad Católica de Temuco, Chile
+- name: Universidad Católica de Temuco
   url: "http://soccipol.uct.cl/"
 
 # Short bio (displayed in user profile at end of posts)
