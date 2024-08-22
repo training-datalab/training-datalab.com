@@ -36,5 +36,5 @@ The participation of our research group in the XII Latin American Congress of Po
 
 In particular, our studies on ad hoc advisory commissions and toxicity in the digital sphere during protest events in Latin America are important contributions to the understanding of the functioning of political systems and social dynamics in the continent. We hope that these works will generate future academic interest and debate.
 
-_* AI-generated text_
+_* AI-generated text_ <br>
 [_Read more about how we generate our content_]({{< relref "2024-08-22-a-shift-in-our-communication-strategy" >}})
