@@ -28,4 +28,5 @@ La importancia de esta investigación radica en que puede tener implicaciones pa
 
 La mención honrosa obtenida por [Jaquelin Morillo]({{< relref "../authors/jmorillo" >}}) en el IX Congreso Anual de la SCP es un reconocimiento merecido a su trabajo innovador y pionero en este campo. Su investigación puede contribuir significativamente al desarrollo de estrategias efectivas para detectar el engaño y mejorar nuestra comprensión del comportamiento humano. 
 
-_* Texto generado por AI_
+_* Texto generado por AI_ <br>
+[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "2024-08-22-a-shift-in-our-communication-strategy" >}})

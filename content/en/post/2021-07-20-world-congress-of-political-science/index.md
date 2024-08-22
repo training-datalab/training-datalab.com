@@ -28,4 +28,5 @@ Our research associates' presentation was part of a session discussing the relat
 
 At Training Data Lab, we strive to generate knowledge of high quality and relevance in the scientific community. The presentation of our research associates at the World Congress of Political Science is a further example of our commitment to research and international exchange. We are proud to have been able to contribute to this important event and look forward to continue sharing our findings with the scientific community in the near future.
 
-_* AI-generated text_
+_* AI-generated text_ <br>
+[_Read more about how we generate our content_]({{< relref "2024-08-22-a-shift-in-our-communication-strategy" >}})
