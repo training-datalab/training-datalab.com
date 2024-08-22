@@ -27,7 +27,7 @@ organizations:
   url: "https://www.umayor.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Profesor Asociado en la Escuela de Gobierno de la Universidad Mayor, Chile. Investigador Adjunto en Training Data Lab, Chile.
+bio: Profesor Asociado en la Escuela de Gobierno y Administración Pública de la Universidad Mayor, Chile. Investigador Adjunto en Training Data Lab, Chile.
 
 interests:
 - Composición de gabinetes
@@ -92,4 +92,4 @@ Soy Doctor en Ciencias Sociales y Magíster en Ciencia Política, ambos por la [
 
 Además, soy investigador del Fondecyt de Iniciación 11200345, un proyecto financiado por la Agencia Nacional de Investigación y Desarrollo de Chile centrado en la continuidad de las políticas públicas en Chile. Recientemente me incorporé al Núcleo Milenio de Desigualdades y Oportunidades Digitales (NUDOS) como investigador jóven y también soy investigador adjunto del [Centro de Investigación en Salud y Sociedad](https://ciss.umayor.cl/) de la Universidad Mayor, Chile.
 
-Desde 2022, soy director del [programa de Administración Pública de la Universidad Mayor](https://www.umayor.cl/um/carreras/administracion-publica-santiago/10000). Anteriormente, fui profesor visitante en la [Facultad Latinoamericana de Ciencias Sociales (FLACSO)](https://www.flacso.edu.ec/en/inicio) en Ecuador, académico en la Universidad Católica de Temuco, Chile, y docente en la Universidad de Chile.
+Desde 2022, soy jefe de carrera del [programa de Administración Pública de la Universidad Mayor](https://www.umayor.cl/um/carreras/administracion-publica-santiago/10000). Anteriormente, fui profesor visitante en la [Facultad Latinoamericana de Ciencias Sociales (FLACSO) en Ecuador](https://www.flacso.edu.ec/en/inicio), académico en la Universidad Católica de Temuco, Chile, y docente en la Universidad de Chile.
