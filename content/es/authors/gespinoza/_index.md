@@ -87,6 +87,6 @@ user_groups:
 - Investigadores Adjuntos
 ---
 
-Soy cientista político y Magíster en Psicología de la Universidad Diego Portales (UDP), Chile. Actualmente me desempeño como docente de la [Escuela de Ciencia Política](https://cienciapolitica.udp.cl/) y soy director del Laboratorio para el Estudio de la Radicalización (LabRad) de la UDP.
+Soy cientista político y Magíster en Psicología de la [Universidad Diego Portales, Chile](https://www.udp.cl/). Actualmente me desempeño como docente de la [Escuela de Ciencia Política](https://cienciapolitica.udp.cl/) y soy director del Laboratorio para el Estudio de la Radicalización (LabRad) de la Universidad Diego Portales, Chile.
 
 Mis intereses de investigación se centran en el estudio de todo tipo de radicalización desde una perspectiva psicosocial, tanto a nivel individual (es decir, explorando cómo un ciudadano se radicaliza políticamente) como a nivel grupal (es decir, analizando cómo la estructura de un grupo promueve la formación de una secta a través de la radicalización de sus ideas). Además, estudio la sintomatología depresiva y sus efectos en el comportamiento político.

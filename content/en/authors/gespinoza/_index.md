@@ -87,6 +87,6 @@ user_groups:
 - Adjunct Researchers
 ---
 
-I am a political scientist with an MA in Psychology from Universidad Diego Portales (UDP), Chile. Currently, I serve as a lecturer in the [School of Political Science](https://cienciapolitica.udp.cl/) and am the director of the Laboratory for the Study of Radicalisation (LabRad) at UDP.
+I am a political scientist with an MA in Psychology from the [Universidad Diego Portales, Chile](https://www.udp.cl/). Currently, I serve as a lecturer in the [School of Political Science](https://cienciapolitica.udp.cl/) and am the director of the Laboratory for the Study of Radicalisation (LabRad) at the Universidad Diego Portales, Chile.
 
 My research interests focus on studying all types of radicalisation from a psychosocial perspective, both at an individual level (i.e., exploring how a citizen becomes politically radicalised) and at a group level (i.e., analysing how the structure of a group promotes the formation of a sect through the radicalisation of its ideas). In addition, I study depressive symptomatology and its effects on political behaviour.
