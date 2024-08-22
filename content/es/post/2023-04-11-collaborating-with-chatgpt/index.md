@@ -3,7 +3,7 @@ title: Colaboración con ChatGPT para impulsar nuestra presencia en los medios s
 date: '2023-04-11'
 authors: ["ChatGPT 3.5"]
 image:
-  caption: 'Picture credits: [**DALL·E**](https://openai.com/index/dall-e-2/)'
+  caption: 'Créditos de la imagen: [**DALL·E**](https://openai.com/index/dall-e-2/)'
   focal_point: 'smart'
 pager: true
 commentable: true
