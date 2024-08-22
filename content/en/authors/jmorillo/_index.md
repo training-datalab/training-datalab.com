@@ -92,8 +92,8 @@ user_groups:
 - Research Associates
 ---
 
-I am a PhD student in [Social Complexity Sciences at the Universidad del Desarrollo](https://dccs.udd.cl/en/), Chile. My interests in political science and human behaviour have led me to follow an academic path focused on quantitative and experimental methodologies.
+I am a PhD student in [Social Complexity Sciences at the Universidad del Desarrollo, Chile](https://dccs.udd.cl/en/). My interests in political science and human behaviour have led me to follow an academic path focused on quantitative and experimental methodologies.
 
-My academic background is in international studies at the [Universidad Torcuato Di Tella, Argentina](https://www.utdt.edu/). In addition, I hold a master’s degree in [International Strategy and Trade Policy at the Universidad de Chile](https://iei.uchile.cl/).
+My academic background is in international studies at the [Universidad Torcuato Di Tella, Argentina](https://www.utdt.edu/). In addition, I hold an MA in International Strategy and Trade Policy at the [Universidad de Chile](https://iei.uchile.cl/).
 
 My research interests focus on quantitative approaches applied to electoral behaviour, democracy, congressional members and dynamics of human behaviour in socio-political contexts and trade policy.
