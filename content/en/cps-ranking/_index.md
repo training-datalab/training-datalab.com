@@ -20,7 +20,7 @@ It has been elaborated according to the following sampling criteria. First, all 
 
 Furthermore, a **consistency index (C-Index)** was calculated on March 2021. C-Index goes from zero to 100 and reflects the Google profiles’ consistency in terms of authorship. Lower values are associated with more significant inconsistencies, therefore, the researcher’s indicators could be biased, and his/her position might be overestimated.
 
-We would like to thank **Patricio Navia** for his valuable comments and contributions.
+We would like to thank Patricio Navia for his valuable comments and contributions.
 
 <h2>Researchers to be Added</h2>
 

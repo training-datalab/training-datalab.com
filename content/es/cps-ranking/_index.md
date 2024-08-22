@@ -20,7 +20,7 @@ Se ha elaborado de acuerdo con los siguientes criterios de muestreo. En primer l
 
 Además, en marzo de 2021 se calculó un **índice de consistencia (C-Index)**. El índice C va de cero a 100 y refleja la consistencia de los perfiles de Google en términos de autoría. Los valores más bajos se asocian con inconsistencias más significativas, por lo tanto, los indicadores del investigador podrían estar sesgados y su posición podría estar sobreestimada.
 
-Agradecemos a **Patricio Navia** sus valiosos comentarios y contribuciones.
+Agradecemos a Patricio Navia sus valiosos comentarios y contribuciones.
 
 <h2>Descargo de responsabilidad</h2>
 
