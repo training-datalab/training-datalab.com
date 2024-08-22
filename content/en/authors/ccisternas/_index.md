@@ -40,7 +40,7 @@ interests:
 education:
   courses:
   - course: PhD in Politics
-    institution: Leiden University
+    institution: Leiden University, Netherlands
     year: 2022-Today
   - course: MA in Political Science
     institution: Universidad de Chile
