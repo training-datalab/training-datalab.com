@@ -8,10 +8,15 @@ pager: true
 commentable: true
 show_related: false
 show_breadcrumb: true
+draft: false
 tags:
 - research-project
 - active-project
 ---
+
+{{% callout note %}}
+Project funded by OpenAI
+{{% /callout %}}
 
 We are analysing online interactions on social media around specific hashtags used during mass protests in Latin America since 2019. Therefore, we download the network activity using particular social media APIs.
 
