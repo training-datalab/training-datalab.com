@@ -37,12 +37,12 @@ interests:
 
 education:
   courses:
-  - course: MA in ?? (in progress)
-    institution: ??
-    year: start-end
+  - course: MA in Applied Mathematics and Computer Science
+    institution: Universidad del Rosario, Colombia
+    year: 2024-Today
   - course: BA in Political Science
-    institution: Universidad del Rosario
-    year: start-end
+    institution: Universidad del Rosario, Colombia
+    year: 2018-2022
 
 # Social/Academic Networking
 social:
@@ -89,6 +89,6 @@ user_groups:
   - Research Assistants
 ---
 
-I hold a BA in Political Science from the [Universidad del Rosario, Colombia](https://urosario.edu.co/), with a mention in Development and Participation. I also studied BA Applied Mathematics and Computer Science for three years at the same university.
+I am studying for an MA in Applied Mathematics and Computer Science at the [Universidad del Rosario, Colombia](https://urosario.edu.co/), and I hold a BA in Political Science with a minor in Development and Participation from the same university.
 
 I have three years of experience in quantitative and qualitative research in social sciences. My expertise focuses on programming and the advanced use of software. I am interested in working in interdisciplinary and diverse teams, and my research interests mainly focus on elections, data analysis for social sciences, democracy, post-conflict and peace.
