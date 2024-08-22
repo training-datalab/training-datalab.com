@@ -34,7 +34,7 @@ interests:
 education:
   courses:
   - course: Master of Public Policy
-    institution: University of Oxford
+    institution: University of Oxford, United Kingdom
     year: start-end
   - course: LLB
     institution: Universidad de Chile
@@ -85,7 +85,7 @@ user_groups:
 - Adjunct Researchers
 ---
 
-I am a lawyer and earned an LLB (1st) from the [Universidad de Chile](https://derecho.uchile.cl/). I also hold a Master of Public Policy (MPP) from the University of Oxford, United Kingdom. I was awarded the [Luksic Scholars Foundation Scholarship](https://luksicscholars.org/en/) to pursue my MPP at Oxford. In addition, I earned a diploma in administrative law from the Pontificia Universidad Católica in Chile and in economic regulation from the Universidad Adolfo Ibáñez.
+I am a lawyer and earned an LLB (1st) from the [Universidad de Chile](https://derecho.uchile.cl/). I also hold a [Master of Public Policy (MPP) from the University of Oxford, United Kingdom](https://www.bsg.ox.ac.uk/). I was awarded the [Luksic Scholars Foundation Scholarship](https://luksicscholars.org/en/) to pursue my MPP at Oxford. In addition, I earned a diploma in administrative law from the Pontificia Universidad Católica in Chile and in economic regulation from the Universidad Adolfo Ibáñez.
 
 Throughout my professional career, I have worked in the private sector as a lawyer in matters of competition and economic regulation in areas such as transportation, telecommunications and energy. In the public sector, I worked as a Senior Cabinet Advisor and Acting Chief of Staff for the Minister of Labor and Social Security (2018-2021). Internationally, I represented Chile in the ILO and G20, worked as a consultant in Spain for the Ibero-American Social Security Organization, and am currently working on public policy in the pensions sector in the United Kingdom.
 
