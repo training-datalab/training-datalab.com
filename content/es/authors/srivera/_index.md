@@ -19,7 +19,7 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: Candidato a Doctor
+role: Profesor Asistente
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +27,7 @@ organizations:
   url: "https://www.polisci.uci.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Candidato a Doctor en Ciencia Política en University of California, Irvine. Investigador Asociado en Training Data Lab, Chile.
+bio: Profesor Asistente en la Escuela de Gobierno y Administración Pública de la Universidad Mayor, Chile. Investigador Asociado en Training Data Lab, Chile.
 
 interests:
 - Opinión pública
@@ -39,16 +39,16 @@ education:
   courses:
   - course: PhD en Ciencia Política
     institution: University of California, Irvine
-    year: start-end
+    year: start-2024
   - course: Magíster en Ciencia Política
     institution: University of California, Irvine
-    year: start-end
+    year: start-2021
   - course: Magíster en Comunicación
-    institution: Universidad Diego Portales
-    year: start-end
+    institution: Universidad Diego Portales, Chile
+    year: start-2017
   - course: Licenciatura en Ciencia Política
-    institution: Universidad Alberto Hurtado
-    year: start-end
+    institution: Universidad Alberto Hurtado, Chile
+    year: start-2012
 
 # Social/Academic Networking
 social:
@@ -95,8 +95,6 @@ user_groups:
 - Investigadores Asociados
 ---
 
-Soy [candidato a Doctor en Ciencia Política por la Universidad de California, Irvine](https://www.polisci.uci.edu/). Obtuve un Magíster en Ciencia Política de la UC Irvine y un Magíster en Comunicación de la [Universidad Diego Portales (UDP), Chile](https://www.udp.cl/). También soy Licenciado en Ciencia Política por la [Universidad Alberto Hurtado, Chile](https://www.uahurtado.cl/).
+Soy profesor asistente en la [Escuela de Gobierno y Administración Pública de la Universidad Mayor en Santiago, Chile](https://www.umayor.cl/um/carreras/administracion-publica-santiago). Recibí mi [Doctorado en Ciencia Política de la Universidad de California, Irvine](https://www.polisci.uci.edu/) y tengo una Maestría en Ciencia Política de UC Irvine y una Maestría en Comunicación de la [Universidad Diego Portales, Chile][https://www.udp.cl/]. También tengo una Licenciatura en Ciencia Política de la [Universidad Alberto Hurtado, Chile](https://www.uahurtado.cl/).
 
-Estudio el comportamiento político comparado en América Latina, con especial énfasis en Chile. Mis intereses de investigación incluyen opinión pública, campañas electorales, consumo de medios y participación política. Mi agenda de investigación actual se centra en la personalización de la política desde una perspectiva comparada, con un enfoque especial en América Latina. Me interesa entender por qué los candidatos personalizan sus campañas electorales, por qué la gente se fija en las características de los candidatos a la hora de decidir su voto y cómo las campañas electorales moldean las actitudes y comportamientos políticos. También me interesa entender la participación política de la gente, tanto online como offline.
-
-En Chile, mi país de origen, estoy afiliadp al [Centro de Investigación en Comunicación, Literatura y Observación Social (CICLOS)](https://ciclos.udp.cl/) de la UDP y al [Núcleo Milenio para el Estudio de la Política, Opinión Pública y Medios en Chile (MEPOP)](https://mepop.cl/).
+Me interest el studio del comportamiento político comparado en América Latina, con especial énfasis en Chile. Mis intereses de investigación incluyen la opinión pública, las campañas electorales, el consumo de medios y la participación política. Mi agenda de investigación actual se centra en la personalización de la política en una perspectiva comparada, con especial foco en América Latina. Me interesa comprender por qué los candidatos personalizan sus campañas electorales, por qué la gente tiene en cuenta las características de los candidatos al tomar decisiones electorales y cómo las campañas electorales moldean las actitudes y comportamientos políticos. También me interesa comprender la participación política de las personas, tanto online como offline.
