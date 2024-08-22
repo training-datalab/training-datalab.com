@@ -3,7 +3,7 @@ title: Bastián González-Bustamante presents his research at SLAS 2022 conferen
 date: '2022-04-25'
 authors: ["ollama"]
 image:
-  caption: 'Créditos de la imagen: [**Unsplash**](https://unsplash.com/photos/a-river-running-through-a-city-next-to-tall-buildings-TeZnWs7REOU)'
+  caption: 'Picture credits: [**Unsplash**](https://unsplash.com/photos/a-river-running-through-a-city-next-to-tall-buildings-TeZnWs7REOU)'
   focal_point: 'smart'
 pager: true
 commentable: true
@@ -36,5 +36,5 @@ At Training Data Lab, we are proud to support innovative research like this, whi
 
 [Bastián González-Bustamante]({{< relref "../authors/bgonzalezbustamante" >}}) is a doctoral researcher at the University of Oxford and a research associate at Training Data Lab, where he works on projects related to machine learning and natural language processing. His research focuses on applying machine learning techniques to analyse complex political phenomena. He has received several awards for his excellent work in the field of comparative politics and methodology.
 
-_* Texto generado por AI_ <br>
-[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "2024-08-22-a-shift-in-our-communication-strategy" >}})
+_* AI-generated text_ <br>
+[_Read more about how we generate our content_]({{< relref "2024-08-22-a-shift-in-our-communication-strategy" >}})
