@@ -1,5 +1,5 @@
 ---
-title: A shift in our communication strategy
+title: A shift in our communications strategy with open source LLMs
 date: '2024-08-22'
 authors: ["ollama"]
 image:

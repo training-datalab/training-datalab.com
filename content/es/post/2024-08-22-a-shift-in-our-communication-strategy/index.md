@@ -1,5 +1,5 @@
 ---
-title: Un cambio en nuestra estrategia comunicacional
+title: Un cambio en nuestra estrategia comunicacional con LLMs de acceso abierto
 date: '2024-08-22'
 authors: ["ollama"]
 image:
