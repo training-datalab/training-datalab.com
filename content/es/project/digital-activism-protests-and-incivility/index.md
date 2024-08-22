@@ -19,11 +19,13 @@ tags:
 Proyecto en curso financiado por OpenAI y apoyado por Training Data Lab
 {{% /callout %}}
 
-Este proyecto consiste en una evaluación comparativa y una auditoría de algoritmos de una serie de grandes modelos lingüísticos (LLMs por sus siglas en inglés) para medir la toxicidad y la incivilidad en los medios sociales digitales durante protestas masivas en países latinoamericanos. Desde hace más de una década, la literatura ha reconocido el potencial de los medios sociales digitales y de Internet, en un sentido más amplio, para mejorar la coordinación de la acción colectiva, lo que implica la reducción de los costos de movilización en el contexto de la política contenciosa. Sin embargo, también se ha observado un aumento de la incivilidad y la toxicidad en las interacciones digitales, una situación que puede estar relacionada con comportamientos que erosionan el debate público, como el discurso del odio, las amenazas y el acoso virtual. 
+Este proyecto consiste en una evaluación comparativa y una auditoría de algoritmos de una serie de grandes modelos lingüísticos (LLMs por sus siglas en inglés) para medir la toxicidad y la incivilidad en los medios sociales digitales durante protestas masivas en países latinoamericanos.
 
 <!--more-->
 
-En este contexto, el uso de LLM y modelos de aprendizaje profundo ofrece la oportunidad de procesar contenidos políticos que manualmente llevarían mucho tiempo. Sin embargo, estos modelos pueden tener sesgos subyacentes derivados de su proceso de entrenamiento que pueden influir en los resultados. En consecuencia, la evaluación comparativa y la auditoría de diferentes modelos nos permite medir su rendimiento para detectar la toxicidad digital y explorar posibles sesgos.
+**Panorama**
+
+Desde hace más de una década, la literatura ha reconocido el potencial de los medios sociales digitales y de Internet, en un sentido más amplio, para mejorar la coordinación de la acción colectiva, lo que implica la reducción de los costos de movilización en el contexto de la política contenciosa. Sin embargo, también se ha observado un aumento de la incivilidad y la toxicidad en las interacciones digitales, una situación que puede estar relacionada con comportamientos que erosionan el debate público, como el discurso del odio, las amenazas y el acoso virtual. En este contexto, el uso de LLM y modelos de aprendizaje profundo ofrece la oportunidad de procesar contenidos políticos que manualmente llevarían mucho tiempo. Sin embargo, estos modelos pueden tener sesgos subyacentes derivados de su proceso de entrenamiento que pueden influir en los resultados. En consecuencia, la evaluación comparativa y la auditoría de diferentes modelos nos permite medir su rendimiento para detectar la toxicidad digital y explorar posibles sesgos.
 
 **Diseño**
 
