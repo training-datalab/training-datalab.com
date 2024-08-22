@@ -37,12 +37,12 @@ interests:
 
 education:
   courses:
-  - course: Magíster en ?? (en progreso)
-    institution: ??
-    year: start-end
+  - course: Magíster en Matemáticas Aplicadas y Ciencias de la Computación
+    institution: Universidad del Rosario, Colombia
+    year: 2024-Hoy
   - course: Licenciatura en Ciencia Política
-    institution: Universidad del Rosario
-    year: start-end
+    institution: Universidad del Rosario, Colombia
+    year: 2018-2022
 
 # Social/Academic Networking
 social:
@@ -89,7 +89,6 @@ user_groups:
   - Asistentes de Investigación
 ---
 
-
-Soy Licenciada en Ciencia Política por la [Universidad del Rosario, Colombia](https://urosario.edu.co/), con mención en Desarrollo y Participación. También estudié Licenciatura en Matemáticas Aplicadas e Informática durante tres años en la misma universidad.
+Estoy cursando un Magíster en Matemáticas Aplicadas y Ciencias de la Computación en la [Universidad del Rosario, Colombia](https://urosario.edu.co/), y soy licenciada en Ciencia Política con especialización en Desarrollo y Participación por la misma universidad.
 
 Tengo tres años de experiencia en investigación cuantitativa y cualitativa en ciencias sociales. Mi experiencia se centra en la programación y el uso avanzado de software. Me interesa trabajar en equipos interdisciplinares y diversos, y mis intereses de investigación se centran principalmente en las elecciones, el análisis de datos para las ciencias sociales, la democracia, el posconflicto y la paz.
