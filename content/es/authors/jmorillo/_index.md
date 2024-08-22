@@ -23,7 +23,7 @@ role: Investigadora Doctoral
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad del Desarrollo, Chile
+- name: Universidad del Desarrollo
   url: "https://dccs.udd.cl/en/"
 
 # Short bio (displayed in user profile at end of posts)
