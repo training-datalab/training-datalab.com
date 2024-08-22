@@ -23,7 +23,7 @@ role: Profesor Asistente
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad Católica de Temuco
+- name: Universidad Católica de Temuco, Chile
   url: "http://soccipol.uct.cl/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -46,7 +46,7 @@ education:
     institution: Universidad de Chile
     year: 2005-2012
   - course: Licenciatura en Periodismo
-    institution: Pontifica Universidad Católica de Valparaíso
+    institution: Pontifica Universidad Católica de Valparaíso, Chile
     year: 1999-2004
 
 # Social/Academic Networking

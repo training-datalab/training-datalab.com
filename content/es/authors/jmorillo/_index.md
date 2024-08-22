@@ -23,7 +23,7 @@ role: Investigadora Doctoral
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad del Desarrollo
+- name: Universidad del Desarrollo, Chile
   url: "https://dccs.udd.cl/en/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -38,13 +38,13 @@ interests:
 education:
   courses:
   - course: Doctorado en Ciencias de la Complejidad Social
-    institution: Universidad del Desarrollo
+    institution: Universidad del Desarrollo, Chile
     year: start-end
   - course: Magíster en Estrategia Internacional y Política Comercial
     institution: Universidad de Chile
     year: start-end
   - course: Estudios Internacionales
-    institution: Universidad Torcuato Di Tella
+    institution: Universidad Torcuato Di Tella, Argentina
     year: start-end
 
 # Social/Academic Networking

@@ -38,13 +38,13 @@ interests:
 education:
   courses:
   - course: Doctorate in Social Complexity
-    institution: Universidad del Desarrollo
+    institution: Universidad del Desarrollo, Chile
     year: start-end
   - course: MA in International Strategy and Trade Policy
     institution: Universidad de Chile
     year: start-end
   - course: BA in International Studies
-    institution: Universidad Torcuato Di Tella
+    institution: Universidad Torcuato Di Tella, Argentina
     year: start-end
 
 # Social/Academic Networking

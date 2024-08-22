@@ -23,7 +23,7 @@ role: Profesor Asociado
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad Mayor, Chile
+- name: Universidad Mayor
   url: "https://www.umayor.cl/"
 
 # Short bio (displayed in user profile at end of posts)

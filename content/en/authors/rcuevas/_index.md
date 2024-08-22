@@ -46,7 +46,7 @@ education:
     institution: Universidad de Chile
     year: 2005-2012
   - course: BA in Journalism
-    institution: Pontifica Universidad Católica de Valparaíso
+    institution: Pontifica Universidad Católica de Valparaíso, Chile
     year: 1999-2004
 
 # Social/Academic Networking

@@ -23,8 +23,8 @@ role: Profesor Asistente
 
 # Organizations/Affiliations
 organizations:
-- name: University of California, Irvine
-  url: "https://www.polisci.uci.edu/"
+- name: Universidad Mayor, Chile
+  url: "https://www.umayor.cl/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Profesor Asistente en la Escuela de Gobierno y Administración Pública de la Universidad Mayor, Chile. Investigador Asociado en Training Data Lab, Chile.
