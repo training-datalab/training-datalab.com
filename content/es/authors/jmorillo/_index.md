@@ -27,7 +27,7 @@ organizations:
   url: "https://dccs.udd.cl/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  Investigadora doctoral en la Universidad del Desarrollo, Chile. Investigadora Asociada en Training Data Lab, Chile.
+bio: Investigadora doctoral en la Universidad del Desarrollo, Chile. Investigadora Asociada en Training Data Lab, Chile.
 
 interests:
 - Comportamiento electoral
@@ -39,13 +39,13 @@ education:
   courses:
   - course: Doctorado en Ciencias de la Complejidad Social
     institution: Universidad del Desarrollo, Chile
-    year: start-end
+    year: 2022-Hoy
   - course: Magíster en Estrategia Internacional y Política Comercial
     institution: Universidad de Chile
-    year: start-end
+    year: 2015-2016
   - course: Estudios Internacionales
     institution: Universidad Torcuato Di Tella, Argentina
-    year: start-end
+    year: 2011-2014
 
 # Social/Academic Networking
 social:
