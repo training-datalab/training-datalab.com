@@ -3,7 +3,7 @@ title: Large Language Models (LLMs) to Identify Toxicity in the Digital Sphere d
 date: 2024-05-04
 authors: ["bgonzalezbustamante"]
 image:
-  caption: 'Picture credits: [**DALL·E**](https://openai.com/index/dall-e-2/)'
+  ## caption: 'Picture credits: [**OpenAI**](https://openai.com/)'
   focal_point: 'smart'
 pager: true
 commentable: true
