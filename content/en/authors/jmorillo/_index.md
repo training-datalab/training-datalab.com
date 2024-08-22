@@ -27,7 +27,7 @@ organizations:
   url: "https://dccs.udd.cl/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  PhD Researcher at the Universidad del Desarrollo, Chile. Research Associate in Training Data Lab, Chile.
+bio: PhD Researcher at the Universidad del Desarrollo, Chile. Research Associate in Training Data Lab, Chile.
 
 interests:
 - Electoral behaviour
@@ -39,13 +39,13 @@ education:
   courses:
   - course: Doctorate in Social Complexity
     institution: Universidad del Desarrollo, Chile
-    year: start-end
+    year: 2022-Today
   - course: MA in International Strategy and Trade Policy
     institution: Universidad de Chile
-    year: start-end
+    year: 2015-2016
   - course: BA in International Studies
     institution: Universidad Torcuato Di Tella, Argentina
-    year: start-end
+    year: 2011-2014
 
 # Social/Academic Networking
 social:
