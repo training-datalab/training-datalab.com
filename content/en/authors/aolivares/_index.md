@@ -27,7 +27,7 @@ organizations:
   url: "https://www.umayor.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Associate Professor in the Government School at the Universidad Mayor, Chile. Adjuntct Researcher in Training Data Lab, Chile.
+bio: Associate Professor in the Government School and Public Administration at the Universidad Mayor, Chile. Adjuntct Researcher in Training Data Lab, Chile.
 
 interests:
 - Cabinets composition
@@ -92,4 +92,4 @@ I am a Doctor of Social Sciences and hold an MA in Political Science, both from 
 
 In addition, I am a researcher at the Fondecyt de Iniciación 11200345, a Chilean National Agency for Research and Development funded project focused on the continuity of public policies in Chile. I recently joined the Núcleo Milenio de Desigualdades y Oportunidades Digitales (NUDOS) as an early career researcher and also am an adjunct researcher at the [Centre for Health and Society Research](https://ciss.umayor.cl/) at the Universidad Mayor, Chile.
 
-Since 2022, I have been the director of the [Public Administration programme at the Universidad Mayor](https://www.umayor.cl/um/carreras/administracion-publica-santiago/10000). Previously, I was a visiting professor at the Latin American Faculty of Social Sciences ([Facultad Latinoamericana de Ciencias Sociales, FLACSO](https://www.flacso.edu.ec/en/inicio)) in Ecuador, a scholar at the Universidad Católica de Temuco, Chile, and a lecturer at the Universidad de Chile.
+Since 2022, I have been the director of the [Public Administration programme at the Universidad Mayor](https://www.umayor.cl/um/carreras/administracion-publica-santiago/10000). Previously, I was a visiting professor at the [Facultad Latinoamericana de Ciencias Sociales (FLACSO) in Ecuador](https://www.flacso.edu.ec/en/inicio), a scholar at the Universidad Católica de Temuco, Chile, and a lecturer at the Universidad de Chile.
