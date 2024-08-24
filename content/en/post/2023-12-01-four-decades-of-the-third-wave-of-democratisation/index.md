@@ -1,5 +1,5 @@
 ---
-title: Four Decades of the Third Wave of Democratisation in Latin America. Contributions from the Training Data Lab
+title: Four decades of the third wave of democratisation in Latin America. Contributions from the Training Data Lab
 date: '2023-12-01'
 authors: ["ollama"]
 image:
