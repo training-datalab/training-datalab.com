@@ -19,30 +19,47 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: Research Associate
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Training Data Lab
-  url: "https://training-datalab.com/"
+- name: Universidad de Chile
+  url: "https://iei.uchile.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Associate in Training Data Lab, Chile.
+bio: Associate Professor at the Institute of International Studies at the Universidad de Chile. Research Associate in Training Data Lab, Chile.
 
 interests:
-- 
+- Elections
+- Comparative politics
+- Public opinion and democracy
+- Estimating spatial policy positions
+- Quantitative methods
+- Text-as-Data
+
+education:
+  courses:
+  - course: PhD in Government
+    institution: University of Essex, United Kingdom
+    year: start-2004
+  - course: MA in Latin American Politics and Government
+    institution: University of Essex, United Kingdom
+    year: start-1992
+  - course: BA in Journalism
+    institution: Pontificia Universidad Católica de Chile
+    year: start-1989
 
 # Social/Academic Networking
 social:
-## - icon: envelope
-  ## icon_pack: fas
-  ## link: mailto:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:mlopez@uchile.cl
 ## - icon: home
   ## icon_pack: fas
   ## link: 
-## - icon: university
-  ## icon_pack: fas
-  ## link: https://training-datalab.com/
+- icon: university
+  icon_pack: fas
+  link: https://iei.uchile.cl/instituto/quienes-somos/cuerpo-academico/prof-miguel-angel-lopez-varas
 ## - icon: orcid
   ## icon_pack: fab
   ## link: 
@@ -52,18 +69,18 @@ social:
 ## - icon: osf
   ## icon_pack: ai
   ## link: https://osf.io/
-## - icon: google-scholar
-  ## icon_pack: ai
-  ## link: 
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.cl/citations?user=rIbm6tMAAAAJ
 ## - icon: researchgate
   ## icon_pack: fab
   ## link: 
 ## - icon: academia
   ## icon_pack: ai
   ## link: 
-## - icon: twitter
-  ## icon_pack: fab
-  ## link: https://twitter.com/
+- icon: twitter
+  icon_pack: fab
+  link: https://x.com/datatalk2me
 ## - icon: cv
   ## icon_pack: ai
   ## link: 
@@ -74,6 +91,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 
+  - Research Associates
 ---
 
+I am an associate professor at the [Institute of International Studies at the Universidad de Chile](https://iei.uchile.cl/). My teaching areas cover quantitative analysis methods, public opinion, comparative politics, Latin American politics and strategic analysis. I am a journalist from the Pontificia Universidad Católica de Chile and have an MA in Latin American Politics and Government and a PhD in Political Science from the [University of Essex, United Kingdom](https://www.essex.ac.uk/).
+
+My research mainly covers electoral behavior, public opinion, political communication, political parties, democracy in Latin America and public diplomacy.

@@ -19,30 +19,47 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: Investigador Asociado
+role: Profesor Asociado
 
 # Organizations/Affiliations
 organizations:
-- name: Training Data Lab
-  url: "https://training-datalab.com/"
+- name: Universidad de Chile
+  url: "https://iei.uchile.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Investigador Asociado en Training Data Lab, Chile.
+bio: Profesor Asociado en el Instituto de Estudios Internacionales de la Universidad de Chile. Investigador Asociado en Training Data Lab, Chile.
 
 interests:
-- 
+- Elecciones
+- Política comparada
+- Opinión pública y democracia
+- Estimación de posiciones políticas espaciales
+- Métodos cuantitativos
+- Text-as-Data
+
+education:
+  courses:
+  - course: PhD en Gobierno
+    institution: University of Essex, Reino Unido
+    year: start-2004
+  - course: Magíster en Política y Gobierno de América Latina
+    institution: University of Essex, Reino Unido
+    year: start-1992
+  - course: Licenciatura en Periodismo
+    institution: Pontificia Universidad Católica de Chile
+    year: start-1989
 
 # Social/Academic Networking
 social:
-## - icon: envelope
-  ## icon_pack: fas
-  ## link: mailto:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:mailto:mlopez@uchile.cl
 ## - icon: home
   ## icon_pack: fas
   ## link: 
-## - icon: university
-  ## icon_pack: fas
-  ## link: https://training-datalab.com/
+- icon: university
+  icon_pack: fas
+  link: https://iei.uchile.cl/instituto/quienes-somos/cuerpo-academico/prof-miguel-angel-lopez-varas
 ## - icon: orcid
   ## icon_pack: fab
   ## link: 
@@ -52,18 +69,18 @@ social:
 ## - icon: osf
   ## icon_pack: ai
   ## link: https://osf.io/
-## - icon: google-scholar
-  ## icon_pack: ai
-  ## link: 
+- icon: google-scholar
+  icon_pack: ai
+  link: 
 ## - icon: researchgate
   ## icon_pack: fab
   ## link: 
 ## - icon: academia
   ## icon_pack: ai
   ## link: 
-## - icon: twitter
-  ## icon_pack: fab
-  ## link: https://twitter.com/
+- icon: twitter
+  icon_pack: fab
+  link: https://x.com/datatalk2me
 ## - icon: cv
   ## icon_pack: ai
   ## link: 
@@ -74,9 +91,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 
+- Investigadores Asociados
 ---
 
-\
-\
-Investigador Asociado
+Soy profesor asociado del [Instituto de Estudios Internacionales de la Universidad de Chile](https://iei.uchile.cl/). Mis áreas de docencia abarcan métodos de análisis cuantitativo, opinión pública, política comparada, política latinoamericana y análisis estratégico. Soy periodista de la Pontificia Universidad Católica de Chile y tengo una maestría en Política y Gobierno Latinoamericano y un doctorado en Ciencia Política de la [Universidad de Essex, Reino Unido](https://www.essex.ac.uk/).
+
+Mi investigación abarca principalmente el comportamiento electoral, la opinión pública, la comunicación política, los partidos políticos, la democracia en América Latina y la diplomacia pública.
