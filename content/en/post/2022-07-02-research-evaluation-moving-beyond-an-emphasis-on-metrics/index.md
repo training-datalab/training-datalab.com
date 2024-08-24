@@ -42,17 +42,12 @@ In conclusion, research evaluation is a fundamental process that requires a shif
 
 **Recommendations**
 
-\* Do not use journal-based metrics such as impact factor as a promotional tool.
-
-\* Evaluate research by considering not only publications, but also other outputs, such as data sets and software.
-
-\* Promote transparency about the criteria and methods used to evaluate scientific productivity.
-
-\* Encourage a shift towards evaluation based on scientific content.
-
-\* Provide computational access to data and data sets.
-
-\* Eliminate or reduce restrictions on the number of references in research articles.
+* Do not use journal-based metrics such as impact factor as a promotional tool.
+* Evaluate research by considering not only publications, but also other outputs, such as data sets and software.
+* Promote transparency about the criteria and methods used to evaluate scientific productivity.
+* Encourage a shift towards evaluation based on scientific content.
+* Provide computational access to data and data sets.
+* Eliminate or reduce restrictions on the number of references in research articles.
 
 _* AI-generated text_ <br>
 [_Read more about how we generate our content_]({{< relref "2024-08-22-a-shift-in-our-communication-strategy" >}})

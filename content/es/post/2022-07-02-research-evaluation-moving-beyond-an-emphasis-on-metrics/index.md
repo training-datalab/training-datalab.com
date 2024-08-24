@@ -42,17 +42,12 @@ En conclusión, la evaluación de la investigación es un proceso fundamental qu
 
 **Recomendaciones**
 
-\* No utilice métricas basadas en revistas como el factor de impacto como herramienta promocional.
-
-\* Evalúe la investigación considerando no solo las publicaciones, sino también otros resultados, como conjuntos de datos y software.
-
-\* Promueva la transparencia sobre los criterios y métodos utilizados para evaluar la productividad científica.
-
-\* Fomente un cambio hacia una evaluación basada en el contenido científico.
-
-\* Proporcione acceso computacional a los datos y conjuntos de datos.
-
-\* Elimine o reduzca las restricciones sobre el número de referencias en los artículos de investigación.
+* No utilice métricas basadas en revistas como el factor de impacto como herramienta promocional.
+* Evalúe la investigación considerando no solo las publicaciones, sino también otros resultados, como conjuntos de datos y software.
+* Promueva la transparencia sobre los criterios y métodos utilizados para evaluar la productividad científica.
+* Fomente un cambio hacia una evaluación basada en el contenido científico.
+* Proporcione acceso computacional a los datos y conjuntos de datos.
+* Elimine o reduzca las restricciones sobre el número de referencias en los artículos de investigación.
 
 _* Texto generado por AI_ <br>
 [_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "2024-08-22-a-shift-in-our-communication-strategy" >}})
