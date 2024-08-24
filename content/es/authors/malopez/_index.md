@@ -60,9 +60,9 @@ social:
 - icon: university
   icon_pack: fas
   link: https://iei.uchile.cl/instituto/quienes-somos/cuerpo-academico/prof-miguel-angel-lopez-varas
-## - icon: orcid
-  ## icon_pack: fab
-  ## link: 
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-0724-2163
 ## - icon: github
   ## icon_pack: fab
   ## link: https://github.com/
