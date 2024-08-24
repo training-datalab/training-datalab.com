@@ -22,7 +22,7 @@ publication_types: ['chapter']
 
 publication: 'En M. Barragán, P. Cossarini (eds.), *Democracia Digital y Emocional. Perspectivas desde América Latina*.	Valencia: Tirant lo Blanch'
 publication_short: ''
-abstract: 'In this article we analyse the relationship between online and traditional political activism and Chileans' interest in politics in general and traditional and especially online political activism. The study focuses on the comparison of these traditional and new activisms in the constitutional plebiscite of 2022, where a constitutional proposal that polarised Chileans was put to a vote. The main objective of the article is to analyse how online political activism has increased over time and compare it with traditional activism in the 2022 referendum. We will use the Latinobarómetro and the CEP survey for the temporal analysis and the MEPOP survey for the analysis of the 2022 plebiscite.'
+abstract: 'In this article we analyse the relationship between online and traditional political activism and Chileans’ interest in politics in general and traditional and especially online political activism. The study focuses on the comparison of these traditional and new activisms in the constitutional plebiscite of 2022, where a constitutional proposal that polarised Chileans was put to a vote. The main objective of the article is to analyse how online political activism has increased over time and compare it with traditional activism in the 2022 referendum. We will use the Latinobarómetro and the CEP survey for the temporal analysis and the MEPOP survey for the analysis of the 2022 plebiscite.'
 summary: ''
 featured: no
 url_pdf: ~
