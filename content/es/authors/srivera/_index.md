@@ -70,9 +70,9 @@ social:
 ## - icon: osf
   ## icon_pack: ai
   ## link: https://osf.io/
-## - icon: google-scholar
-  ## icon_pack: ai
-  ## link: 
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.cl/citations?user=Z_hzOvcAAAAJ
 ## - icon: researchgate
   ## icon_pack: fab
   ## link: 
