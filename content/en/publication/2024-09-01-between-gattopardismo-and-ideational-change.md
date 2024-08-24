@@ -1,5 +1,5 @@
 ---
-title: 'Between Gattopardismo and Ideational Change: The Mainstream Chilean Right's Winding Road to Moderation'
+title: 'Between Gattopardismo and Ideational Change: The Mainstream Chilean Right’s Winding Road to Moderation'
 date: '2024-09-01'
 slug: between-gattopardismo-and-ideational-change
 ## categories: []
