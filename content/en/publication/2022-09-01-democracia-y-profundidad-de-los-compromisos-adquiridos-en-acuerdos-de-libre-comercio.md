@@ -1,7 +1,7 @@
 ---
 title: 'Democracia y profundidad de los compromisos adquiridos en acuerdos de libre comercio (1948-2020)'
 date: '2022-09-01'
-slug: democracia-y-profundidad-de-los-compromisos-adquiridos-en-acuerdos-de-libre-comercio.md
+slug: democracia-y-profundidad-de-los-compromisos-adquiridos-en-acuerdos-de-libre-comercio
 ## categories: []
 tags: ["scielo-article"]
 ## authors: [""]
