@@ -15,11 +15,11 @@ tags:
 - active-project
 ---
 
+<!--more-->
+
 {{% callout note %}}
 Project in progress funded by the Universidad Diego Portales and supported by Training Data Lab
 {{% /callout %}}
-
-<!--more-->
 
 **Overview**
 

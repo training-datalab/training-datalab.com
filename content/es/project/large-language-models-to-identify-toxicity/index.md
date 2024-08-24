@@ -15,11 +15,11 @@ tags:
 - active-project
 ---
 
+<!--more-->
+
 {{% callout note %}}
 Proyecto en curso financiado por OpenAI y apoyado por Training Data Lab
 {{% /callout %}}
-
-<!--more-->
 
 **Resumen**
 
