@@ -36,6 +36,6 @@ Nuestros resultados proporcionarán una comparación relevante del rendimiento d
 **Resultados preliminares**
 
 * González-Bustamante, B. (2023). [Digital Activism, Protests and Incivility in Latin America](https://doi.org/10.17605/OSF.IO/Q4G6P). Proyecto de investigación, University of Oxford, Universidad de Santiago de Chile (USACH) y Training Data Lab.
-* [Training Data Lab participa en el XII Congreso Latinoamericano de Ciencia Política]({{< relref "../post/2024-07-25-xii-latin-american-congress-of-political-science" >}})
+* Entrada del blog: [Training Data Lab participa en el XII Congreso Latinoamericano de Ciencia Política]({{< relref "../post/2024-07-25-xii-latin-american-congress-of-political-science" >}})
 
 _Última actualización: 25 de julio de 2024._
