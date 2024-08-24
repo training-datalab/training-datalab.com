@@ -33,9 +33,9 @@ We use Perspective API, ToxicBERT, LlaMA 2 and different versions of generative 
 
 Our results shall provide a relevant comparison of the performance of different models and demonstrate the potential of generative artificial intelligence to automate the labelling of political content. In addition, this work shallopen new research possibilities for fine-tuning the phenomenon of toxicity and incivility in digital social networks or for studying the digital dynamics during protest events in the cases used or in other similar contexts.
 
-**Preliminary results**
+**Preliminary results and progress**
 
 * González-Bustamante, B. (2023). [Digital Activism, Protests and Incivility in Latin America](https://doi.org/10.17605/OSF.IO/Q4G6P). Research project, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab.
-* Blog post: [Training Data Lab participates in the XII Latin American Congress of Political Science]({{< relref "../post/2024-07-25-xii-latin-american-congress-of-political-science" >}})
+* Blog post: [Training Data Lab participates in the XII Latin American Congress of Political Science]({{< relref "../post/2024-07-25-xii-latin-american-congress-of-political-science" >}}).
 
 _Last updated: 25 July 2024._
