@@ -15,15 +15,13 @@ tags:
 - active-project
 ---
 
-<!--more-->
-
 {{% callout note %}}
 Project in progress funded by OpenAI and supported by Training Data Lab
 {{% /callout %}}
 
-**Overview**
-
 This project involves a benchmarking and algorithm audit of a number of Large Language Models (LLMs) to measure toxicity and incivility in digital social media during mass protests in Latin American countries. For more thana decade now, the literature has recognised the potential of digital social media and the Internet, in a broader sense, to improve the coordination of collective action, which implies reducing the costs of mobilisation in thecontext of contentious politics. However, an increase in incivility and toxicity in digital interactions has also been observed, a situation that may be linked to behaviours that erode public debate, such as hate speech, threats and virtual harassment. In this context, the use of LLMs and deep learning models offers an opportunity to process political content that would manually take a long time. However, these models may have underlying biases from their training process that can influence the results. Consequently, benchmarking and auditing different modelsallows us to measure their performance to detect digital toxicity and explore potential biases.
+
+<!--more-->
 
 **Design**
 
