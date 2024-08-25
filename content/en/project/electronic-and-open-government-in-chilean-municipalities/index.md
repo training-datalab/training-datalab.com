@@ -3,7 +3,7 @@ title: Territorial Patterns of Electronic and Open Government in Chilean Municip
 date: 2022-08-22
 authors: ["bgonzalezbustamante", "daguilar", "rcuevas"]
 image:
-  ## caption: 'Créditos de la imagen: [**OpenAI**](https://openai.com/)'
+  ## caption: 
   focal_point: 'smart'
 pager: true
 commentable: true

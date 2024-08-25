@@ -3,7 +3,7 @@ title: Patrones territoriales de gobierno electrónico y abierto en los municipi
 date: 2022-08-22
 authors: ["bgonzalezbustamante", "daguilar", "rcuevas"]
 image:
-  ## caption: 'Créditos de la imagen: [**OpenAI**](https://openai.com/)'
+  ## caption: 
   focal_point: 'smart'
 pager: true
 commentable: true
