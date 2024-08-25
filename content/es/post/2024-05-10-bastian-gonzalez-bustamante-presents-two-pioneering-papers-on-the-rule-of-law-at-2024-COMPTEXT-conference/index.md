@@ -3,7 +3,7 @@ title: Bastián González-Bustamante presenta dos trabajos pioneros sobre el Est
 date: '2024-05-10'
 authors: ["ollama"]
 image:
-  caption: 'Créditos de la imagen: [**Unsplash**]https://unsplash.com/photos/structures-near-body-of-water-t2hgHV1R7_g)'
+  caption: 'Créditos de la imagen: [**Unsplash**](https://unsplash.com/photos/structures-near-body-of-water-t2hgHV1R7_g)'
   focal_point: 'smart'
 pager: true
 commentable: true

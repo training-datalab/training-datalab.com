@@ -3,7 +3,7 @@ title: Bastián González-Bustamante presents two pioneering papers on the rule 
 date: '2024-05-10'
 authors: ["ollama"]
 image:
-  caption: 'Picture credits: [**Unsplash**]https://unsplash.com/photos/structures-near-body-of-water-t2hgHV1R7_g)'
+  caption: 'Picture credits: [**Unsplash**](https://unsplash.com/photos/structures-near-body-of-water-t2hgHV1R7_g)'
   focal_point: 'smart'
 pager: true
 commentable: true
