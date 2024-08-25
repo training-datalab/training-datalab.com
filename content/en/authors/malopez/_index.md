@@ -41,13 +41,13 @@ education:
   courses:
   - course: PhD in Government
     institution: University of Essex, United Kingdom
-    year: start-2004
+    year: 1996-2004
   - course: MA in Latin American Politics and Government
     institution: University of Essex, United Kingdom
-    year: start-1992
+    year: 1991-1992
   - course: BA in Journalism
     institution: Pontificia Universidad Católica de Chile
-    year: start-1989
+    year: 1985-1989
 
 # Social/Academic Networking
 social:

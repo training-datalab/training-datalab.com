@@ -41,13 +41,13 @@ education:
   courses:
   - course: PhD en Gobierno
     institution: University of Essex, Reino Unido
-    year: start-2004
+    year: 1996-2004
   - course: Magíster en Política y Gobierno de América Latina
     institution: University of Essex, Reino Unido
-    year: start-1992
+    year: 1991-1992
   - course: Licenciatura en Periodismo
     institution: Pontificia Universidad Católica de Chile
-    year: start-1989
+    year: 1985-1989
 
 # Social/Academic Networking
 social:
