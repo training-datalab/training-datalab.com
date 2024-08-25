@@ -1,5 +1,5 @@
 ---
-title: Tufte Working Papers: Una serie de documentos de trabajos innovadores ya indexada en Latindex
+title: Tufte Working Papers. Una serie de documentos de trabajos innovadores ya indexada en Latindex
 date: '2022-03-22'
 authors: ["ollama"]
 image:

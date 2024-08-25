@@ -1,5 +1,5 @@
 ---
-title: Tufte Working Papers: An innovative working paper series now indexed in Latindex
+title: Tufte Working Papers. An innovative working paper series now indexed in Latindex
 date: '2022-03-22'
 authors: ["ollama"]
 image:
