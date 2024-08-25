@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '<i class="fa-brands fa-github"></i> [Repositorios de GitHub](https://github.com/training-datalab) &middot; <i class="fa-regular fa-calendar"></i> Última actualización en agosto de {year} <br> <i class="fa-brands fa-creative-commons"></i> 2020-Hoy - Training Data Lab ha sido apoyado y financiado por'
+    notice: '<i class="fa-brands fa-github"></i> [Repositorios de GitHub](https://github.com/training-datalab) &middot; <i class="fa-regular fa-calendar"></i> Última actualización en agosto de {year} <br> <i class="fa-brands fa-creative-commons"></i> 2020-Hoy &middot; Training Data Lab ha sido apoyado y financiado por'
     license:
       enable: false
       allow_derivatives: true
