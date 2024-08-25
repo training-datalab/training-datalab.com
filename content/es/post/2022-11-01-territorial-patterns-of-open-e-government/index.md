@@ -3,7 +3,7 @@ title: Patrones territoriales de gobierno electrónico abierto. El camino hacia 
 date: '2022-11-01'
 authors: ["ollama"]
 image:
-  caption: 'Créditos de la imagen: [**Unsplash**](https://unsplash.com/photos/white-and-black-concrete-building-YuH5zftcocA)'
+  caption: 'Créditos de la imagen: [**Unsplash**](https://unsplash.com/photos/aerial-photography-of-vehicles-passing-between-high-rise-buildings-WBGjg0DsO_g)'
   focal_point: 'smart'
 pager: true
 commentable: true
