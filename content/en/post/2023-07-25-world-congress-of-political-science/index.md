@@ -20,9 +20,9 @@ Last July 15-19, our research associate [Bastián González-Bustamante]({{< relr
 
 The research presented by [Bastián González-Bustamante]({{< relref "../authors/bgonzalezbustamante" >}}) was published in the prestigious *British Journal of Politics and International Relations* under the title ["Ministerial stability during presidential approval crises: The moderating effect of ministers’ attributes on dismissals in Brazil and Chile"](https://doi.org/10.1177/13691481221124850). In it, the researcher analyses the effect of ministers' profiles on the fate of cabinets during periods of low presidential approval in Brazil and Chile between 1990 and 2014.
 
-The conference focused on "Politics in the Age of Transnational Crises: Vulnerability and Resilience", allowing participants to discuss the consequences of global crises in the political sphere. In addition, the conference included a virtual component, which facilitated the participation of researchers and students from all over the world.
+The conference focused on "Politics in the Age of Transnational Crises: Vulnerability and Resilience", allowing participants to discuss the consequences of global crises in the political sphere. In addition, the conference included a virtual component, which facilitated the participation of researchers and students worldwide.
 
- The research presented by [Bastián González-Bustamante]({{< relref "../authors/bgonzalezbustamante" >}}) uses an innovative approach to analyse ministerial stability during periods of low presidential approval. The study shows that the risk of ministerial dismissal increases significantly in periods of low approval, and that certain ministerial profiles (such as nonpartisan ones) have a moderating effect on the dismissal rate.
+ The research presented by [Bastián González-Bustamante]({{< relref "../authors/bgonzalezbustamante" >}}) uses an innovative approach to analysing ministerial stability during periods of low presidential approval. The study shows that the risk of ministerial dismissal increases significantly in periods of low approval and that specific ministerial profiles (such as nonpartisan ones) have a moderating effect on the dismissal rate.
 
 The presentation was well received by the academic community and was an important milestone for the Training Data Lab team. This research is yet another example of how our group is committed to high-quality knowledge production and international collaboration in political science.
 
@@ -37,4 +37,4 @@ The main findings show that the risk increases by 135.1% in periods of low appro
 At the Training Data Lab, we are committed to high-quality knowledge production and international cooperation in the field of political science. Our researchers are working hard to generate innovative and relevant results that contribute to understanding current policy challenges.
 
 _* AI-generated text_ <br>
-[_Read more about how we generate our content_]({{< relref "2024-08-22-a-shift-in-our-communication-strategy" >}})
+[_Read more about how we generate our content_]({{< relref "2024-08-25-a-shift-in-our-communication-strategy" >}})

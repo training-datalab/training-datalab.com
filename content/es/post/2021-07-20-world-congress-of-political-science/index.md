@@ -29,4 +29,4 @@ La presentación de nuestros investigadores asociados formó parte de una sesió
 En Training Data Lab, nos esforzamos por generar conocimiento de alta calidad y relevancia en la comunidad científica. La presentación de nuestros investigadores asociados en el Congreso Mundial de Ciencia Política es un ejemplo más de nuestro compromiso con la investigación y el intercambio internacional. Estamos orgullosos de haber podido contribuir a este importante evento y esperamos seguir compartiendo nuestros hallazgos con la comunidad científica en el futuro cercano.
 
 _* Texto generado por AI_ <br>
-[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "2024-08-22-a-shift-in-our-communication-strategy" >}})
+[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "2024-08-25-a-shift-in-our-communication-strategy" >}})

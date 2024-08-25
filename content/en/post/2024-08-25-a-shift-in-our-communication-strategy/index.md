@@ -1,6 +1,6 @@
 ---
 title: A shift in our communications strategy with open source LLMs
-date: '2024-08-22'
+date: '2024-08-25'
 authors: ["ollama"]
 image:
   caption: 'Picture credits: [**Ollama**](https://ollama.com)'
@@ -18,9 +18,9 @@ As a research group focused on social science and computational methods, Trainin
 
 <!--more-->
 
-Our experiment using a [chatbot based on GPT-3.5]({{< relref "2023-04-11-collaborating-with-chatgpt" >}}) to generate content was quite successful. GPT-3.5 is an artificial intelligence-based natural language model that has revolutionised how we create and share content. Using advanced algorithms, GPT-3.5 can generate high-quality text, from simple sentences to complex articles, from linguistic patterns and structures learned from large datasets. Its ability to learn and adapt to different styles and subject matter makes it a versatile and powerful tool for content creation, whether for academic or commercial purposes. 
+Our experiment using a [chatbot based on GPT-3.5]({{< relref "2023-04-11-using-chatgpt-to-boost-our-social-media-presence" >}}) to generate content was quite successful. GPT-3.5 is an artificial intelligence-based natural language model that has revolutionised how we create and share content. Using advanced algorithms, GPT-3.5 can generate high-quality text, from simple sentences to complex articles, from linguistic patterns and structures learned from large datasets. Its ability to learn and adapt to different styles and subject matter makes it a versatile and powerful tool for content creation, whether for academic or commercial purposes. 
 
-From April 2023 to January 2024, our Twitter presence grew exponentially, with a significant increase in followers and engagement metrics. Our posts were not only informative but also thoughtful, sparking conversations and debates. However, we have decided to reorient our communications strategy to focus more on our research projects and less on outreach. While our Twitter presence has been a valuable tool for sharing updates and insights, we believe it is important to concentrate on the core work of our group: conducting high-quality research and publishing in top-tier journals.
+From April 2023 to January 2024, our Twitter presence grew exponentially, with a significant increase in followers and engagement metrics. Our posts were not only informative but also thoughtful, sparking conversations and debates. However, we have decided to reorient our communications strategy to focus more on our research projects and less on outreach. While our Twitter presence has been a valuable tool for sharing updates and insights, we believe it is important to concentrate on our group's core work: conducting high-quality research and publishing in top-tier journals.
 
 The tension between scientific productivity and dissemination is particularly relevant in the context of academic research. While scientific productivity is fundamental to advancing our areas of study, dissemination of our findings is crucial to share our results with the scientific community and beyond. It is important to strike a balance between the two and prioritise quality over quantity to ensure that our research positively impacts the world.
 

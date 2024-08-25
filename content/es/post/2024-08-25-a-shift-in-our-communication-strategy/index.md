@@ -1,6 +1,6 @@
 ---
 title: Un cambio en nuestra estrategia comunicacional con LLMs de acceso abierto
-date: '2024-08-22'
+date: '2024-08-25'
 authors: ["ollama"]
 image:
   caption: 'Créditos de la imagen: [**Ollama**](https://ollama.com)'
@@ -18,7 +18,7 @@ Como grupo de investigación enfocado en ciencias sociales y métodos computacio
 
 <!--more--> 
 
-Nuestro experimento de utilizar un [chatbot basado en GPT-3.5]({{< relref "2023-04-11-collaborating-with-chatgpt" >}}) para generar contenido fue bastante exitoso. GPT-3.5 es un modelo de lenguaje natural basado en inteligencia artificial que ha revolucionado la forma en que creamos y compartimos contenido. Utilizando algoritmos avanzados, GPT-3.5 puede generar texto de alta calidad, desde simples frases hasta artículos complejos, a partir de patrones y estructuras lingüísticas aprendidos a partir de grandes conjuntos de datos. Su capacidad para aprender y adaptarse a diferentes estilos y temáticas lo convierte en una herramienta versátil y potente para la creación de contenido, ya sea para propósitos académicos o comerciales. 
+Nuestro experimento de utilizar un [chatbot basado en GPT-3.5]({{< relref "2023-04-11-using-chatgpt-to-boost-our-social-media-presence" >}}) para generar contenido fue bastante exitoso. GPT-3.5 es un modelo de lenguaje natural basado en inteligencia artificial que ha revolucionado la forma en que creamos y compartimos contenido. Utilizando algoritmos avanzados, GPT-3.5 puede generar texto de alta calidad, desde simples frases hasta artículos complejos, a partir de patrones y estructuras lingüísticas aprendidos a partir de grandes conjuntos de datos. Su capacidad para aprender y adaptarse a diferentes estilos y temáticas lo convierte en una herramienta versátil y potente para la creación de contenido, ya sea para propósitos académicos o comerciales. 
 
 Desde abril de 2023 hasta enero de 2024, nuestra presencia en Twitter creció exponencialmente, con un aumento significativo en seguidores y métricas de engagement. Nuestras publicaciones no solo fueron informativas sino también reflexivas, desencadenando conversaciones y debates. Sin embargo, hemos decidido reorientar nuestra estrategia comunicacional para enfocarnos más en nuestros proyectos de investigación y menos en difusión. Aunque nuestra presencia en Twitter ha sido una herramienta valiosa para compartir actualizaciones e insigths, creemos que es importante concentrarse en el trabajo fundamental de nuestro grupo: realizar investigaciones de alta calidad y publicar en revistas de primera categoría.
 

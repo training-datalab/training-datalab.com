@@ -34,7 +34,7 @@ At Training Data Lab, we are interested in applying deep learning to different r
 
 The choice of Raspberry Pi 5 allows us to enjoy several advantages:
 
-* **Reduced costs.** We do not need to invest in large installations or cloud computing services, which significantly reduces our costs.
+* **Reduced costs.** We do not need to invest in large installations or cloud computing services, significantly reducing our costs.
 * **Energy efficiency.** Raspberry Pi 5 has very low power consumption, which helps reduce our carbon footprint and contributes to greater sustainability.
 * **Flexibility.** We can run Python and other applications on the board, which allows us to be more flexible in our projects and easily adapt to changes.
 * **Collaboration.** The ability to collaborate with other researchers and developers is greatly enhanced by the ease of sharing code and results.
@@ -44,5 +44,4 @@ The choice of Raspberry Pi 5 allows us to enjoy several advantages:
 At Training Data Lab, we are committed to innovation and sustainability. Our choice to use Raspberry Pi 5 to deploy deep learning and language models such as Llama and Mistral allows us to reduce costs and carbon footprint associated with cloud computing. At the same time, we can enjoy the benefits of the flexibility and collaboration offered by this computing board. We hope that our project will inspire other researchers and developers to explore the possibilities of sustainability in the field of data and machine learning.
 
 _* AI-generated text_ <br>
-[_Read more about how we generate our content_]({{< relref "2024-08-22-a-shift-in-our-communication-strategy" >}})
-
+[_Read more about how we generate our content_]({{< relref "2024-08-25-a-shift-in-our-communication-strategy" >}})

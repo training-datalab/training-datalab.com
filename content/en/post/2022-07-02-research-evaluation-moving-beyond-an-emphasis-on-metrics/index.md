@@ -14,7 +14,7 @@ tags:
 - blog
 ---
 
-Research evaluation is a fundamental process in any scientific field, whether in academia or industry. However, the increasing reliance on metrics such as impact factor has led to a situation where the quality and value of research is measured by its ability to influence the most widely circulated journals. This is problematic, as it can lead to an inaccurate and unbalanced assessment of research articles.
+Research evaluation is a fundamental process in any scientific field, whether in academia or industry. However, the increasing reliance on metrics such as the impact factor has led to a situation where the quality and value of research are measured by its ability to influence the most widely circulated journals. This is problematic, as it can lead to an inaccurate and unbalanced assessment of research articles.
 
 <!--more-->
 
@@ -50,4 +50,4 @@ In conclusion, research evaluation is a fundamental process that requires a shif
 * Eliminate or reduce restrictions on the number of references in research articles.
 
 _* AI-generated text_ <br>
-[_Read more about how we generate our content_]({{< relref "2024-08-22-a-shift-in-our-communication-strategy" >}})
+[_Read more about how we generate our content_]({{< relref "2024-08-25-a-shift-in-our-communication-strategy" >}})

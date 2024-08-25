@@ -14,7 +14,7 @@ tags:
 - blog
 ---
 
-Del 17 al 20 de julio de 2024, nuestro grupo de investigación Training Data Lab tuvo el honor de participar en el XII Congreso Latinoamericano de Ciencia Política, titulado "América Latina como actor en la configuración geopolítica global", celebrado en Lisboa, Portugal. Nuestros investigadores asociados presentaron tres trabajos que reflejan nuestra investigación en el ámbito de la ciencia política y la metodología.
+Del 17 al 20 de julio de 2024, nuestro grupo de investigación, Training Data Lab, tuvo el honor de participar en el XII Congreso Latinoamericano de Ciencia Política, titulado "América Latina como actor en la configuración geopolítica global", celebrado en Lisboa, Portugal. Nuestros investigadores asociados presentaron tres trabajos que reflejan nuestra investigación en el ámbito de la ciencia política y la metodología.
 
 <!--more-->
 
@@ -37,4 +37,4 @@ La participación de nuestro grupo de investigación en el XII Congreso Latinoam
 En particular, nuestros estudios sobre las comisiones asesoras ad hoc y la toxicidad en la esfera digital durante eventos de protesta en América Latina son importantes contribuciones a la comprensión del funcionamiento de los sistemas políticos y la dinámica social en el continente. Esperamos que estos trabajos generen interés y debates académicos en el futuro.
 
 _* Texto generado por AI_ <br>
-[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "2024-08-22-a-shift-in-our-communication-strategy" >}})
+[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "2024-08-25-a-shift-in-our-communication-strategy" >}})

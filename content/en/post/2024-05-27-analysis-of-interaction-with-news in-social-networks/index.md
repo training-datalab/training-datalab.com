@@ -20,7 +20,7 @@ Between 15 and 17 May, our researchers [Bastián González-Bustamante]({{< relre
 
 In this study, our researchers focused on analysing how users interact with news content published by traditional and alternative media on their X accounts. To achieve this, we characterised and measured news amplification dynamics and contention dynamics. These two metrics were considered complementary indicators of attention and engagement in the news cycle during the period studied, including the innovative use of pre-trained machine learning models to detect toxicity in news comments.
 
-Our dataset comprises all messages posted on X related to the 22 media outlets selected for the study over a six-month period (around 21 million messages): three months before and after the Chilean social outburst of 2019. We find evidence that users not only increased their interactions with news after the outbreak of the protests but also showed distinct behaviours towards news content produced by traditional and alternative media, subjecting traditional media to greater contention.
+Our dataset comprises all messages posted on X related to the 22 media outlets selected for the study over six months (around 21 million messages): three months before and after the Chilean social outburst of 2019. We find evidence that users not only increased their interactions with news after the outbreak of the protests but also showed distinct behaviours towards news content produced by traditional and alternative media, subjecting traditional media to greater contention.
 
 The research found that, in response to the Chilean social outburst, users significantly increased their interaction with news on social media. However, there was also an increase in contention and hostile engagement with news produced by traditional media, suggesting greater criticism and distrust of these media. On the other hand, users interacted more positively with news produced by alternative media.
 
@@ -28,7 +28,7 @@ These results have important implications for our understanding of the role that
 
 **About the Medios de Gobernanza conference**
 
-The Medios de Gobernanza conference is an event to discuss and analyse current trends and challenges in the media sector in Latin America, Spain and Portugal. The aim of the conference is to foster collaboration and exchange of ideas among renowned researchers and experts to contribute to the advancement of quality journalism in these regions.
+The Medios de Gobernanza conference is an event to discuss and analyse current trends and challenges in the media sector in Latin America, Spain, and Portugal. The conference aims to foster collaboration and the exchange of ideas among renowned researchers and experts and contribute to the advancement of quality journalism in these regions.
 
 **About Training Data Lab**
 
@@ -37,4 +37,4 @@ Training Data Lab is a research group that analyses and processes data to unders
 In conclusion, our study on "Amplification, contestation, and hostile engagement with news in social media" is an important step towards understanding how social networks affect public opinion formation. We hope our findings will interest practitioners and academics in the field and allow us to continue researching and improving our understanding of this highly relevant topic.
 
 _* AI-generated text_ <br>
-[_Read more about how we generate our content_]({{< relref "2024-08-22-a-shift-in-our-communication-strategy" >}})
+[_Read more about how we generate our content_]({{< relref "2024-08-25-a-shift-in-our-communication-strategy" >}})
