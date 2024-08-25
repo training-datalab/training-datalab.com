@@ -1,5 +1,5 @@
 ---
-title: Projectos y datos
+title: Proyectos y datos
 
 # Listing view
 view: compact
