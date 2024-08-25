@@ -19,9 +19,11 @@ tags:
 Project in progress funded by OpenAI and supported by Training Data Lab
 {{% /callout %}}
 
-This project involves a benchmarking and algorithm audit of a number of Large Language Models (LLMs) to measure toxicity and incivility in digital social media during mass protests in Latin American countries. For more thana decade now, the literature has recognised the potential of digital social media and the Internet, in a broader sense, to improve the coordination of collective action, which implies reducing the costs of mobilisation in thecontext of contentious politics. However, an increase in incivility and toxicity in digital interactions has also been observed, a situation that may be linked to behaviours that erode public debate, such as hate speech, threats and virtual harassment. In this context, the use of LLMs and deep learning models offers an opportunity to process political content that would manually take a long time. However, these models may have underlying biases from their training process that can influence the results. Consequently, benchmarking and auditing different modelsallows us to measure their performance to detect digital toxicity and explore potential biases.
+This project involves a benchmarking and algorithm audit of a number of Large Language Models (LLMs) to measure toxicity and incivility in digital social media during mass protests in Latin American countries.
 
 <!--more-->
+
+For more than a decade now, the literature has recognised the potential of digital social media and the Internet, in a broader sense, to improve the coordination of collective action, which implies reducing the costs of mobilisation in thecontext of contentious politics. However, an increase in incivility and toxicity in digital interactions has also been observed, a situation that may be linked to behaviours that erode public debate, such as hate speech, threats and virtual harassment. In this context, the use of LLMs and deep learning models offers an opportunity to process political content that would manually take a long time. However, these models may have underlying biases from their training process that can influence the results. Consequently, benchmarking and auditing different modelsallows us to measure their performance to detect digital toxicity and explore potential biases.
 
 **Design**
 
@@ -31,7 +33,7 @@ We use Perspective API, ToxicBERT, LlaMA 2 and different versions of generative 
 
 Our results shall provide a relevant comparison of the performance of different models and demonstrate the potential of generative artificial intelligence to automate the labelling of political content. In addition, this work shallopen new research possibilities for fine-tuning the phenomenon of toxicity and incivility in digital social networks or for studying the digital dynamics during protest events in the cases used or in other similar contexts.
 
-**Preliminary results and progress**
+**Resources**
 
 * González-Bustamante, B. (2023). [Digital Activism, Protests and Incivility in Latin America](https://doi.org/10.17605/OSF.IO/Q4G6P). Research project, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab.
 * Blog post: [Training Data Lab participates in the XII Latin American Congress of Political Science]({{< relref "../post/2024-07-25-xii-latin-american-congress-of-political-science" >}}).

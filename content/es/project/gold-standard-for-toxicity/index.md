@@ -15,15 +15,13 @@ tags:
 - active-project
 ---
 
-<!--more-->
-
 {{% callout note %}}
 Proyecto en curso financiado por la Universidad Diego Portales y apoyado por Training Data Lab
 {{% /callout %}}
 
-**Resumen**
-
 Este proyecto tiene por objetivo crear y validar un estándar de referencia (*gold standard*) para un conjunto de algoritmos de aprendizaje automático y modelos de lenguaje que miden toxicidad e incivilidad política en la esfera digital.
+
+<!--more-->
 
 Para esto realizamos un etiquetado manual de datos para validar y evaluar algoritmos de aprendizaje profundo y modelos de lenguaje (*Large Language Models*, LLMs) aplicados a eventos de protesta en América Latina y a las interacciones digitales ocurridas durante el funcionamiento de la Convención Constitucional en Chile.
 
@@ -39,7 +37,7 @@ En una primera etapa, utilizamos distintos algoritmos y modelos en estos datos p
 
 Las metas de relevancia de este proyecto son dos presentaciones en congresos (julio de 2024 en Lisboa y octubre de 2024 en Zurich), un artículo WoS-SSCI publicado en una revista del primer o segundo cuartil según su factor de impacto (será enviado a evaluación en noviembre-diciembre de 2024) y una base de datos disponible para ser reutilizada en otras investigaciones que será liberada a través de GitHub/Zenodo con un DOI (será liberada a mediados de 2025).
 
-**Resultados preliminares y avances**
+**Recursos**
 
 * Entrada del blog: [Training Data Lab participa en el XII Congreso Latinoamericano de Ciencia Política]({{< relref "../post/2024-07-25-xii-latin-american-congress-of-political-science" >}}).
 

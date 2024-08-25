@@ -1,5 +1,5 @@
 ---
-title: Validación de un estándar de referencia para medir toxicidad e incivilidad política en la esfera digital
+title: Validating a Gold Standard for Measuring Political Toxicity and Incivility in the Digital Sphere
 date: 2024-05-17
 authors: ["bgonzalezbustamante", "srivera"]
 image:
@@ -15,15 +15,13 @@ tags:
 - active-project
 ---
 
-<!--more-->
-
 {{% callout note %}}
 Project in progress funded by the Universidad Diego Portales and supported by Training Data Lab
 {{% /callout %}}
 
-**Overview**
-
 This project aims to create and validate a *gold standard* for a set of machine learning algorithms and language models that measure political toxicity and incivility in the digital sphere.
+
+<!--more-->
 
 For this purpose, we conducted manual data labelling to validate and evaluate deep learning algorithms and Large Language Models (LLMs) applied to protest events in Latin America and to the digital interactions that occurred during the functioning of the Constitutional Convention in Chile.
 
@@ -39,7 +37,7 @@ In a first stage, we use different algorithms and models on this data to detect 
 
 The project's milestones of relevance are two conference presentations (July 2024 in Lisbon and October 2024 in Zurich), a WoS-SSCI article published in a first or second quartile journal according to its impact factor (to be submitted for evaluation in November-December 2024) and a data set available for reuse in other research to be released via GitHub/Zenodo with a DOI (to be released in mid-2025).
 
-**Preliminary results and progress**
+**Resources**
 
 * Blog post: [Training Data Lab participates in the XII Latin American Congress of Political Science]({{< relref "../post/2024-07-25-xii-latin-american-congress-of-political-science" >}}).
 
