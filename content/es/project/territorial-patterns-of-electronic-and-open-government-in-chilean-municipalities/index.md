@@ -23,11 +23,11 @@ Este proyecto analiza el desarrollo del gobierno electrónico y abierto en los 3
 
 <!--more-->
 
-Para esto utilizaremos el modelo de e-servicios de Esteves (2005) que contiene diversos ítems agrupados en cinco dimensiones para evaluar los sitios gubernamentale (Fath-Allah et al., 2017). Realizaremos mediciones de la calidad del gobierno electrónico municipal en las 345 municipalidades de Chile con el fin de obtener un índice agregado de gobierno electrónico (EGi) al cual incorporaremos indicadores de transparencia y acceso a la información pública para crear un índice de gobierno electrónico y abierto (EOGi). Este índice compuesto nos permitirá evaluar el suministro de servicios digitales, el desarrollo del gobierno electrónico y la respuesta a las solicitudes por ley de transparencia a escala municipal.
+Para esto utilizaremos el modelo de e-servicios de Esteves (2005) que contiene diversos ítems agrupados en cinco dimensiones para evaluar los sitios gubernamentale (Fath-Allah et al., 2017). Realizamos mediciones de la calidad del gobierno electrónico municipal en las 345 municipalidades de Chile con el fin de obtener un índice agregado de gobierno electrónico (EGi) al cual incorporamos indicadores de transparencia y acceso a la información pública para crear un índice de gobierno electrónico y abierto (EOGi). Este índice compuesto nos permite evaluar el suministro de servicios digitales, el desarrollo del gobierno electrónico y la respuesta a las solicitudes por ley de transparencia a escala municipal.
 
 **Diseño**
 
-Nuestra estrategia metodológica se sustentará en análisis econométrico geoespacial en dos etapas. Primero, describiremos y georreferenciaremos nuestro índice estimando el nivel de autocorrelación espacial. Luego, ajustaremos diferentes modelos econométricos para medir el impacto de la infraestructura tecnológica, nivel socioeconómico y capacidad administrativa en el desarrollo del gobierno electrónico y abierto de los municipios.
+Nuestra estrategia metodológica se sustenta en análisis econométrico geoespacial en dos etapas. Primero, describimos y georreferenciamos nuestro índice estimando el nivel de autocorrelación espacial. Luego, ajustamos diferentes modelos econométricos para medir el impacto de la infraestructura tecnológica, nivel socioeconómico y capacidad administrativa en el desarrollo del gobierno electrónico y abierto de los municipios.
 
 **Resultados esperados**
 
@@ -43,6 +43,6 @@ Integramos estas mediciones con información geoespacial e indicadores de gobier
 
 **Recursos**
 
-* González-Bustamante, B., & Aguilar, D. (2023). [Data Set on Local Government Indicators in Chile (Version 0.21.15 -- Late Sky)](https://doi.org/10.5281/zenodo.7568387). Dataset, pre-release version, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab.
+* González-Bustamante, B., & Aguilar, D. (2023). [Data Set on Local Government Indicators in Chile]({{< relref "../publication/data-set-on-local-government-indicators-in-chile/" >}}). Dataset versión preliminar 0.21.15 -- Late Sky. University of Oxford, Universidad de Santiago de Chile (USACH), Training Data Lab.
 
 _Última actualización: 19 de marzo de 2023._
