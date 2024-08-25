@@ -1,7 +1,7 @@
 ---
 title: Territorial Patterns of Electronic and Open Government in Chilean Municipalities
 date: 2022-08-22
-authors: ["bgonzalezbustamante", "daguilar", "rcuevas"]
+authors: ["bgonzalezbustamante", "daguilar"]
 image:
   ## caption: 
   focal_point: 'smart'
@@ -42,6 +42,15 @@ We integrated these measurements with geospatial information and local governmen
 * Estimated population of the municipal district by the National Institute of Statistics (INE, 2022).
 
 **Resources**
+
+* [SocArXiv preprint](https://doi.org/10.31235/osf.io/gt8a5).
+* [OSF-Project](https://doi.org/10.17605/OSF.IO/32WSK).
+* [GitHub repository](https://github.com/bgonzalezbustamante/local-gov-indicators).
+* [Zenodo repository](https://doi.org/10.5281/zenodo.7568387).
+* [Presentation on the repository in Spanish at the LatinR Conference](https://youtu.be/AmUQnQbKabQ).
+* [Presentation on open e-government index in English at the IPSA Seminar in Madrid](https://youtu.be/BL9qaoqbdWk).
+
+**How to cite this dataset?**
 
 * González-Bustamante, B., & Aguilar, D. (2023). [Data Set on Local Government Indicators in Chile]({{< relref "../publication/2023-03-17-data-set-on-local-government-indicators-in-chile" >}}). Dataset pre-release version 0.21.15 – Late Sky. University of Oxford, Universidad de Santiago de Chile (USACH), Training Data Lab.
 

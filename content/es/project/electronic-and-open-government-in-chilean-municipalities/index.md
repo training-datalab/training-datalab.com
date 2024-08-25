@@ -1,7 +1,7 @@
 ---
 title: Patrones territoriales de gobierno electrónico y abierto en los municipios chilenos
 date: 2022-08-22
-authors: ["bgonzalezbustamante", "daguilar", "rcuevas"]
+authors: ["bgonzalezbustamante", "daguilar"]
 image:
   ## caption: 
   focal_point: 'smart'
@@ -42,6 +42,15 @@ Integramos estas mediciones con información geoespacial e indicadores de gobier
 * Población estimada del distrito municipal por el Instituto Nacional de Estadísticas (INE, 2022).
 
 **Recursos**
+
+* [Preprint en SocArXiv](https://doi.org/10.31235/osf.io/gt8a5).
+* [Proyecto en OSF](https://doi.org/10.17605/OSF.IO/32WSK).
+* [Repositorio en GitHub](https://github.com/bgonzalezbustamante/local-gov-indicators).
+* [Repositorio en Zenodo](https://doi.org/10.5281/zenodo.7568387).
+* [Presentación del repositorio en español en la conferencia LatinR](https://youtu.be/AmUQnQbKabQ).
+* [Presentación sobre el índice de administración electrónica abierta en inglés en el Seminario IPSA de Madrid](https://youtu.be/BL9qaoqbdWk).
+
+**¿Cómo citar este conjunto de datos?**
 
 * González-Bustamante, B., & Aguilar, D. (2023). [Data Set on Local Government Indicators in Chile]({{< relref "../publication/2023-03-17-data-set-on-local-government-indicators-in-chile" >}}). Dataset versión preliminar 0.21.15 -- Late Sky. University of Oxford, Universidad de Santiago de Chile (USACH), Training Data Lab.
 
