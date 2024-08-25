@@ -19,11 +19,11 @@ tags:
 Standby project funded by the Universidad de Santiago de Chile and supported by Training Data Lab
 {{% /callout %}}
 
-This project analyses the development of electronic and open government in the 345 Chilean municipalities between 2019 and 2021. The main question of this research project is: What factors determine the development of e- and open government in Chilean municipalities? To answer this question we developed an index that combines elements of e-government with transparency indicators for all municipalities in Chile.
+This project analyses the development of electronic and open government in 345 Chilean municipalities between 2019 and 2021. The main question is: What factors determine the development of e- and open government in Chilean municipalities? To answer this question, we developed an index that combines elements of e-government with transparency indicators for all municipalities in Chile.
 
 <!--more-->
 
-For this we will use Esteves' (2005) e-services model that contains several items grouped into five dimensions to evaluate governmental sites (Fath-Allah et al., 2017). We measure the quality of municipal e-government in the 345 municipalities of Chile in order to obtain an aggregate e-government index (EGi) to which we incorporate indicators of transparency and access to public information to create an electronic and open government index (EOGi). This composite index allows us to assess the provision of digital services, the development of e-government and the response to transparency law requests at the municipal level.
+For this, we will use Esteves' (2005) e-services model, which contains several items grouped into five dimensions to evaluate governmental sites (Fath-Allah et al., 2017). We measure the quality of municipal e-government in the 345 municipalities of Chile in order to obtain an aggregate e-government index (EGi) to which we incorporate indicators of transparency and access to public information to create an electronic and open government index (EOGi). This composite index allows us to assess the provision of digital services, the development of e-government and the response to transparency law requests at the municipal level.
 
 **Design**
 
@@ -38,7 +38,7 @@ We integrated these measurements with geospatial information and local governmen
 * Geospatial shapefiles and data from the Infrastructure of Geospatial Data of Chile portal and the Undersecretariat for Regional Development (IDE-Chile and SUBDERE, 2018, 2020).
 * Data for the number of fixed Internet connections at the municipal district level from the Undersecretariat for Telecommunications (SUBTEL, 2022).
 * The rate of monetary poverty from the Social Observatory Division of the Ministry of Social Development and the Family and the UN Economic Commission for Latin America and the Caribbean (DOS-MDSF and ECLAC, 2021).
-* Indicators of municipal budget with monetary correction and the professionalisation of municipal personnel based on the proportion holding a professional qualification, in both cases using data from SUBDERE’s National System of Municipal Information (SINIM, 2022).
+* Indicators of the municipal budget with monetary correction and the professionalisation of municipal personnel based on the proportion holding a professional qualification, in both cases, using data from SUBDERE’s National System of Municipal Information (SINIM, 2022).
 * Estimated population of the municipal district by the National Institute of Statistics (INE, 2022).
 
 **Resources**
@@ -47,8 +47,7 @@ We integrated these measurements with geospatial information and local governmen
 * [OSF-Project](https://doi.org/10.17605/OSF.IO/32WSK).
 * [GitHub repository](https://github.com/bgonzalezbustamante/local-gov-indicators).
 * [Zenodo repository](https://doi.org/10.5281/zenodo.7568387).
-* [Presentation on the repository in Spanish at the LatinR Conference](https://youtu.be/AmUQnQbKabQ).
-* [Presentation on open e-government index in English at the IPSA Seminar in Madrid](https://youtu.be/BL9qaoqbdWk).
+* Blog post: [Territorial patterns of open e-government. The road to digital democracy in Chilean municipalities]({{< relref "../post/2022-11-01-territorial-patterns-of-open-e-government/" >}}).
 
 **How to cite this dataset?**
 

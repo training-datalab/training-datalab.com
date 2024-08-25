@@ -47,8 +47,7 @@ Integramos estas mediciones con información geoespacial e indicadores de gobier
 * [Proyecto en OSF](https://doi.org/10.17605/OSF.IO/32WSK).
 * [Repositorio en GitHub](https://github.com/bgonzalezbustamante/local-gov-indicators).
 * [Repositorio en Zenodo](https://doi.org/10.5281/zenodo.7568387).
-* [Presentación del repositorio en español en la conferencia LatinR](https://youtu.be/AmUQnQbKabQ).
-* [Presentación sobre el índice de administración electrónica abierta en inglés en el Seminario IPSA de Madrid](https://youtu.be/BL9qaoqbdWk).
+* Entrada del blog: [Patrones territoriales de gobierno electrónico abierto. El camino hacia la democracia digital en las municipalidades chilenas]({{< relref "../post/2022-11-01-territorial-patterns-of-open-e-government/" >}}).
 
 **¿Cómo citar este conjunto de datos?**
 

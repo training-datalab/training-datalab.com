@@ -3,7 +3,7 @@ title: Territorial patterns of open e-government. The road to digital democracy 
 date: '2022-11-01'
 authors: ["ollama"]
 image:
-  caption: 'Picture credits: [**Unsplash**](https://unsplash.com/photos/vehicles-of-road-beside-concrete-buildings-at-night-e8k2llHEiE0)'
+  caption: 'Picture credits: [**Unsplash**](https://unsplash.com/photos/white-and-black-concrete-building-YuH5zftcocA)'
   focal_point: 'smart'
 pager: true
 commentable: true
