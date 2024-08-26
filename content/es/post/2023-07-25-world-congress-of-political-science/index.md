@@ -12,6 +12,7 @@ show_breadcrumb: true
 draft: false
 tags:
 - blog
+- conferences
 ---
 
 El pasado 15 al 19 de julio, nuestro investigador asociado [Bastián González-Bustamante]({{< relref "../authors/bgonzalezbustamante" >}}) tuvo el honor de presentar su investigación titulada "The Impact of Ministers’ Profiles on Cabinet Turnover during Presidential Crises" en el Congreso Mundial de Ciencia Política, que se llevó a cabo en Buenos Aires, Argentina. Esta importante conferencia reunió a más de 2.995 participantes de 98 países para discutir los temas más relevantes de la ciencia política.

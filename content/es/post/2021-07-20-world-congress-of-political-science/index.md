@@ -12,6 +12,7 @@ show_breadcrumb: true
 draft: false
 tags:
 - blog
+- conferences
 ---
 
 Entre el 10 y 15 de julio de 2021, nuestro equipo de investigación Training Data Lab tuvo el honor de presentar una investigación en el Congreso Mundial de Ciencia Política, organizado por la International Political Science Association (IPSA). Aunque la pandemia COVID-19 obligó a realizar el evento de manera virtual por primera vez en la historia de IPSA, no impidió que nuestros investigadores asociados [Carla Cisternas]({{< relref "../authors/ccisternas" >}}) y [Bastián González-Bustamante]({{< relref "../authors/bgonzalezbustamante" >}}) compartieran sus hallazgos con la comunidad internacional.

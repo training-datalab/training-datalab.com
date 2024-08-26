@@ -12,6 +12,7 @@ show_breadcrumb: true
 draft: false
 tags:
 - blog
+- conferences
 ---
 
 Entre el 15 y el 17 de mayo, nuestros investigadores [Bastián González-Bustamante]({{< relref "../authors/bgonzalezbustamante" >}}) y [Carla Cisternas]({{< relref "../authors/ccisternas" >}}), en colaboración con Ximena Orchard, presentaron un trabajo titulado "Amplification, contestation, and hostile engagement with news in social media" en la conferencia Medios de Gobernanza en América Latina, España y Portugal, celebrada en Valencia y también de forma online.

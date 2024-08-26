@@ -12,6 +12,7 @@ show_breadcrumb: true
 draft: false
 tags:
 - blog
+- data lab
 ---
 
 En Training Data Lab, nos enfocamos en desarrollar soluciones innovadoras que combinen la potencia del aprendizaje profundo y la eficiencia energética. Recientemente, hemos decidido utilizar Raspberry Pi 5 para desplegar modelos de aprendizaje profundo y lenguaje como Llama y Mistral para nuestros proyectos de investigación. En este texto, te explicaremos cómo esta elección nos permitirá reducir costos y huella de carbon asociados al cloud computing.

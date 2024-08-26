@@ -12,6 +12,7 @@ show_breadcrumb: true
 draft: false
 tags:
 - blog
+- conferences
 ---
 
 On 27-28 November 2023, researchers from the Training Data Lab participated in the conference "Four decades of the third democratisation wave in Latin America" at the Torcuato Di Tella University in Buenos Aires. During this event, our researchers presented three papers addressing different aspects related to democratisation and democratic destabilisation in the region.

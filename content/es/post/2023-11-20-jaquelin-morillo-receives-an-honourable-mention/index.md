@@ -12,6 +12,7 @@ show_breadcrumb: true
 draft: false
 tags:
 - blog
+- awards
 ---
 
 El 16 y 17 de noviembre de 2023, la Universidad Católica del Norte en Antofagasta acogió el IX Congreso Anual de la Sociedad Científica de Psicología de Chile (SCP), un encuentro que reunió a destacados investigadores y científicos para compartir sus hallazgos y debatir sobre los últimos avances en el campo de la psicología. En este contexto, nuestra investigadora asociada [Jaquelin Morillo]({{< relref "../authors/jmorillo" >}}) obtuvo una mención honrosa en la competencia "Tesis en 5 minutos" con su trabajo titulado "Exploring Factors Affecting Lie Quality: Morphological, Psychological, Behavioral, and Physiological Perspectives".

@@ -12,6 +12,7 @@ show_breadcrumb: true
 draft: false
 tags:
 - blog
+- conferences
 ---
 
 El pasado 27 y 28 de noviembre de 2023, investigadores del Training Data Lab participaron en la conferencia "Cuatro décadas de la tercera ola de democratización en América Latina" en la Universidad Torcuato Di Tella en Buenos Aires. Durante este evento, nuestros investigadores presentaron tres trabajos que abordan diferentes aspectos relacionados con la democratización y la desestabilización democrática en la región.

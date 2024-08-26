@@ -12,6 +12,7 @@ show_breadcrumb: true
 draft: false
 tags:
 - blog
+- conferences
 ---
 
 Del 17 al 20 de julio de 2024, nuestro grupo de investigación, Training Data Lab, tuvo el honor de participar en el XII Congreso Latinoamericano de Ciencia Política, titulado "América Latina como actor en la configuración geopolítica global", celebrado en Lisboa, Portugal. Nuestros investigadores asociados presentaron tres trabajos que reflejan nuestra investigación en el ámbito de la ciencia política y la metodología.

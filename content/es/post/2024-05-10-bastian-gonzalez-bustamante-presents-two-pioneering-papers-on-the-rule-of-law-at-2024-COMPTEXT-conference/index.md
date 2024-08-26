@@ -12,6 +12,7 @@ show_breadcrumb: true
 draft: false
 tags:
 - blog
+- conferences
 ---
 
 En la conferencia COMPTEXT 2024, que se celebró del 2 al 4 de mayo en la Vrije Universiteit Amsterdam, nuestro investigador asociado [Bastián González-Bustamante]({{< relref "../authors/bgonzalezbustamante" >}}) presentó dos trabajos innovadores relacionados con un proyecto financiado por Consejo Holandés de Investigación. 

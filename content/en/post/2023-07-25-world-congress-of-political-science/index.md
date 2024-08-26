@@ -12,6 +12,7 @@ show_breadcrumb: true
 draft: false
 tags:
 - blog
+- conferences
 ---
 
 Last July 15-19, our research associate [Bastián González-Bustamante]({{< relref "../authors/bgonzalezbustamante" >}}) had the honour of presenting his research entitled "The Impact of Ministers’ Profiles on Cabinet Turnover during Presidential Crises" at the World Congress of Political Science, which took place in Buenos Aires, Argentina. This important conference brought together more than 2,995 participants from 98 countries to discuss the most relevant issues in political science.

@@ -12,6 +12,7 @@ show_breadcrumb: true
 draft: false
 tags:
 - blog
+- data lab
 ---
 
 En Training Data Lab, nos comprometemos a compartir nuestra investigación y nuestros conocimientos con un público más amplio, y las redes sociales son una parte importante de ese esfuerzo. Sin embargo, la gestión de las redes sociales puede llevar mucho tiempo, y elaborar contenidos atractivos que resuenen entre nuestros seguidores puede ser todo un reto. Por eso hemos decidido usar ChatGPT, un gran modelo lingüístico entrenado por [OpenAI](https://openai.com/), para que nos ayude a crear contenidos de alta calidad para nuestros canales de medios sociales.

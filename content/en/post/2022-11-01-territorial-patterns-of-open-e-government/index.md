@@ -12,6 +12,7 @@ show_breadcrumb: true
 draft: false
 tags:
 - blog
+- conferences
 ---
 
 In recent weeks, our Training Data Lab research team had the privilege of presenting two papers at international conferences. Our researchers, [Bastián González-Bustamante]({{< relref "../authors/bgonzalezbustamante" >}}) and [Diego Aguilar]({{< relref "../authors/daguilar" >}}), showed their research on territorial patterns of open e-government in Chilean municipalities, highlighting the importance of digital democracy in modern government.

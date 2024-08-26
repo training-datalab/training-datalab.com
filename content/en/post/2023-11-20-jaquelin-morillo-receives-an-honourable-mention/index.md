@@ -12,6 +12,7 @@ show_breadcrumb: true
 draft: false
 tags:
 - blog
+- awards
 ---
 
 On 16 and 17 November 2023, the Universidad Católica del Norte in Antofagasta hosted the IX Annual Congress of the Chilean Scientific Society of Psychology (SCP), a meeting that brought together leading researchers and scientists to share their findings and discuss the latest advances in the field of psychology. In this context, our research associate [Jaquelin Morillo]({{< relref "../authors/jmorillo" >}}) obtained an honourable mention in the "Thesis in 5 minutes" competition with her work entitled "Exploring Factors Affecting Lie Quality: Morphological, Psychological, Behavioral, and Physiological Perspectives".

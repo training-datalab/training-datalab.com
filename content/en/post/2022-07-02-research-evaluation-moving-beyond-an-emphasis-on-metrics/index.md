@@ -12,6 +12,7 @@ show_breadcrumb: true
 draft: false
 tags:
 - blog
+- working papers
 ---
 
 Research evaluation is a fundamental process in any scientific field, whether in academia or industry. However, the increasing reliance on metrics such as the impact factor has led to a situation where the quality and value of research are measured by its ability to influence the most widely circulated journals. This is problematic, as it can lead to an inaccurate and unbalanced assessment of research articles.
