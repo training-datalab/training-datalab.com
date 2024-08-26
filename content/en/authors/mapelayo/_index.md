@@ -30,12 +30,12 @@ organizations:
 bio: Adjunct Researcher in Training Data Lab, Chile.
 
 interests:
--	Public policy
--	Economic regulation
--	Finance and pensions industries
--	Energy markets
--	Labour and social security markets
--	Public law and government
+- Public policy
+- Economic regulation
+- Finance and pensions industries
+- Energy markets
+- Labour and social security markets
+- Public law and government
 
 education:
   courses:
