@@ -3,7 +3,7 @@ title: 'Clasificación de proyectos de ley y mociones legislativas: Modelos supe
 date: '2024-07-01'
 slug: clasificacion-de-proyectos-de-ley-y-mociones-legislativas
 ## categories: []
-tags: ["tufte-working-paper"]
+tags: ["tufte working papers", "latindex article"]
 ## authors: ["ccisternas", "bgonzalezbustamante", "jmorillo", "daguilar"]
 authors:
 - "ccisternas"

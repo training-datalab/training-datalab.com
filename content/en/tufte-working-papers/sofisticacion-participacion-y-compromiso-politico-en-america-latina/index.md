@@ -3,7 +3,7 @@ title: 'Sofisticación, participación y compromiso político en América Latina
 date: '2021-12-31'
 slug: sofisticacion-participacion-y-compromiso-politico-en-america-latina
 ## categories: []
-tags: ["tufte-working-paper"]
+tags: ["tufte working papers", "latindex article"]
 ## authors: ["bgonzalezbustamante"]
 authors:
 - "bgonzalezbustamante"

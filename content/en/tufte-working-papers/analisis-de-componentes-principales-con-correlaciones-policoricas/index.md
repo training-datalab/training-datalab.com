@@ -3,7 +3,7 @@ title: 'Análisis de Componentes Principales con correlaciones policóricas: Apl
 date: '2023-12-29'
 slug: analisis-de-componentes-principales-con-correlaciones-policoricas
 ## categories: []
-tags: ["tufte-working-paper"]
+tags: ["tufte working papers", "latindex article"]
 ## authors: ["bgonzalezbustamante"]
 authors:
 - "bgonzalezbustamante"
