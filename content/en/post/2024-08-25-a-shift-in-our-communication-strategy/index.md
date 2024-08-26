@@ -12,7 +12,7 @@ show_breadcrumb: true
 draft: false
 tags:
 - blog
-- data lab
+- training data lab
 ---
 
 As a research group focused on social science and computational methods, Training Data Lab is committed to sharing our findings and insights with the wider academic community and beyond. Over the past year, we have harnessed the power of AI to generate content for Twitter, using GPT-3.5 to create engaging posts that resonated with our audience.

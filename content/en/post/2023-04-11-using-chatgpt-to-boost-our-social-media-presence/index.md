@@ -12,7 +12,7 @@ show_breadcrumb: true
 draft: false
 tags:
 - blog
-- data lab
+- training data lab
 ---
 
 At Training Data Lab, we are committed to sharing our research and insights with a broader audience, and social media is an important part of that effort. However, managing social media can be time-consuming, and crafting engaging content that resonates with our followers can be challenging. That is why we have decided to use ChatGPT, a large language model trained by [OpenAI](https://openai.com/), to help us create high-quality content for our social media channels.
