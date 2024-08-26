@@ -16,7 +16,7 @@ show_related: false
 show_breadcrumb: true
 draft: false
 doi: ''
-## publishDate: '2021-09-14'
+## publishDate: ''
 
 # Publication type.
 publication_types: ['article-journal']
