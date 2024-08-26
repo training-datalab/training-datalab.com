@@ -3,7 +3,7 @@ title: '¿Mi definición de democracia impacta en mi apoyo a la democracia?'
 date: '2020-01-01'
 slug: mi-definicion-de-democracia-impacta-en-mi-apoyo-a-la-democracia
 ## categories: []
-tags: ["latindex-article"]
+tags: ["latindex article"]
 ## authors: []
 authors:
 - "Felipe Barrueto Ávalos"

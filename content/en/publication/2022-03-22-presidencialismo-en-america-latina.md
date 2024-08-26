@@ -3,7 +3,7 @@ title: 'Presidencialismo en América Latina. Algunas consideraciones para el deb
 date: '2022-03-22'
 slug: presidencialismo-en-america-latina
 ## categories: []
-tags: ["scopus-article"]
+tags: ["scopus article"]
 ## authors: []
 authors:
 - "aolivares"

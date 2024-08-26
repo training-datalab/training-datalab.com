@@ -3,8 +3,8 @@ title: 'Métodos cuantitativos para estudiar a las élites: Aplicaciones prácti
 date: '2022-12-30'
 slug: metodos-cuantitativos-para-estudiar-a-las-elites
 ## categories: []
-tags: ["scopus-article"]
-## authors: ["bgonzalezbustamante"]
+tags: ["scopus article"]
+## authors: []
 authors:
 - "bgonzalezbustamante"
 pager: true

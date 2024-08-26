@@ -3,8 +3,8 @@ title: 'Chile 2021: Entre un intenso calendario electoral y la acusación consti
 date: '2022-08-01'
 slug: chile-2021-entre-un-intenso-calendario-electoral-y-la-acusacion-constitucional
 ## categories: []
-tags: ["wos-article"]
-## authors: [""]
+tags: ["wos article"]
+## authors: []
 authors:
 - "Christopher A. Martínez"
 - "aolivares"

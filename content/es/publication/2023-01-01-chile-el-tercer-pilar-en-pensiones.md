@@ -3,8 +3,8 @@ title: 'Chile: el tercer pilar en pensiones'
 date: '2023-01-01'
 slug: chile-el-tercer-pilar-en-pensiones
 ## categories: []
-tags: ["book-chapter"]
-## authors: [""]
+tags: ["book chapter"]
+## authors: []
 authors:
 - "Hugo Cifuentes Lillo"
 - "mapelayo"

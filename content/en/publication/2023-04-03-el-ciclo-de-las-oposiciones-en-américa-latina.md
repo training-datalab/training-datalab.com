@@ -3,8 +3,8 @@ title: '“Hay gobierno, soy contra”. El ciclo de las oposiciones en América 
 date: '2023-04-03'
 slug: el-ciclo-de-las-oposiciones-en-américa-latina
 ## categories: []
-tags: ["scielo-article"]
-## authors: [""]
+tags: ["scielo article"]
+## authors: []
 authors:
 - "João Carlos Amoroso Botelho"
 - "malopez"

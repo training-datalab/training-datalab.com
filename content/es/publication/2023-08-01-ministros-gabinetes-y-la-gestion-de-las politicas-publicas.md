@@ -3,8 +3,8 @@ title: 'Ministros, Gabinetes y la gestión de las políticas públicas'
 date: '2023-08-01'
 slug: ministros-gabinetes-y-la-gestion-de-las politicas-publicas
 ## categories: []
-tags: ["latindex-article"]
-## authors: [""]
+tags: ["latindex article"]
+## authors: []
 authors:
 - "aolivares"
 pager: true

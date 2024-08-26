@@ -3,8 +3,8 @@ title: 'Social Media Use and Pathways to Protest Participation: Evidence From th
 date: '2021-11-24'
 slug: social-media-use-and-pathways-to-protest-participation
 ## categories: []
-tags: ["wos-article"]
-## authors: [""]
+tags: ["wos article"]
+## authors: []
 authors:
 - "Andrés Scherman"
 - "srivera"

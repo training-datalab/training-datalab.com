@@ -3,8 +3,8 @@ title: 'Ciencias sociales en contextos de represión: Análisis bibliométrico d
 date: '2022-07-01'
 slug: analisis-bibliometrico-de-la-produccion-historica-de-cieplan
 ## categories: []
-tags: ["esci-article"]
-## authors: ["ccisternas", "bgonzalezbustamante"]
+tags: ["esci article"]
+## authors: []
 authors:
 - "ccisternas"
 - "bgonzalezbustamante"

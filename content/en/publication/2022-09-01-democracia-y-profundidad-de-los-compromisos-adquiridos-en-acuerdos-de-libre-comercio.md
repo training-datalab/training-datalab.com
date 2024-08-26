@@ -3,8 +3,8 @@ title: 'Democracia y profundidad de los compromisos adquiridos en acuerdos de li
 date: '2022-09-01'
 slug: democracia-y-profundidad-de-los-compromisos-adquiridos-en-acuerdos-de-libre-comercio
 ## categories: []
-tags: ["scielo-article"]
-## authors: [""]
+tags: ["scielo article"]
+## authors: []
 authors:
 - "rcuevas"
 pager: true

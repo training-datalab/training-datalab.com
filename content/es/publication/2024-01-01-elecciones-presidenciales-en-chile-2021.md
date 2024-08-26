@@ -3,8 +3,8 @@ title: 'Elecciones presidenciales en Chile 2021: La generación de la protesta e
 date: '2024-01-01'
 slug: elecciones-presidenciales-en-chile-2021
 ## categories: []
-tags: ["book-chapter"]
-## authors: [""]
+tags: ["book chapter"]
+## authors: []
 authors:
 - "malopez"
 - "Nicolás Miranda"

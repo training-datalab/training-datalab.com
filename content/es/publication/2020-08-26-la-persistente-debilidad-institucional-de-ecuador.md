@@ -3,8 +3,8 @@ title: 'La persistente debilidad institucional de Ecuador: Protestas, elecciones
 date: '2020-08-26'
 slug: la-persistente-debilidad-institucional-de-ecuador
 ## categories: []
-tags: ["wos-article"]
-## authors: [""]
+tags: ["wos article"]
+## authors: []
 authors:
 - "aolivares"
 - "Pablo Medina"

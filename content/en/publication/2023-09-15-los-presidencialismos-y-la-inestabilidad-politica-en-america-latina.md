@@ -3,8 +3,8 @@ title: 'Los presidencialismos y la inestabilidad política en América Latina: C
 date: '2023-09-15'
 slug: los-presidencialismos-y-la-inestabilidad-politica-en-america-latina
 ## categories: []
-tags: ["scopus-article"]
-## authors: [""]
+tags: ["scopus article"]
+## authors: []
 authors:
 - "Sergio Toro"
 - "Juan Carlos Arellano"

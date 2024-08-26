@@ -3,8 +3,8 @@ title: 'The Moderating Effect of Ideological Identification on How Economic News
 date: '2024-03-05'
 slug: the-moderating-effect-of-ideological-identification-on-how-economic-news-and-economic-growth-impact-individual-economic-perceptions
 ## categories: []
-tags: ["wos-article"]
-## authors: [""]
+tags: ["wos article"]
+## authors: []
 authors:
 - "José Miguel Cabezas"
 - "Patricio Navia"

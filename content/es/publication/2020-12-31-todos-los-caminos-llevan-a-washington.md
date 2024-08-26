@@ -3,8 +3,8 @@ title: '¿Todos los caminos llevan a Washington? Trayectorias de América Latina
 date: '2020-12-31'
 slug: todos-los-caminos-llevan-a-washington
 ## categories: []
-tags: ["scopus-article"]
-## authors: [""]
+tags: ["scopus article"]
+## authors: []
 authors:
 - "rcuevas"
 - "jmorillo"

@@ -3,8 +3,8 @@ title: 'Determinants of the cabinet size in presidential systems'
 date: '2024-07-01'
 slug: determinants-of-the-cabinet-size-in-presidential-systems
 ## categories: []
-tags: ["wos-article"]
-## authors: [""]
+tags: ["wos article"]
+## authors: []
 authors:
 - "Adrián Albala"
 - "Paula Clerici"

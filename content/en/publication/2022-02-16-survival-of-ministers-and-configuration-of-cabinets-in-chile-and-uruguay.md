@@ -4,7 +4,7 @@ date: '2022-02-16'
 slug: survival-of-ministers-and-configuration-of-cabinets-in-chile-and-uruguay
 ## categories: []
 tags: ["book"]
-## authors: [""]
+## authors: []
 authors:
 - "aolivares"
 pager: true

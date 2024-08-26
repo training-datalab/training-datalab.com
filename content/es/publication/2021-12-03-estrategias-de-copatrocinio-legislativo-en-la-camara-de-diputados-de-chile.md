@@ -3,8 +3,8 @@ title: 'Estrategias de copatrocinio legislativo en la Cámara de Diputados de Ch
 date: '2021-12-03'
 slug: estrategias-de-copatrocinio-legislativo-en-la-camara-de-diputados-de-chile
 ## categories: []
-tags: ["wos-article"]
-## authors: ["ccisternas"]
+tags: ["wos article"]
+## authors: []
 authors:
 - "ccisternas"
 pager: true

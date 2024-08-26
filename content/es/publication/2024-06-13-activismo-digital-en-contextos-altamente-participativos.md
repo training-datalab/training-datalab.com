@@ -3,8 +3,8 @@ title: 'Activismo digital en contextos altamente participativos: los chilenos en
 date: '2024-06-13'
 slug: activismo-digital-en-contextos-altamente-participativos
 ## categories: []
-tags: ["book-chapter"]
-## authors: [""]
+tags: ["book chapter"]
+## authors: []
 authors:
 - "Carolina Plaza-Colodro"
 - "malopez"

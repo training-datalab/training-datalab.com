@@ -3,8 +3,8 @@ title: 'Sociodemographic Determinants of Financial Literacy Levels'
 date: '2022-10-08'
 slug: sociodemographic-determinants-of-financial-literacy-levels
 ## categories: []
-tags: ["scopus-article"]
-## authors: ["ccisternas"]
+tags: ["scopus article"]
+## authors: []
 authors:
 - "Francisco Castañeda"
 - "Francisco Ormazábal"

@@ -3,7 +3,7 @@ title: 'When Inmigration is a New Issue: Evidence from Chile 2003 and 2017'
 date: '2022-09-23'
 slug: when-inmigration-is-a-new-issue
 ## categories: []
-tags: ["latindex-article"]
+tags: ["latindex article"]
 ## authors: []
 authors:
 - "gespinoza"

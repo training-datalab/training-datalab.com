@@ -3,8 +3,8 @@ title: 'The student movement 2011 and free education policy in Chile (2017)'
 date: '2022-12-01'
 slug: the-student-movement-2011-and-free-education-policy-in-chile-2017
 ## categories: []
-tags: ["scopus-article"]
-## authors: [""]
+tags: ["scopus article"]
+## authors: []
 authors:
 - "aolivares"
 - "Camila Carrasco"

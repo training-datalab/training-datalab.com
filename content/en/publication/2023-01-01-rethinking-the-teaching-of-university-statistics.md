@@ -3,8 +3,8 @@ title: 'Rethinking the Teaching of University Statistics: Challenges and Opportu
 date: '2023-01-01'
 slug: rethinking-the-teaching-of-university-statistics
 ## categories: []
-tags: ["scopus-article"]
-## authors: [""]
+tags: ["scopus article"]
+## authors: []
 authors:
 - "Rafael Alberto Méndez-Romero"
 - "Jackie Carter"

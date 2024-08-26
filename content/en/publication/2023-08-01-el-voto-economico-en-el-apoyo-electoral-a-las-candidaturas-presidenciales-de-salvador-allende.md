@@ -3,7 +3,7 @@ title: 'El voto económico en el apoyo electoral a las candidaturas presidencial
 date: '2023-08-01'
 slug: el-voto-economico-en-el-apoyo-electoral-a-las-candidaturas-presidenciales-de-salvador-allende
 ## categories: []
-tags: ["scopus-article"]
+tags: ["scopus article"]
 ## authors: []
 authors:
 - "Mariángeles Cifuentes Krstulovic"

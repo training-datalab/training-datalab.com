@@ -3,8 +3,8 @@ title: 'Desafíos regulatorios en materia forestal para el desarrollo de Proyect
 date: '2024-06-30'
 slug: desafios-regulatorios-en-materia-forestal-para-el-desarrollo-de-proyectos-de-medios-de-generacion-distribuida
 ## categories: []
-tags: ["scopus-article"]
-## authors: [""]
+tags: ["scopus article"]
+## authors: []
 authors:
 - "mapelayo"
 - "Luis Machuca Bravo"

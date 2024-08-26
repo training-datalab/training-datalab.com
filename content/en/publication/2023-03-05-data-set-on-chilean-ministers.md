@@ -4,7 +4,7 @@ date: '2023-03-05'
 slug: data-set-on-chilean-ministers
 ## categories: []
 tags: ["dataset"]
-## authors: ["bgonzalezbustamante", "aolivares"]
+## authors: []
 authors:
 - "bgonzalezbustamante"
 - "aolivares"

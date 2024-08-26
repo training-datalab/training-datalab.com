@@ -3,8 +3,8 @@ title: 'Social Movements and Public Policies in Chile: Analysis of the Student M
 date: '2020-08-01'
 slug: social-movements-and-public-policies-in-chile
 ## categories: []
-tags: ["scopus-article"]
-## authors: [""]
+tags: ["scopus article"]
+## authors: []
 authors:
 - "aolivares"
 - "Camila Carrasco"

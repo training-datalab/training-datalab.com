@@ -3,8 +3,8 @@ title: 'From the Dance of Those Left Out to a New Constitution: Channeling the C
 date: '2021-07-17'
 slug: from-the-dance-of-those-left-out-to-a-new-constitution
 ## categories: []
-tags: ["book-chapter"]
-## authors: [""]
+tags: ["book chapter"]
+## authors: []
 authors:
 - "María Cristina Escudero"
 - "aolivares"

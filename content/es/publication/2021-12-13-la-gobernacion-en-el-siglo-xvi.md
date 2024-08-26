@@ -3,8 +3,8 @@ title: 'La Gobernación en el siglo XVI: un análisis de las dinámicas de poder
 date: '2021-12-13'
 slug: la-gobernacion-en-el-siglo-xvi-un-analisis-de-las-dinamicas-de-poder-en-chile
 ## categories: []
-tags: ["scopus-article"]
-## authors: [""]
+tags: ["scopus article"]
+## authors: []
 authors:
 - "rsaezvergara"
 - "Matthias Gloël"

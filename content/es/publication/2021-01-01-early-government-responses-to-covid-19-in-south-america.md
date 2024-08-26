@@ -3,8 +3,8 @@ title: 'Evolution and early government responses to COVID-19 in South America'
 date: '2021-01-01'
 slug: early-government-responses-to-covid-19-in-south-america
 ## categories: []
-tags: ["wos-article"]
-## authors: ["bgonzalezbustamante"]
+tags: ["wos article"]
+## authors: []
 authors:
 - "bgonzalezbustamante"
 pager: true

@@ -3,8 +3,8 @@ title: ' Social Inclusion: The Higher Education Sector in Chile and in the Unite
 date: '2020-09-01'
 slug: social-inclusion-the-higher-education-sector-in-chile-and-in-the-united-kingdom
 ## categories: []
-tags: ["working-paper"]
-## authors: ["ccisternas"]
+tags: ["working paper"]
+## authors: []
 authors:
 - "Francisco Castañeda"
 - "Ed Brown"

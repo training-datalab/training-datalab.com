@@ -3,8 +3,8 @@ title: 'Altos directivos públicos: Un nuevo conjunto de datos de miembros del s
 date: '2020-12-01'
 slug: altos-directivos-publicos-un-nuevo-conjunto-de-datos-de-miembros-del-servicio-civil-chileno
 ## categories: []
-tags: ["scopus-article"]
-## authors: ["bgonzalezbustamante", "mastete", "borvenes"]
+tags: ["scopus article"]
+## authors: []
 authors:
 - "bgonzalezbustamante"
 - "Matías Astete"

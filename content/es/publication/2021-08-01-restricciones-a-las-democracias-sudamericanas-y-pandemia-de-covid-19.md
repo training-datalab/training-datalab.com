@@ -3,8 +3,8 @@ title: 'Restricciones a las democracias sudamericanas y pandemia de COVID-19'
 date: '2021-08-01'
 slug: restricciones-a-las-democracias-sudamericanas-y-pandemia-de-covid-19
 ## categories: []
-tags: ["latindex-article"]
-## authors: [""]
+tags: ["latindex article"]
+## authors: []
 authors:
 - "rcuevas"
 - "Antonia Pérez Cornejo"

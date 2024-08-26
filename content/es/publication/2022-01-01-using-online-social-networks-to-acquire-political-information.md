@@ -3,7 +3,7 @@ title: 'Using Online Social Networks to Acquire Political Information: the Polit
 date: '2022-01-01'
 slug: using-online-social-networks-to-acquire-political-information
 ## categories: []
-tags: ["wos-article"]
+tags: ["wos article"]
 ## authors: []
 authors:
 - "gespinoza"

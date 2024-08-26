@@ -3,8 +3,8 @@ title: 'Between Gattopardismo and Ideational Change: The Mainstream Chilean Righ
 date: '2024-09-01'
 slug: between-gattopardismo-and-ideational-change
 ## categories: []
-tags: ["book-chapter"]
-## authors: [""]
+tags: ["book chapter"]
+## authors: []
 authors:
 - "Stéphanie Alenda"
 - "malopez"

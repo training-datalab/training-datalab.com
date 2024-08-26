@@ -3,8 +3,8 @@ title: 'Ministerial stability during presidential approval crises: The moderatin
 date: '2023-11-04'
 slug: ministerial-stability-during-presidential-approval-crises
 ## categories: []
-tags: ["wos-article"]
-## authors: ["bgonzalezbustamante"]
+tags: ["wos article"]
+## authors: []
 authors:
 - "bgonzalezbustamante"
 pager: true

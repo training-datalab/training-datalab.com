@@ -3,8 +3,8 @@ title: 'Nuevos desafíos, enfoques y perspectivas para estudiar élites polític
 date: '2020-07-24'
 slug: nuevos-desafios-enfoques-y-perspectivas-para-estudiar-elites-politicas
 ## categories: []
-tags: ["scopus-article"]
-## authors: ["aolivares", "bgonzalezbustamante", "storo", "jcarellano", "ayanesrojas", "jzuritatapia", "avlopes", "crobledoguzman", "jbcanavesisosa"]
+tags: ["scopus article"]
+## authors: []
 authors:
 - "aolivares"
 - "bgonzalezbustamante"

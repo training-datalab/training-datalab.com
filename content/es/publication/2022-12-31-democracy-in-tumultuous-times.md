@@ -3,8 +3,8 @@ title: 'Democracy in Tumultuous Times: Protests, Pandemic and Plebiscite in Chil
 date: '2022-12-31'
 slug: democracy-in-tumultuous-times
 ## categories: []
-tags: ["scopus-article"]
-## authors: [""]
+tags: ["scopus article"]
+## authors: []
 authors:
 - "rsaezvergara"
 - "Matías Godoy"

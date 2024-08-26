@@ -3,8 +3,8 @@ title: 'Del gabinete a la papeleta: ministros y ministras como candidatos presid
 date: '2024-07-01'
 slug: 2024-07-01-del-gabinete-a-la-papeleta
 ## categories: []
-tags: ["scopus-article"]
-## authors: ["bgonzalezbustamante", "daguilar"]
+tags: ["scopus article"]
+## authors: []
 authors:
 - "Sergio Huertas-Hernández"
 - "aolivares"

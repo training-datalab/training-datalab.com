@@ -3,8 +3,8 @@ title: 'Determinantes del gobierno electrónico en las municipalidades: Evidenci
 date: '2020-02-06'
 slug: determinantes-del-gobierno-electronico-en-las-municipalidades
 ## categories: []
-tags: ["wos-article"]
-## authors: ["bgonzalezbustamante", "acarvajal", "agonzalez"]
+tags: ["wos article"]
+## authors: []
 authors:
 - "bgonzalezbustamante"
 - "Ariane Carvajal"

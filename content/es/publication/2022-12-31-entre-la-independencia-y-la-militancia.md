@@ -3,8 +3,8 @@ title: 'Entre la independencia y la militancia: análisis de la vinculación par
 date: '2022-12-31'
 slug: entre-la-independencia-y-la-militancia
 ## categories: []
-tags: ["scopus-article"]
-## authors: [""]
+tags: ["scopus article"]
+## authors: []
 authors:
 - "Joaquín Rozas-Bugueño"
 - "aolivares"

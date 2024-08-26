@@ -3,8 +3,8 @@ title: 'Youth environmental activism in the age of social media: the case of Chi
 date: '2022-01-01'
 slug: youth-environmental-activism-in-the-age-of-social-media
 ## categories: []
-tags: ["wos-article"]
-## authors: [""]
+tags: ["wos article"]
+## authors: []
 authors:
 - "Andrés Scherman"
 - "Sebastián Valenzuela"
