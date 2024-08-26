@@ -12,7 +12,7 @@ show_breadcrumb: true
 draft: false
 tags:
 - blog
-- working papers
+- tufte working papers
 ---
 
 La evaluación de la investigación es un proceso fundamental en cualquier campo científico, ya sea en la academia o en la industria. Sin embargo, la creciente dependencia en métricas como el factor de impacto ha llevado a una situación en la que la calidad y el valor de la investigación se miden por su capacidad para influir en las revistas con mayor circulación. Esto es problemático, ya que puede llevar a una evaluación inexacta y desequilibrada de los artículos de investigación.

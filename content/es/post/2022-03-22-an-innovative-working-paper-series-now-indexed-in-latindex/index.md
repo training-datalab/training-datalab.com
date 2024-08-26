@@ -12,7 +12,7 @@ show_breadcrumb: true
 draft: false
 tags:
 - blog
-- working papers
+- tufte working papers
 ---
 
 En Training Data Lab, nos esforzamos por promover el debate y la investigación en ciencias sociales, especialmente en temas relacionados con la ciencia política y las políticas públicas. Para lograr esto, hemos creado una serie de working papers titulada [Tufte Working Papers]({{< relref "../tufte-working-papers" >}}), que busca fomentar el intercambio de ideas y conocimientos entre investigadores y académicos de todo el mundo.
