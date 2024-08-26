@@ -1,5 +1,5 @@
 ---
-title: Evaluación de la investigación. Superando el énfasis en las métricas
+title: Evaluación de la investigación: Superando el énfasis en las métricas
 date: '2022-07-02'
 authors: ["ollama"]
 image:
