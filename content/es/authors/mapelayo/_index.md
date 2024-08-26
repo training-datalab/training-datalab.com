@@ -30,16 +30,21 @@ organizations:
 bio: Investigador Adjunto en Training Data Lab, Chile.
 
 interests:
-- 
+- Políticas públicas
+- Regulación económica
+- Finanzas y pensiones
+- Mercados energéticos
+- Mercados de trabajo y seguridad social
+- Derecho público y gobierno
 
 education:
   courses:
   - course: Magíster en Políticas Públicas
     institution: University of Oxford, Reino Unido
-    year: start-end
+    year: 2021-2022
   - course: Licenciatura en Derecho
     institution: Universidad de Chile
-    year: start-end
+    year: 2009-2013
 
 # Social/Academic Networking
 social:
@@ -86,8 +91,8 @@ user_groups:
 - Investigadores Adjuntos
 ---
 
-Soy abogado y me licencié en Derecho por la [Universidad de Chile](https://derecho.uchile.cl/). También tengo un [Master en Políticas Públicas (MPP) por la Universidad de Oxford](https://www.bsg.ox.ac.uk/), Reino Unido. Obtuve la [beca de la Luksic Scholars Foundation](https://luksicscholars.org/en/) para cursar mi MPP en Oxford. Además, obtuve un diploma en Derecho Administrativo por la Pontificia Universidad Católica de Chile y en Regulación Económica por la Universidad Adolfo Ibáñez.
+Soy abogado y me licencié en Derecho por la [Universidad de Chile](https://derecho.uchile.cl/). También tengo un [Master en Políticas Públicas (MPP) por la Universidad de Oxford](https://www.bsg.ox.ac.uk/), Reino Unido. Obtuve la [beca de la Luksic Scholars Foundation](https://luksicscholars.org/en/) para cursar mi MPP en Oxford. Además, obtuve un diploma en Derecho Administrativo por la Pontificia Universidad Católica de Chile y en Regulación Económica por la Universidad Adolfo Ibáñez, Chile.
 
-A lo largo de mi carrera profesional, he trabajado en el sector privado como abogado en materias de competencia y regulación económica en áreas como transporte, telecomunicaciones y energía. En el sector público, me desempeñé como Asesor Principal del Gabinete y Jefe de Gabinete Interino de la Ministra del Trabajo y Previsión Social (2018-2021). En el ámbito internacional, representé a Chile en la OIT y el G20, trabajé como consultor en España para la Organización Iberoamericana de Seguridad Social, y actualmente trabajo en políticas públicas en el sector de pensiones en el Reino Unido.
+En mi carrera profesional, he trabajado en el sector privado como abogado, centrándome en la competencia y la regulación económica en sectores como el transporte, las telecomunicaciones y la energía. En el sector público, me desempeñé como Asesor Principal del Gabinete y Jefe de Gabinete Interino de la Ministra del Trabajo y Previsión Social de Chile  entre 2018 y 2021. A nivel internacional, representé a Chile en la [OIT](https://www.ilo.org/) y el G20, trabajé como consultor en España para la [Organización Iberoamericana de Seguridad Social](https://oiss.org/), y en el [sector de pensiones en el Reino Unido](https://the-spp.co.uk/). Actualmente trabajo en la práctica regulatoria de un [importante bufete de abogados en Chile](https://agycia.cl/), especializado en mercados energéticos y regulación económica. Además, trabajo como consultor para instituciones internacionales, asesorando sobre mercados de seguridad social y sistemas de pensiones. 
 
-En el ámbito académico, he sido ayudante de cátedra en Derecho Público y Privado en la Universidad de Chile, autor de comentarios de jurisprudencia civil con la Editorial DER en Chile, y comentarista experto en medios de comunicación chilenos sobre temas de regulación económica.
+Desde el punto de vista académico, he sido ayudante de cátedra de Derecho público y privado en la Universidad de Chile y recientemente he publicado artículos sobre las reformas de las pensiones y el desarrollo de los mercados energéticos. También colaboro regularmente con columnas y artículos de opinión sobre regulación económica en medios de comunicación chilenos.
