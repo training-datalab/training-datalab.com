@@ -1,7 +1,7 @@
 ---
 title: The third annual Training Data Lab workshop. A space for reflection and knowledge
 
-event: Third Annual Training Data Lab Workshop
+event: Third annual Training Data Lab workshop
 ## event_url: 
 
 location: CEPEC USACH
@@ -12,7 +12,7 @@ address:
   ## postcode: ''
   country: Chile
 
-summary: Third Annual Training Data Lab Workshop
+summary: 'On 19 October, the Centro de Estudios de Postgrado y Educación Continua (CEPEC) at the Universidad de Santiago de Chile (USACH) hosted the third annual Training Data Lab workshop. This meeting was a valuable space to reflect on the advances and challenges we face as a team, as well as to present and discuss our latest research.'
 abstract: ''
 
 # Talk start and end times.
@@ -71,5 +71,4 @@ Both presentations generated much interest and discussion among the attendees, w
 In summary, the third annual Training Data Lab workshop was a success. Our strategic planning allowed us to define our objectives and priorities. At the same time, presentations of some of our research provided a valuable opportunity to reflect on our work and share knowledge with our colleagues. 
 
 _* AI-generated text_ <br>
-_Last updated: 27 May 2024_ <br>
 [_Read more about how we generate our content_]({{< relref "../post/2024-08-25-a-shift-in-our-communication-strategy" >}})
