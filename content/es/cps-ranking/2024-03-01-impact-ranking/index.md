@@ -1,12 +1,19 @@
 ---
 title: CPS-Ranking March 2024
 date: 2024-03-01
-## authors: ["bgonzalezbustamante"]
+authors: ["CPS-Ranking Team"]
 ## image:
-  ## caption: 'Créditos de la imagen: [**Ollama**](https://ollama.com)'
+  ## caption: ''
   ## focal_point: 'smart'
+​---
+pager: true
+commentable: true
+show_related: false
+show_breadcrumb: true
 draft: false
-commentable: false
+tags:
+- cps-ranking
+​---
 ---
 
 <!--more-->
@@ -1851,6 +1858,3 @@ commentable: false
 ### How to download and cite this dataset?
 
 - González-Bustamante, B., Olivares, A., Cisternas, C., & Cuevas, R. (2024). Chilean Political Science Ranking. Dataset, Leiden University, Universidad Diego Portales and Training Data Lab. <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">http://doi.org/10.17605/OSF.IO/C8PRA</a>.
-
-<br />
-<small><a href="https://training-datalab.com/projects/cps-ranking">Further details about this project</a>.</small>
