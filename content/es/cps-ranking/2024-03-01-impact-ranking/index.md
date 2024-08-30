@@ -5,7 +5,6 @@ authors: ["CPS-Ranking Team"]
 ## image:
   ## caption: ''
   ## focal_point: 'smart'
-​---
 pager: true
 commentable: true
 show_related: false
