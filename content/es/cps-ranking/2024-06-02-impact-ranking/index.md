@@ -308,7 +308,7 @@ tags:
     <td class="tg-0pky">Pierre Ostiguy</td>
     <td class="tg-0pky">CdsiN9QAAAAJ</td>
     <td class="tg-0pky">UVALPO</td>
-    <td class="tg-c3ow">2,886</td>
+    <td class="tg-c3ow">2.886</td>
     <td class="tg-c3ow">18</td>
     <td class="tg-c3ow">1</td>
   </tr>
@@ -326,7 +326,7 @@ tags:
     <td class="tg-0pky">Aldo Madariaga</td>
     <td class="tg-0pky">n0UQqa4AAAAJ</td>
     <td class="tg-0pky">UDP</td>
-    <td class="tg-c3ow">1,685</td>
+    <td class="tg-c3ow">1.685</td>
     <td class="tg-c3ow">17</td>
     <td class="tg-c3ow">1</td>
   </tr>
@@ -407,7 +407,7 @@ tags:
     <td class="tg-0pky">Matias Bargsted</td>
     <td class="tg-0pky">0oYjLYEAAAAJ</td>
     <td class="tg-0pky">PUC</td>
-    <td class="tg-c3ow">1,412</td>
+    <td class="tg-c3ow">1.412</td>
     <td class="tg-c3ow">15</td>
     <td class="tg-c3ow">1</td>
   </tr>
@@ -416,7 +416,7 @@ tags:
     <td class="tg-0pky">Julieta Suarez-Cao</td>
     <td class="tg-0pky">i2JJrfYAAAAJ</td>
     <td class="tg-0pky">PUC</td>
-    <td class="tg-c3ow">1,071</td>
+    <td class="tg-c3ow">1.071</td>
     <td class="tg-c3ow">15</td>
     <td class="tg-c3ow">1</td>
   </tr>
@@ -452,7 +452,7 @@ tags:
     <td class="tg-0pky">Sofia Donoso</td>
     <td class="tg-0pky">MR9YwQkAAAAJ</td>
     <td class="tg-0pky">UCHILE</td>
-    <td class="tg-c3ow">1,027</td>
+    <td class="tg-c3ow">1.027</td>
     <td class="tg-c3ow">14</td>
     <td class="tg-c3ow">1</td>
   </tr>
