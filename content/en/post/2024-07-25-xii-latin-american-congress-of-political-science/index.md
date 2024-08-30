@@ -15,7 +15,7 @@ tags:
 - conferences
 ---
 
-From 17 to 20 July 2024, our research group, Training Data Lab, had the honour of participating in the XII Latin American Congress of Political Science, entitled "América Latina como actor en la configuración geopolítica global," held in Lisbon, Portugal. Our research associates presented three papers reflecting our research in political science and methodology.
+From 17 to 20 July 2024, our research group, Training Data Lab, had the honour of participating in the XII Latin American Congress of Political Science, entitled "América Latina como actor en la configuración geopolítica global," held in Lisbon, Portugal. Our research associates presented three papers reflecting our political science and methodology research.
 
 <!--more-->
 
@@ -27,9 +27,9 @@ In order to evaluate this argument empirically, fixed effects binomial models we
 
 In second place, [Bastián González-Bustamante]({{< relref "../authors/bgonzalezbustamante" >}}) presented two papers: "Peticiones de renuncia y dimisiones ministeriales en las democracias presidenciales latinoamericanas" and "Large Language Models (LLMs) para identificar toxicidad en la esfera digital durante eventos de protesta en América Latina".
 
-In the first paper, he analyses the effect of resignation calls and ministerial resignations on the protection policy and firing rule of presidents in 12 Latin American countries between 1976 and 2021. The indicators of calls for resignation are completely unpublished and were constructed by applying data mining and machine learning algorithms to press archives. Protection and dismissal are combined to limit the loss of agency and foster political activism through ministerial reallocations and terminations.
+In the first paper, he analyses the effect of resignation calls and ministerial resignations on presidents' protection policy and firing rule in 12 Latin American countries between 1976 and 2021. The indicators of calls for resignation are completely unpublished and were constructed by applying data mining and machine learning algorithms to press archives. Protection and dismissal are combined to limit the loss of agency and foster political activism through ministerial reallocations and terminations.
 
-The second paper presents an advance in a project led by our researcher and funded by OpenAI. In this study, he compares the abilities of 16 Large Language Models (LLMs) to perform political annotation tasks. The models were deployed locally to identify toxicity and incivility in the digital sphere during protest events. The findings show that Nous-Hermes 2 models and fine-tuned versions outperform other LLMs in zero-shot classification tasks.
+The second paper presents an advance in a [project led by our researcher and funded by OpenAI]({{< relref "../project/large-language-models-to-identify-toxicity" >}}). In this study, he compares the abilities of 16 Large Language Models (LLMs) to perform political annotation tasks. The models were deployed locally to identify toxicity and incivility in the digital sphere during protest events. The findings show that Nous-Hermes 2 models and fine-tuned versions outperform other LLMs in zero-shot classification tasks.
 
 **Conclusions**
 

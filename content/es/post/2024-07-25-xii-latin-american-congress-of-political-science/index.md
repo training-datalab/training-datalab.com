@@ -29,7 +29,7 @@ En segundo lugar, [Bastián González-Bustamante]({{< relref "../authors/bgonzal
 
 En el primer trabajo, se analiza el efecto de las peticiones de renuncia y dimisiones ministeriales sobre la política de protección y regla de despido de los presidentes en 12 países latinoamericanos entre 1976 y 2021. Los indicadores de llamadas a la renuncia son completamente inéditos y se construyeron aplicando algoritmos de minería de datos y aprendizaje profundo a archivos de prensa. Se combina protección y despido para limitar pérdida de agencia y fomentar activismo político a través de realojos y terminaciones ministeriales.
 
-En el segundo trabajo, se presenta un avance en un proyecto que lidera nuestro investigador y que es financiado por OpenAI. En este estudio, se comparan las habilidades de 16 modelos de lenguaje grande (LLMs) para realizar tareas de anotación política. Los modelos se desplegaron localmente para identificar toxicidad y incivilidad en la esfera digital durante un evento de protesta novel. Los hallazgos muestran que los modelos Nous-Hermes 2 y versiones fine-tuned superan a otros LLMs en tareas de clasificación zero-shot.
+En el segundo trabajo, se presenta un avance en un [proyecto que lidera nuestro investigador y que es financiado por OpenAI]({{< relref "../project/large-language-models-to-identify-toxicity" >}}). En este estudio, se comparan las habilidades de 16 modelos de lenguaje grande (LLMs) para realizar tareas de anotación política. Los modelos se desplegaron localmente para identificar toxicidad y incivilidad en la esfera digital durante un evento de protesta novel. Los hallazgos muestran que los modelos Nous-Hermes 2 y versiones fine-tuned superan a otros LLMs en tareas de clasificación zero-shot.
 
 **Conclusiones**
 
