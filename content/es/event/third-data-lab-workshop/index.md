@@ -1,7 +1,7 @@
 ---
 title: El tercer taller anual del Training Data Lab. Un espacio de reflexión y conocimiento
 
-event: Tercer Taller Anual del Training
+event: El tercer taller anual del Training Data Lab
 ## event_url: 
 
 location: CEPEC USACH
@@ -12,7 +12,7 @@ address:
   ## postcode: ''
   country: Chile
 
-summary: Tercer workshop anual del Training Data Lab
+summary: 'El 19 de octubre, el Centro de Estudios de Postgrado y Educación Continua (CEPEC) de la Universidad de Santiago de Chile (USACH) acogió al tercer taller anual del Training Data Lab. Esta reunión fue un espacio valioso para reflexionar sobre los avances y desafíos que enfrentamos como equipo, así como para presentar y debatir nuestras últimas investigaciones.'
 abstract: ''
 
 # Talk start and end times.
@@ -71,5 +71,4 @@ Ambas presentaciones generaron un gran interés y debate entre los asistentes, q
 En resumen, el tercer taller anual del Training Data Lab fue un éxito. Nuestra planificación estratégica nos permitió definir nuestros objetivos y prioridades, mientras que las presentaciones de algunas de nuestras investigaciones nos brindaron una oportunidad valiosa para reflexionar sobre nuestro trabajo y compartir conocimientos con nuestros colegas. 
 
 _* Texto generado por AI_ <br>
-_Última actualización: 27 de mayo de 2024_ <br>
 [_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "../post/2024-08-25-a-shift-in-our-communication-strategy" >}})
