@@ -1,7 +1,7 @@
 ---
 title: El tercer taller anual del Training Data Lab. Un espacio de reflexión y conocimiento
 
-event: El tercer taller anual del Training Data Lab
+event: Tercer taller anual del Training Data Lab
 ## event_url: 
 
 location: CEPEC USACH
