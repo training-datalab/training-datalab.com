@@ -23,7 +23,7 @@ In this study, our researchers focused on analysing how users interact with news
 
 Our dataset comprises all messages posted on X related to the 22 media outlets selected for the study over six months (around 21 million messages): three months before and after the Chilean social outburst of 2019. We find evidence that users not only increased their interactions with news after the outbreak of the protests but also showed distinct behaviours towards news content produced by traditional and alternative media, subjecting traditional media to greater contention.
 
-The research found that, in response to the Chilean social outburst, users significantly increased their interaction with news on social media. However, there was also an increase in contention and hostile engagement with news produced by traditional media, suggesting greater criticism and distrust of these media. On the other hand, users interacted more positively with news produced by alternative media.
+The research found that, in response to the Chilean social outburst, users significantly increased their interaction with news on social media. However, there was also an increase in hostility towards news produced by traditional media, suggesting greater criticism and distrust of these media. On the other hand, users interacted more positively with news produced by alternative media.
 
 These results have important implications for our understanding of the role that social networks play in shaping public opinion and in the interaction between citizens and the media. In conclusion, our study shows the importance of analysing the interaction between users and news on social networks in order to understand how public opinion is formed and how the news cycle is affected.
 
