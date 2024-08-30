@@ -1851,8 +1851,8 @@ Tenga en cuenta que estos datos de citas proceden de perfiles creados por los pr
 
 **¿Quiere sugerir a alguien?**
 
-* Envíe un correo electrónico a cps-ranking@training-datalab.com.
+Envíe un correo electrónico a cps-ranking@training-datalab.com.
 
 **¿Cómo citar esta base de datos?**
 
-* [González-Bustamante, B.]({{< relref "../authors/bgonzalezbustamante" >}}), [Olivares, A.](({{< relref "../authors/aolivares" >}})), [Cisternas, C.]({{< relref "../authors/ccisternas" >}}), & [Cuevas, R.]({{< relref "../authors/rcuevas" >}}) (2024). Chilean Political Science Ranking. Dataset, Leiden University, Universidad Diego Portales y Training Data Lab. http://doi.org/10.17605/OSF.IO/C8PRA.
+[González-Bustamante, B.]({{< relref "../authors/bgonzalezbustamante" >}}), [Olivares, A.](({{< relref "../authors/aolivares" >}})), [Cisternas, C.]({{< relref "../authors/ccisternas" >}}), & [Cuevas, R.]({{< relref "../authors/rcuevas" >}}) (2024). Chilean Political Science Ranking. Dataset, Leiden University, Universidad Diego Portales y Training Data Lab. http://doi.org/10.17605/OSF.IO/C8PRA.

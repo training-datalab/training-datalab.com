@@ -39,13 +39,11 @@ Please bear in mind that this citation data comes from own user-created profiles
 
 <h2>Would you like to suggest someone?</h2>
 
-* Please send an email to cps-ranking@training-datalab.com.
+Please send an email to cps-ranking@training-datalab.com.
 
 <h2>How to cite this dataset?</h2>
 
-* [González-Bustamante, B.]({{< relref "../authors/bgonzalezbustamante" >}}), [Olivares, A.](({{< relref "../authors/aolivares" >}})), [Cisternas, C.]({{< relref "../authors/ccisternas" >}}), & [Cuevas, R.]({{< relref "../authors/rcuevas" >}}) (2024). Chilean Political Science Ranking. Dataset, Leiden University, Universidad Diego Portales and Training Data Lab. http://doi.org/10.17605/OSF.IO/C8PRA.
-
-<br>
+[González-Bustamante, B.]({{< relref "../authors/bgonzalezbustamante" >}}), [Olivares, A.](({{< relref "../authors/aolivares" >}})), [Cisternas, C.]({{< relref "../authors/ccisternas" >}}), & [Cuevas, R.]({{< relref "../authors/rcuevas" >}}) (2024). Chilean Political Science Ranking. Dataset, Leiden University, Universidad Diego Portales and Training Data Lab. http://doi.org/10.17605/OSF.IO/C8PRA.
 
 <h1>Quarterly Series</h1>
 
