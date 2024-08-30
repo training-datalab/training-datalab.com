@@ -58,29 +58,17 @@ slides:
 projects:
 ---
 
-El 19 de octubre, el Centro de Estudios de Postgrado y Educación Continua (CEPEC) de la Universidad de Santiago de Chile (USACH) acogió al tercer taller anual del Training
-Data Lab. Esta reunión fue un espacio valioso para reflexionar sobre los avances y desafíos que enfrentamos como equipo, así como para presentar y debatir nuestras últimas investigaciones.
+El 19 de octubre, el Centro de Estudios de Postgrado y Educación Continua (CEPEC) de la Universidad de Santiago de Chile (USACH) acogió al tercer taller anual del Training Data Lab. Esta reunión fue un espacio valioso para reflexionar sobre los avances y desafíos que enfrentamos como equipo, así como para presentar y debatir nuestras últimas investigaciones.
 
-La jornada comenzó con una planificación estratégica en la que nuestros investigadores se reunieron para discutir y definir las prioridades y objetivos del grupo a corto y
-largo plazo. Esta sesión fue fundamental para garantizar que todos estemos alineados y trabajando hacia un mismo objetivo, lo que nos permitirá aprovechar al máximo nuestro
-tiempo y recursos.
+La jornada comenzó con una planificación estratégica en la que nuestros investigadores se reunieron para discutir y definir las prioridades y objetivos del grupo a corto y largo plazo. Esta sesión fue fundamental para garantizar que todos estemos alineados y trabajando hacia un mismo objetivo, lo que nos permitirá aprovechar al máximo nuestro tiempo y recursos.
 
-Posteriormente, nuestra atención se centró en la presentación de dos investigaciones realizadas por nuestros miembros Rodrigo Cuevas y Bastián González-Bustamante.
-La primera, titulada "Apoyo a la Democracia y desconfianza en las Instituciones. Un análisis en base a Latinobarómetro (1995-2020)", exploró cómo el apoyo a la democracia y la
-desconfianza en las instituciones han evolucionado en América Latina durante los últimos 25 años, utilizando datos del Latinobarómetro. La presentación ofreció una visión
-general sobre las tendencias y patrones que se han observado en este período de tiempo.
+Posteriormente, nuestra atención se centró en la presentación de dos investigaciones realizadas por nuestros miembros Rodrigo Cuevas y Bastián González-Bustamante. La primera, titulada "Apoyo a la Democracia y desconfianza en las instituciones. Un análisis en base a Latinobarómetro (1995-2020)", exploró cómo el apoyo a la democracia y la desconfianza en las instituciones han evolucionado en América Latina durante los últimos 25 años, utilizando datos del Latinobarómetro. La presentación ofreció una visión general sobre las tendencias y patrones que se han observado en este período de tiempo.
 
-La segunda presentación, titulada "Corrective Effect of Ministerial Terminations on Presidential Approval", analizó el efecto que tiene el cese ministerial en la aprobación
-presidencial. Esta investigación utilizó datos de varios países latinoamericanos para examinar cómo el cambio en el equipo gubernamental puede influir en la percepción del
-presidente y su capacidad para liderar al país. 
+La segunda presentación, titulada "Corrective Effect of Ministerial Terminations on Presidential Approval", analizó el efecto que tiene el cese ministerial en la aprobación presidencial. Esta investigación utilizó datos de varios países latinoamericanos para examinar cómo el cambio en el equipo gubernamental puede influir en la percepción del presidente y su capacidad para liderar al país. 
 
-Ambas presentaciones generaron un gran interés y debate entre los asistentes, quienes apreciaron la oportunidad de aprender sobre las últimas investigaciones y reflexionar
-sobre sus implicaciones. El taller también fue un espacio valioso para compartir conocimientos y experiencia entre los miembros del grupo, lo que nos permite crecer y mejorar
-como equipo.
+Ambas presentaciones generaron un gran interés y debate entre los asistentes, quienes apreciaron la oportunidad de aprender sobre las últimas investigaciones y reflexionar sobre sus implicaciones. El taller también fue un espacio valioso para compartir conocimientos y experiencia entre los miembros del grupo, lo que nos permite crecer y mejorar como equipo.
 
-En resumen, el tercer taller anual del Training Data Lab fue un éxito. Nuestra planificación estratégica nos permitió definir nuestros objetivos y prioridades, mientras que
-las presentaciones de algunas de nuestras investigaciones nos brindaron una oportunidad valiosa para reflexionar sobre nuestro trabajo y compartir conocimientos con nuestros
-colegas. 
+En resumen, el tercer taller anual del Training Data Lab fue un éxito. Nuestra planificación estratégica nos permitió definir nuestros objetivos y prioridades, mientras que las presentaciones de algunas de nuestras investigaciones nos brindaron una oportunidad valiosa para reflexionar sobre nuestro trabajo y compartir conocimientos con nuestros colegas. 
 
 _* Texto generado por AI_ <br>
 _Última actualización: 27 de mayo de 2024_ <br>

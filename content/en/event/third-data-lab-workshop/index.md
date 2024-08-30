@@ -1,18 +1,18 @@
 ---
-title: Third Data Lab Workshop
+title: The third annual Training Data Lab workshop: A space for reflection and knowledge
 
-event: Third Data Lab Workshop
+event: Third Annual Training Data Lab Workshop
 ## event_url: 
 
 location: CEPEC USACH
 address:
-  street: Centre for Postgraduate Studies and Continuing Education (CEPEC) at USACH, Cruz del Sur 77
+  street: Centro de Estudios de Postgrado y Educación Continua (CEPEC) at the USACH, Cruz del Sur 77
   city: Santiago
   region: RM
   ## postcode: ''
   country: Chile
 
-summary: Third annual Training Data Lab workshop
+summary: Third Annual Training Data Lab Workshop
 abstract: ''
 
 # Talk start and end times.
@@ -58,5 +58,18 @@ slides:
 projects:
 ---
 
-_* AI-generated text_ \
-_Last updated: 27 May 2024_
+On 19 October, the Centro de Estudios de Postgrado y Educación Continua (CEPEC) at the Universidad de Santiago de Chile (USACH) hosted the third annual Training Data Lab workshop. This meeting was a valuable space to reflect on the advances and challenges we face as a team, as well as to present and discuss our latest research.
+
+The day began with a strategic planning session where our researchers met to discuss and define the group's short and long-term priorities and objectives. This session was fundamental to ensuring that we are all aligned and working towards the same goal, allowing us to maximise our time and resources.
+
+Subsequently, our attention was focused on the presentation of two research projects carried out by our members Rodrigo Cuevas and Bastián González-Bustamante. The first, entitled "Apoyo a la Democracia y desconfianza en las instituciones. Un análisis en base a Latinobarómetro (1995-2020)", explored how support for democracy and distrust in institutions have evolved in Latin America over the last 25 years, using data from Latinobarómetro. The presentation provided an overview of the trends and patterns that have been observed over this period of time.
+
+The second presentation, entitled "Corrective Effect of Ministerial Terminations on Presidential Approval", analysed the effect of ministerial terminations on presidential approval. This research used data from several Latin American countries to examine how change in the government team can influence the president's perception and his ability to lead the country. 
+
+Both presentations generated much interest and discussion among the attendees, who appreciated the opportunity to learn about the latest research and reflect on its implications. The workshop was also a valuable space for sharing knowledge and experience among the group members, allowing us to grow and improve as a team.
+
+In summary, the third annual Training Data Lab workshop was a success. Our strategic planning allowed us to define our objectives and priorities. At the same time, presentations of some of our research provided a valuable opportunity to reflect on our work and share knowledge with our colleagues. 
+
+_* AI-generated text_ <br>
+_Last updated: 27 May 2024_ <br>
+[_Read more about how we generate our content_]({{< relref "../post/2024-08-25-a-shift-in-our-communication-strategy" >}})
