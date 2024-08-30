@@ -62,7 +62,7 @@ On 20 April, our Training Data Lab research group held its first annual online w
 
 The day started with presenting the research group's different ongoing projects. Our members shared their current and future research, which gave us an overview of the ongoing lines of work and how they relate to each other. The presentation of the projects was followed by a space for feedback and dialogue, which allowed us to share knowledge and experience among the group members.
 
-In the second part of the workshop, our researcher, [Carla Cisternas]({{< relref "../authors/ccisternas" >}}), provided training on our cloud-based labelling platform for training machine learning models. The training focused on the process of training data to train machine learning models, a crucial topic for any research using machine learning techniques.
+In the second part of the workshop, our researcher [Carla Cisternas]({{< relref "../authors/ccisternas" >}}) provided training on our cloud-based labelling platform for training machine learning models. The training focused on the process of training data to train machine learning models, a crucial topic for any research using machine learning techniques.
 
 Data training is a fundamental process for training machine learning models. It involves collecting and preparing large amounts of labelled data, which is then used to train a model to make predictions or decisions. The goal of data training is to create a robust and representative dataset that reflects the complexity and diversity of the problems you want to solve.
 
