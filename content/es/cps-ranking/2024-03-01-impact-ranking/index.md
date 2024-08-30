@@ -1,6 +1,6 @@
 ---
-title: Ranking Chileno de Ciencia Política (CPS-Ranking, marzo 2024)
-date: 2024-03-01
+title: Ranking Chileno de Ciencia Política, marzo 2024
+date: 2024-03-05
 authors: ["CPS-Ranking Series"]
 ## image:
   ## caption: ''

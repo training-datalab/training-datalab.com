@@ -1,12 +1,17 @@
 ---
-title: CPS-Ranking June 2024
+title: Ranking Chileno de Ciencia Política, junio 2024
 date: 2024-06-02
-## authors: ["bgonzalezbustamante"]
+authors: ["CPS-Ranking Series"]
 ## image:
-  ## caption: 'Créditos de la imagen: [**Ollama**](https://ollama.com)'
+  ## caption: ''
   ## focal_point: 'smart'
+pager: true
+commentable: true
+show_related: false
+show_breadcrumb: true
 draft: false
-commentable: false
+tags:
+- cps-ranking
 ---
 
 <!--more-->
@@ -1838,19 +1843,16 @@ commentable: false
     <td class="tg-c3ow">4</td>
   </tr>
 </tbody></table>
-<small>Note: The affiliations have been standardised. Data collected on June 2, 2024.</small><br />
+<small>Nota. Las afiliaciones se han estandarizado. Datos recogidos el 2 de junio de 2024.</small><br><br>
 
-### Disclaimer
+**Descargo de responsabilidad**
 
-<p align="justify">Please bear in mind that this citation data comes from own user-created profiles on Google Scholar, whose coverage is not as rigorous as Scopus or Web of Science. In addition, the main ranking criterion is the H-Index, which has some limitations and is subject to bias and manipulation in some cases. Our quarterly ranking elaboration does not involve rearranging data, we focus on ordering the list by H-Index and citation.</p>
+Tenga en cuenta que estos datos de citas proceden de perfiles creados por los propios usuarios en Google Scholar, cuya cobertura no es tan rigurosa como la de Scopus o Web of Science. Además, el principal criterio de clasificación es el índice H, que tiene algunas limitaciones y está sujeto a sesgos y manipulaciones en algunos casos. Nuestra elaboración trimestral de la clasificación no implica reordenar los datos, sino que nos centramos en ordenar la lista por índice H y citación.
 
-### Would you like to suggest someone?
+**¿Quiere sugerir a alguien?**
 
-- Please send an email to <a href="mailto:cps-ranking@training-datalab.com">cps-ranking@training-datalab.com</a>.
+Envíe un correo electrónico a cps-ranking@training-datalab.com.
 
-### How to download and cite this dataset?
+**¿Cómo citar esta base de datos?**
 
-- González-Bustamante, B., Olivares, A., Cisternas, C., & Cuevas, R. (2024). Chilean Political Science Ranking. Dataset, Leiden University, Universidad Diego Portales and Training Data Lab. <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">http://doi.org/10.17605/OSF.IO/C8PRA</a>.
-
-<br />
-<small><a href="https://training-datalab.com/projects/cps-ranking">Further details about this project</a>.</small>
+[González-Bustamante, B.]({{< relref "../authors/bgonzalezbustamante" >}}), [Olivares, A.](({{< relref "../authors/aolivares" >}})), [Cisternas, C.]({{< relref "../authors/ccisternas" >}}), & [Cuevas, R.]({{< relref "../authors/rcuevas" >}}) (2024). Chilean Political Science Ranking. Dataset, Leiden University, Universidad Diego Portales y Training Data Lab. http://doi.org/10.17605/OSF.IO/C8PRA.
