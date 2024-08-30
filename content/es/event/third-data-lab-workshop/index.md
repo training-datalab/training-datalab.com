@@ -84,4 +84,4 @@ colegas.
 
 _* Texto generado por AI_ <br>
 _Última actualización: 27 de mayo de 2024_ <br>
-[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "../post/2024-08-22-a-shift-in-our-communication-strategy" >}})
+[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "../../post/2024-08-22-a-shift-in-our-communication-strategy" >}})
