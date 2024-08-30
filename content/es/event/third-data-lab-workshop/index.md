@@ -82,5 +82,7 @@ En resumen, el tercer taller anual del Training Data Lab fue un éxito. Nuestra 
 las presentaciones de algunas de nuestras investigaciones nos brindaron una oportunidad valiosa para reflexionar sobre nuestro trabajo y compartir conocimientos con nuestros
 colegas. 
 
-_* Texto generado por AI_ \
+_* Texto generado por AI_ <br>
 _Última actualización: 27 de mayo de 2024_
+[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "../post/2024-08-22-a-shift-in-our-communication-strategy" >}})
+
