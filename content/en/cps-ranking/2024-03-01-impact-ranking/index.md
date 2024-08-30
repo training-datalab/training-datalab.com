@@ -1843,9 +1843,7 @@ tags:
     <td class="tg-c3ow">4</td>
   </tr>
 </tbody></table>
-<small>Note. The affiliations have been standardised. Data collected on June 2, 2024.</small><br />
-
-
+<small>Note. The affiliations have been standardised. Data collected on June 2, 2024.</small><br><br>
 
 **Disclaimer**
 

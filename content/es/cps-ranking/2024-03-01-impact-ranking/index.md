@@ -1843,9 +1843,7 @@ tags:
     <td class="tg-c3ow">4</td>
   </tr>
 </tbody></table>
-<small>Nota: Las afiliaciones se han estandarizado. Datos recogidos el 2 de junio de 2024.</small><br />
-
-
+<small>Nota: Las afiliaciones se han estandarizado. Datos recogidos el 2 de junio de 2024.</small><br><br>
 
 **Descargo de responsabilidad**
 
