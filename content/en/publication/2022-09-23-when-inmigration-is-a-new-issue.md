@@ -21,7 +21,7 @@ doi: ''
 # Publication type.
 publication_types: ['article-journal']
 
-publication: '*Revista Latinoamericana De Opinión Pública, 11*(2), 35-72'
+publication: '*Revista Latinoamericana de Opinión Pública, 11*(2), 35-72'
 publication_short: ''
 abstract: 'In countries where parties have not adopted strong policy positions on immigration–and where the immigrant population is not large–popular perceptions of immigrants might not reflect the ideological divides reported in the literature for countries where immigration is a politically salient issue. We assess the association of ideological identification with the perceptions of immigrants in Chile using two comparable national polls, one from 2003, before the recent immigration wave, and one from 2017, in the middle of an immigration wave, but before parties formally adopted policy positions on immigration. With OLS estimations, we find that, as expected, leftists had more positive views than the rest, but contrary to expectations, those on the right also had more positive views, especially in 2017. Views were more prominent in 2017 than in 2003, with those in the extreme left and extreme right displaying positive views.'
 summary: ''
