@@ -24,7 +24,7 @@ Finally, the series uses the **CRediT** taxonomy to identify the exact contribut
 
 <h2>Editorial Management</h2>
 
-This series has only the editorial team as its executive body. The editorial team is comprised of the editor, [Bastián González-Bustamante]({{< relref "../authors/bgonzalezbustamante" >}}), who manages the series in its broadest sense, and [Jaquelin Morillo]({{< relref "../authors/jmorillo" >}}), associate editor.
+This series has only the editorial team as its executive body. The editorial team is comprised of the editor, [Bastián González-Bustamante]({{< relref "../../authors/bgonzalezbustamante" >}}), who manages the series in its broadest sense, and [Jaquelin Morillo]({{< relref "../../authors/jmorillo" >}}), associate editor.
 
 <h2>Editorial Process</h2>
 
