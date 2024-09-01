@@ -8,6 +8,10 @@ view: citation
 banner:
   caption: ''
   image: ''
+
+_build:
+  render: always
+  list: never
 ---
 
 <br>
