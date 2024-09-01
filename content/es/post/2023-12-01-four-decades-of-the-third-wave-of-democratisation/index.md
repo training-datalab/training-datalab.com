@@ -1,5 +1,5 @@
 ---
-title: Cuatro décadas de la tercera ola de democratización en América Latina. Aportes desde el Training Data Lab
+title: 'Cuatro décadas de la tercera ola de democratización en América Latina: Aportes desde el Training Data Lab'
 date: '2023-12-01'
 authors: ["ollama"]
 image:
