@@ -38,7 +38,7 @@ Both desktop and peer-review are based on **open review reports**. These reports
 
 Accepted manuscripts must be adjusted by the authors based on the comments of the review process and are then reviewed by the editorial team, who may request further minor adjustments. This cycle is repeated until a satisfactory version that can be typeset is obtained. Manuscripts are then typeset in Tufte-LaTeX and reviewed by the editorial team and the authors. This whole process is done openly and with constant monitoring in our [GitHub repository](https://github.com/training-datalab/tufte-working-papers).
 
-Finally, the version of record is stored on GitHub, optionally SocArXiv in [OSF](http://osf.io/), and [Zenodo](https://zenodo.org/).
+Finally, the version of record is stored on GitHub, optionally SocArXiv on [OSF](http://osf.io/), and [Zenodo](https://zenodo.org/).
 
 <h2>Style guide for authors</h2>
 
