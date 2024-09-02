@@ -3,7 +3,7 @@ title: Validación de un estándar de referencia para medir toxicidad e incivili
 date: 2024-05-17
 authors: ["bgonzalezbustamante", "srivera"]
 image:
-  ## caption: 'Créditos de la imagen: [**X**](https://)'
+  ## caption:
   focal_point: 'smart'
 pager: true
 commentable: true

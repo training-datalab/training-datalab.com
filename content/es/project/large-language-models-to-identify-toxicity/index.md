@@ -3,7 +3,7 @@ title: Grandes Modelos de Lenguaje (LLMs) para identificar toxicidad en la esfer
 date: 2024-05-04
 authors: ["bgonzalezbustamante"]
 image:
-  ## caption: 'Créditos de la imagen: [**OpenAI**](https://openai.com/)'
+  ## caption:
   focal_point: 'smart'
 pager: true
 commentable: true
