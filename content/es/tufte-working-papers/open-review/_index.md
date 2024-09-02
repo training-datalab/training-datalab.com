@@ -1,5 +1,5 @@
 ---
-title: Revisión abierta Tufte Working Papers
+title: Revisión abierta documentos de trabajo
 
 # Listing view
 view: citation

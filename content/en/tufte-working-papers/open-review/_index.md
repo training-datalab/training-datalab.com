@@ -1,5 +1,5 @@
 ---
-title: Open Review Tufte Working Papers
+title: Open review working papers
 
 # Listing view
 view: citation

@@ -1,5 +1,5 @@
 ---
-title: Guidelines Tufte Working Papers
+title: Guidelines working papers
 
 # Listing view
 view: citation

@@ -1,5 +1,5 @@
 ---
-title: Criterios de publicación Tufte Working Papers
+title: Criterios de publicación documentos de trabajo
 
 # Listing view
 view: citation
