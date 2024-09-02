@@ -1,5 +1,5 @@
 ---
-title: Data Mining Chilean Civil Service
+title: Minería de datos servicio civil chileno
 date: 2020-01-01
 authors: ["bgonzalezbustamante"]
 image:
@@ -16,28 +16,28 @@ tags:
 ---
 
 {{% callout note %}}
-Completed project funded by the Universidad de Santiago de Chile and supported by Training Data Lab
+Proyecto finalizado financiado por la Universidad de Santiago de Chile y apoyado por Training Data Lab
 {{% /callout %}}
 
-The sources of information were data released by the DNSC in response to requests AE004T0000240 and AE004T0000484 under Law on Access to Public Information. These requests were made on December 26, 2016, and April 26, 2018, respectively. With the first request, we developed a database of senior public managers for the period 2009-2015 (N = 391; see [González-Bustamante, 2020]({{< relref "../publication/2020-11-18-the-politics-administration-dichotomy" >}})).
+Las fuentes originales de información corresponden a datos liberados por la DNSC en respuesta a las solicitudes AE004T0000240 y AE004T0000484 en el marco de la Ley 20.285 sobre Acceso a la Información Pública, realizadas el 26 de diciembre de 2016 y el 26 de abril de 2018, respectivamente. Con la primera solicitud elaboramos una base de datos de altos directivos públicos para el período 2009-2015 (*N* = 391, véase también [González-Bustamante, 2020]({{< relref "../publication/2020-11-18-the-politics-administration-dichotomy" >}})).
 
 <!--more-->
 
-With this database and the second request, we compiled 452 top-level managers for 2009-2017. Subsequently, we compiled 1,396 public documents, including appointment decrees, minutes of contests, institutional news, among other similar documents.
+Con esta base de datos y la segunda solicitud elaboramos un listado de 452 directivos del primer nivel jerárquico para el período 2009-2017. Posteriormente, recopilamos 1.396 documentos públicos, entre decretos de nombramiento, actas de los concursos, noticias institucionales, entre otros similares.
 
-The documents were uploaded to the [Open Science Framework (OSF)](https://doi.org/10.17605/OSF.IO/WBF6M) platform and assigned a unique permalink that allowed us to apply an optical character recognition (OCR) algorithm programmed for this purpose. In this way, the PDF documents were converted to PNG images which were uploaded to the project repository on GitHub, which is connected to OSF (surv-civil-servants, currently private and soon available for public consultation).
+Los documentos fueron cargados en la plataforma [Open Science Framework (OSF)](https://doi.org/10.17605/OSF.IO/WBF6M) y se les asignó una URL permanente única que nos permitió aplicar un algoritmo de reconocimiento óptico (OCR) programado específicamente para este propósito. De esta forma, los documentos PDF fueron convertidos en imágenes PNG que fueron cargadas en el repositorio del proyecto en GitHub que está conectado con OSF (*surv-civil-servants*, actualmente privado y pronto disponible para consulta pública).
 
-The images were then converted to a manageable text format to match and verify the documents with the identified cases. This allowed us to validate the cases.
+Las imágenes se convirtieron a un formato de texto manejable a través del proceso previamente descrito con el fin de emparejar y verificar los documentos con los casos identificados. Esto nos permitió validar los casos.
 
-**Resources**
+**Recursos**
 
-* [SocArXiv preprint in English](https://doi.org/10.31235/osf.io/vshcz).
-* [Published paper in Spanish]({{< relref "../publication/2020-12-01-altos-directivos-publicos-un-nuevo-conjunto-de-datos-de-miembros-del-servicio-civil-chileno" >}}).
-* [OSF project](hhttps://doi.org/10.17605/OSF.IO/WBF6M).
-* [Zenodo repository](https://doi.org/10.5281/zenodo.8115596).
+* [SocArXiv preprint en inglés](https://doi.org/10.31235/osf.io/vshcz).
+* [Artículo publicado en español]({{< relref "../publication/2020-12-01-altos-directivos-publicos-un-nuevo-conjunto-de-datos-de-miembros-del-servicio-civil-chileno" >}}).
+* [Proyecto OSF](hhttps://doi.org/10.17605/OSF.IO/WBF6M).
+* [Repositorio en Zenodo](https://doi.org/10.5281/zenodo.8115596).
 
-**How to cite this dataset?**
+**¿Cómo citar esta base de datos?**
 
-* González-Bustamante, B., Astete, M., & Orvenes, B. (2021). Survival of the Senior Civil Servants in the Chilean Executive Branch. (Version 1.13.19 – Bold Lab). Dataset, pre-release version 1.13.19 – Bold Lab under restricted access, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. https://doi.org/10.5281/zenodo.8115596.
+* González-Bustamante, B., Astete, M., & Orvenes, B. (2021). Survival of the Senior Civil Servants in the Chilean Executive Branch. (Version 1.13.19 – Bold Lab). Dataset versión preliminar 1.13.19 -- Bold Lab bajo acceso restringido, University of Oxford, Universidad de Santiago de Chile (USACH) y Training Data Lab. https://doi.org/10.5281/zenodo.8115596.
 
-_Last updated: 6 July 2023._
+_Última actualización: 6 de julio de 2023._
