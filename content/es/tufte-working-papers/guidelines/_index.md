@@ -40,7 +40,7 @@ En esta serie no se considera obligatoria la doble evaluación ciega de pares (*
 
 En este sentido, se desestima el modelo tradicional de evaluación que actualmente es ampliamente criticado por sus retrasos en la gestión editorial, el sesgo en las evaluaciones a pesar del referato anónimo y otros defectos como la elaboración de dictámenes superfluos. El resultado de la evaluación abierta de pares puede ser rechazo del manuscrito o aprobación con cambios menores.
 
-Tanto la evaluación de escritorio como la evaluación de pares se basa en **informes de revisión abiertos**. Estos informes son publicados anexos al artículo con la firma y datos biográficos de los revisores. De esta forma, se genera un incentivo para participar en el proceso y se aumenta la calidad del arbitraje.
+Tanto la evaluación de escritorio como la evaluación de pares se basa en [informes de revisión abiertos]({{< relref "../open-review" >}}). Estos informes son publicados anexos al artículo con la firma y datos biográficos de los revisores. De esta forma, se genera un incentivo para participar en el proceso y se aumenta la calidad del arbitraje.
 
 Los manuscritos aceptados deben ser ajustados por los autores con base en los comentarios del proceso de revisión, posteriormente, son revisados por el equipo editorial que puede solicitar ajustes menores adicionales. Este ciclo se repite hasta que se obtenga una versión satisfactoria que pueda ser diagramada. Los manuscritos se diagraman en Tufte-LaTeX y son revisados por el equipo editorial y los autores. Todo este proceso se realiza de forma abierta y con seguimiento constante en nuestro [repositorio de GitHub](https://github.com/training-datalab/tufte-working-papers).
 

@@ -40,7 +40,7 @@ Double-blind peer-review with external referees is not considered mandatory in t
 
 In this sense, the traditional peer-review model, which is currently widely criticised for its delays in editorial management, bias in evaluations despite anonymous refereeing, and other shortcomings such as the production of superfluous opinions, is discarded. The outcome of open peer-review can be a rejection of the manuscript or approval with minor changes.
 
-Both desktop and peer-review are based on **open review reports**. These reports are published attached to the article with the signature and biographical details of the reviewers. This creates an incentive to participate in the process and increases the quality of the refereeing.
+Both desktop and peer-review are based on [open review reports]({{< relref "../open-review" >}}). These reports are published attached to the article with the signature and biographical details of the reviewers. This creates an incentive to participate in the process and increases the quality of the refereeing.
 
 Accepted manuscripts must be adjusted by the authors based on the comments of the review process and are then reviewed by the editorial team, who may request further minor adjustments. This cycle is repeated until a satisfactory version that can be typeset is obtained. Manuscripts are then typeset in Tufte-LaTeX and reviewed by the editorial team and the authors. This whole process is done openly and with constant monitoring in our [GitHub repository](https://github.com/training-datalab/tufte-working-papers).
 
