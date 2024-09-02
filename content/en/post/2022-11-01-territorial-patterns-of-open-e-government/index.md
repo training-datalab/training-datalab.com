@@ -1,5 +1,5 @@
 ---
-title: Territorial patterns of open e-government. The road to digital democracy in Chilean municipalities
+title: 'Territorial patterns of open e-government: The road to digital democracy in Chilean municipalities'
 date: '2022-11-01'
 authors: ["ollama"]
 image:

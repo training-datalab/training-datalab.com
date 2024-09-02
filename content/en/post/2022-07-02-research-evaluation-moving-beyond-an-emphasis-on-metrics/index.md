@@ -1,5 +1,5 @@
 ---
-title: Research evaluation. Moving beyond an emphasis on metrics
+title: 'Research evaluation: Moving beyond an emphasis on metrics'
 date: '2022-07-02'
 authors: ["ollama"]
 image:

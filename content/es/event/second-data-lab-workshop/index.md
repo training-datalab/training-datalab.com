@@ -1,5 +1,5 @@
 ---
-title: Segundo taller anual del Training Data Lab. Conocimiento y colaboración a distancia
+title: 'Segundo taller anual del Training Data Lab: Conocimiento y colaboración a distancia'
 
 event: Segundo taller anual del Training Data Lab
 ## event_url: 

@@ -1,5 +1,5 @@
 ---
-title: The third annual Training Data Lab workshop. A space for reflection and knowledge
+title: 'The third annual Training Data Lab workshop: A space for reflection and knowledge'
 
 event: Third annual Training Data Lab workshop
 ## event_url: 

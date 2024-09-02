@@ -1,5 +1,5 @@
 ---
-title: Second annual Training Data Lab workshop. Distance knowledge and collaboration
+title: 'Second annual Training Data Lab workshop: Distance knowledge and collaboration'
 
 event: Second annual Training Data Lab workshop
 ## event_url: 

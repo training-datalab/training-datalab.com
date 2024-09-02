@@ -1,5 +1,5 @@
 ---
-title: El tercer taller anual del Training Data Lab. Un espacio de reflexión y conocimiento
+title: 'El tercer taller anual del Training Data Lab: Un espacio de reflexión y conocimiento'
 
 event: Tercer taller anual del Training Data Lab
 ## event_url: 

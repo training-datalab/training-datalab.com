@@ -1,5 +1,5 @@
 ---
-title: Enfocados en el futuro. Primer taller anual del Training Data Lab
+title: 'Enfocados en el futuro: Primer taller anual del Training Data Lab'
 
 event: Primer taller anual del Training Data Lab
 ## event_url: 

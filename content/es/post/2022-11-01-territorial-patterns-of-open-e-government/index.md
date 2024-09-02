@@ -1,5 +1,5 @@
 ---
-title: Patrones territoriales de gobierno electrónico abierto. El camino hacia la democracia digital en las municipalidades chilenas
+title: 'Patrones territoriales de gobierno electrónico abierto: El camino hacia la democracia digital en las municipalidades chilenas'
 date: '2022-11-01'
 authors: ["ollama"]
 image:

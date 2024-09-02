@@ -1,5 +1,5 @@
 ---
-title: Focus on the future. First annual Training Data Lab workshop
+title: 'Focus on the future: First annual Training Data Lab workshop'
 
 event: First annual Training Data Lab workshop
 ## event_url: 
