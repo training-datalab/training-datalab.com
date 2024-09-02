@@ -35,6 +35,6 @@ Los conjuntos de datos más recientes se recopilaron en febrero de 2023 en forma
 
 **¿Cómo citar este rastreador?**
 
-- González-Bustamante, B. (2023). Twitter Online Tracker of the Chilean Referendum for a New Constitution. Proyecto de investigación, versión 2.0.1 -- Purple Silence. University of Oxford, Universidad de Santiago de Chile (USACH) y Training Data Lab. https://doi.org/10.17605/OSF.IO/73NDB.
+- González-Bustamante, B. (2023). Twitter Online Tracker of the Chilean Referendum for a New Constitution. Proyecto de investigación, versión 2.0.1 -- Purple Silence, University of Oxford, Universidad de Santiago de Chile (USACH) y Training Data Lab. https://doi.org/10.17605/OSF.IO/73NDB.
 
 _Última actualización: 18 de marzo de 2023._

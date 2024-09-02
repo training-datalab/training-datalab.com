@@ -51,6 +51,6 @@ We integrated these measurements with geospatial information and local governmen
 
 **How to cite this dataset?**
 
-* González-Bustamante, B., & Aguilar, D. (2023). [Data Set on Local Government Indicators in Chile]({{< relref "../publication/2023-03-17-data-set-on-local-government-indicators-in-chile" >}}). Dataset, pre-release version 0.21.15 -- Late Sky. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab.
+* González-Bustamante, B., & Aguilar, D. (2023). [Data Set on Local Government Indicators in Chile]({{< relref "../publication/2023-03-17-data-set-on-local-government-indicators-in-chile" >}}). Dataset, pre-release version 0.21.15 -- Late Sky, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab.
 
 _Last updated: 19 March 2023._
