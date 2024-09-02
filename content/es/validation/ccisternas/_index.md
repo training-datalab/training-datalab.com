@@ -14,9 +14,11 @@ _build:
   list: never
 ---
 
-**Valid Digital Signature**
-
 <img style = "float: left; border: 10px" src = "/signatures/ccisternas.png" alt = "QR code" width = "10%"/>
 
-**Carla Cisternas**\
-**Email:** c.g.cisternas.guasch@hum.leidenuniv.nl
+**Valid Digital Signature**
+
+Carla Cisternas
+
+Email: c.g.cisternas.guasch@hum.leidenuniv.nl
+
