@@ -3,7 +3,7 @@ title: 'Enhance your R experience: Introducing Vibrant Ink Flavoured Theme'
 date: '2023-02-22'
 authors: ["ollama"]
 image:
-  caption: 'Picture credits: **B. González-Bustamante**'
+  ## caption: 'Picture credits: **B. González-Bustamante**'
   focal_point: 'smart'
 pager: true
 commentable: true
