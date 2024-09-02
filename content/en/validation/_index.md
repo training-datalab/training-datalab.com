@@ -1,5 +1,5 @@
 ---
-title: Validación de firmas digitales
+title: Digital Signatures Validation
 
 # Listing view
 view: list

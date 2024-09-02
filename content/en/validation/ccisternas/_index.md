@@ -1,5 +1,5 @@
 ---
-title: "Firma digital válida Carla Cisternas"
+title: "Valid Digital Signature Carla Cisternas"
 ## weight:
 date: '2024-03-24'
 ## authors:
@@ -8,7 +8,7 @@ image:
   focal_point: 'smart'
 ## categories: []
 ## tags: []
-summary: 'Firma digital válida'
+summary: 'Valid Digital Signature'
 
 show_breadcrumb: true
 
