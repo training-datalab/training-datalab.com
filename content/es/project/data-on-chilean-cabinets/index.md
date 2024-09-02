@@ -1,5 +1,5 @@
 ---
-title: Data on Chilean Cabinets (1990-2022)
+title: Datos de los gabinetes chilenos (1990-2022)
 date: 2021-11-19
 authors: ["bgonzalezbustamante", "aolivares"]
 image:
