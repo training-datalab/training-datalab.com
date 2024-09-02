@@ -19,7 +19,7 @@ tags:
 Completed project funded by the Universidad de Santiago de Chile and supported by Training Data Lab
 {{% /callout %}}
 
-The sources of information were data released by the DNSC in response to requests AE004T0000240 and AE004T0000484 under Law on Access to Public Information. These requests were made on December 26, 2016, and April 26, 2018, respectively. With the first request, we developed a database of senior public managers for the period 2009-2015 (N = 391; see [González-Bustamante, 2020]({{< relref "../publication/the-politics-administration-dichotomy" >}})).
+The sources of information were data released by the DNSC in response to requests AE004T0000240 and AE004T0000484 under Law on Access to Public Information. These requests were made on December 26, 2016, and April 26, 2018, respectively. With the first request, we developed a database of senior public managers for the period 2009-2015 (N = 391; see [González-Bustamante, 2020]({{< relref "../publication/2020-11-18-the-politics-administration-dichotomy" >}})).
 
 <!--more-->
 
@@ -32,7 +32,7 @@ The images were then converted to a manageable text format to match and verify t
 **Resources**
 
 * [SocArXiv preprint in English](https://doi.org/10.31235/osf.io/vshcz).
-* [Published paper in Spanish]({{< relref "../publication/altos-directivos-publicos-un-nuevo-conjunto-de-datos-de-miembros-del-servicio-civil-chileno" >}}).
+* [Published paper in Spanish]({{< relref "../publication/2020-12-01-altos-directivos-publicos-un-nuevo-conjunto-de-datos-de-miembros-del-servicio-civil-chileno" >}}).
 * [OSF project](hhttps://doi.org/10.17605/OSF.IO/WBF6M).
 * [Zenodo repository](https://doi.org/10.5281/zenodo.8115596).
 
