@@ -12,7 +12,7 @@ address:
   ## postcode: ''
   country: 
 
-summary: 'En el contexto del análisis con datos observacionales, la identificación e inferencia causal son desafíos comunes que enfrentan los investigadores y estadísticos. En este sentido, el taller de Analítica Fundación "Técnicas de propensión y algoritmos de emparejamiento para datos observacionales" dictado por nuestro investigador asociado, Bastián González-Bustamante, fue un espacio invaluable para abordar estos temas y compartir conocimientos con la comunidad académica.'
+summary: 'En el contexto del análisis con datos observacionales, la identificación e inferencia causal son desafíos comunes que enfrentan los investigadores y estadísticos. En este sentido, el taller de Analítica Fundación "Técnicas de propensión y algoritmos de emparejamiento para datos observacionales" dictado por nuestro investigador asociado, [Bastián González-Bustamante]({{< relref "../authors/bgonzalezbustamante" >}}), fue un espacio invaluable para abordar estos temas y compartir conocimientos con la comunidad académica.'
 abstract: ''
 
 # Talk start and end times.
@@ -58,7 +58,7 @@ slides:
 projects:
 ---
 
-En el contexto del análisis con datos observacionales, la identificación e inferencia causal son desafíos comunes que enfrentan los investigadores y estadísticos. En este sentido, el taller de Analítica Fundación "Técnicas de propensión y algoritmos de emparejamiento para datos observacionales" dictado por nuestro investigador asociado, Bastián González-Bustamante, fue un espacio invaluable para abordar estos temas y compartir conocimientos con la comunidad académica.
+En el contexto del análisis con datos observacionales, la identificación e inferencia causal son desafíos comunes que enfrentan los investigadores y estadísticos. En este sentido, el taller de Analítica Fundación "Técnicas de propensión y algoritmos de emparejamiento para datos observacionales" dictado por nuestro investigador asociado, [Bastián González-Bustamante]({{< relref "../authors/bgonzalezbustamante" >}}), fue un espacio invaluable para abordar estos temas y compartir conocimientos con la comunidad académica.
 
 El taller se centró en los fundamentos del análisis con puntuación de propensión, técnicas de emparejamiento para corregir el sesgo en datos y modelos observacionales. La propensión es un método ampliamente utilizado para estimar la causalidad entre variables en estudios observacionales, donde no se puede controlar directamente las causas. Sin embargo, esta técnica también puede estar sujeta a sesgos y limitaciones que afectan el poder predictivo de los modelos.
 
