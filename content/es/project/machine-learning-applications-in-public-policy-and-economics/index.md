@@ -1,5 +1,5 @@
 ---
-title: Aplicaciones de Machine Learning en políticas públicas y economía
+title: Aplicaciones de machine learning en políticas públicas y economía
 date: 2021-04-10
 authors: ["ccisternas", "Francisco Castañeda"]
 image:
