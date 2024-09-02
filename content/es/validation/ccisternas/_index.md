@@ -9,9 +9,6 @@ summary: 'Valid Digital Signature'
 
 show_breadcrumb: true
 
-_build:
-  render: always
-  list: never
 ---
 
 <img style = "float: left; border: 10px" src = "/signatures/ccisternas.png" alt = "QR code" width = "10%"/>
