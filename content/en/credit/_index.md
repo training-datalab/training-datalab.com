@@ -35,4 +35,4 @@ CRediT (Contributor Roles Taxonomy) is high-level taxonomy, including 14 roles, 
 | <img src="/badges/writing_initial_draft.png" align="center" width="40" /> | Writing – original draft | Preparation, creation and/or presentation of the published work, specifically writing the initial draft. |
 | <img src="/badges/writing_review.png" align="center" width="40" /> | Writing – review and editing | Critical review, commentary or revision – including pre- or post-publication stages. |
 
-<small>Source. Compiled using badges from [Center for Open Science](https://github.com/CenterForOpenScience/open_research_badges) and core definitions from CASRAI. See also https://bgonzalezbustamante.com/credit.</small>
+<small>*Source*. Compiled using badges from [Center for Open Science](https://github.com/CenterForOpenScience/open_research_badges) and core definitions from CASRAI. See also https://bgonzalezbustamante.com/credit.</small>
