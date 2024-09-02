@@ -1,5 +1,5 @@
 ---
-title: Minería de datos servicio civil chileno
+title: Minería de datos del servicio civil chileno
 date: 2020-01-01
 authors: ["bgonzalezbustamante"]
 image:
