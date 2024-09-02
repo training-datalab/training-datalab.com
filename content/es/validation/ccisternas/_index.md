@@ -14,7 +14,3 @@ show_breadcrumb: true
 
 ---
 
-**Valid Digital Signature** \
-Carla Cisternas \
-Email: c.g.cisternas.guasch@hum.leidenuniv.nl
-
