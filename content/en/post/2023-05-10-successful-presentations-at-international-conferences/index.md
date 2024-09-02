@@ -1,5 +1,5 @@
 ---
-title: 'Successful presentations at international conferences: Bastián González-Bustamante's work on the impact of crises on presidential politics'
+title: 'Successful presentations at international conferences: Bastián González-Bustamante’s work on the impact of crises on presidential politics'
 date: '2023-05-10'
 authors: ["ollama"]
 image:
