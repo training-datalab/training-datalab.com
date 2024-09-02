@@ -1,7 +1,7 @@
 ---
 title: Chilean Political Science Ranking, June 2024
 date: 2024-06-02
-authors: ["CPS-Ranking Series"]
+## authors: ["CPS-Ranking Series"]
 ## image:
   ## caption: ''
   ## focal_point: 'smart'
