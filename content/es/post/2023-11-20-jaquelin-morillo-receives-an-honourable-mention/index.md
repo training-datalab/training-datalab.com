@@ -12,6 +12,7 @@ show_breadcrumb: true
 draft: false
 tags:
 - blog
+- conferences
 - awards
 ---
 

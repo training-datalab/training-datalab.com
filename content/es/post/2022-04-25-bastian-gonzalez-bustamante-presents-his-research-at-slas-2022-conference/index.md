@@ -13,6 +13,7 @@ draft: false
 tags:
 - blog
 - conferences
+- awards
 ---
 
 Estamos emocionados de anunciar que nuestro investigador asociado, [Bastián González-Bustamante]({{< relref "../authors/bgonzalezbustamante" >}}), ha presentado con éxito su trabajo de investigación "Resignation Calls and Ministerial Turnover in Latin America: Notes on Data Gathering using Machine Learning" en la conferencia anual de la Society for Latin American Studies (SLAS) celebrada en Bath, Reino Unido, el 21 al 22 de abril de 2022.
