@@ -6,12 +6,17 @@ date: '2024-03-24'
 ## categories: []
 ## tags: []
 summary: 'Valid Digital Signature'
+
 show_breadcrumb: true
+
+_build:
+  render: always
+  list: never
 ---
 
 **Valid Digital Signature**
 
-<img style = "float: right; border: 10px" src = "/signatures/ccisternas.png" alt = "QR code" width = "15%"/>
+<img style = "float: left; border: 10px" src = "/signatures/ccisternas.png" alt = "QR code" width = "10%"/>
 
-<small>**Carla Cisternas**</small> \
-<small>Email: c.g.cisternas.guasch@hum.leidenuniv.nl</small> \
+**Carla Cisternas**\
+**Email:** c.g.cisternas.guasch@hum.leidenuniv.nl
