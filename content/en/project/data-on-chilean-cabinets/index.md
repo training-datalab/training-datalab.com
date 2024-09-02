@@ -45,7 +45,7 @@ Both data sets have been used in the following articles and book chapters:
 
 **How to cite these datasets?**
 
-- González-Bustamante, B., & Olivares, A. (2023). [Data Set on Chilean Ministers (1990-2014)]({{< relref "../publication/2023-03-05-data-set-on-chilean-ministers" >}}). Dataset version 3.3.7 -- Soft Dew, University of Oxford, Universidad de Santiago de Chile (USACH), Universidad Mayor and Training Data Lab.
-- González-Bustamante, B., & Olivares, A. (2023). [Data Set on Chilean Undersecretaries (1990-2022)]({{< relref "../publication/2023-03-05-data-set-on-chilean-undersecretaries" >}}). Dataset version 2.1.4 -- Wandering Grass, University of Oxford, Universidad de Santiago de Chile (USACH), Universidad Mayor and Training Data Lab.
+- González-Bustamante, B., & Olivares, A. (2023). [Data Set on Chilean Ministers (1990-2014)]({{< relref "../publication/2023-03-05-data-set-on-chilean-ministers" >}}). Dataset, version 3.3.7 -- Soft Dew, University of Oxford, Universidad de Santiago de Chile (USACH), Universidad Mayor and Training Data Lab.
+- González-Bustamante, B., & Olivares, A. (2023). [Data Set on Chilean Undersecretaries (1990-2022)]({{< relref "../publication/2023-03-05-data-set-on-chilean-undersecretaries" >}}). Dataset, version 2.1.4 -- Wandering Grass, University of Oxford, Universidad de Santiago de Chile (USACH), Universidad Mayor and Training Data Lab.
 
 _Last updated: 18 March 2023._
