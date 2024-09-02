@@ -1611,7 +1611,7 @@ tags:
   </tr>
 </tbody>
 </table>
-<small>*Nota*. Las afiliaciones se han estandarizado. Datos recogidos el 2 de junio de 2022.</small><br><br>
+<small>Nota: Las afiliaciones se han estandarizado. Datos recogidos el 2 de junio de 2022.</small><br><br>
 
 **Descargo de responsabilidad**
 

@@ -1835,7 +1835,7 @@ tags:
   </tr>
 </tbody>
 </table>
-<small>*Nota*. Las afiliaciones se han estandarizado. Datos recogidos el 1 de marzo de 2024.</small><br><br>
+<small>Nota: Las afiliaciones se han estandarizado. Datos recogidos el 1 de marzo de 2024.</small><br><br>
 
 **Descargo de responsabilidad**
 

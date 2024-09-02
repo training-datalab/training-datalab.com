@@ -1611,7 +1611,7 @@ tags:
   </tr>
 </tbody>
 </table>
-<small>*Note*. The affiliations have been standardised. Data collected on June 2, 2022.</small><br><br>
+<small>Note: The affiliations have been standardised. Data collected on June 2, 2022.</small><br><br>
 
 **Disclaimer**
 

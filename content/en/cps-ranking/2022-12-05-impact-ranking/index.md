@@ -1619,7 +1619,7 @@ tags:
   </tr>
 </tbody>
 </table>
-<small>*Note*. The affiliations have been standardised. Data collected on December 5, 2022.</small><br><br>
+<small>Note: The affiliations have been standardised. Data collected on December 5, 2022.</small><br><br>
 
 **Disclaimer**
 

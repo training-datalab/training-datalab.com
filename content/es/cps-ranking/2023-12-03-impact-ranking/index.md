@@ -1799,7 +1799,7 @@ tags:
     </tr>
 </tbody>
 </table>
-<small>*Nota*. Las afiliaciones se han estandarizado. Datos recogidos el 3 de diciembre de 2023.</small><br><br>
+<small>Nota: Las afiliaciones se han estandarizado. Datos recogidos el 3 de diciembre de 2023.</small><br><br>
 
 **Descargo de responsabilidad**
 

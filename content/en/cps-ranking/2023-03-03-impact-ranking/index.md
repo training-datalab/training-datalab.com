@@ -1673,7 +1673,7 @@ tags:
   </tr>
 </tbody>
 </table>
-<small>*Note.* The affiliations have been standardised. Data collected on March 3, 2023.</small><br><br>
+<small>Note: The affiliations have been standardised. Data collected on March 3, 2023.</small><br><br>
 
 **Disclaimer**
 
