@@ -1,5 +1,5 @@
 ---
-title: Tufte Working Papers - Guidelines
+title: Guidelines Tufte Working Papers
 
 # Listing view
 view: citation
@@ -34,7 +34,7 @@ This series has only the editorial team as its executive body. The editorial tea
 
 All manuscripts received are subjected to a preliminary desk review. The outcome of this desk review may be rejection, approval with minor changes or, exceptionally, sending the manuscript for peer-review.
 
-Double-blind peer-review with external referees is not considered mandatory in this series. When the editorial decision of the preliminary review is to submit the manuscript for peer-review, an <strong>open review</strong> with one or two experts is used in which the identities of the authors and referees are disclosed.
+Double-blind peer-review with external referees is not considered mandatory in this series. When the editorial decision of the preliminary review is to submit the manuscript for peer-review, an **open review** with one or two experts is used in which the identities of the authors and referees are disclosed.
 
 In this sense, the traditional peer-review model, which is currently widely criticised for its delays in editorial management, bias in evaluations despite anonymous refereeing, and other shortcomings such as the production of superfluous opinions, is discarded. The outcome of open peer-review can be a rejection of the manuscript or approval with minor changes.
 
