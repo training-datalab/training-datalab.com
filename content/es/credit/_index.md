@@ -28,14 +28,13 @@ CRediT (Contributor Roles Taxonomy) is high-level taxonomy, including 14 roles, 
 | <img src="/badges/funding_acquisition.png" align="center" width="40" /> | Funding acquisition | Acquisition of the financial support for the project leading to this publication. |
 | <img src="/badges/investigation.png" align="center" width="40" /> | Investigation | Conducting a research and investigation process, specifically performing the data collection. |
 | <img src="/badges/methodology.png" align="center" width="40" /> | Methodology | Development or design of methodology; creation of models. |
-| <img src="badges/project_administration.png" align="center" width="40" /> | Project administration | Management and coordination responsibility for the research activity planning and execution. |
+| <img src="/badges/project_administration.png" align="center" width="40" /> | Project administration | Management and coordination responsibility for the research activity planning and execution. |
 | <img src="/badges/resources.png" align="center" width="40" /> | Resources | Provision of study materials, instrumentation, computing resources, or other analysis tools. |
-| <img src="badges/computation.png" align="center" width="40" /> | Software | Programming, software development; designing computer programs; implementation of the computer code and supporting algorithms. |
+| <img src="/badges/computation.png" align="center" width="40" /> | Software | Programming, software development; designing computer programs; implementation of the computer code and supporting algorithms. |
 | <img src="/badges/supervision.png" align="center" width="40" /> | Supervision | Oversight for the research activity planning and execution, including mentorship external to the core team. |
 | <img src="/badges/testing.png" align="center" width="40" /> | Validation | Replication of results and other research outputs. |
 | <img src="/badges/data_visualization.png" align="center" width="40" /> | Visualization | Preparation, creation and/or presentation of the published work, specifically data presentation. |
 | <img src="/badges/writing_initial_draft.png" align="center" width="40" /> | Writing – original draft | Preparation, creation and/or presentation of the published work, specifically writing the initial draft. |
 | <img src="/badges/writing_review.png" align="center" width="40" /> | Writing – review and editing | Critical review, commentary or revision – including pre- or post-publication stages. |
 
-<br>
-<small>Source. Compiled using badges from <a href="https://github.com/CenterForOpenScience/open_research_badges" target="_blank">Center for Open Science</a> and core definitions from CASRAI. See also <a href="https://bgonzalezbustamante.com/credit/" target="_blank">https://bgonzalezbustamante.com/credit</a>. </small>
+<small>Source. Compiled using badges from [Center for Open Science](https://github.com/CenterForOpenScience/open_research_badges) and core definitions from CASRAI. See also https://bgonzalezbustamante.com/credit.</small>
