@@ -1,5 +1,5 @@
 ---
-title: Guidelines working papers
+title: Guidelines Working Papers
 
 # Listing view
 view: citation

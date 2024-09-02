@@ -1,5 +1,5 @@
 ---
-title: Open review working papers
+title: Open Review Working Papers
 
 # Listing view
 view: citation
