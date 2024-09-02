@@ -37,10 +37,10 @@ education:
   courses:
   - course: Magíster en Psicología
     institution: Universidad Diego Portales
-    year: start-end
+    year: 2020-2023
   - course: Licenciatura en Ciencia Política
     institution: Universidad Diego Portales
-    year: start-end
+    year: 2011-2016
 
 # Social/Academic Networking
 social:
