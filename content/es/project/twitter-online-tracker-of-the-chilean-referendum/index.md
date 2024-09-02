@@ -1,5 +1,5 @@
 ---
-title: Twitter Online Tracker of the Chilean Referendum
+title: Seguimiento en Twitter del referéndum chileno
 date: 2020-09-26
 authors: ["bgonzalezbustamante"]
 image:
