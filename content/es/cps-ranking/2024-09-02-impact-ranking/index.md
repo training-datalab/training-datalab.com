@@ -198,7 +198,7 @@ tags:
   <tr>
     <td class="tg-c3ow">18</td>
     <td class="tg-0pky">Carlos Meléndez</td>
-    <td class="tg-0pky">JD\_X4KYAAAAJ</td>
+    <td class="tg-0pky">JD_X4KYAAAAJ</td>
     <td class="tg-0pky">UDP</td>
     <td class="tg-c3ow">2.228</td>
     <td class="tg-c3ow">24</td>
@@ -207,7 +207,7 @@ tags:
   <tr>
     <td class="tg-c3ow">19</td>
     <td class="tg-0pky">Álvaro Ramírez-Alujas</td>
-    <td class="tg-0pky">wk\_RO-sAAAAJ</td>
+    <td class="tg-0pky">wk_RO-sAAAAJ</td>
     <td class="tg-0pky">UCHILE-GIGAPP</td>
     <td class="tg-c3ow">2.151</td>
     <td class="tg-c3ow">24</td>
@@ -261,7 +261,7 @@ tags:
   <tr>
     <td class="tg-c3ow">25</td>
     <td class="tg-0pky">Javier Couso</td>
-    <td class="tg-0pky">r0EzJ\_IAAAAJ</td>
+    <td class="tg-0pky">r0EzJ_IAAAAJ</td>
     <td class="tg-0pky">UDP</td>
     <td class="tg-c3ow">1.922</td>
     <td class="tg-c3ow">20</td>
@@ -621,7 +621,7 @@ tags:
   <tr>
     <td class="tg-c3ow">65</td>
     <td class="tg-0pky">Olga Espinoza M.</td>
-    <td class="tg-0pky">\_aEt164AAAAJ</td>
+    <td class="tg-0pky">_aEt164AAAAJ</td>
     <td class="tg-0pky">UCHILE</td>
     <td class="tg-c3ow">737</td>
     <td class="tg-c3ow">12</td>
@@ -846,7 +846,7 @@ tags:
   <tr>
     <td class="tg-c3ow">90</td>
     <td class="tg-0pky">Rodrigo Osorio</td>
-    <td class="tg-0pky">3zePL\_gAAAAJ</td>
+    <td class="tg-0pky">3zePL_gAAAAJ</td>
     <td class="tg-0pky">UDP</td>
     <td class="tg-c3ow">339</td>
     <td class="tg-c3ow">9</td>
@@ -927,7 +927,7 @@ tags:
   <tr>
     <td class="tg-c3ow">99</td>
     <td class="tg-0pky">Jeanne W. Simon</td>
-    <td class="tg-0pky">\_mHLvikAAAAJ</td>
+    <td class="tg-0pky">_mHLvikAAAAJ</td>
     <td class="tg-0pky">UDEC</td>
     <td class="tg-c3ow">321</td>
     <td class="tg-c3ow">8</td>
@@ -990,7 +990,7 @@ tags:
   <tr>
     <td class="tg-c3ow">106</td>
     <td class="tg-0pky">Fabian Pressacco</td>
-    <td class="tg-0pky">KX\_lc8MAAAAJ</td>
+    <td class="tg-0pky">KX_lc8MAAAAJ</td>
     <td class="tg-0pky">UAH</td>
     <td class="tg-c3ow">188</td>
     <td class="tg-c3ow">8</td>
@@ -1116,7 +1116,7 @@ tags:
   <tr>
     <td class="tg-c3ow">120</td>
     <td class="tg-0pky">Roberto Mardones</td>
-    <td class="tg-0pky">99rI\_qsAAAAJ</td>
+    <td class="tg-0pky">99rI_qsAAAAJ</td>
     <td class="tg-0pky">UMAYOR</td>
     <td class="tg-c3ow">156</td>
     <td class="tg-c3ow">7</td>
@@ -1188,7 +1188,7 @@ tags:
   <tr>
     <td class="tg-c3ow">128</td>
     <td class="tg-0pky">Sebastian Rivera</td>
-    <td class="tg-0pky">Z\_hzOvcAAAAJ</td>
+    <td class="tg-0pky">Z_hzOvcAAAAJ</td>
     <td class="tg-0pky">UMAYOR</td>
     <td class="tg-c3ow">144</td>
     <td class="tg-c3ow">6</td>
@@ -1224,7 +1224,7 @@ tags:
   <tr>
     <td class="tg-c3ow">132</td>
     <td class="tg-0pky">Matthias Erlandsen</td>
-    <td class="tg-0pky">HA5\_6QUAAAAJ</td>
+    <td class="tg-0pky">HA5_6QUAAAAJ</td>
     <td class="tg-0pky">FLACSO</td>
     <td class="tg-c3ow">112</td>
     <td class="tg-c3ow">6</td>
@@ -1251,7 +1251,7 @@ tags:
   <tr>
     <td class="tg-c3ow">135</td>
     <td class="tg-0pky">Anthony A. Pezzola</td>
-    <td class="tg-0pky">U\_YqfqAAAAAJ</td>
+    <td class="tg-0pky">U_YqfqAAAAAJ</td>
     <td class="tg-0pky">WU</td>
     <td class="tg-c3ow">96</td>
     <td class="tg-c3ow">6</td>
@@ -1440,7 +1440,7 @@ tags:
   <tr>
     <td class="tg-c3ow">156</td>
     <td class="tg-0pky">Violeta Montero</td>
-    <td class="tg-0pky">21Iq\_\_YAAAAJ</td>
+    <td class="tg-0pky">21Iq__YAAAAJ</td>
     <td class="tg-0pky">UDEC</td>
     <td class="tg-c3ow">56</td>
     <td class="tg-c3ow">4</td>
@@ -1611,7 +1611,7 @@ tags:
   <tr>
     <td class="tg-c3ow">175</td>
     <td class="tg-0pky">Katherine Figueroa Aillañir</td>
-    <td class="tg-0pky">1vOi\_OsAAAAJ</td>
+    <td class="tg-0pky">1vOi_OsAAAAJ</td>
     <td class="tg-0pky">UDEC</td>
     <td class="tg-c3ow">40</td>
     <td class="tg-c3ow">2</td>
@@ -1701,7 +1701,7 @@ tags:
   <tr>
     <td class="tg-c3ow">185</td>
     <td class="tg-0pky">Daniel Santibañez Guerrero</td>
-    <td class="tg-0pky">B7eJM\_0AAAAJ</td>
+    <td class="tg-0pky">B7eJM_0AAAAJ</td>
     <td class="tg-0pky">USACH</td>
     <td class="tg-c3ow">15</td>
     <td class="tg-c3ow">2</td>
