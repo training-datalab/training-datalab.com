@@ -26,7 +26,7 @@ This series accepts unpublished papers and revised versions of previously publis
 
 This series is edited in Tufte-LaTeX, a LaTeX template inspired by Edward R. Tufte. [LaTeX](https://www.latex-project.org/) is free software that allows the composition of texts with high typographic quality. On the other hand, this series has ethical policy and style standards based on the [Singapore Statement on Research Integrity](https://github.com/training-datalab/tufte-working-papers/blob/master/guidelines/singpore_statement.pdf) and the [COPE](https://publicationethics.org/) guidelines. It also has an open access policy based on the [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/boai-10-recommendations) and the [Bethesda](https://dash.harvard.edu/bitstream/handle/1/4725199/Suber_bethesda.htm?sequence=3&isAllowed=y) and [Berlin](https://openaccess.mpg.de/Berlin-Declaration) declarations on open access and [San Francisco Declaration on Research Assessment](https://sfdora.org/read/). Accordingly, the works are licensed under [Creative Commons](https://github.com/training-datalab/tufte-working-papers/blob/master/LICENSE-CC.md) and [LPPL v1.3c](https://github.com/training-datalab/tufte-working-papers/blob/master/LICENSE-LPPL.md).
 
-Finally, the series uses the **CRediT** taxonomy to identify the exact contributions of each researcher in the case of co-authorship or research assistantships.
+Finally, the series uses the [CRediT taxonomy]({{< relref "../credit" >}}) to identify the exact contributions of each researcher in the case of co-authorship or research assistantships.
 
 <h2>Editorial Management</h2>
 
