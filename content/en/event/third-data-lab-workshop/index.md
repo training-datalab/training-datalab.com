@@ -71,4 +71,4 @@ Both presentations generated much interest and discussion among the attendees, w
 In summary, the third annual Training Data Lab workshop was a success. Our strategic planning allowed us to define our objectives and priorities. At the same time, presentations of some of our research provided a valuable opportunity to reflect on our work and share knowledge with our colleagues. 
 
 _* AI-generated text_ <br>
-[_Read more about how we generate our content_]({{< relref "../post/2024-08-25-a-shift-in-our-communication-strategy" >}})
+[_Read more about how we generate our content_]({{< relref "../post/2024-08-30-a-shift-in-our-communication-strategy" >}})

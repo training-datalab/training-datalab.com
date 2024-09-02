@@ -38,4 +38,4 @@ La participación de nuestro grupo de investigación en el XII Congreso Latinoam
 En particular, nuestros estudios sobre las comisiones asesoras ad hoc y la toxicidad en la esfera digital durante eventos de protesta en América Latina son importantes contribuciones a la comprensión del funcionamiento de los sistemas políticos y la dinámica social en el continente. Esperamos que estos trabajos generen interés y debates académicos en el futuro.
 
 _* Texto generado por AI_ <br>
-[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "2024-08-25-a-shift-in-our-communication-strategy" >}})
+[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "2024-08-30-a-shift-in-our-communication-strategy" >}})

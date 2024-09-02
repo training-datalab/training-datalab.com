@@ -32,4 +32,4 @@ Of course, we understand that there are some limitations to using AI tools like 
 Overall, we are excited to use ChatGPT to help us achieve our social media goals. Using this powerful AI tool, we believe we can reach a wider audience, share our research with more people, and make a greater impact in our field. We hope our followers will continue to engage with us on social media and look forward to sharing more updates and insights in the coming months.
 
 _* AI-generated text_ <br>
-[_Read more about how we generate our content_]({{< relref "2024-08-25-a-shift-in-our-communication-strategy" >}})
+[_Read more about how we generate our content_]({{< relref "2024-08-30-a-shift-in-our-communication-strategy" >}})

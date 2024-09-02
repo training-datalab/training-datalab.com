@@ -38,4 +38,4 @@ En Training Data Lab, estamos orgullosos de apoyar investigación innovadora com
 [Bastián González-Bustamante]({{< relref "../authors/bgonzalezbustamante" >}}) es investigador doctoral en la Universidad de Oxford e investigador asociado en Training Data Lab, donde trabaja en proyectos relacionados con el aprendizaje automático y procesamiento de lenguaje natural. Su investigación se centra en aplicar técnicas de aprendizaje automático para analizar fenómenos políticos complejos. Ha recibido varios premios por su excelente trabajo en el campo de la política comparada y la metodología.
 
 _* Texto generado por AI_ <br>
-[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "2024-08-25-a-shift-in-our-communication-strategy" >}})
+[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "2024-08-30-a-shift-in-our-communication-strategy" >}})

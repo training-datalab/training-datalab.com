@@ -38,4 +38,4 @@ The COMPTEXT 2024 conference was organised at the Vrije Universiteit Amsterdam a
 In conclusion, these two studies offer innovative perspectives for understanding the rule of law and its evolution over time. We hope these results will contribute to developing more informed and effective public policies in the field of justice and human rights.
 
 _* AI-generated text_ <br>
-[_Read more about how we generate our content_]({{< relref "2024-08-25-a-shift-in-our-communication-strategy" >}})
+[_Read more about how we generate our content_]({{< relref "2024-08-30-a-shift-in-our-communication-strategy" >}})

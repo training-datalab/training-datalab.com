@@ -15,7 +15,7 @@ tags:
 - awards
 ---
 
-Estamos emocionados de anunciar que nuestra investigadora asociada, Carla Cisternas, ha sido galardonada con un premio de investigación Slicher van Bath de Jong por la Universidad de Ámsterdam. Este premio prestigioso es un testimonio del excelente proyecto de investigación de Carla y su trayectoria.
+Estamos emocionados de anunciar que nuestra investigadora asociada, [Carla Cisternas]({{< relref "../authors/ccisternas" >}}), ha sido galardonada con un premio de investigación Slicher van Bath de Jong por la Universidad de Ámsterdam. Este premio prestigioso es un testimonio del excelente proyecto de investigación de Carla y su trayectoria.
 
 <!--more-->
 
@@ -27,7 +27,7 @@ La pregunta principal de este proyecto de investigación es: ¿Por qué y cómo 
 
 El premio de investigación Slicher van Bath de Jong permitirá a Carla profundizar aún más en su investigación, lo que le permitirá explorar los orígenes y fundamentos de las comisiones asesoras ad hoc en Chile durante este período. Este premio es un reconocimiento significativo del trabajo de Carla y un testimonio de la calidad de su investigación.
 
-En Training Data Lab, estamos encantados de ver que nuestra investigadora asociada, Carla Cisternas, ha recibido este premio prestigioso. Creemos que este premio no solo apoyará a Carla en su investigación sino también contribuirá a un mejor entendimiento de la historia de América Latina y su relevancia para los temas contemporáneos.
+En Training Data Lab, estamos encantados de ver que nuestra investigadora asociada, [Carla Cisternas]({{< relref "../authors/ccisternas" >}}), ha recibido este premio prestigioso. Creemos que este premio no solo apoyará a Carla en su investigación sino también contribuirá a un mejor entendimiento de la historia de América Latina y su relevancia para los temas contemporáneos.
 
 **Sobre la Fundación Slicher van Bath de Jong**
 

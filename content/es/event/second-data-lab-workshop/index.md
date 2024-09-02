@@ -67,4 +67,4 @@ Posteriormente, [Bastián González-Bustamante]({{< relref "../authors/bgonzalez
 Ambas presentaciones generaron un gran interés y debate entre los asistentes, quienes apreciaron la oportunidad de aprender sobre las últimas investigaciones y reflexionar sobre sus implicaciones. La discusión también nos permitió compartir conocimientos y experiencia entre los miembros del grupo, lo que nos permite crecer y mejorar como equipo.
 
 _* Texto generado por AI_ <br>
-[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "../post/2024-08-25-a-shift-in-our-communication-strategy" >}})
+[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "../post/2024-08-30-a-shift-in-our-communication-strategy" >}})

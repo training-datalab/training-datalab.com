@@ -38,4 +38,4 @@ Por ejemplo, en Chile, la generación de los 1950, que vivió el golpe militar e
 En tercer lugar, nuestros investigadores asociados, [Rodrigo Cuevas]({{< relref "../authors/rcuevas" >}}) y [Miguel Ángel López]({{< relref "../authors/malopez" >}}), presentaron el trabajo "Desconfianza en las instituciones en América Latina y valoración de la democracia (1995-2020)".  En resumen, la presentación de nuestros investigadores en la conferencia ofreció una visión detallada de los procesos políticos y sociales que han afectado la estabilidad democrática en la región. Esperamos que nuestros trabajos contribuyan a una comprensión más profunda de los desafíos que enfrenta la democratización en América Latina y que puedan informar políticas efectivas para promover la estabilidad democrática en la región.
 
 _* Texto generado por AI_ <br>
-[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "2024-08-25-a-shift-in-our-communication-strategy" >}})
+[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "2024-08-30-a-shift-in-our-communication-strategy" >}})

@@ -32,4 +32,4 @@ Por supuesto, entendemos que el uso de herramientas de IA como ChatGPT tiene alg
 En general, estamos encantados de utilizar ChatGPT para que nos ayude a alcanzar nuestros objetivos en las redes sociales. Utilizar esta potente herramienta de IA, creemos que podemos llegar a un público más amplio, compartir nuestra investigación con más gente y tener un mayor impacto en nuestro campo. Esperamos que nuestros seguidores sigan interactuando con nosotros en las redes sociales y estamos deseando compartir más actualizaciones y perspectivas en los próximos meses.
 
 _* Texto generado por AI_ <br>
-[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "2024-08-25-a-shift-in-our-communication-strategy" >}})
+[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "2024-08-30-a-shift-in-our-communication-strategy" >}})

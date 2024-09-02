@@ -71,4 +71,4 @@ Ambas presentaciones generaron un gran interés y debate entre los asistentes, q
 En resumen, el tercer taller anual del Training Data Lab fue un éxito. Nuestra planificación estratégica nos permitió definir nuestros objetivos y prioridades, mientras que las presentaciones de algunas de nuestras investigaciones nos brindaron una oportunidad valiosa para reflexionar sobre nuestro trabajo y compartir conocimientos con nuestros colegas. 
 
 _* Texto generado por AI_ <br>
-[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "../post/2024-08-25-a-shift-in-our-communication-strategy" >}})
+[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "../post/2024-08-30-a-shift-in-our-communication-strategy" >}})

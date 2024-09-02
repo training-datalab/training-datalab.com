@@ -30,4 +30,4 @@ The importance of this research is that it may have implications for the accurat
 [Jaquelin Morillo]({{< relref "../authors/jmorillo" >}})'s honourable mention at the IX Annual Congress of the SCP is a well-deserved recognition of her innovative and pioneering work in this field. Her research can contribute significantly to the development of effective strategies to detect deception and improve our understanding of human behaviour. 
 
 _* AI-generated text_ <br>
-[_Read more about how we generate our content_]({{< relref "2024-08-25-a-shift-in-our-communication-strategy" >}})
+[_Read more about how we generate our content_]({{< relref "2024-08-30-a-shift-in-our-communication-strategy" >}})

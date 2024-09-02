@@ -38,4 +38,4 @@ Training Data Lab is a research group that analyses and processes data to unders
 In conclusion, the study "Amplification, contestation, and hostile engagement with news in social media" is an important step towards understanding how social networks affect public opinion formation. We hope these findings will interest practitioners and academics in the field and allow us to continue improving our understanding of this highly relevant topic.
 
 _* AI-generated text_ <br>
-[_Read more about how we generate our content_]({{< relref "2024-08-25-a-shift-in-our-communication-strategy" >}})
+[_Read more about how we generate our content_]({{< relref "2024-08-30-a-shift-in-our-communication-strategy" >}})

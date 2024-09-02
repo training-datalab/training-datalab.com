@@ -32,4 +32,4 @@ In addition, our team also participated in the LatinR conference, which took pla
 These international conferences have provided our research team valuable opportunities to share our findings and interact with experts worldwide. As we continue to explore the complexities of open e-government and digital democracy, we are eager to see how our work can contribute to the dialogue on effective governance practices that prioritise transparency, participation and public information.
 
 _* AI-generated text_ <br>
-[_Read more about how we generate our content_]({{< relref "2024-08-25-a-shift-in-our-communication-strategy" >}})
+[_Read more about how we generate our content_]({{< relref "2024-08-30-a-shift-in-our-communication-strategy" >}})

@@ -38,4 +38,4 @@ La conferencia COMPTEXT 2024 fue organizada en la Vrije Universiteit Amsterdam y
 En conclusión, estos dos estudios ofrecen perspectivas innovadoras para comprender el Estado de Derecho y su evolución a lo largo del tiempo. Esperamos que estos resultados contribuyan al desarrollo de políticas públicas más informadas y efectivas en el ámbito de la justicia y los derechos humanos.
 
 _* Texto generado por AI_ <br>
-[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "2024-08-25-a-shift-in-our-communication-strategy" >}})
+[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "2024-08-30-a-shift-in-our-communication-strategy" >}})

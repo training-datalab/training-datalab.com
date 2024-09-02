@@ -71,4 +71,4 @@ Data training is a fundamental process for training machine learning models. It 
 In sum, the first annual Training Data Lab workshop was a success. Our online meeting allowed us to maintain connection and dialogue between group members. At the same time, the training on our cloud-based labelling platform for training machine learning models provided a valuable opportunity to learn about the data training process. 
 
 _* AI-generated text_ <br>
-[_Read more about how we generate our content_]({{< relref "../post/2024-08-25-a-shift-in-our-communication-strategy" >}})
+[_Read more about how we generate our content_]({{< relref "../post/2024-08-30-a-shift-in-our-communication-strategy" >}})

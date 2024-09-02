@@ -38,4 +38,4 @@ The main findings show that the risk increases by 135.1% in periods of low appro
 At the Training Data Lab, we are committed to high-quality knowledge production and international cooperation in the field of political science. Our researchers are working hard to generate innovative and relevant results that contribute to understanding current policy challenges.
 
 _* AI-generated text_ <br>
-[_Read more about how we generate our content_]({{< relref "2024-08-25-a-shift-in-our-communication-strategy" >}})
+[_Read more about how we generate our content_]({{< relref "2024-08-30-a-shift-in-our-communication-strategy" >}})

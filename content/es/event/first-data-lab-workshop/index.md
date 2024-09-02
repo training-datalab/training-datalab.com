@@ -71,4 +71,4 @@ La capacitación de [Carla Cisternas]({{< relref "../authors/ccisternas" >}}) no
 En resumen, el primer taller anual del Training Data Lab fue un éxito. Nuestra reunión online nos permitió mantener la conexión y el diálogo entre los miembros del grupo, mientras que la capacitación sobre nuestro plataforma de etiquetado en la nube para el entrenamiento de modelos de machine learning nos brindó una oportunidad valiosa para aprender sobre el proceso de entrenamiento de datos. 
 
 _* Texto generado por AI_ <br>
-[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "../post/2024-08-25-a-shift-in-our-communication-strategy" >}})
+[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "../post/2024-08-30-a-shift-in-our-communication-strategy" >}})

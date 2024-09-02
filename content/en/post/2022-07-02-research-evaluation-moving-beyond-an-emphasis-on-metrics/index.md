@@ -51,4 +51,4 @@ In conclusion, research evaluation is a fundamental process that requires a shif
 * Eliminate or reduce restrictions on the number of references in research articles.
 
 _* AI-generated text_ <br>
-[_Read more about how we generate our content_]({{< relref "2024-08-25-a-shift-in-our-communication-strategy" >}})
+[_Read more about how we generate our content_]({{< relref "2024-08-30-a-shift-in-our-communication-strategy" >}})

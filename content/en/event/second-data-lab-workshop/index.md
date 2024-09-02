@@ -67,4 +67,4 @@ The day began with presenting two papers that provided interesting insights into
 Both presentations generated much interest and discussion among the attendees, who appreciated the opportunity to learn about the latest research and reflect on its implications. The debate also allowed us to share knowledge and experience among the group members, allowing us to grow and improve as a team.
 
 _* AI-generated text_ <br>
-[_Read more about how we generate our content_]({{< relref "../post/2024-08-25-a-shift-in-our-communication-strategy" >}})
+[_Read more about how we generate our content_]({{< relref "../post/2024-08-30-a-shift-in-our-communication-strategy" >}})

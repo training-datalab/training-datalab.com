@@ -45,4 +45,4 @@ La elección de Raspberry Pi 5 nos permite disfrutar de varias ventajas:
 En Training Data Lab, estamos comprometidos con la innovación y la sostenibilidad. Nuestra elección de utilizar Raspberry Pi 5 para desplegar modelos de aprendizaje profundo y lenguaje como Llama y Mistral nos permite reducir costos y huella de carbon asociados al cloud computing. Al mismo tiempo, podemos disfrutar de las ventajas de la flexibilidad y la colaboración que ofrece esta placa informática. Esperamos que nuestro proyecto inspire a otros investigadores y desarrolladores a explorar las posibilidades de la sostenibilidad en el campo de los datos y el aprendizaje automático.
 
 _* Texto generado por AI_ <br>
-[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "2024-08-25-a-shift-in-our-communication-strategy" >}})
+[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "2024-08-30-a-shift-in-our-communication-strategy" >}})

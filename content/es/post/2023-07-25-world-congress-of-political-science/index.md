@@ -38,4 +38,4 @@ Los hallazgos principales muestran que el riesgo aumenta en un 135,1% en periodo
 En el Training Data Lab, nos comprometemos con la producción de conocimiento de alta calidad y la colaboración internacional en el ámbito de la ciencia política. Nuestros investigadores están trabajando arduamente para generar resultados innovadores y relevantes que contribuyan a la comprensión de los desafíos políticos actuales.
 
 _* Texto generado por AI_ <br>
-[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "2024-08-25-a-shift-in-our-communication-strategy" >}})
+[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "2024-08-30-a-shift-in-our-communication-strategy" >}})

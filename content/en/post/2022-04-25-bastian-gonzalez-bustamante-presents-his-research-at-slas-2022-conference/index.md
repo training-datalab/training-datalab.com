@@ -38,4 +38,4 @@ At Training Data Lab, we are proud to support innovative research like this, whi
 [Bastián González-Bustamante]({{< relref "../authors/bgonzalezbustamante" >}}) is a doctoral researcher at the University of Oxford and a research associate at Training Data Lab, where he works on projects related to machine learning and natural language processing. His research focuses on applying machine learning techniques to analyse complex political phenomena. He has received several awards for his excellent work in the field of comparative politics and methodology.
 
 _* AI-generated text_ <br>
-[_Read more about how we generate our content_]({{< relref "2024-08-25-a-shift-in-our-communication-strategy" >}})
+[_Read more about how we generate our content_]({{< relref "2024-08-30-a-shift-in-our-communication-strategy" >}})

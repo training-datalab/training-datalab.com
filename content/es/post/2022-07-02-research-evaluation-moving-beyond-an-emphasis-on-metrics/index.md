@@ -51,4 +51,4 @@ En conclusión, la evaluación de la investigación es un proceso fundamental qu
 * Elimine o reduzca las restricciones sobre el número de referencias en los artículos de investigación.
 
 _* Texto generado por AI_ <br>
-[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "2024-08-25-a-shift-in-our-communication-strategy" >}})
+[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "2024-08-30-a-shift-in-our-communication-strategy" >}})

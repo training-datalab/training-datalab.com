@@ -54,4 +54,4 @@ Queremos agradecer a Latindex por su apoyo y reconocimiento, y a nuestros editor
 Si deseas más información sobre nuestra serie de working papers, no dudes en contactarnos. Estamos siempre dispuestos a compartir nuestros trabajos y ideas con otros investigadores y académicos.
 
 _* Texto generado por AI_ <br>
-[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "2024-08-25-a-shift-in-our-communication-strategy" >}})
+[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "2024-08-30-a-shift-in-our-communication-strategy" >}})

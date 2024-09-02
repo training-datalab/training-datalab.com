@@ -32,4 +32,4 @@ Además, nuestro equipo también participó en la conferencia LatinR, que tuvo l
 Estas conferencias internacionales han proporcionado a nuestro equipo de investigación valiosas oportunidades para compartir nuestros hallazgos e interactuar con expertos de todo el mundo. Mientras continuamos explorando las complejidades del gobierno electrónico abierto y la democracia digital, estamos ansiosos por ver cómo nuestro trabajo puede contribuir al diálogo sobre prácticas efectivas de gobierno que priorizan la transparencia, la participación y la información pública.
 
 _* Texto generado por AI_ <br>
-[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "2024-08-25-a-shift-in-our-communication-strategy" >}})
+[_Lee más acerca de cómo generamos nuestros contenidos_]({{< relref "2024-08-30-a-shift-in-our-communication-strategy" >}})

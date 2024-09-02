@@ -38,4 +38,4 @@ For example, in Chile, the 1950s generation, who lived through the military coup
 Thirdly, our associate researchers, [Rodrigo Cuevas]({{< relref "../authors/rcuevas" >}}) and [Miguel Ángel López]({{< relref "../authors/malopez" >}}), presented the paper "Desconfianza en las instituciones en América Latina y valoración de la democracia (1995-2020)".  In summary, our researchers' presentation at the conference provided a detailed overview of the political and social processes that have affected democratic stability in the region. We hope that our work will contribute to a deeper understanding of the challenges facing democratisation in Latin America and that it can inform effective policies to promote democratic stability in the region.
 
 _* AI-generated text_ <br>
-[_Read more about how we generate our content_]({{< relref "2024-08-25-a-shift-in-our-communication-strategy" >}})
+[_Read more about how we generate our content_]({{< relref "2024-08-30-a-shift-in-our-communication-strategy" >}})
