@@ -1,6 +1,6 @@
 ---
 title: Un cambio en nuestra estrategia comunicacional con LLMs de acceso abierto
-date: '2024-08-25'
+date: '2024-08-30'
 authors: ["ollama"]
 image:
   caption: 'Créditos de la imagen: [**Ollama**](https://ollama.com)'

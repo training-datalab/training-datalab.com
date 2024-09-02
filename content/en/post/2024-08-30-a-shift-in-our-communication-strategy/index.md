@@ -1,6 +1,6 @@
 ---
 title: A shift in our communications strategy with open source LLMs
-date: '2024-08-25'
+date: '2024-08-30'
 authors: ["ollama"]
 image:
   caption: 'Picture credits: [**Ollama**](https://ollama.com)'
