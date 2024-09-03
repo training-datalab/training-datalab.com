@@ -74,7 +74,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/training-datalab/web-research-group'
+    url: 'https://github.com/training-datalab/training-datalab.com'
     content_dir: content
     branch: main
   avatar:
