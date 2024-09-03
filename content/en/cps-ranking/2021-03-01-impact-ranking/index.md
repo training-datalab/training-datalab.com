@@ -1422,6 +1422,8 @@ tags:
 
 <small>C-Index = $100 - \left(100 * \frac{\sum \text{Cites}}{\sum \text{Cites with Authorship Problems}}\right)$</small><br><br>
 
+<small>Researchers to be added: Carla Alberti (ID 3tcX6pYAAAAJ), Cristóbal Bywaters C. (ID omFHUesAAAAJ), Maite De Cea (ID tHL6bFwAAAAJ), Lucia Miranda Leibe (ID PfjSTeUAAAAJ), Carlos Meléndez (ID JD_X4KYAAAAJ), Nerea C. Palma (ID qNc7eZgAAAAJ), Diego Telias (ID ZjxwRK0AAAAJ), Amy L. Atchison (ID LWLkiYMAAAAJ), Arlette Martínez Ossa (ID kv5dWS4AAAAJ), Pablo Argote (ID 6DqP7GsAAAAJ), and Jaime Baeza Freer (ID xwVLXRQAAAAJ).</small><br><br>
+
 **Disclaimer**
 
 Please bear in mind that this citation data comes from own user-created profiles on Google Scholar, whose coverage is not as rigorous as Scopus or Web of Science. In addition, the main ranking criterion is the H-Index, which has some limitations and is subject to bias and manipulation in some cases. Our quarterly ranking elaboration does not involve rearranging data, we focus on ordering the list by H-Index and citation.
