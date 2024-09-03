@@ -1539,11 +1539,11 @@ tags:
 
 **Disclaimer**
 
-Please bear in mind that this citation data comes from own user-created profiles on Google Scholar, whose coverage is not as rigorous as Scopus or Web of Science. In addition, the main ranking criterion is the H-Index, which has some limitations and is subject to bias and manipulation in some cases. Our quarterly ranking elaboration does not involve rearranging data, we focus on ordering the list by H-Index and citation.
+Please bear in mind that this citation data comes from own user-created profiles on <i class="ai ai-google-scholar"></i> Google Scholar, whose coverage is not as rigorous as Scopus or Web of Science. In addition, the main ranking criterion is the H-Index, which has some limitations and is subject to bias and manipulation in some cases. Our quarterly ranking elaboration does not involve rearranging data, we focus on ordering the list by H-Index and citation.
 
 **Would you like to suggest someone?**
 
-Please send an email to cps-ranking@training-datalab.com.
+<i class="fas fa-envelope"></i> Please send an email to cps-ranking@training-datalab.com.
 
 **How to cite this dataset?**
 

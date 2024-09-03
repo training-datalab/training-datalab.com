@@ -25,7 +25,7 @@ Agradecemos a Patricio Navia sus valiosos comentarios y contribuciones.
 
 <h2>Descargo de responsabilidad</h2>
 
-Tenga en cuenta que estos datos de citas proceden de perfiles creados por los propios usuarios en Google Scholar, cuya cobertura no es tan rigurosa como la de Scopus o Web of Science. Además, el principal criterio de clasificación es el Índice-H, que tiene algunas limitaciones y está sujeto a sesgos y manipulaciones en algunos casos. Nuestra elaboración trimestral de la clasificación no implica reordenar los datos, sino que nos centramos en ordenar la lista por Índice-H y citación.
+Tenga en cuenta que estos datos de citas proceden de perfiles creados por los propios usuarios en <i class="ai ai-google-scholar"></i> Google Scholar, cuya cobertura no es tan rigurosa como la de Scopus o Web of Science. Además, el principal criterio de clasificación es el Índice-H, que tiene algunas limitaciones y está sujeto a sesgos y manipulaciones en algunos casos. Nuestra elaboración trimestral de la clasificación no implica reordenar los datos, sino que nos centramos en ordenar la lista por Índice-H y citación.
 
 <h2>Investigadores por añadir</h2>
 
@@ -39,7 +39,7 @@ Tenga en cuenta que estos datos de citas proceden de perfiles creados por los pr
 
 <h2>¿Quiere sugerir a alguien?</h2>
 
-Envíe un correo electrónico a <i class="fas fa-envelope"></i> cps-ranking@training-datalab.com.
+<i class="fas fa-envelope"></i> Envíe un correo electrónico a cps-ranking@training-datalab.com.
 
 <h2>¿Cómo citar esta base de datos?</h2>
 

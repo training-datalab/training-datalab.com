@@ -1719,11 +1719,11 @@ tags:
 
 **Descargo de responsabilidad**
 
-Tenga en cuenta que estos datos de citas proceden de perfiles creados por los propios usuarios en Google Scholar, cuya cobertura no es tan rigurosa como la de Scopus o Web of Science. Además, el principal criterio de clasificación es el Índice-H, que tiene algunas limitaciones y está sujeto a sesgos y manipulaciones en algunos casos. Nuestra elaboración trimestral de la clasificación no implica reordenar los datos, sino que nos centramos en ordenar la lista por Índice-H y citación.
+Tenga en cuenta que estos datos de citas proceden de perfiles creados por los propios usuarios en <i class="ai ai-google-scholar"></i> Google Scholar, cuya cobertura no es tan rigurosa como la de Scopus o Web of Science. Además, el principal criterio de clasificación es el Índice-H, que tiene algunas limitaciones y está sujeto a sesgos y manipulaciones en algunos casos. Nuestra elaboración trimestral de la clasificación no implica reordenar los datos, sino que nos centramos en ordenar la lista por Índice-H y citación.
 
 **¿Quiere sugerir a alguien?**
 
-Envíe un correo electrónico a cps-ranking@training-datalab.com.
+<i class="fas fa-envelope"></i> Envíe un correo electrónico a cps-ranking@training-datalab.com.
 
 **¿Cómo citar esta base de datos?**
 
