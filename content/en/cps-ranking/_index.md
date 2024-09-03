@@ -24,8 +24,7 @@ We would like to thank Patricio Navia for his valuable comments and contribution
 
 <h2>Researchers to be Added</h2>
 
-1. José Luis Saldaña Castro (ID bLsqv30AAAAJ)
-2. Alexis Marambio (ID s2XicxcAAAAJ)
+1. 
 
 <h2>Disclaimer</h2>
 

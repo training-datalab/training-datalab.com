@@ -28,8 +28,7 @@ Tenga en cuenta que estos datos de citas proceden de perfiles creados por los pr
 
 <h2>Investigadores por añadir</h2>
 
-1. José Luis Saldaña Castro (ID bLsqv30AAAAJ)
-2. Alexis Marambio (ID s2XicxcAAAAJ)
+1. 
 
 <h2>Recursos</h2>
 
