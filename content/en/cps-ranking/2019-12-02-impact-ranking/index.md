@@ -29,8 +29,7 @@ tags:
 .tg .tg-dzk6{background-color:#f9f9f9;text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg">
-<thead>
+<table class="tg"><thead>
   <tr>
     <th class="tg-amwm">Ranking</th>
     <th class="tg-1wig">Name</th>
@@ -39,8 +38,7 @@ tags:
     <th class="tg-amwm">Cites</th>
     <th class="tg-amwm">H-Index</th>
     <th class="tg-amwm">Quartile</th>
-  </tr>
-</thead>
+  </tr></thead>
 <tbody>
   <tr>
     <td class="tg-dzk6">1</td>
@@ -1167,9 +1165,8 @@ tags:
     <td class="tg-dzk6">0</td>
     <td class="tg-dzk6">4</td>
   </tr>
-</tbody>
-</table>
-<small>Note: The affiliations have been standardised. Data collected on December 2, 2019.</small><br><br>
+</tbody></table>
+<small>Note: The affiliations have been standardised. Data collected on December 2, 2019. Researchers to be added: Marcelo Mella Polanco (ID qdm2fHgAAAAJ), Hary Hugo Fruhling (ID dJKWN8wAAAAJ), Arturo Arriagada (ID TzPYdWsAAAAJ), Jorge Gordin (ID RJp2E7cAAAAJ), Stefano Palestini (ID 1JylyXQAAAAJ), Ross Mittiga (ID o4ZnQNsAAAAJ), Alfonso Donoso (ID OrPr-3AAAAAJ), Giovanni Agostinis (ID u9c4q20AAAAJ), Antonio Canale-Mayet (ID dFcoyfMAAAAJ), Javier Sajuria (ID elmJq2gAAAAJ), Federico Rojas-de-Galarreta (ID hTyE9WAAAAAJ), Ximena Soto Soutullo (ID r2q0t8cAAAAJ), Luis Garrido-Vergara (ID DlO0jXVS4FIC), and Carolina Acevedo (ID KNKPs0EAAAAJ).</small><br><br>
 
 **Disclaimer**
 
@@ -1181,4 +1178,4 @@ Please bear in mind that this citation data comes from own user-created profiles
 
 **How to cite this dataset?**
 
-[González-Bustamante, B.]({{< relref "../authors/bgonzalezbustamante" >}}), [Olivares, A.]({{< relref "../authors/aolivares" >}}), [Cisternas, C.]({{< relref "../authors/ccisternas" >}}), & [Cuevas, R.]({{< relref "../authors/rcuevas" >}}) (2020). Chilean Political Science Ranking. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. http://doi.org/10.17605/OSF.IO/C8PRA.
+[González-Bustamante, B.]({{< relref "../authors/bgonzalezbustamante" >}}) (2019). Chilean Political Science Ranking. Dataset, University of Oxford and Universidad de Santiago de Chile (USACH). http://doi.org/10.17605/OSF.IO/C8PRA.
