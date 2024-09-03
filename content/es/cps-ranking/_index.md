@@ -19,7 +19,7 @@ Este ranking se presenta de **mayor a menor Índice-H**. El número de citas se 
 
 Se ha elaborado de acuerdo con los siguientes criterios de muestreo. En primer lugar, se identificaron todos los ponentes con filiación académica chilena en el congreso de ciencia política organizado por la Asociación Chilena de Ciencia Política (ACCP) en 2018. Luego, se consideraron aquellos que poseían una <i class="ai ai-google-scholar"></i> **cuenta activa en Google Scholar**. Posteriormente, se agregaron investigadores reconocidos en el ámbito chileno que también poseyeran un perfil en Google Scholar, sugeridos por otros seleccionados en el paso anterior. Finalmente, se eliminaron del ranking los autores que habían agregado a su perfil publicaciones que no eran de su autoría (por confusión de nombres, deliberadamente o sin darse cuenta).
 
-Además, en marzo de 2021 se calculó un **índice de consistencia (C-Index)**. El índice C va de cero a 100 y refleja la consistencia de los perfiles de Google en términos de autoría. Los valores más bajos se asocian con inconsistencias más significativas, por lo tanto, los indicadores del investigador podrían estar sesgados y su posición podría estar sobreestimada.
+Además, en [marzo de 2021]({{< relref "/2021-03-01-impact-ranking" >}}) se calculó un **índice de consistencia (Índice-C)**. El Índice- C va de cero a 100 y refleja la consistencia de los perfiles de Google en términos de autoría. Los valores más bajos se asocian con inconsistencias más significativas, por lo tanto, los indicadores del investigador podrían estar sesgados y su posición podría estar sobreestimada.
 
 Agradecemos a Patricio Navia sus valiosos comentarios y contribuciones.
 
