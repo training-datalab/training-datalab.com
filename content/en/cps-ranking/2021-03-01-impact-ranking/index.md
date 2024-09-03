@@ -29,8 +29,7 @@ tags:
 .tg .tg-dzk6{background-color:#f9f9f9;text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg">
-<thead>
+<table class="tg"><thead>
   <tr>
     <th class="tg-amwm">Ranking</th>
     <th class="tg-1wig">Name</th>
@@ -39,8 +38,7 @@ tags:
     <th class="tg-amwm">Cites</th>
     <th class="tg-amwm">H-Index</th>
     <th class="tg-amwm">C-Index</th>
-  </tr>
-</thead>
+  </tr></thead>
 <tbody>
   <tr>
     <td class="tg-dzk6">1</td>
@@ -1419,9 +1417,10 @@ tags:
     <td class="tg-dzk6">0</td>
     <td class="tg-dzk6">100</td>
   </tr>
-</tbody>
-</table>
-<small>Note: The affiliations have been standardised. Data collected on March 1, 2021.</small><br><br>
+</tbody></table>
+<small>Note: The affiliations have been standardised. Data collected on March 1, 2021. C-Index goes from zero to 100 and reflects the Google profiles' consistency in terms of authorship. Lower values are associated with greater inconsistencies, therefore, the researcher's indicators could be biased, and his/her position might be overestimated. The index has been calculated as follows:</small><br>
+
+<small>C-Index = $100 - \left(100 * \frac{\sum \text{Cites}}{\sum \text{Cites with Authorship Problems}}\right)$</small><br><br>
 
 **Disclaimer**
 
