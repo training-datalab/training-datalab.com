@@ -1562,7 +1562,7 @@ tags:
     <td class="tg-dzk6">4</td>
   </tr>
 </tbody></table>
-<small>Nota: Las afiliaciones se han estandarizado. Datos recogidos el 1 de septiembre de 2021.</small><br><br>
+<small>Nota: Las afiliaciones se han estandarizado. Datos recogidos el 1 de septiembre de 2021. Investigadores por añadir: Leslie Wehner (ID 8jxM4fcAAAAJ) and Ariel Becerra (ID b7GxWBAAAAAJ).</small><br><br>
 
 **Descargo de responsabilidad**
 
