@@ -45,7 +45,7 @@ tags:
     <td class="tg-buh4">David Altman</td>
     <td class="tg-buh4">xWbhhH8AAAAJ</td>
     <td class="tg-buh4">PUC-VDEM</td>
-    <td class="tg-dzk6">7,123</td>
+    <td class="tg-dzk6">7.123</td>
     <td class="tg-dzk6">39</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -54,7 +54,7 @@ tags:
     <td class="tg-0lax">Cristóbal Rovira Kaltwasser</td>
     <td class="tg-0lax">4iRjwbMAAAAJ</td>
     <td class="tg-0lax">UDP</td>
-    <td class="tg-baqh">8,107</td>
+    <td class="tg-baqh">8.107</td>
     <td class="tg-baqh">34</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -63,7 +63,7 @@ tags:
     <td class="tg-buh4">Lucia Dammert</td>
     <td class="tg-buh4">Kh9TTGwAAAAJ</td>
     <td class="tg-buh4">USACH</td>
-    <td class="tg-dzk6">5,494</td>
+    <td class="tg-dzk6">5.494</td>
     <td class="tg-dzk6">32</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -72,7 +72,7 @@ tags:
     <td class="tg-0lax">Peter Siavelis</td>
     <td class="tg-0lax">HGTSACIAAAAJ</td>
     <td class="tg-0lax">COES</td>
-    <td class="tg-baqh">4,206</td>
+    <td class="tg-baqh">4.206</td>
     <td class="tg-baqh">31</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -81,7 +81,7 @@ tags:
     <td class="tg-buh4">Juan Pablo Luna</td>
     <td class="tg-buh4">IgwSc8oAAAAJ</td>
     <td class="tg-buh4">PUC</td>
-    <td class="tg-dzk6">3,803</td>
+    <td class="tg-dzk6">3.803</td>
     <td class="tg-dzk6">31</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -90,7 +90,7 @@ tags:
     <td class="tg-0lax">Patricio D Navia</td>
     <td class="tg-0lax">IBcs-ZwAAAAJ</td>
     <td class="tg-0lax">UDP-NYU</td>
-    <td class="tg-baqh">3,762</td>
+    <td class="tg-baqh">3.762</td>
     <td class="tg-baqh">29</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -99,7 +99,7 @@ tags:
     <td class="tg-buh4">Gabriel L. Negretto</td>
     <td class="tg-buh4">AP5zUGwAAAAJ</td>
     <td class="tg-buh4">PUC</td>
-    <td class="tg-dzk6">3,164</td>
+    <td class="tg-dzk6">3.164</td>
     <td class="tg-dzk6">29</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -108,7 +108,7 @@ tags:
     <td class="tg-0lax">Alfredo Joignant</td>
     <td class="tg-0lax">C6i7344AAAAJ</td>
     <td class="tg-0lax">UDP-COES</td>
-    <td class="tg-baqh">2,193</td>
+    <td class="tg-baqh">2.193</td>
     <td class="tg-baqh">26</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -117,7 +117,7 @@ tags:
     <td class="tg-buh4">Carlos Huneeus</td>
     <td class="tg-buh4">Kq4dWnoAAAAJ</td>
     <td class="tg-buh4">UCHILE</td>
-    <td class="tg-dzk6">3,342</td>
+    <td class="tg-dzk6">3.342</td>
     <td class="tg-dzk6">25</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -126,7 +126,7 @@ tags:
     <td class="tg-0lax">Fernando Atria</td>
     <td class="tg-0lax">InrV7oEAAAAJ</td>
     <td class="tg-0lax">UCHILE</td>
-    <td class="tg-baqh">2,545</td>
+    <td class="tg-baqh">2.545</td>
     <td class="tg-baqh">25</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -135,7 +135,7 @@ tags:
     <td class="tg-buh4">Felipe Agüero</td>
     <td class="tg-buh4">JSPWdfYAAAAJ</td>
     <td class="tg-buh4">UCHILE</td>
-    <td class="tg-dzk6">2,359</td>
+    <td class="tg-dzk6">2.359</td>
     <td class="tg-dzk6">25</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -144,7 +144,7 @@ tags:
     <td class="tg-0lax">Hary Hugo Fruhling</td>
     <td class="tg-0lax">dJKWN8wAAAAJ</td>
     <td class="tg-0lax">UCHILE</td>
-    <td class="tg-baqh">2,005</td>
+    <td class="tg-baqh">2.005</td>
     <td class="tg-baqh">25</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -153,7 +153,7 @@ tags:
     <td class="tg-buh4">Claudio Fuentes</td>
     <td class="tg-buh4">ckIjzZQAAAAJ</td>
     <td class="tg-buh4">UDP</td>
-    <td class="tg-dzk6">1,782</td>
+    <td class="tg-dzk6">1.782</td>
     <td class="tg-dzk6">23</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -162,7 +162,7 @@ tags:
     <td class="tg-0lax">Kirsten Sehnbruch</td>
     <td class="tg-0lax">qFLejd0AAAAJ</td>
     <td class="tg-0lax">LSE-COES</td>
-    <td class="tg-baqh">1,439</td>
+    <td class="tg-baqh">1.439</td>
     <td class="tg-baqh">20</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -171,7 +171,7 @@ tags:
     <td class="tg-buh4">Nicolás M. Somma</td>
     <td class="tg-buh4">yyr6ge0AAAAJ</td>
     <td class="tg-buh4">PUC</td>
-    <td class="tg-dzk6">1,413</td>
+    <td class="tg-dzk6">1.413</td>
     <td class="tg-dzk6">20</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -180,7 +180,7 @@ tags:
     <td class="tg-0lax">Mauricio Morales Quiroga</td>
     <td class="tg-0lax">BPVbhToAAAAJ</td>
     <td class="tg-0lax">UTALCA</td>
-    <td class="tg-baqh">1,340</td>
+    <td class="tg-baqh">1.340</td>
     <td class="tg-baqh">20</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -189,7 +189,7 @@ tags:
     <td class="tg-buh4">Carlos Meléndez</td>
     <td class="tg-buh4">JD_X4KYAAAAJ</td>
     <td class="tg-buh4">UDP</td>
-    <td class="tg-dzk6">1,223</td>
+    <td class="tg-dzk6">1.223</td>
     <td class="tg-dzk6">18</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -198,7 +198,7 @@ tags:
     <td class="tg-0lax">Egon Montecinos</td>
     <td class="tg-0lax">NcxMjkAAAAAJ</td>
     <td class="tg-0lax">UACH</td>
-    <td class="tg-baqh">1,103</td>
+    <td class="tg-baqh">1.103</td>
     <td class="tg-baqh">18</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -207,7 +207,7 @@ tags:
     <td class="tg-buh4">Mauricio Olavarría-Gambi</td>
     <td class="tg-buh4">yXeMPpEAAAAJ</td>
     <td class="tg-buh4">USACH</td>
-    <td class="tg-dzk6">1,214</td>
+    <td class="tg-dzk6">1.214</td>
     <td class="tg-dzk6">17</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -234,7 +234,7 @@ tags:
     <td class="tg-0lax">Pierre Ostiguy</td>
     <td class="tg-0lax">CdsiN9QAAAAJ</td>
     <td class="tg-0lax">UVALPO</td>
-    <td class="tg-baqh">1,559</td>
+    <td class="tg-baqh">1.559</td>
     <td class="tg-baqh">15</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -243,7 +243,7 @@ tags:
     <td class="tg-buh4">Arturo Arriagada</td>
     <td class="tg-buh4">TzPYdWsAAAAJ</td>
     <td class="tg-buh4">UAI</td>
-    <td class="tg-dzk6">1,389</td>
+    <td class="tg-dzk6">1.389</td>
     <td class="tg-dzk6">15</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -252,7 +252,7 @@ tags:
     <td class="tg-0lax">Javier Couso</td>
     <td class="tg-0lax">r0EzJ_IAAAAJ</td>
     <td class="tg-0lax">UDP</td>
-    <td class="tg-baqh">1,300</td>
+    <td class="tg-baqh">1.300</td>
     <td class="tg-baqh">15</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -414,7 +414,7 @@ tags:
     <td class="tg-0lax">Aldo Madariaga</td>
     <td class="tg-0lax">n0UQqa4AAAAJ</td>
     <td class="tg-0lax">UDP</td>
-    <td class="tg-baqh">1,013</td>
+    <td class="tg-baqh">1.013</td>
     <td class="tg-baqh">10</td>
     <td class="tg-baqh">1</td>
   </tr>
