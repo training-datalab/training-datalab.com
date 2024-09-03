@@ -32,7 +32,7 @@ sections:
 
            <p><font size="3">Este ranking de <strong>ciencia política en Chile</strong> es uno de nuestros proyectos emblemáticos. Presenta un grupo de investigadores en distintas etapas de su carrera ordenados por <strong>índice H</strong> y utiliza el número de citas acumuladas como criterio de desempate. Se basa en Google Scholar y pronto cumplirá cinco años con <strong>series temporales trimestrales</strong>.</font></p>
 
-           <p><font size="3"><a href="https://zcmp.eu/e28J">¡Recibe las actualizaciones en tu email!</a></font></p>
+           <p><i class="fas fa-newspaper"></i> <font size="3"><a href="https://zcmp.eu/e28J">¡Recibe las actualizaciones en tu email!</a></font></p>
     design:
       columns: '2'
       spacing:

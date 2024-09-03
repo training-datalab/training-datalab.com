@@ -39,7 +39,7 @@ Tenga en cuenta que estos datos de citas proceden de perfiles creados por los pr
 
 <h2>¿Quiere sugerir a alguien?</h2>
 
-<i class="fas fa-envelope"></i> Envíe un correo electrónico a cps-ranking@training-datalab.com.
+Envíe un correo electrónico a <i class="fas fa-envelope"></i> cps-ranking@training-datalab.com.
 
 <h2>¿Cómo citar esta base de datos?</h2>
 

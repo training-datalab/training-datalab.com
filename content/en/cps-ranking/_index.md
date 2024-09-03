@@ -39,7 +39,7 @@ Please bear in mind that this citation data comes from own user-created profiles
 
 <h2>Would you like to suggest someone?</h2>
 
-<i class="fas fa-envelope"></i> Please send an email to cps-ranking@training-datalab.com.
+Please send an email to <i class="fas fa-envelope"></i> cps-ranking@training-datalab.com.
 
 <h2>How to cite this dataset?</h2>
 

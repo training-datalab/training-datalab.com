@@ -32,7 +32,7 @@ sections:
 
            <p><font size="3">This <strong>ranking of political science in Chile</strong> is one of our flagship projects. It presents a group of researchers at different stages of their careers ordered by <strong>H-index</strong> and uses the number of accumulated citations as a tie-breaker. It is based on Google Scholar and will soon be five years old with <strong>quarterly time series</strong>.</font></p>
 
-           <p><font size="3"><a href="https://zcmp.eu/e28J">Receive updates in your email inbox!</a></font></p>
+           <p><i class="fas fa-newspaper"></i> <font size="3"><a href="https://zcmp.eu/e28J">Receive updates in your email inbox!</a></font></p>
     design:
       columns: '2'
       spacing:
