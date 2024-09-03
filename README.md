@@ -2,7 +2,7 @@
 **Training Data Lab**\
 **https://training-datalab.com**
 
-[![Version](https://raw.githubusercontent.com/training-datalab/badges/main/versions/v_4_0_0.svg)](/CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://raw.githubusercontent.com/training-datalab/badges/main/project_status/active.svg)](STATUS.md) [![License](https://raw.githubusercontent.com/training-datalab/badges/main/licenses/mit.svg)](LICENSE) [![tDL](https://raw.githubusercontent.com/training-datalab/badges/master/tDL.svg)](https://training-datalab.com/)
+[![Version](https://raw.githubusercontent.com/training-datalab/badges/main/versions/v_4_0_0.svg)](/CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://raw.githubusercontent.com/training-datalab/badges/main/project_status/active.svg)](STATUS.md) [![License](https://raw.githubusercontent.com/training-datalab/badges/main/licenses/mit.svg)](LICENSE.md) [![tDL](https://raw.githubusercontent.com/training-datalab/badges/master/tDL.svg)](https://training-datalab.com/)
 
 ## Links
 
