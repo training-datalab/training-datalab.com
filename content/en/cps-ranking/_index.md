@@ -1,6 +1,6 @@
 ---
 title: CPS-Ranking
-subtitle: 'Chilean Political Science Ranking'
+## subtitle: 'Chilean Political Science Ranking'
 # Listing view
 view: list
 # Optional banner image (relative to `assets/media/` folder).
@@ -39,7 +39,7 @@ Please bear in mind that this citation data comes from own user-created profiles
 
 <h2>Would you like to suggest someone?</h2>
 
-Please send an email to cps-ranking@training-datalab.com.
+<i class="fas fa-envelope"></i> Please send an email to cps-ranking@training-datalab.com.
 
 <h2>How to cite this dataset?</h2>
 

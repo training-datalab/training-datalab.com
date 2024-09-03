@@ -1,6 +1,6 @@
 ---
 title: CPS-Ranking
-subtitle: 'Ranking Chileno de Ciencia Política'
+## subtitle: 'Ranking Chileno de Ciencia Política'
 # Listing view
 view: list
 # Optional banner image (relative to `assets/media/` folder).
@@ -39,7 +39,7 @@ Tenga en cuenta que estos datos de citas proceden de perfiles creados por los pr
 
 <h2>¿Quiere sugerir a alguien?</h2>
 
-Envíe un correo electrónico a cps-ranking@training-datalab.com.
+<i class="fas fa-envelope"></i> Envíe un correo electrónico a cps-ranking@training-datalab.com.
 
 <h2>¿Cómo citar esta base de datos?</h2>
 
