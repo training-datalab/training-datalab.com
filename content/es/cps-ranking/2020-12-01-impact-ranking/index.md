@@ -1,5 +1,5 @@
 ---
-title: Chilean Political Science Ranking, December 2020
+title: Ranking Chileno de Ciencia Política, diciembre 2020
 date: 2020-12-01
 authors: ["CPS-Ranking Series"]
 ## image:
@@ -32,12 +32,12 @@ tags:
 <table class="tg"><thead>
   <tr>
     <th class="tg-amwm">Ranking</th>
-    <th class="tg-1wig">Name</th>
+    <th class="tg-1wig">Nombre</th>
     <th class="tg-1wig">ID</th>
-    <th class="tg-1wig">Affiliation</th>
-    <th class="tg-amwm">Cites</th>
-    <th class="tg-amwm">H-Index</th>
-    <th class="tg-amwm">Quartile</th>
+    <th class="tg-1wig">Afiliación</th>
+    <th class="tg-amwm">Citas</th>
+    <th class="tg-amwm">Índice-H</th>
+    <th class="tg-amwm">Cuartil</th>
   </tr></thead>
 <tbody>
   <tr>
@@ -45,7 +45,7 @@ tags:
     <td class="tg-buh4">David Altman</td>
     <td class="tg-buh4">xWbhhH8AAAAJ</td>
     <td class="tg-buh4">PUC-VDEM</td>
-    <td class="tg-dzk6">6,086</td>
+    <td class="tg-dzk6">6.086</td>
     <td class="tg-dzk6">38</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -54,7 +54,7 @@ tags:
     <td class="tg-0lax">Lucia Dammert</td>
     <td class="tg-0lax">Kh9TTGwAAAAJ</td>
     <td class="tg-0lax">USACH</td>
-    <td class="tg-baqh">4,866</td>
+    <td class="tg-baqh">4.866</td>
     <td class="tg-baqh">31</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -63,7 +63,7 @@ tags:
     <td class="tg-buh4">Cristóbal Rovira Kaltwasser</td>
     <td class="tg-buh4">4iRjwbMAAAAJ</td>
     <td class="tg-buh4">UDP</td>
-    <td class="tg-dzk6">6,076</td>
+    <td class="tg-dzk6">6.076</td>
     <td class="tg-dzk6">30</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -72,7 +72,7 @@ tags:
     <td class="tg-0lax">Peter Siavelis</td>
     <td class="tg-0lax">HGTSACIAAAAJ</td>
     <td class="tg-0lax">COES</td>
-    <td class="tg-baqh">3,854</td>
+    <td class="tg-baqh">3.854</td>
     <td class="tg-baqh">30</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -81,7 +81,7 @@ tags:
     <td class="tg-buh4">Patricio D Navia</td>
     <td class="tg-buh4">IBcs-ZwAAAAJ</td>
     <td class="tg-buh4">UDP-NYU</td>
-    <td class="tg-dzk6">3,611</td>
+    <td class="tg-dzk6">3.611</td>
     <td class="tg-dzk6">29</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -90,7 +90,7 @@ tags:
     <td class="tg-0lax">Juan Pablo Luna</td>
     <td class="tg-0lax">IgwSc8oAAAAJ</td>
     <td class="tg-0lax">PUC</td>
-    <td class="tg-baqh">3,381</td>
+    <td class="tg-baqh">3.381</td>
     <td class="tg-baqh">29</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -99,7 +99,7 @@ tags:
     <td class="tg-buh4">Gabriel L. Negretto</td>
     <td class="tg-buh4">AP5zUGwAAAAJ</td>
     <td class="tg-buh4">PUC</td>
-    <td class="tg-dzk6">2,782</td>
+    <td class="tg-dzk6">2.782</td>
     <td class="tg-dzk6">27</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -108,7 +108,7 @@ tags:
     <td class="tg-0lax">Carlos Huneeus</td>
     <td class="tg-0lax">Kq4dWnoAAAAJ</td>
     <td class="tg-0lax">UCHILE</td>
-    <td class="tg-baqh">3,033</td>
+    <td class="tg-baqh">3.033</td>
     <td class="tg-baqh">25</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -117,7 +117,7 @@ tags:
     <td class="tg-buh4">Alfredo Joignant</td>
     <td class="tg-buh4">C6i7344AAAAJ</td>
     <td class="tg-buh4">UDP-COES</td>
-    <td class="tg-dzk6">1,928</td>
+    <td class="tg-dzk6">1.928</td>
     <td class="tg-dzk6">25</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -126,7 +126,7 @@ tags:
     <td class="tg-0lax">Fernando Atria</td>
     <td class="tg-0lax">InrV7oEAAAAJ</td>
     <td class="tg-0lax">UCHILE</td>
-    <td class="tg-baqh">2,206</td>
+    <td class="tg-baqh">2.206</td>
     <td class="tg-baqh">24</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -135,7 +135,7 @@ tags:
     <td class="tg-buh4">Hary Hugo Fruhling</td>
     <td class="tg-buh4">dJKWN8wAAAAJ</td>
     <td class="tg-buh4">UCHILE</td>
-    <td class="tg-dzk6">1,819</td>
+    <td class="tg-dzk6">1.819</td>
     <td class="tg-dzk6">24</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -144,7 +144,7 @@ tags:
     <td class="tg-0lax">Claudio Fuentes</td>
     <td class="tg-0lax">ckIjzZQAAAAJ</td>
     <td class="tg-0lax">UDP</td>
-    <td class="tg-baqh">1,496</td>
+    <td class="tg-baqh">1.496</td>
     <td class="tg-baqh">21</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -153,7 +153,7 @@ tags:
     <td class="tg-buh4">Nicolás M. Somma</td>
     <td class="tg-buh4">yyr6ge0AAAAJ</td>
     <td class="tg-buh4">PUC</td>
-    <td class="tg-dzk6">1,097</td>
+    <td class="tg-dzk6">1.097</td>
     <td class="tg-dzk6">20</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -162,7 +162,7 @@ tags:
     <td class="tg-0lax">Kirsten Sehnbruch</td>
     <td class="tg-0lax">qFLejd0AAAAJ</td>
     <td class="tg-0lax">LSE-COES</td>
-    <td class="tg-baqh">1,234</td>
+    <td class="tg-baqh">1.234</td>
     <td class="tg-baqh">18</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -171,7 +171,7 @@ tags:
     <td class="tg-buh4">Mauricio Morales Quiroga</td>
     <td class="tg-buh4">BPVbhToAAAAJ</td>
     <td class="tg-buh4">UTALCA</td>
-    <td class="tg-dzk6">1,110</td>
+    <td class="tg-dzk6">1.110</td>
     <td class="tg-dzk6">18</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -189,7 +189,7 @@ tags:
     <td class="tg-buh4">Javier Couso</td>
     <td class="tg-buh4">r0EzJ_IAAAAJ</td>
     <td class="tg-buh4">UDP</td>
-    <td class="tg-dzk6">1,126</td>
+    <td class="tg-dzk6">1.126</td>
     <td class="tg-dzk6">16</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -225,7 +225,7 @@ tags:
     <td class="tg-buh4">Pierre Ostiguy</td>
     <td class="tg-buh4">CdsiN9QAAAAJ</td>
     <td class="tg-buh4">UVALPO</td>
-    <td class="tg-dzk6">1,093</td>
+    <td class="tg-dzk6">1.093</td>
     <td class="tg-dzk6">14</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -261,7 +261,7 @@ tags:
     <td class="tg-buh4">Arturo Arriagada</td>
     <td class="tg-buh4">TzPYdWsAAAAJ</td>
     <td class="tg-buh4">UAI</td>
-    <td class="tg-dzk6">1,208</td>
+    <td class="tg-dzk6">1.208</td>
     <td class="tg-dzk6">13</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -1409,16 +1409,16 @@ tags:
     <td class="tg-baqh">4</td>
   </tr>
 </tbody></table>
-<small>Note: The affiliations have been standardised. Data collected on December 1, 2020.</small><br><br>
+<small>Nota: Las afiliaciones se han estandarizado. Datos recogidos el 1 de diciembre de 2020.</small><br><br>
 
-**Disclaimer**
+**Descargo de responsabilidad**
 
-Please bear in mind that this citation data comes from own user-created profiles on <i class="ai ai-google-scholar"></i> Google Scholar, whose coverage is not as rigorous as Scopus or Web of Science. In addition, the main ranking criterion is the H-Index, which has some limitations and is subject to bias and manipulation in some cases. Our quarterly ranking elaboration does not involve rearranging data, we focus on ordering the list by H-Index and citation.
+Tenga en cuenta que estos datos de citas proceden de perfiles creados por los propios usuarios en <i class="ai ai-google-scholar"></i> Google Scholar, cuya cobertura no es tan rigurosa como la de Scopus o Web of Science. Además, el principal criterio de clasificación es el Índice-H, que tiene algunas limitaciones y está sujeto a sesgos y manipulaciones en algunos casos. Nuestra elaboración trimestral de la clasificación no implica reordenar los datos, sino que nos centramos en ordenar la lista por Índice-H y citación.
 
-**Would you like to suggest someone?**
+**¿Quiere sugerir a alguien?**
 
-<i class="fas fa-envelope"></i> Please send an email to cps-ranking@training-datalab.com.
+<i class="fas fa-envelope"></i> Envíe un correo electrónico a cps-ranking@training-datalab.com.
 
-**How to cite this dataset?**
+**¿Cómo citar esta base de datos?**
 
-[González-Bustamante, B.]({{< relref "../authors/bgonzalezbustamante" >}}), [Olivares, A.]({{< relref "../authors/aolivares" >}}), [Cisternas, C.]({{< relref "../authors/ccisternas" >}}), & [Cuevas, R.]({{< relref "../authors/rcuevas" >}}) (2020). Chilean Political Science Ranking. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. http://doi.org/10.17605/OSF.IO/C8PRA.
+[González-Bustamante, B.]({{< relref "../authors/bgonzalezbustamante" >}}), [Olivares, A.]({{< relref "../authors/aolivares" >}}), [Cisternas, C.]({{< relref "../authors/ccisternas" >}}), & [Cuevas, R.]({{< relref "../authors/rcuevas" >}}) (2020). Chilean Political Science Ranking. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH) y Training Data Lab. http://doi.org/10.17605/OSF.IO/C8PRA.
