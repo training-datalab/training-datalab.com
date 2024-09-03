@@ -1841,7 +1841,7 @@ tags:
     <td class="tg-baqh">4</td>
   </tr>
 </tbody></table>
-<small>Note: The affiliations have been standardised. Data collected on June 2, 2024.</small><br><br>
+<small>Note: The affiliations have been standardised. Data collected on June 2, 2024. Researchers to be added: José Luis Saldaña Castro (ID bLsqv30AAAAJ) and Alexis Marambio (ID s2XicxcAAAAJ).</small><br><br>
 
 **Disclaimer**
 

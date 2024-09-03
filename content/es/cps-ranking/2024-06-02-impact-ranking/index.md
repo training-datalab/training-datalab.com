@@ -1841,7 +1841,7 @@ tags:
     <td class="tg-baqh">4</td>
   </tr>
 </tbody></table>
-<small>Nota: Las afiliaciones se han estandarizado. Datos recogidos el 2 de junio de 2024.</small><br><br>
+<small>Nota: Las afiliaciones se han estandarizado. Datos recogidos el 2 de junio de 2024. Investigadores por añadir: José Luis Saldaña Castro (ID bLsqv30AAAAJ) y Alexis Marambio (ID s2XicxcAAAAJ).</small><br><br>
 
 **Descargo de responsabilidad**
 
