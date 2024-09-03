@@ -21,7 +21,7 @@ marketing:
     description: 'Grupo de investigación en datos y ciencias sociales computacionales'
     twitter: 'training-datalab'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-92JBGEXN6D'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
