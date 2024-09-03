@@ -29,8 +29,7 @@ tags:
 .tg .tg-dzk6{background-color:#f9f9f9;text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg">
-<thead>
+<table class="tg"><thead>
   <tr>
     <th class="tg-amwm">Ranking</th>
     <th class="tg-1wig">Nombre</th>
@@ -39,8 +38,7 @@ tags:
     <th class="tg-amwm">Citas</th>
     <th class="tg-amwm">Índice-H</th>
     <th class="tg-amwm">Cuartil</th>
-  </tr>
-</thead>
+  </tr></thead>
 <tbody>
   <tr>
     <td class="tg-dzk6">1</td>
@@ -1608,8 +1606,7 @@ tags:
     <td class="tg-baqh">0</td>
     <td class="tg-baqh">4</td>
   </tr>
-</tbody>
-</table>
+</tbody></table>
 <small>Nota: Las afiliaciones se han estandarizado. Datos recogidos el 2 de junio de 2022.</small><br><br>
 
 **Descargo de responsabilidad**
