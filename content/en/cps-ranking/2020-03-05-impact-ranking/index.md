@@ -29,8 +29,7 @@ tags:
 .tg .tg-dzk6{background-color:#f9f9f9;text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg">
-<thead>
+<table class="tg"><thead>
   <tr>
     <th class="tg-amwm">Ranking</th>
     <th class="tg-1wig">Name</th>
@@ -39,8 +38,7 @@ tags:
     <th class="tg-amwm">Cites</th>
     <th class="tg-amwm">H-Index</th>
     <th class="tg-amwm">Quartile</th>
-  </tr>
-</thead>
+  </tr></thead>
 <tbody>
   <tr>
     <td class="tg-dzk6">1</td>
@@ -1293,9 +1291,8 @@ tags:
     <td class="tg-dzk6">0</td>
     <td class="tg-dzk6">4</td>
   </tr>
-</tbody>
-</table>
-<small>Note: The affiliations have been standardised. Data collected on March 5, 2020.</small><br><br>
+</tbody></table>
+<small>Note: The affiliations have been standardised. Data collected on March 5, 2020. Researchers to be added: Andrés Dockendorff (ID fJbvIm4AAAAJ), Hector Bahamonde (ID 3FHDoL0AAAAJ), Renata Retamal Iturriaga (ID V8JzxeQAAAAJ), Gonzalo Contreras Aguirre (ID bsi-e88AAAAJ), Lucas Perelló (ID ShRtBhMAAAAJ), and Carlos Cantillana (ID 8iP3MuwAAAAJ).</small><br><br>
 
 **Disclaimer**
 
