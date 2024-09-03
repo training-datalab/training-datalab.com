@@ -45,7 +45,7 @@ education:
   - course: Magíster en Ciencia Política
     institution: Universidad de Chile
     year: 2010-2013
-  - course: Licenciatura en Ciencias Políticas Políticas y Gubernamentales
+  - course: Licenciatura en Ciencias Políticas y Gubernamentales
     institution: Universidad de Chile
     year: 2004-2009
 
