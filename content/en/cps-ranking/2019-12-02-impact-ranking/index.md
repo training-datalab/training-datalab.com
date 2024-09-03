@@ -1169,7 +1169,7 @@ tags:
   </tr>
 </tbody>
 </table>
-<small>Note: The affiliations have been standardised. Data collected on March 5, 2020. Researchers to be added: Andrés Dockendorff (ID fJbvIm4AAAAJ), Hector Bahamonde (ID 3FHDoL0AAAAJ), Renata Retamal Iturriaga (ID V8JzxeQAAAAJ), Gonzalo Contreras Aguirre (ID bsi-e88AAAAJ), Lucas Perelló (ID ShRtBhMAAAAJ), and Carlos Cantillana (ID 8iP3MuwAAAAJ).</small><br><br>
+<small>Note: The affiliations have been standardised. Data collected on December 2, 2019.</small><br><br>
 
 **Disclaimer**
 
