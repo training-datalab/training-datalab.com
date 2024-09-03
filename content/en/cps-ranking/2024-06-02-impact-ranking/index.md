@@ -37,7 +37,7 @@ tags:
     <th class="tg-fymr">Affiliation</th>
     <th class="tg-7btt">Cites</th>
     <th class="tg-7btt">H-Index</th>
-    <th class="tg-fymr">Quartile</th>
+    <th class="tg-7btt">Quartile</th>
   </tr></thead>
 <tbody>
   <tr>
@@ -47,7 +47,7 @@ tags:
     <td class="tg-btxf">PUC-VDEM</td>
     <td class="tg-abip">11,625</td>
     <td class="tg-abip">46</td>
-    <td class="tg-btxf">1</td>
+    <td class="tg-abip">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">2</td>
@@ -56,7 +56,7 @@ tags:
     <td class="tg-0pky">PUC</td>
     <td class="tg-c3ow">17,109</td>
     <td class="tg-c3ow">44</td>
-    <td class="tg-0pky">1</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-abip">3</td>
@@ -65,7 +65,7 @@ tags:
     <td class="tg-btxf">USACH</td>
     <td class="tg-abip">5,270</td>
     <td class="tg-abip">39</td>
-    <td class="tg-btxf">1</td>
+    <td class="tg-abip">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">4</td>
@@ -74,7 +74,7 @@ tags:
     <td class="tg-0pky">PUC</td>
     <td class="tg-c3ow">5,533</td>
     <td class="tg-c3ow">37</td>
-    <td class="tg-0pky">1</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-abip">5</td>
@@ -83,7 +83,7 @@ tags:
     <td class="tg-btxf">UDP-NYU</td>
     <td class="tg-abip">4,808</td>
     <td class="tg-abip">33</td>
-    <td class="tg-btxf">1</td>
+    <td class="tg-abip">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">6</td>
@@ -92,7 +92,7 @@ tags:
     <td class="tg-0pky">WFU-COES</td>
     <td class="tg-c3ow">4,788</td>
     <td class="tg-c3ow">31</td>
-    <td class="tg-0pky">1</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-abip">7</td>
@@ -101,7 +101,7 @@ tags:
     <td class="tg-btxf">PUC-CIDE</td>
     <td class="tg-abip">4,088</td>
     <td class="tg-abip">31</td>
-    <td class="tg-btxf">1</td>
+    <td class="tg-abip">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">8</td>
@@ -110,7 +110,7 @@ tags:
     <td class="tg-0pky">UTALCA</td>
     <td class="tg-c3ow">2,258</td>
     <td class="tg-c3ow">30</td>
-    <td class="tg-0pky">1</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-abip">9</td>
@@ -119,7 +119,7 @@ tags:
     <td class="tg-btxf">UCHILE</td>
     <td class="tg-abip">4,276</td>
     <td class="tg-abip">29</td>
-    <td class="tg-btxf">1</td>
+    <td class="tg-abip">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">10</td>
@@ -128,7 +128,7 @@ tags:
     <td class="tg-0pky">UDP-COES</td>
     <td class="tg-c3ow">2,923</td>
     <td class="tg-c3ow">29</td>
-    <td class="tg-0pky">1</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-abip">11</td>
@@ -137,7 +137,7 @@ tags:
     <td class="tg-btxf">UCHILE</td>
     <td class="tg-abip">3,470</td>
     <td class="tg-abip">28</td>
-    <td class="tg-btxf">1</td>
+    <td class="tg-abip">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">12</td>
@@ -146,7 +146,7 @@ tags:
     <td class="tg-0pky">UCHILE</td>
     <td class="tg-c3ow">2,829</td>
     <td class="tg-c3ow">27</td>
-    <td class="tg-0pky">1</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-abip">13</td>
@@ -155,7 +155,7 @@ tags:
     <td class="tg-btxf">UCHILE</td>
     <td class="tg-abip">2,288</td>
     <td class="tg-abip">27</td>
-    <td class="tg-btxf">1</td>
+    <td class="tg-abip">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">14</td>
@@ -164,7 +164,7 @@ tags:
     <td class="tg-0pky">UACH</td>
     <td class="tg-c3ow">2,035</td>
     <td class="tg-c3ow">26</td>
-    <td class="tg-0pky">1</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-abip">15</td>
@@ -173,7 +173,7 @@ tags:
     <td class="tg-btxf">PUC</td>
     <td class="tg-abip">2,806</td>
     <td class="tg-abip">25</td>
-    <td class="tg-btxf">1</td>
+    <td class="tg-abip">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">16</td>
@@ -182,7 +182,7 @@ tags:
     <td class="tg-0pky">UDP</td>
     <td class="tg-c3ow">2,117</td>
     <td class="tg-c3ow">25</td>
-    <td class="tg-0pky">1</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-abip">17</td>
@@ -191,7 +191,7 @@ tags:
     <td class="tg-btxf">LSE-COES</td>
     <td class="tg-abip">2,285</td>
     <td class="tg-abip">24</td>
-    <td class="tg-btxf">1</td>
+    <td class="tg-abip">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">18</td>
@@ -200,7 +200,7 @@ tags:
     <td class="tg-0pky">UDP</td>
     <td class="tg-c3ow">2,129</td>
     <td class="tg-c3ow">24</td>
-    <td class="tg-0pky">1</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-abip">19</td>
@@ -209,7 +209,7 @@ tags:
     <td class="tg-btxf">UCHILE-COES</td>
     <td class="tg-abip">1,956</td>
     <td class="tg-abip">24</td>
-    <td class="tg-btxf">1</td>
+    <td class="tg-abip">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">20</td>
@@ -218,7 +218,7 @@ tags:
     <td class="tg-0pky">GSU</td>
     <td class="tg-c3ow">2,562</td>
     <td class="tg-c3ow">23</td>
-    <td class="tg-0pky">1</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-abip">21</td>
@@ -227,7 +227,7 @@ tags:
     <td class="tg-btxf">UCHILE-GIGAPP</td>
     <td class="tg-abip">2,108</td>
     <td class="tg-abip">23</td>
-    <td class="tg-btxf">1</td>
+    <td class="tg-abip">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">22</td>
@@ -236,7 +236,7 @@ tags:
     <td class="tg-0pky">PUC</td>
     <td class="tg-c3ow">1,961</td>
     <td class="tg-c3ow">22</td>
-    <td class="tg-0pky">1</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-abip">23</td>
@@ -245,7 +245,7 @@ tags:
     <td class="tg-btxf">UMAYOR</td>
     <td class="tg-abip">1,140</td>
     <td class="tg-abip">21</td>
-    <td class="tg-btxf">1</td>
+    <td class="tg-abip">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">24</td>
@@ -254,7 +254,7 @@ tags:
     <td class="tg-0pky">UDP</td>
     <td class="tg-c3ow">1,881</td>
     <td class="tg-c3ow">20</td>
-    <td class="tg-0pky">1</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-abip">25</td>
@@ -263,7 +263,7 @@ tags:
     <td class="tg-btxf">UOB</td>
     <td class="tg-abip">1,742</td>
     <td class="tg-abip">20</td>
-    <td class="tg-btxf">1</td>
+    <td class="tg-abip">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">26</td>
@@ -272,7 +272,7 @@ tags:
     <td class="tg-0pky">UAI</td>
     <td class="tg-c3ow">2,172</td>
     <td class="tg-c3ow">19</td>
-    <td class="tg-0pky">1</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-abip">27</td>
@@ -281,7 +281,7 @@ tags:
     <td class="tg-btxf">USACH</td>
     <td class="tg-abip">1,730</td>
     <td class="tg-abip">19</td>
-    <td class="tg-btxf">1</td>
+    <td class="tg-abip">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">28</td>
@@ -290,7 +290,7 @@ tags:
     <td class="tg-0pky">UDP</td>
     <td class="tg-c3ow">984</td>
     <td class="tg-c3ow">19</td>
-    <td class="tg-0pky">1</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-abip">29</td>
@@ -299,7 +299,7 @@ tags:
     <td class="tg-btxf">PUC</td>
     <td class="tg-abip">939</td>
     <td class="tg-abip">19</td>
-    <td class="tg-btxf">1</td>
+    <td class="tg-abip">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">30</td>
@@ -308,7 +308,7 @@ tags:
     <td class="tg-0pky">UVALPO</td>
     <td class="tg-c3ow">2,886</td>
     <td class="tg-c3ow">18</td>
-    <td class="tg-0pky">1</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-abip">31</td>
@@ -317,7 +317,7 @@ tags:
     <td class="tg-btxf">UOM</td>
     <td class="tg-abip">907</td>
     <td class="tg-abip">18</td>
-    <td class="tg-btxf">1</td>
+    <td class="tg-abip">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">32</td>
@@ -326,7 +326,7 @@ tags:
     <td class="tg-0pky">UDP</td>
     <td class="tg-c3ow">1,685</td>
     <td class="tg-c3ow">17</td>
-    <td class="tg-0pky">1</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-abip">33</td>
@@ -335,7 +335,7 @@ tags:
     <td class="tg-btxf">UDP-Leiden</td>
     <td class="tg-abip">982</td>
     <td class="tg-abip">17</td>
-    <td class="tg-btxf">1</td>
+    <td class="tg-abip">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">34</td>
@@ -344,7 +344,7 @@ tags:
     <td class="tg-0pky">UCHILE</td>
     <td class="tg-c3ow">972</td>
     <td class="tg-c3ow">17</td>
-    <td class="tg-0pky">1</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-abip">35</td>
@@ -353,7 +353,7 @@ tags:
     <td class="tg-btxf">USACH</td>
     <td class="tg-abip">936</td>
     <td class="tg-abip">17</td>
-    <td class="tg-btxf">1</td>
+    <td class="tg-abip">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">36</td>
@@ -362,7 +362,7 @@ tags:
     <td class="tg-0pky">UACH</td>
     <td class="tg-c3ow">986</td>
     <td class="tg-c3ow">16</td>
-    <td class="tg-0pky">1</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-abip">37</td>
@@ -371,7 +371,7 @@ tags:
     <td class="tg-btxf">PUC</td>
     <td class="tg-abip">934</td>
     <td class="tg-abip">16</td>
-    <td class="tg-btxf">1</td>
+    <td class="tg-abip">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">38</td>
@@ -380,7 +380,7 @@ tags:
     <td class="tg-0pky">UCHILE</td>
     <td class="tg-c3ow">886</td>
     <td class="tg-c3ow">16</td>
-    <td class="tg-0pky">1</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-abip">39</td>
@@ -389,7 +389,7 @@ tags:
     <td class="tg-btxf">PUC</td>
     <td class="tg-abip">848</td>
     <td class="tg-abip">16</td>
-    <td class="tg-btxf">1</td>
+    <td class="tg-abip">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">40</td>
@@ -398,7 +398,7 @@ tags:
     <td class="tg-0pky">UTA</td>
     <td class="tg-c3ow">777</td>
     <td class="tg-c3ow">16</td>
-    <td class="tg-0pky">1</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-abip">41</td>
@@ -407,7 +407,7 @@ tags:
     <td class="tg-btxf">PUC</td>
     <td class="tg-abip">1,412</td>
     <td class="tg-abip">15</td>
-    <td class="tg-btxf">1</td>
+    <td class="tg-abip">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">42</td>
@@ -416,7 +416,7 @@ tags:
     <td class="tg-0pky">PUC</td>
     <td class="tg-c3ow">1,071</td>
     <td class="tg-c3ow">15</td>
-    <td class="tg-0pky">1</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-abip">43</td>
@@ -425,7 +425,7 @@ tags:
     <td class="tg-btxf">UDEC</td>
     <td class="tg-abip">915</td>
     <td class="tg-abip">15</td>
-    <td class="tg-btxf">1</td>
+    <td class="tg-abip">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">44</td>
@@ -434,7 +434,7 @@ tags:
     <td class="tg-0pky">UCHILE</td>
     <td class="tg-c3ow">846</td>
     <td class="tg-c3ow">15</td>
-    <td class="tg-0pky">1</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-abip">45</td>
@@ -443,7 +443,7 @@ tags:
     <td class="tg-btxf">USACH</td>
     <td class="tg-abip">730</td>
     <td class="tg-abip">15</td>
-    <td class="tg-btxf">1</td>
+    <td class="tg-abip">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">46</td>
@@ -452,7 +452,7 @@ tags:
     <td class="tg-0pky">UCHILE</td>
     <td class="tg-c3ow">1,027</td>
     <td class="tg-c3ow">14</td>
-    <td class="tg-0pky">1</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-abip">47</td>
@@ -461,7 +461,7 @@ tags:
     <td class="tg-btxf">UDD</td>
     <td class="tg-abip">807</td>
     <td class="tg-abip">14</td>
-    <td class="tg-btxf">1</td>
+    <td class="tg-abip">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">48</td>
@@ -470,7 +470,7 @@ tags:
     <td class="tg-0pky">PUCP</td>
     <td class="tg-c3ow">737</td>
     <td class="tg-c3ow">14</td>
-    <td class="tg-0pky">1</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-abip">49</td>
@@ -479,7 +479,7 @@ tags:
     <td class="tg-btxf">UnB</td>
     <td class="tg-abip">618</td>
     <td class="tg-abip">14</td>
-    <td class="tg-btxf">1</td>
+    <td class="tg-abip">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">50</td>
@@ -488,7 +488,7 @@ tags:
     <td class="tg-0pky">ANEPE</td>
     <td class="tg-c3ow">569</td>
     <td class="tg-c3ow">14</td>
-    <td class="tg-0pky">1</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-abip">51</td>
@@ -497,7 +497,7 @@ tags:
     <td class="tg-btxf">UMAYOR</td>
     <td class="tg-abip">551</td>
     <td class="tg-abip">14</td>
-    <td class="tg-btxf">1</td>
+    <td class="tg-abip">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">52</td>
@@ -506,7 +506,7 @@ tags:
     <td class="tg-0pky">UNITN</td>
     <td class="tg-c3ow">550</td>
     <td class="tg-c3ow">14</td>
-    <td class="tg-0pky">1</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-abip">53</td>
@@ -515,7 +515,7 @@ tags:
     <td class="tg-btxf">UDELAR</td>
     <td class="tg-abip">522</td>
     <td class="tg-abip">14</td>
-    <td class="tg-btxf">1</td>
+    <td class="tg-abip">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">54</td>
@@ -524,7 +524,7 @@ tags:
     <td class="tg-0pky">UCHILE</td>
     <td class="tg-c3ow">891</td>
     <td class="tg-c3ow">13</td>
-    <td class="tg-0pky">2</td>
+    <td class="tg-c3ow">2</td>
   </tr>
   <tr>
     <td class="tg-abip">55</td>
@@ -533,7 +533,7 @@ tags:
     <td class="tg-btxf">PUC</td>
     <td class="tg-abip">789</td>
     <td class="tg-abip">13</td>
-    <td class="tg-btxf">2</td>
+    <td class="tg-abip">2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">56</td>
@@ -542,7 +542,7 @@ tags:
     <td class="tg-0pky">UAI</td>
     <td class="tg-c3ow">678</td>
     <td class="tg-c3ow">13</td>
-    <td class="tg-0pky">2</td>
+    <td class="tg-c3ow">2</td>
   </tr>
   <tr>
     <td class="tg-abip">57</td>
@@ -551,7 +551,7 @@ tags:
     <td class="tg-btxf">TLU-UAM</td>
     <td class="tg-abip">576</td>
     <td class="tg-abip">13</td>
-    <td class="tg-btxf">2</td>
+    <td class="tg-abip">2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">58</td>
@@ -560,7 +560,7 @@ tags:
     <td class="tg-0pky">PUC</td>
     <td class="tg-c3ow">538</td>
     <td class="tg-c3ow">13</td>
-    <td class="tg-0pky">2</td>
+    <td class="tg-c3ow">2</td>
   </tr>
   <tr>
     <td class="tg-abip">59</td>
@@ -569,7 +569,7 @@ tags:
     <td class="tg-btxf">UDD</td>
     <td class="tg-abip">418</td>
     <td class="tg-abip">13</td>
-    <td class="tg-btxf">2</td>
+    <td class="tg-abip">2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">60</td>
@@ -578,7 +578,7 @@ tags:
     <td class="tg-0pky">USACH</td>
     <td class="tg-c3ow">793</td>
     <td class="tg-c3ow">12</td>
-    <td class="tg-0pky">2</td>
+    <td class="tg-c3ow">2</td>
   </tr>
   <tr>
     <td class="tg-abip">61</td>
@@ -587,7 +587,7 @@ tags:
     <td class="tg-btxf">UNAB</td>
     <td class="tg-abip">780</td>
     <td class="tg-abip">12</td>
-    <td class="tg-btxf">2</td>
+    <td class="tg-abip">2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">62</td>
@@ -596,7 +596,7 @@ tags:
     <td class="tg-0pky">UCHILE</td>
     <td class="tg-c3ow">721</td>
     <td class="tg-c3ow">12</td>
-    <td class="tg-0pky">2</td>
+    <td class="tg-c3ow">2</td>
   </tr>
   <tr>
     <td class="tg-abip">63</td>
@@ -605,7 +605,7 @@ tags:
     <td class="tg-btxf">PUC</td>
     <td class="tg-abip">587</td>
     <td class="tg-abip">12</td>
-    <td class="tg-btxf">2</td>
+    <td class="tg-abip">2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">64</td>
@@ -614,7 +614,7 @@ tags:
     <td class="tg-0pky">UCHILE</td>
     <td class="tg-c3ow">567</td>
     <td class="tg-c3ow">12</td>
-    <td class="tg-0pky">2</td>
+    <td class="tg-c3ow">2</td>
   </tr>
   <tr>
     <td class="tg-abip">65</td>
@@ -623,7 +623,7 @@ tags:
     <td class="tg-btxf">PSU</td>
     <td class="tg-abip">527</td>
     <td class="tg-abip">12</td>
-    <td class="tg-btxf">2</td>
+    <td class="tg-abip">2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">66</td>
@@ -632,7 +632,7 @@ tags:
     <td class="tg-0pky">UACH</td>
     <td class="tg-c3ow">468</td>
     <td class="tg-c3ow">12</td>
-    <td class="tg-0pky">2</td>
+    <td class="tg-c3ow">2</td>
   </tr>
   <tr>
     <td class="tg-abip">67</td>
@@ -641,7 +641,7 @@ tags:
     <td class="tg-btxf">UVALPO</td>
     <td class="tg-abip">468</td>
     <td class="tg-abip">12</td>
-    <td class="tg-btxf">2</td>
+    <td class="tg-abip">2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">68</td>
@@ -650,7 +650,7 @@ tags:
     <td class="tg-0pky">UAH</td>
     <td class="tg-c3ow">423</td>
     <td class="tg-c3ow">12</td>
-    <td class="tg-0pky">2</td>
+    <td class="tg-c3ow">2</td>
   </tr>
   <tr>
     <td class="tg-abip">69</td>
@@ -659,7 +659,7 @@ tags:
     <td class="tg-btxf">PUC</td>
     <td class="tg-abip">404</td>
     <td class="tg-abip">12</td>
-    <td class="tg-btxf">2</td>
+    <td class="tg-abip">2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">70</td>
@@ -668,7 +668,7 @@ tags:
     <td class="tg-0pky">CMU</td>
     <td class="tg-c3ow">308</td>
     <td class="tg-c3ow">12</td>
-    <td class="tg-0pky">2</td>
+    <td class="tg-c3ow">2</td>
   </tr>
   <tr>
     <td class="tg-abip">71</td>
@@ -677,7 +677,7 @@ tags:
     <td class="tg-btxf">UCHILE</td>
     <td class="tg-abip">567</td>
     <td class="tg-abip">11</td>
-    <td class="tg-btxf">2</td>
+    <td class="tg-abip">2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">72</td>
@@ -686,7 +686,7 @@ tags:
     <td class="tg-0pky">UNAB</td>
     <td class="tg-c3ow">474</td>
     <td class="tg-c3ow">11</td>
-    <td class="tg-0pky">2</td>
+    <td class="tg-c3ow">2</td>
   </tr>
   <tr>
     <td class="tg-abip">73</td>
@@ -695,7 +695,7 @@ tags:
     <td class="tg-btxf">USACH</td>
     <td class="tg-abip">455</td>
     <td class="tg-abip">11</td>
-    <td class="tg-btxf">2</td>
+    <td class="tg-abip">2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">74</td>
@@ -704,7 +704,7 @@ tags:
     <td class="tg-0pky">PUC</td>
     <td class="tg-c3ow">422</td>
     <td class="tg-c3ow">11</td>
-    <td class="tg-0pky">2</td>
+    <td class="tg-c3ow">2</td>
   </tr>
   <tr>
     <td class="tg-abip">75</td>
@@ -713,7 +713,7 @@ tags:
     <td class="tg-btxf">USACH</td>
     <td class="tg-abip">333</td>
     <td class="tg-abip">11</td>
-    <td class="tg-btxf">2</td>
+    <td class="tg-abip">2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">76</td>
@@ -722,7 +722,7 @@ tags:
     <td class="tg-0pky">USS</td>
     <td class="tg-c3ow">280</td>
     <td class="tg-c3ow">11</td>
-    <td class="tg-0pky">2</td>
+    <td class="tg-c3ow">2</td>
   </tr>
   <tr>
     <td class="tg-abip">77</td>
@@ -731,7 +731,7 @@ tags:
     <td class="tg-btxf">UDD</td>
     <td class="tg-abip">667</td>
     <td class="tg-abip">10</td>
-    <td class="tg-btxf">2</td>
+    <td class="tg-abip">2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">78</td>
@@ -740,7 +740,7 @@ tags:
     <td class="tg-0pky">UAH</td>
     <td class="tg-c3ow">568</td>
     <td class="tg-c3ow">10</td>
-    <td class="tg-0pky">2</td>
+    <td class="tg-c3ow">2</td>
   </tr>
   <tr>
     <td class="tg-abip">79</td>
@@ -749,7 +749,7 @@ tags:
     <td class="tg-btxf">UDD</td>
     <td class="tg-abip">545</td>
     <td class="tg-abip">10</td>
-    <td class="tg-btxf">2</td>
+    <td class="tg-abip">2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">80</td>
@@ -758,7 +758,7 @@ tags:
     <td class="tg-0pky">UCHILE</td>
     <td class="tg-c3ow">494</td>
     <td class="tg-c3ow">10</td>
-    <td class="tg-0pky">2</td>
+    <td class="tg-c3ow">2</td>
   </tr>
   <tr>
     <td class="tg-abip">81</td>
@@ -767,7 +767,7 @@ tags:
     <td class="tg-btxf">UCHILE</td>
     <td class="tg-abip">395</td>
     <td class="tg-abip">10</td>
-    <td class="tg-btxf">2</td>
+    <td class="tg-abip">2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">82</td>
@@ -776,7 +776,7 @@ tags:
     <td class="tg-0pky">UDD</td>
     <td class="tg-c3ow">381</td>
     <td class="tg-c3ow">10</td>
-    <td class="tg-0pky">2</td>
+    <td class="tg-c3ow">2</td>
   </tr>
   <tr>
     <td class="tg-abip">83</td>
@@ -785,7 +785,7 @@ tags:
     <td class="tg-btxf">UCHILE</td>
     <td class="tg-abip">370</td>
     <td class="tg-abip">10</td>
-    <td class="tg-btxf">2</td>
+    <td class="tg-abip">2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">84</td>
@@ -794,7 +794,7 @@ tags:
     <td class="tg-0pky">UDP</td>
     <td class="tg-c3ow">341</td>
     <td class="tg-c3ow">10</td>
-    <td class="tg-0pky">2</td>
+    <td class="tg-c3ow">2</td>
   </tr>
   <tr>
     <td class="tg-abip">85</td>
@@ -803,7 +803,7 @@ tags:
     <td class="tg-btxf">UAI</td>
     <td class="tg-abip">280</td>
     <td class="tg-abip">10</td>
-    <td class="tg-btxf">2</td>
+    <td class="tg-abip">2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">86</td>
@@ -812,7 +812,7 @@ tags:
     <td class="tg-0pky">UCHILE</td>
     <td class="tg-c3ow">235</td>
     <td class="tg-c3ow">10</td>
-    <td class="tg-0pky">2</td>
+    <td class="tg-c3ow">2</td>
   </tr>
   <tr>
     <td class="tg-abip">87</td>
@@ -821,7 +821,7 @@ tags:
     <td class="tg-btxf">UCHILE</td>
     <td class="tg-abip">333</td>
     <td class="tg-abip">9</td>
-    <td class="tg-btxf">2</td>
+    <td class="tg-abip">2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">88</td>
@@ -830,7 +830,7 @@ tags:
     <td class="tg-0pky">UDP</td>
     <td class="tg-c3ow">330</td>
     <td class="tg-c3ow">9</td>
-    <td class="tg-0pky">2</td>
+    <td class="tg-c3ow">2</td>
   </tr>
   <tr>
     <td class="tg-abip">89</td>
@@ -839,7 +839,7 @@ tags:
     <td class="tg-btxf">UDEC</td>
     <td class="tg-abip">267</td>
     <td class="tg-abip">9</td>
-    <td class="tg-btxf">2</td>
+    <td class="tg-abip">2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">90</td>
@@ -848,7 +848,7 @@ tags:
     <td class="tg-0pky">SIT</td>
     <td class="tg-c3ow">253</td>
     <td class="tg-c3ow">9</td>
-    <td class="tg-0pky">2</td>
+    <td class="tg-c3ow">2</td>
   </tr>
   <tr>
     <td class="tg-abip">91</td>
@@ -857,7 +857,7 @@ tags:
     <td class="tg-btxf">UCHILE</td>
     <td class="tg-abip">242</td>
     <td class="tg-abip">9</td>
-    <td class="tg-btxf">2</td>
+    <td class="tg-abip">2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">92</td>
@@ -866,7 +866,7 @@ tags:
     <td class="tg-0pky">UNIBO</td>
     <td class="tg-c3ow">234</td>
     <td class="tg-c3ow">9</td>
-    <td class="tg-0pky">2</td>
+    <td class="tg-c3ow">2</td>
   </tr>
   <tr>
     <td class="tg-abip">93</td>
@@ -875,7 +875,7 @@ tags:
     <td class="tg-btxf">UF</td>
     <td class="tg-abip">205</td>
     <td class="tg-abip">9</td>
-    <td class="tg-btxf">2</td>
+    <td class="tg-abip">2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">94</td>
@@ -884,7 +884,7 @@ tags:
     <td class="tg-0pky">UCHILE</td>
     <td class="tg-c3ow">508</td>
     <td class="tg-c3ow">8</td>
-    <td class="tg-0pky">2</td>
+    <td class="tg-c3ow">2</td>
   </tr>
   <tr>
     <td class="tg-abip">95</td>
@@ -893,7 +893,7 @@ tags:
     <td class="tg-btxf">USACH</td>
     <td class="tg-abip">472</td>
     <td class="tg-abip">8</td>
-    <td class="tg-btxf">2</td>
+    <td class="tg-abip">2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">96</td>
@@ -902,7 +902,7 @@ tags:
     <td class="tg-0pky">QMUL</td>
     <td class="tg-c3ow">439</td>
     <td class="tg-c3ow">8</td>
-    <td class="tg-0pky">2</td>
+    <td class="tg-c3ow">2</td>
   </tr>
   <tr>
     <td class="tg-abip">97</td>
@@ -911,7 +911,7 @@ tags:
     <td class="tg-btxf">OXF</td>
     <td class="tg-abip">360</td>
     <td class="tg-abip">8</td>
-    <td class="tg-btxf">2</td>
+    <td class="tg-abip">2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">98</td>
@@ -920,7 +920,7 @@ tags:
     <td class="tg-0pky">UAH</td>
     <td class="tg-c3ow">247</td>
     <td class="tg-c3ow">8</td>
-    <td class="tg-0pky">2</td>
+    <td class="tg-c3ow">2</td>
   </tr>
   <tr>
     <td class="tg-abip">99</td>
@@ -929,7 +929,7 @@ tags:
     <td class="tg-btxf">UTEM</td>
     <td class="tg-abip">245</td>
     <td class="tg-abip">8</td>
-    <td class="tg-btxf">2</td>
+    <td class="tg-abip">2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">100</td>
@@ -938,7 +938,7 @@ tags:
     <td class="tg-0pky">UTA</td>
     <td class="tg-c3ow">234</td>
     <td class="tg-c3ow">8</td>
-    <td class="tg-0pky">2</td>
+    <td class="tg-c3ow">2</td>
   </tr>
   <tr>
     <td class="tg-abip">101</td>
@@ -947,7 +947,7 @@ tags:
     <td class="tg-btxf">UCHILE</td>
     <td class="tg-abip">211</td>
     <td class="tg-abip">8</td>
-    <td class="tg-btxf">2</td>
+    <td class="tg-abip">2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">102</td>
@@ -956,7 +956,7 @@ tags:
     <td class="tg-0pky">UDD</td>
     <td class="tg-c3ow">183</td>
     <td class="tg-c3ow">8</td>
-    <td class="tg-0pky">2</td>
+    <td class="tg-c3ow">2</td>
   </tr>
   <tr>
     <td class="tg-abip">103</td>
@@ -965,7 +965,7 @@ tags:
     <td class="tg-btxf">UCHILE</td>
     <td class="tg-abip">182</td>
     <td class="tg-abip">8</td>
-    <td class="tg-btxf">2</td>
+    <td class="tg-abip">2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">104</td>
@@ -974,7 +974,7 @@ tags:
     <td class="tg-0pky">UCT</td>
     <td class="tg-c3ow">180</td>
     <td class="tg-c3ow">8</td>
-    <td class="tg-0pky">2</td>
+    <td class="tg-c3ow">2</td>
   </tr>
   <tr>
     <td class="tg-abip">105</td>
@@ -983,7 +983,7 @@ tags:
     <td class="tg-btxf">UAH</td>
     <td class="tg-abip">178</td>
     <td class="tg-abip">8</td>
-    <td class="tg-btxf">2</td>
+    <td class="tg-abip">2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">106</td>
@@ -992,7 +992,7 @@ tags:
     <td class="tg-0pky">UAI</td>
     <td class="tg-c3ow">171</td>
     <td class="tg-c3ow">8</td>
-    <td class="tg-0pky">2</td>
+    <td class="tg-c3ow">2</td>
   </tr>
   <tr>
     <td class="tg-abip">107</td>
@@ -1001,7 +1001,7 @@ tags:
     <td class="tg-btxf">UAI</td>
     <td class="tg-abip">161</td>
     <td class="tg-abip">8</td>
-    <td class="tg-btxf">2</td>
+    <td class="tg-abip">2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">108</td>
@@ -1010,7 +1010,7 @@ tags:
     <td class="tg-0pky">UDEC</td>
     <td class="tg-c3ow">296</td>
     <td class="tg-c3ow">7</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-abip">109</td>
@@ -1019,7 +1019,7 @@ tags:
     <td class="tg-btxf">UAH</td>
     <td class="tg-abip">263</td>
     <td class="tg-abip">7</td>
-    <td class="tg-btxf">3</td>
+    <td class="tg-abip">3</td>
   </tr>
   <tr>
     <td class="tg-c3ow">110</td>
@@ -1028,7 +1028,7 @@ tags:
     <td class="tg-0pky">UBC-UDP</td>
     <td class="tg-c3ow">237</td>
     <td class="tg-c3ow">7</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-abip">111</td>
@@ -1037,7 +1037,7 @@ tags:
     <td class="tg-btxf">UCHILE</td>
     <td class="tg-abip">237</td>
     <td class="tg-abip">7</td>
-    <td class="tg-btxf">3</td>
+    <td class="tg-abip">3</td>
   </tr>
   <tr>
     <td class="tg-c3ow">112</td>
@@ -1046,7 +1046,7 @@ tags:
     <td class="tg-0pky">UDEC</td>
     <td class="tg-c3ow">217</td>
     <td class="tg-c3ow">7</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-abip">113</td>
@@ -1055,7 +1055,7 @@ tags:
     <td class="tg-btxf">FLACSO</td>
     <td class="tg-abip">193</td>
     <td class="tg-abip">7</td>
-    <td class="tg-btxf">3</td>
+    <td class="tg-abip">3</td>
   </tr>
   <tr>
     <td class="tg-c3ow">114</td>
@@ -1064,7 +1064,7 @@ tags:
     <td class="tg-0pky">IIPSS</td>
     <td class="tg-c3ow">171</td>
     <td class="tg-c3ow">7</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-abip">115</td>
@@ -1073,7 +1073,7 @@ tags:
     <td class="tg-btxf">UCSD</td>
     <td class="tg-abip">163</td>
     <td class="tg-abip">7</td>
-    <td class="tg-btxf">3</td>
+    <td class="tg-abip">3</td>
   </tr>
   <tr>
     <td class="tg-c3ow">116</td>
@@ -1082,7 +1082,7 @@ tags:
     <td class="tg-0pky">UDEC</td>
     <td class="tg-c3ow">153</td>
     <td class="tg-c3ow">7</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-abip">117</td>
@@ -1091,7 +1091,7 @@ tags:
     <td class="tg-btxf">UAI</td>
     <td class="tg-abip">153</td>
     <td class="tg-abip">7</td>
-    <td class="tg-btxf">3</td>
+    <td class="tg-abip">3</td>
   </tr>
   <tr>
     <td class="tg-c3ow">118</td>
@@ -1100,7 +1100,7 @@ tags:
     <td class="tg-0pky">Marist</td>
     <td class="tg-c3ow">143</td>
     <td class="tg-c3ow">7</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-abip">119</td>
@@ -1109,7 +1109,7 @@ tags:
     <td class="tg-btxf">UMAYOR</td>
     <td class="tg-abip">142</td>
     <td class="tg-abip">7</td>
-    <td class="tg-btxf">3</td>
+    <td class="tg-abip">3</td>
   </tr>
   <tr>
     <td class="tg-c3ow">120</td>
@@ -1118,7 +1118,7 @@ tags:
     <td class="tg-0pky">ULAGOS</td>
     <td class="tg-c3ow">377</td>
     <td class="tg-c3ow">6</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-abip">121</td>
@@ -1127,7 +1127,7 @@ tags:
     <td class="tg-btxf">USACH</td>
     <td class="tg-abip">227</td>
     <td class="tg-abip">6</td>
-    <td class="tg-btxf">3</td>
+    <td class="tg-abip">3</td>
   </tr>
   <tr>
     <td class="tg-c3ow">122</td>
@@ -1136,7 +1136,7 @@ tags:
     <td class="tg-0pky">CU</td>
     <td class="tg-c3ow">200</td>
     <td class="tg-c3ow">6</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-abip">123</td>
@@ -1145,7 +1145,7 @@ tags:
     <td class="tg-btxf">UDP</td>
     <td class="tg-abip">178</td>
     <td class="tg-abip">6</td>
-    <td class="tg-btxf">3</td>
+    <td class="tg-abip">3</td>
   </tr>
   <tr>
     <td class="tg-c3ow">124</td>
@@ -1154,7 +1154,7 @@ tags:
     <td class="tg-0pky">UPF</td>
     <td class="tg-c3ow">172</td>
     <td class="tg-c3ow">6</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-abip">125</td>
@@ -1163,7 +1163,7 @@ tags:
     <td class="tg-btxf">WU</td>
     <td class="tg-abip">130</td>
     <td class="tg-abip">6</td>
-    <td class="tg-btxf">3</td>
+    <td class="tg-abip">3</td>
   </tr>
   <tr>
     <td class="tg-c3ow">126</td>
@@ -1172,7 +1172,7 @@ tags:
     <td class="tg-0pky">UCI</td>
     <td class="tg-c3ow">130</td>
     <td class="tg-c3ow">6</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-abip">127</td>
@@ -1181,7 +1181,7 @@ tags:
     <td class="tg-btxf">USS</td>
     <td class="tg-abip">125</td>
     <td class="tg-abip">6</td>
-    <td class="tg-btxf">3</td>
+    <td class="tg-abip">3</td>
   </tr>
   <tr>
     <td class="tg-c3ow">128</td>
@@ -1190,7 +1190,7 @@ tags:
     <td class="tg-0pky">UGA</td>
     <td class="tg-c3ow">120</td>
     <td class="tg-c3ow">6</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-abip">129</td>
@@ -1199,7 +1199,7 @@ tags:
     <td class="tg-btxf">USACH</td>
     <td class="tg-abip">120</td>
     <td class="tg-abip">6</td>
-    <td class="tg-btxf">3</td>
+    <td class="tg-abip">3</td>
   </tr>
   <tr>
     <td class="tg-c3ow">130</td>
@@ -1208,7 +1208,7 @@ tags:
     <td class="tg-0pky">LSE</td>
     <td class="tg-c3ow">119</td>
     <td class="tg-c3ow">6</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-abip">131</td>
@@ -1217,7 +1217,7 @@ tags:
     <td class="tg-btxf">FLACSO</td>
     <td class="tg-abip">105</td>
     <td class="tg-abip">6</td>
-    <td class="tg-btxf">3</td>
+    <td class="tg-abip">3</td>
   </tr>
   <tr>
     <td class="tg-c3ow">132</td>
@@ -1226,7 +1226,7 @@ tags:
     <td class="tg-0pky">PUC</td>
     <td class="tg-c3ow">99</td>
     <td class="tg-c3ow">6</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-abip">133</td>
@@ -1235,7 +1235,7 @@ tags:
     <td class="tg-btxf">UCT</td>
     <td class="tg-abip">90</td>
     <td class="tg-abip">6</td>
-    <td class="tg-btxf">3</td>
+    <td class="tg-abip">3</td>
   </tr>
   <tr>
     <td class="tg-c3ow">134</td>
@@ -1244,7 +1244,7 @@ tags:
     <td class="tg-0pky">PUC</td>
     <td class="tg-c3ow">82</td>
     <td class="tg-c3ow">6</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-abip">135</td>
@@ -1253,7 +1253,7 @@ tags:
     <td class="tg-btxf">UCL</td>
     <td class="tg-abip">80</td>
     <td class="tg-abip">6</td>
-    <td class="tg-btxf">3</td>
+    <td class="tg-abip">3</td>
   </tr>
   <tr>
     <td class="tg-c3ow">136</td>
@@ -1262,7 +1262,7 @@ tags:
     <td class="tg-0pky">PUC</td>
     <td class="tg-c3ow">154</td>
     <td class="tg-c3ow">5</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-abip">137</td>
@@ -1271,7 +1271,7 @@ tags:
     <td class="tg-btxf">UCHILE</td>
     <td class="tg-abip">114</td>
     <td class="tg-abip">5</td>
-    <td class="tg-btxf">3</td>
+    <td class="tg-abip">3</td>
   </tr>
   <tr>
     <td class="tg-c3ow">138</td>
@@ -1280,7 +1280,7 @@ tags:
     <td class="tg-0pky">USS</td>
     <td class="tg-c3ow">103</td>
     <td class="tg-c3ow">5</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-abip">139</td>
@@ -1289,7 +1289,7 @@ tags:
     <td class="tg-btxf">unk.</td>
     <td class="tg-abip">98</td>
     <td class="tg-abip">5</td>
-    <td class="tg-btxf">3</td>
+    <td class="tg-abip">3</td>
   </tr>
   <tr>
     <td class="tg-c3ow">140</td>
@@ -1298,7 +1298,7 @@ tags:
     <td class="tg-0pky">PUC</td>
     <td class="tg-c3ow">82</td>
     <td class="tg-c3ow">5</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-abip">141</td>
@@ -1307,7 +1307,7 @@ tags:
     <td class="tg-btxf">UTU</td>
     <td class="tg-abip">71</td>
     <td class="tg-abip">5</td>
-    <td class="tg-btxf">3</td>
+    <td class="tg-abip">3</td>
   </tr>
   <tr>
     <td class="tg-c3ow">142</td>
@@ -1316,7 +1316,7 @@ tags:
     <td class="tg-0pky">USS</td>
     <td class="tg-c3ow">70</td>
     <td class="tg-c3ow">5</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-abip">143</td>
@@ -1325,7 +1325,7 @@ tags:
     <td class="tg-btxf">USS</td>
     <td class="tg-abip">48</td>
     <td class="tg-abip">5</td>
-    <td class="tg-btxf">3</td>
+    <td class="tg-abip">3</td>
   </tr>
   <tr>
     <td class="tg-c3ow">144</td>
@@ -1334,7 +1334,7 @@ tags:
     <td class="tg-0pky">USC</td>
     <td class="tg-c3ow">129</td>
     <td class="tg-c3ow">4</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-abip">145</td>
@@ -1343,7 +1343,7 @@ tags:
     <td class="tg-btxf">UNIGRAZ</td>
     <td class="tg-abip">112</td>
     <td class="tg-abip">4</td>
-    <td class="tg-btxf">3</td>
+    <td class="tg-abip">3</td>
   </tr>
   <tr>
     <td class="tg-c3ow">146</td>
@@ -1352,7 +1352,7 @@ tags:
     <td class="tg-0pky">Leiden</td>
     <td class="tg-c3ow">107</td>
     <td class="tg-c3ow">4</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-abip">147</td>
@@ -1361,7 +1361,7 @@ tags:
     <td class="tg-btxf">PUC</td>
     <td class="tg-abip">79</td>
     <td class="tg-abip">4</td>
-    <td class="tg-btxf">3</td>
+    <td class="tg-abip">3</td>
   </tr>
   <tr>
     <td class="tg-c3ow">148</td>
@@ -1370,7 +1370,7 @@ tags:
     <td class="tg-0pky">NUDOS</td>
     <td class="tg-c3ow">76</td>
     <td class="tg-c3ow">4</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-abip">149</td>
@@ -1379,7 +1379,7 @@ tags:
     <td class="tg-btxf">PUC</td>
     <td class="tg-abip">75</td>
     <td class="tg-abip">4</td>
-    <td class="tg-btxf">3</td>
+    <td class="tg-abip">3</td>
   </tr>
   <tr>
     <td class="tg-c3ow">150</td>
@@ -1388,7 +1388,7 @@ tags:
     <td class="tg-0pky">ULAGOS</td>
     <td class="tg-c3ow">73</td>
     <td class="tg-c3ow">4</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-abip">151</td>
@@ -1397,7 +1397,7 @@ tags:
     <td class="tg-btxf">UNC</td>
     <td class="tg-abip">68</td>
     <td class="tg-abip">4</td>
-    <td class="tg-btxf">3</td>
+    <td class="tg-abip">3</td>
   </tr>
   <tr>
     <td class="tg-c3ow">152</td>
@@ -1406,7 +1406,7 @@ tags:
     <td class="tg-0pky">UTALCA</td>
     <td class="tg-c3ow">65</td>
     <td class="tg-c3ow">4</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-abip">153</td>
@@ -1415,7 +1415,7 @@ tags:
     <td class="tg-btxf">UDEC</td>
     <td class="tg-abip">64</td>
     <td class="tg-abip">4</td>
-    <td class="tg-btxf">3</td>
+    <td class="tg-abip">3</td>
   </tr>
   <tr>
     <td class="tg-c3ow">154</td>
@@ -1424,7 +1424,7 @@ tags:
     <td class="tg-0pky">UDEC</td>
     <td class="tg-c3ow">53</td>
     <td class="tg-c3ow">4</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-abip">155</td>
@@ -1433,7 +1433,7 @@ tags:
     <td class="tg-btxf">USACH</td>
     <td class="tg-abip">47</td>
     <td class="tg-abip">4</td>
-    <td class="tg-btxf">3</td>
+    <td class="tg-abip">3</td>
   </tr>
   <tr>
     <td class="tg-c3ow">156</td>
@@ -1442,7 +1442,7 @@ tags:
     <td class="tg-0pky">USACH</td>
     <td class="tg-c3ow">33</td>
     <td class="tg-c3ow">4</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-abip">157</td>
@@ -1451,7 +1451,7 @@ tags:
     <td class="tg-btxf">UDP</td>
     <td class="tg-abip">31</td>
     <td class="tg-abip">4</td>
-    <td class="tg-btxf">3</td>
+    <td class="tg-abip">3</td>
   </tr>
   <tr>
     <td class="tg-c3ow">158</td>
@@ -1460,7 +1460,7 @@ tags:
     <td class="tg-0pky">UCHILE</td>
     <td class="tg-c3ow">89</td>
     <td class="tg-c3ow">3</td>
-    <td class="tg-0pky">4</td>
+    <td class="tg-c3ow">4</td>
   </tr>
   <tr>
     <td class="tg-abip">159</td>
@@ -1469,7 +1469,7 @@ tags:
     <td class="tg-btxf">WARW</td>
     <td class="tg-abip">73</td>
     <td class="tg-abip">3</td>
-    <td class="tg-btxf">4</td>
+    <td class="tg-abip">4</td>
   </tr>
   <tr>
     <td class="tg-c3ow">160</td>
@@ -1478,7 +1478,7 @@ tags:
     <td class="tg-0pky">HU Berlin</td>
     <td class="tg-c3ow">51</td>
     <td class="tg-c3ow">3</td>
-    <td class="tg-0pky">4</td>
+    <td class="tg-c3ow">4</td>
   </tr>
   <tr>
     <td class="tg-abip">161</td>
@@ -1487,7 +1487,7 @@ tags:
     <td class="tg-btxf">UNC</td>
     <td class="tg-abip">50</td>
     <td class="tg-abip">3</td>
-    <td class="tg-btxf">4</td>
+    <td class="tg-abip">4</td>
   </tr>
   <tr>
     <td class="tg-c3ow">162</td>
@@ -1496,7 +1496,7 @@ tags:
     <td class="tg-0pky">UDEC</td>
     <td class="tg-c3ow">47</td>
     <td class="tg-c3ow">3</td>
-    <td class="tg-0pky">4</td>
+    <td class="tg-c3ow">4</td>
   </tr>
   <tr>
     <td class="tg-abip">163</td>
@@ -1505,7 +1505,7 @@ tags:
     <td class="tg-btxf">UAI</td>
     <td class="tg-abip">43</td>
     <td class="tg-abip">3</td>
-    <td class="tg-btxf">4</td>
+    <td class="tg-abip">4</td>
   </tr>
   <tr>
     <td class="tg-c3ow">164</td>
@@ -1514,7 +1514,7 @@ tags:
     <td class="tg-0pky">UAI</td>
     <td class="tg-c3ow">38</td>
     <td class="tg-c3ow">3</td>
-    <td class="tg-0pky">4</td>
+    <td class="tg-c3ow">4</td>
   </tr>
   <tr>
     <td class="tg-abip">165</td>
@@ -1523,7 +1523,7 @@ tags:
     <td class="tg-btxf">STU</td>
     <td class="tg-abip">34</td>
     <td class="tg-abip">3</td>
-    <td class="tg-btxf">4</td>
+    <td class="tg-abip">4</td>
   </tr>
   <tr>
     <td class="tg-c3ow">166</td>
@@ -1532,7 +1532,7 @@ tags:
     <td class="tg-0pky">PUC</td>
     <td class="tg-c3ow">34</td>
     <td class="tg-c3ow">3</td>
-    <td class="tg-0pky">4</td>
+    <td class="tg-c3ow">4</td>
   </tr>
   <tr>
     <td class="tg-abip">167</td>
@@ -1541,7 +1541,7 @@ tags:
     <td class="tg-btxf">UDEC</td>
     <td class="tg-abip">29</td>
     <td class="tg-abip">3</td>
-    <td class="tg-btxf">4</td>
+    <td class="tg-abip">4</td>
   </tr>
   <tr>
     <td class="tg-c3ow">168</td>
@@ -1550,7 +1550,7 @@ tags:
     <td class="tg-0pky">NWU</td>
     <td class="tg-c3ow">27</td>
     <td class="tg-c3ow">3</td>
-    <td class="tg-0pky">4</td>
+    <td class="tg-c3ow">4</td>
   </tr>
   <tr>
     <td class="tg-abip">169</td>
@@ -1559,7 +1559,7 @@ tags:
     <td class="tg-btxf">UDP</td>
     <td class="tg-abip">22</td>
     <td class="tg-abip">3</td>
-    <td class="tg-btxf">4</td>
+    <td class="tg-abip">4</td>
   </tr>
   <tr>
     <td class="tg-c3ow">170</td>
@@ -1568,7 +1568,7 @@ tags:
     <td class="tg-0pky">USS</td>
     <td class="tg-c3ow">22</td>
     <td class="tg-c3ow">3</td>
-    <td class="tg-0pky">4</td>
+    <td class="tg-c3ow">4</td>
   </tr>
   <tr>
     <td class="tg-abip">171</td>
@@ -1577,7 +1577,7 @@ tags:
     <td class="tg-btxf">UTALCA</td>
     <td class="tg-abip">21</td>
     <td class="tg-abip">3</td>
-    <td class="tg-btxf">4</td>
+    <td class="tg-abip">4</td>
   </tr>
   <tr>
     <td class="tg-c3ow">172</td>
@@ -1586,7 +1586,7 @@ tags:
     <td class="tg-0pky">UAI</td>
     <td class="tg-c3ow">20</td>
     <td class="tg-c3ow">3</td>
-    <td class="tg-0pky">4</td>
+    <td class="tg-c3ow">4</td>
   </tr>
   <tr>
     <td class="tg-abip">173</td>
@@ -1595,7 +1595,7 @@ tags:
     <td class="tg-btxf">UDEC</td>
     <td class="tg-abip">107</td>
     <td class="tg-abip">2</td>
-    <td class="tg-btxf">4</td>
+    <td class="tg-abip">4</td>
   </tr>
   <tr>
     <td class="tg-c3ow">174</td>
@@ -1604,7 +1604,7 @@ tags:
     <td class="tg-0pky">UDEC</td>
     <td class="tg-c3ow">40</td>
     <td class="tg-c3ow">2</td>
-    <td class="tg-0pky">4</td>
+    <td class="tg-c3ow">4</td>
   </tr>
   <tr>
     <td class="tg-abip">175</td>
@@ -1613,7 +1613,7 @@ tags:
     <td class="tg-btxf">UCT</td>
     <td class="tg-abip">36</td>
     <td class="tg-abip">2</td>
-    <td class="tg-btxf">4</td>
+    <td class="tg-abip">4</td>
   </tr>
   <tr>
     <td class="tg-c3ow">176</td>
@@ -1622,7 +1622,7 @@ tags:
     <td class="tg-0pky">UCT</td>
     <td class="tg-c3ow">31</td>
     <td class="tg-c3ow">2</td>
-    <td class="tg-0pky">4</td>
+    <td class="tg-c3ow">4</td>
   </tr>
   <tr>
     <td class="tg-abip">177</td>
@@ -1631,7 +1631,7 @@ tags:
     <td class="tg-btxf">USACH</td>
     <td class="tg-abip">30</td>
     <td class="tg-abip">2</td>
-    <td class="tg-btxf">4</td>
+    <td class="tg-abip">4</td>
   </tr>
   <tr>
     <td class="tg-c3ow">178</td>
@@ -1640,7 +1640,7 @@ tags:
     <td class="tg-0pky">UDP-UTALCA</td>
     <td class="tg-c3ow">28</td>
     <td class="tg-c3ow">2</td>
-    <td class="tg-0pky">4</td>
+    <td class="tg-c3ow">4</td>
   </tr>
   <tr>
     <td class="tg-abip">179</td>
@@ -1649,7 +1649,7 @@ tags:
     <td class="tg-btxf">UDP</td>
     <td class="tg-abip">20</td>
     <td class="tg-abip">2</td>
-    <td class="tg-btxf">4</td>
+    <td class="tg-abip">4</td>
   </tr>
   <tr>
     <td class="tg-c3ow">180</td>
@@ -1658,7 +1658,7 @@ tags:
     <td class="tg-0pky">IL</td>
     <td class="tg-c3ow">18</td>
     <td class="tg-c3ow">2</td>
-    <td class="tg-0pky">4</td>
+    <td class="tg-c3ow">4</td>
   </tr>
   <tr>
     <td class="tg-abip">181</td>
@@ -1667,7 +1667,7 @@ tags:
     <td class="tg-btxf">UMAYOR</td>
     <td class="tg-abip">18</td>
     <td class="tg-abip">2</td>
-    <td class="tg-btxf">4</td>
+    <td class="tg-abip">4</td>
   </tr>
   <tr>
     <td class="tg-c3ow">182</td>
@@ -1676,7 +1676,7 @@ tags:
     <td class="tg-0pky">UDP</td>
     <td class="tg-c3ow">14</td>
     <td class="tg-c3ow">2</td>
-    <td class="tg-0pky">4</td>
+    <td class="tg-c3ow">4</td>
   </tr>
   <tr>
     <td class="tg-abip">183</td>
@@ -1685,7 +1685,7 @@ tags:
     <td class="tg-btxf">USACH</td>
     <td class="tg-abip">13</td>
     <td class="tg-abip">2</td>
-    <td class="tg-btxf">4</td>
+    <td class="tg-abip">4</td>
   </tr>
   <tr>
     <td class="tg-c3ow">184</td>
@@ -1694,7 +1694,7 @@ tags:
     <td class="tg-0pky">UDD</td>
     <td class="tg-c3ow">12</td>
     <td class="tg-c3ow">2</td>
-    <td class="tg-0pky">4</td>
+    <td class="tg-c3ow">4</td>
   </tr>
   <tr>
     <td class="tg-abip">185</td>
@@ -1703,7 +1703,7 @@ tags:
     <td class="tg-btxf">UDP</td>
     <td class="tg-abip">11</td>
     <td class="tg-abip">2</td>
-    <td class="tg-btxf">4</td>
+    <td class="tg-abip">4</td>
   </tr>
   <tr>
     <td class="tg-c3ow">186</td>
@@ -1712,7 +1712,7 @@ tags:
     <td class="tg-0pky">unk.</td>
     <td class="tg-c3ow">9</td>
     <td class="tg-c3ow">2</td>
-    <td class="tg-0pky">4</td>
+    <td class="tg-c3ow">4</td>
   </tr>
   <tr>
     <td class="tg-abip">187</td>
@@ -1721,7 +1721,7 @@ tags:
     <td class="tg-btxf">UDD</td>
     <td class="tg-abip">7</td>
     <td class="tg-abip">2</td>
-    <td class="tg-btxf">4</td>
+    <td class="tg-abip">4</td>
   </tr>
   <tr>
     <td class="tg-c3ow">188</td>
@@ -1730,7 +1730,7 @@ tags:
     <td class="tg-0pky">UDP</td>
     <td class="tg-c3ow">7</td>
     <td class="tg-c3ow">2</td>
-    <td class="tg-0pky">4</td>
+    <td class="tg-c3ow">4</td>
   </tr>
   <tr>
     <td class="tg-abip">189</td>
@@ -1739,7 +1739,7 @@ tags:
     <td class="tg-btxf">TPXimpact</td>
     <td class="tg-abip">84</td>
     <td class="tg-abip">1</td>
-    <td class="tg-btxf">4</td>
+    <td class="tg-abip">4</td>
   </tr>
   <tr>
     <td class="tg-c3ow">190</td>
@@ -1748,7 +1748,7 @@ tags:
     <td class="tg-0pky">unk.</td>
     <td class="tg-c3ow">13</td>
     <td class="tg-c3ow">1</td>
-    <td class="tg-0pky">4</td>
+    <td class="tg-c3ow">4</td>
   </tr>
   <tr>
     <td class="tg-abip">191</td>
@@ -1757,7 +1757,7 @@ tags:
     <td class="tg-btxf">UDP</td>
     <td class="tg-abip">6</td>
     <td class="tg-abip">1</td>
-    <td class="tg-btxf">4</td>
+    <td class="tg-abip">4</td>
   </tr>
   <tr>
     <td class="tg-c3ow">192</td>
@@ -1766,7 +1766,7 @@ tags:
     <td class="tg-0pky">UDP</td>
     <td class="tg-c3ow">5</td>
     <td class="tg-c3ow">1</td>
-    <td class="tg-0pky">4</td>
+    <td class="tg-c3ow">4</td>
   </tr>
   <tr>
     <td class="tg-abip">193</td>
@@ -1775,7 +1775,7 @@ tags:
     <td class="tg-btxf">PUC</td>
     <td class="tg-abip">4</td>
     <td class="tg-abip">1</td>
-    <td class="tg-btxf">4</td>
+    <td class="tg-abip">4</td>
   </tr>
   <tr>
     <td class="tg-c3ow">194</td>
@@ -1784,7 +1784,7 @@ tags:
     <td class="tg-0pky">UDP</td>
     <td class="tg-c3ow">4</td>
     <td class="tg-c3ow">1</td>
-    <td class="tg-0pky">4</td>
+    <td class="tg-c3ow">4</td>
   </tr>
   <tr>
     <td class="tg-abip">195</td>
@@ -1793,7 +1793,7 @@ tags:
     <td class="tg-btxf">UO</td>
     <td class="tg-abip">3</td>
     <td class="tg-abip">1</td>
-    <td class="tg-btxf">4</td>
+    <td class="tg-abip">4</td>
   </tr>
   <tr>
     <td class="tg-c3ow">196</td>
@@ -1802,7 +1802,7 @@ tags:
     <td class="tg-0pky">UDP</td>
     <td class="tg-c3ow">3</td>
     <td class="tg-c3ow">1</td>
-    <td class="tg-0pky">4</td>
+    <td class="tg-c3ow">4</td>
   </tr>
   <tr>
     <td class="tg-abip">197</td>
@@ -1811,7 +1811,7 @@ tags:
     <td class="tg-btxf">UAI</td>
     <td class="tg-abip">2</td>
     <td class="tg-abip">1</td>
-    <td class="tg-btxf">4</td>
+    <td class="tg-abip">4</td>
   </tr>
   <tr>
     <td class="tg-c3ow">198</td>
@@ -1820,7 +1820,7 @@ tags:
     <td class="tg-0pky">UDP</td>
     <td class="tg-c3ow">2</td>
     <td class="tg-c3ow">1</td>
-    <td class="tg-0pky">4</td>
+    <td class="tg-c3ow">4</td>
   </tr>
   <tr>
     <td class="tg-abip">199</td>
@@ -1829,7 +1829,7 @@ tags:
     <td class="tg-btxf">UAH</td>
     <td class="tg-abip">1</td>
     <td class="tg-abip">1</td>
-    <td class="tg-btxf">4</td>
+    <td class="tg-abip">4</td>
   </tr>
   <tr>
     <td class="tg-c3ow">200</td>
@@ -1838,7 +1838,7 @@ tags:
     <td class="tg-0pky">PUC</td>
     <td class="tg-c3ow">1</td>
     <td class="tg-c3ow">1</td>
-    <td class="tg-0pky">4</td>
+    <td class="tg-c3ow">4</td>
   </tr>
 </tbody></table>
 <small>Note: The affiliations have been standardised. Data collected on June 2, 2024.</small><br><br>
