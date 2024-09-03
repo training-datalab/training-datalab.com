@@ -32,12 +32,12 @@ tags:
 <table class="tg"><thead>
   <tr>
     <th class="tg-amwm">Ranking</th>
-    <th class="tg-1wig">Name</th>
+    <th class="tg-1wig">Nombre</th>
     <th class="tg-1wig">ID</th>
-    <th class="tg-1wig">Affiliation</th>
-    <th class="tg-amwm">Cites</th>
-    <th class="tg-amwm">H-Index</th>
-    <th class="tg-amwm">Quartile</th>
+    <th class="tg-1wig">Afiliación</th>
+    <th class="tg-amwm">Citas</th>
+    <th class="tg-amwm">Índice-H</th>
+    <th class="tg-amwm">Cuartil</th>
   </tr></thead>
 <tbody>
   <tr>
