@@ -25,7 +25,7 @@ We would like to thank Patricio Navia for his valuable comments and contribution
 
 <h2>Researchers to be Added</h2>
 
-1. 
+1. Rocio Zepeda Majmud (ID TvCsGuwAAAAJ).
 
 <h2>Disclaimer</h2>
 
