@@ -1,5 +1,5 @@
 ---
-title: Chilean Political Science Ranking, December 2021
+title: Ranking Chileno de Ciencia Política, diciembre 2021
 date: 2021-12-02
 authors: ["CPS-Ranking Series"]
 ## image:
@@ -45,7 +45,7 @@ tags:
     <td class="tg-buh4">David Altman</td>
     <td class="tg-buh4">xWbhhH8AAAAJ</td>
     <td class="tg-buh4">PUC-VDEM</td>
-    <td class="tg-dzk6">7,416</td>
+    <td class="tg-dzk6">7.416</td>
     <td class="tg-dzk6">40</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -54,7 +54,7 @@ tags:
     <td class="tg-0lax">Cristóbal Rovira Kaltwasser</td>
     <td class="tg-0lax">4iRjwbMAAAAJ</td>
     <td class="tg-0lax">UDP</td>
-    <td class="tg-baqh">8,967</td>
+    <td class="tg-baqh">8.967</td>
     <td class="tg-baqh">36</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -63,7 +63,7 @@ tags:
     <td class="tg-buh4">Lucia Dammert</td>
     <td class="tg-buh4">Kh9TTGwAAAAJ</td>
     <td class="tg-buh4">USACH</td>
-    <td class="tg-dzk6">5,683</td>
+    <td class="tg-dzk6">5.683</td>
     <td class="tg-dzk6">33</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -72,7 +72,7 @@ tags:
     <td class="tg-0lax">Juan Pablo Luna</td>
     <td class="tg-0lax">IgwSc8oAAAAJ</td>
     <td class="tg-0lax">PUC</td>
-    <td class="tg-baqh">3,940</td>
+    <td class="tg-baqh">3.940</td>
     <td class="tg-baqh">32</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -81,7 +81,7 @@ tags:
     <td class="tg-buh4">Patricio D Navia</td>
     <td class="tg-buh4">IBcs-ZwAAAAJ</td>
     <td class="tg-buh4">UDP-NYU</td>
-    <td class="tg-dzk6">3,856</td>
+    <td class="tg-dzk6">3.856</td>
     <td class="tg-dzk6">29</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -90,7 +90,7 @@ tags:
     <td class="tg-0lax">Peter Siavelis</td>
     <td class="tg-0lax">HGTSACIAAAAJ</td>
     <td class="tg-0lax">COES</td>
-    <td class="tg-baqh">3,940</td>
+    <td class="tg-baqh">3.940</td>
     <td class="tg-baqh">28</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -99,7 +99,7 @@ tags:
     <td class="tg-buh4">Gabriel L. Negretto</td>
     <td class="tg-buh4">AP5zUGwAAAAJ</td>
     <td class="tg-buh4">PUC</td>
-    <td class="tg-dzk6">3,162</td>
+    <td class="tg-dzk6">3.162</td>
     <td class="tg-dzk6">28</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -108,7 +108,7 @@ tags:
     <td class="tg-0lax">Carlos Huneeus</td>
     <td class="tg-0lax">Kq4dWnoAAAAJ</td>
     <td class="tg-0lax">UCHILE</td>
-    <td class="tg-baqh">3,430</td>
+    <td class="tg-baqh">3.430</td>
     <td class="tg-baqh">26</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -117,7 +117,7 @@ tags:
     <td class="tg-buh4">Alfredo Joignant</td>
     <td class="tg-buh4">C6i7344AAAAJ</td>
     <td class="tg-buh4">UDP-COES</td>
-    <td class="tg-dzk6">2,208</td>
+    <td class="tg-dzk6">2.208</td>
     <td class="tg-dzk6">26</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -126,7 +126,7 @@ tags:
     <td class="tg-0lax">Fernando Atria</td>
     <td class="tg-0lax">InrV7oEAAAAJ</td>
     <td class="tg-0lax">UCHILE</td>
-    <td class="tg-baqh">2,657</td>
+    <td class="tg-baqh">2.657</td>
     <td class="tg-baqh">25</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -135,7 +135,7 @@ tags:
     <td class="tg-buh4">Felipe Agüero</td>
     <td class="tg-buh4">JSPWdfYAAAAJ</td>
     <td class="tg-buh4">UCHILE</td>
-    <td class="tg-dzk6">2,389</td>
+    <td class="tg-dzk6">2.389</td>
     <td class="tg-dzk6">25</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -144,7 +144,7 @@ tags:
     <td class="tg-0lax">Hary Hugo Fruhling</td>
     <td class="tg-0lax">dJKWN8wAAAAJ</td>
     <td class="tg-0lax">UCHILE</td>
-    <td class="tg-baqh">2,050</td>
+    <td class="tg-baqh">2.050</td>
     <td class="tg-baqh">25</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -153,7 +153,7 @@ tags:
     <td class="tg-buh4">Claudio Fuentes</td>
     <td class="tg-buh4">ckIjzZQAAAAJ</td>
     <td class="tg-buh4">UDP</td>
-    <td class="tg-dzk6">1,838</td>
+    <td class="tg-dzk6">1.838</td>
     <td class="tg-dzk6">23</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -162,7 +162,7 @@ tags:
     <td class="tg-0lax">Mauricio Morales Quiroga</td>
     <td class="tg-0lax">BPVbhToAAAAJ</td>
     <td class="tg-0lax">UTALCA</td>
-    <td class="tg-baqh">1,491</td>
+    <td class="tg-baqh">1.491</td>
     <td class="tg-baqh">21</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -171,7 +171,7 @@ tags:
     <td class="tg-buh4">Nicolás M. Somma</td>
     <td class="tg-buh4">yyr6ge0AAAAJ</td>
     <td class="tg-buh4">PUC</td>
-    <td class="tg-dzk6">1,505</td>
+    <td class="tg-dzk6">1.505</td>
     <td class="tg-dzk6">20</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -180,7 +180,7 @@ tags:
     <td class="tg-0lax">Kirsten Sehnbruch</td>
     <td class="tg-0lax">qFLejd0AAAAJ</td>
     <td class="tg-0lax">LSE-COES</td>
-    <td class="tg-baqh">1,483</td>
+    <td class="tg-baqh">1.483</td>
     <td class="tg-baqh">20</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -189,7 +189,7 @@ tags:
     <td class="tg-buh4">Carlos Meléndez</td>
     <td class="tg-buh4">JD_X4KYAAAAJ</td>
     <td class="tg-buh4">UDP</td>
-    <td class="tg-dzk6">1,273</td>
+    <td class="tg-dzk6">1.273</td>
     <td class="tg-dzk6">18</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -198,7 +198,7 @@ tags:
     <td class="tg-0lax">Egon Montecinos</td>
     <td class="tg-0lax">NcxMjkAAAAAJ</td>
     <td class="tg-0lax">UACH</td>
-    <td class="tg-baqh">1,176</td>
+    <td class="tg-baqh">1.176</td>
     <td class="tg-baqh">18</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -216,7 +216,7 @@ tags:
     <td class="tg-0lax">Pierre Ostiguy</td>
     <td class="tg-0lax">CdsiN9QAAAAJ</td>
     <td class="tg-0lax">UVALPO</td>
-    <td class="tg-baqh">1,638</td>
+    <td class="tg-baqh">1.638</td>
     <td class="tg-baqh">16</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -225,7 +225,7 @@ tags:
     <td class="tg-buh4">Javier Couso</td>
     <td class="tg-buh4">r0EzJ_IAAAAJ</td>
     <td class="tg-buh4">UDP</td>
-    <td class="tg-dzk6">1,345</td>
+    <td class="tg-dzk6">1.345</td>
     <td class="tg-dzk6">16</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -234,7 +234,7 @@ tags:
     <td class="tg-0lax">Mauricio Olavarría-Gambi</td>
     <td class="tg-0lax">yXeMPpEAAAAJ</td>
     <td class="tg-0lax">USACH</td>
-    <td class="tg-baqh">1,192</td>
+    <td class="tg-baqh">1.192</td>
     <td class="tg-baqh">16</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -243,7 +243,7 @@ tags:
     <td class="tg-buh4">Leslie Wehner</td>
     <td class="tg-buh4">8jxM4fcAAAAJ</td>
     <td class="tg-buh4">UOB</td>
-    <td class="tg-dzk6">1,125</td>
+    <td class="tg-dzk6">1.125</td>
     <td class="tg-dzk6">16</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -261,7 +261,7 @@ tags:
     <td class="tg-buh4">Arturo Arriagada</td>
     <td class="tg-buh4">TzPYdWsAAAAJ</td>
     <td class="tg-buh4">UAI</td>
-    <td class="tg-dzk6">1,445</td>
+    <td class="tg-dzk6">1.445</td>
     <td class="tg-dzk6">15</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -450,7 +450,7 @@ tags:
     <td class="tg-0lax">Aldo Madariaga</td>
     <td class="tg-0lax">n0UQqa4AAAAJ</td>
     <td class="tg-0lax">UDP</td>
-    <td class="tg-baqh">1,092</td>
+    <td class="tg-baqh">1.092</td>
     <td class="tg-baqh">10</td>
     <td class="tg-baqh">2</td>
   </tr>
@@ -1580,16 +1580,16 @@ tags:
     <td class="tg-dzk6">4</td>
   </tr>
 </tbody></table>
-<small>Note: The affiliations have been standardised. Data collected on December 2, 2021.</small><br><br>
+<small>Nota: Las afiliaciones se han estandarizado. Datos recogidos el 2 de diciembre de 2021.</small><br><br>
 
-**Disclaimer**
+**Descargo de responsabilidad**
 
-Please bear in mind that this citation data comes from own user-created profiles on Google Scholar, whose coverage is not as rigorous as Scopus or Web of Science. In addition, the main ranking criterion is the H-Index, which has some limitations and is subject to bias and manipulation in some cases. Our quarterly ranking elaboration does not involve rearranging data, we focus on ordering the list by H-Index and citation.
+Tenga en cuenta que estos datos de citas proceden de perfiles creados por los propios usuarios en Google Scholar, cuya cobertura no es tan rigurosa como la de Scopus o Web of Science. Además, el principal criterio de clasificación es el índice H, que tiene algunas limitaciones y está sujeto a sesgos y manipulaciones en algunos casos. Nuestra elaboración trimestral de la clasificación no implica reordenar los datos, sino que nos centramos en ordenar la lista por índice H y citación.
 
-**Would you like to suggest someone?**
+**¿Quiere sugerir a alguien?**
 
-Please send an email to cps-ranking@training-datalab.com.
+Envíe un correo electrónico a cps-ranking@training-datalab.com.
 
-**How to cite this dataset?**
+**¿Cómo citar esta base de datos?**
 
-[González-Bustamante, B.]({{< relref "../authors/bgonzalezbustamante" >}}), [Olivares, A.]({{< relref "../authors/aolivares" >}}), [Cisternas, C.]({{< relref "../authors/ccisternas" >}}), & [Cuevas, R.]({{< relref "../authors/rcuevas" >}}) (2021). Chilean Political Science Ranking. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. http://doi.org/10.17605/OSF.IO/C8PRA.
+[González-Bustamante, B.]({{< relref "../authors/bgonzalezbustamante" >}}), [Olivares, A.]({{< relref "../authors/aolivares" >}}), [Cisternas, C.]({{< relref "../authors/ccisternas" >}}), & [Cuevas, R.]({{< relref "../authors/rcuevas" >}}) (2021). Chilean Political Science Ranking. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH) y Training Data Lab. http://doi.org/10.17605/OSF.IO/C8PRA.
