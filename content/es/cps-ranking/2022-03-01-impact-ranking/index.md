@@ -1,5 +1,5 @@
 ---
-title: Chilean Political Science Ranking, March 2022
+title: Ranking Chileno de Ciencia Política, marzo 2022
 date: 2022-03-01
 authors: ["CPS-Ranking Series"]
 ## image:
@@ -32,12 +32,12 @@ tags:
 <table class="tg"><thead>
   <tr>
     <th class="tg-amwm">Ranking</th>
-    <th class="tg-1wig">Name</th>
+    <th class="tg-1wig">Nombre</th>
     <th class="tg-1wig">ID</th>
-    <th class="tg-1wig">Affiliation</th>
-    <th class="tg-amwm">Cites</th>
-    <th class="tg-amwm">H-Index</th>
-    <th class="tg-amwm">Quartile</th>
+    <th class="tg-1wig">Afiliación</th>
+    <th class="tg-amwm">Citas</th>
+    <th class="tg-amwm">Índice-H</th>
+    <th class="tg-amwm">Cuartil</th>
   </tr></thead>
 <tbody>
   <tr>
@@ -45,7 +45,7 @@ tags:
     <td class="tg-buh4">David Altman</td>
     <td class="tg-buh4">xWbhhH8AAAAJ</td>
     <td class="tg-buh4">PUC-VDEM</td>
-    <td class="tg-dzk6">7,764</td>
+    <td class="tg-dzk6">7.764</td>
     <td class="tg-dzk6">41</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -54,7 +54,7 @@ tags:
     <td class="tg-0lax">Cristóbal Rovira Kaltwasser</td>
     <td class="tg-0lax">4iRjwbMAAAAJ</td>
     <td class="tg-0lax">UDP</td>
-    <td class="tg-baqh">10,055</td>
+    <td class="tg-baqh">10.055</td>
     <td class="tg-baqh">36</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -63,7 +63,7 @@ tags:
     <td class="tg-buh4">Lucia Dammert</td>
     <td class="tg-buh4">Kh9TTGwAAAAJ</td>
     <td class="tg-buh4">USACH</td>
-    <td class="tg-dzk6">3,899</td>
+    <td class="tg-dzk6">3.899</td>
     <td class="tg-dzk6">33</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -72,7 +72,7 @@ tags:
     <td class="tg-0lax">Juan Pablo Luna</td>
     <td class="tg-0lax">IgwSc8oAAAAJ</td>
     <td class="tg-0lax">PUC</td>
-    <td class="tg-baqh">4,099</td>
+    <td class="tg-baqh">4.099</td>
     <td class="tg-baqh">32</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -81,7 +81,7 @@ tags:
     <td class="tg-buh4">Patricio D Navia</td>
     <td class="tg-buh4">IBcs-ZwAAAAJ</td>
     <td class="tg-buh4">UDP-NYU</td>
-    <td class="tg-dzk6">4,001</td>
+    <td class="tg-dzk6">4.001</td>
     <td class="tg-dzk6">30</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -90,7 +90,7 @@ tags:
     <td class="tg-0lax">Peter Siavelis</td>
     <td class="tg-0lax">HGTSACIAAAAJ</td>
     <td class="tg-0lax">COES</td>
-    <td class="tg-baqh">4,050</td>
+    <td class="tg-baqh">4.050</td>
     <td class="tg-baqh">29</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -99,7 +99,7 @@ tags:
     <td class="tg-buh4">Gabriel L. Negretto</td>
     <td class="tg-buh4">AP5zUGwAAAAJ</td>
     <td class="tg-buh4">PUC</td>
-    <td class="tg-dzk6">3,243</td>
+    <td class="tg-dzk6">3.243</td>
     <td class="tg-dzk6">28</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -108,7 +108,7 @@ tags:
     <td class="tg-0lax">Carlos Huneeus</td>
     <td class="tg-0lax">Kq4dWnoAAAAJ</td>
     <td class="tg-0lax">UCHILE</td>
-    <td class="tg-baqh">3,589</td>
+    <td class="tg-baqh">3.589</td>
     <td class="tg-baqh">26</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -117,7 +117,7 @@ tags:
     <td class="tg-buh4">Fernando Atria</td>
     <td class="tg-buh4">InrV7oEAAAAJ</td>
     <td class="tg-buh4">UCHILE</td>
-    <td class="tg-dzk6">2,743</td>
+    <td class="tg-dzk6">2.743</td>
     <td class="tg-dzk6">26</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -126,7 +126,7 @@ tags:
     <td class="tg-0lax">Alfredo Joignant</td>
     <td class="tg-0lax">C6i7344AAAAJ</td>
     <td class="tg-0lax">UDP-COES</td>
-    <td class="tg-baqh">2,315</td>
+    <td class="tg-baqh">2.315</td>
     <td class="tg-baqh">26</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -135,7 +135,7 @@ tags:
     <td class="tg-buh4">Hary Hugo Fruhling</td>
     <td class="tg-buh4">dJKWN8wAAAAJ</td>
     <td class="tg-buh4">UCHILE</td>
-    <td class="tg-dzk6">1,990</td>
+    <td class="tg-dzk6">1.990</td>
     <td class="tg-dzk6">25</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -144,7 +144,7 @@ tags:
     <td class="tg-0lax">Felipe Agüero</td>
     <td class="tg-0lax">JSPWdfYAAAAJ</td>
     <td class="tg-0lax">UCHILE</td>
-    <td class="tg-baqh">2,418</td>
+    <td class="tg-baqh">2.418</td>
     <td class="tg-baqh">24</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -153,7 +153,7 @@ tags:
     <td class="tg-buh4">Claudio Fuentes</td>
     <td class="tg-buh4">ckIjzZQAAAAJ</td>
     <td class="tg-buh4">UDP</td>
-    <td class="tg-dzk6">1,863</td>
+    <td class="tg-dzk6">1.863</td>
     <td class="tg-dzk6">24</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -162,7 +162,7 @@ tags:
     <td class="tg-0lax">Mauricio Morales Quiroga</td>
     <td class="tg-0lax">BPVbhToAAAAJ</td>
     <td class="tg-0lax">UTALCA</td>
-    <td class="tg-baqh">1,598</td>
+    <td class="tg-baqh">1.598</td>
     <td class="tg-baqh">23</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -171,7 +171,7 @@ tags:
     <td class="tg-buh4">Kirsten Sehnbruch</td>
     <td class="tg-buh4">qFLejd0AAAAJ</td>
     <td class="tg-buh4">LSE-COES</td>
-    <td class="tg-dzk6">1,619</td>
+    <td class="tg-dzk6">1.619</td>
     <td class="tg-dzk6">22</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -180,7 +180,7 @@ tags:
     <td class="tg-0lax">Nicolás M. Somma</td>
     <td class="tg-0lax">yyr6ge0AAAAJ</td>
     <td class="tg-0lax">PUC</td>
-    <td class="tg-baqh">1,616</td>
+    <td class="tg-baqh">1.616</td>
     <td class="tg-baqh">22</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -189,7 +189,7 @@ tags:
     <td class="tg-buh4">Egon Montecinos</td>
     <td class="tg-buh4">NcxMjkAAAAAJ</td>
     <td class="tg-buh4">UACH</td>
-    <td class="tg-dzk6">1,267</td>
+    <td class="tg-dzk6">1.267</td>
     <td class="tg-dzk6">20</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -198,7 +198,7 @@ tags:
     <td class="tg-0lax">Carlos Meléndez</td>
     <td class="tg-0lax">JD_X4KYAAAAJ</td>
     <td class="tg-0lax">UDP</td>
-    <td class="tg-baqh">1,319</td>
+    <td class="tg-baqh">1.319</td>
     <td class="tg-baqh">19</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -216,7 +216,7 @@ tags:
     <td class="tg-0lax">Pierre Ostiguy</td>
     <td class="tg-0lax">CdsiN9QAAAAJ</td>
     <td class="tg-0lax">UVALPO</td>
-    <td class="tg-baqh">1,761</td>
+    <td class="tg-baqh">1.761</td>
     <td class="tg-baqh">16</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -225,7 +225,7 @@ tags:
     <td class="tg-buh4">Javier Couso</td>
     <td class="tg-buh4">r0EzJ_IAAAAJ</td>
     <td class="tg-buh4">UDP</td>
-    <td class="tg-dzk6">1,412</td>
+    <td class="tg-dzk6">1.412</td>
     <td class="tg-dzk6">16</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -234,7 +234,7 @@ tags:
     <td class="tg-0lax">Mauricio Olavarría-Gambi</td>
     <td class="tg-0lax">yXeMPpEAAAAJ</td>
     <td class="tg-0lax">USACH</td>
-    <td class="tg-baqh">1,259</td>
+    <td class="tg-baqh">1.259</td>
     <td class="tg-baqh">16</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -243,7 +243,7 @@ tags:
     <td class="tg-buh4">Leslie Wehner</td>
     <td class="tg-buh4">8jxM4fcAAAAJ</td>
     <td class="tg-buh4">UOB</td>
-    <td class="tg-dzk6">1,182</td>
+    <td class="tg-dzk6">1.182</td>
     <td class="tg-dzk6">16</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -261,7 +261,7 @@ tags:
     <td class="tg-buh4">Arturo Arriagada</td>
     <td class="tg-buh4">TzPYdWsAAAAJ</td>
     <td class="tg-buh4">UAI</td>
-    <td class="tg-dzk6">1,503</td>
+    <td class="tg-dzk6">1.503</td>
     <td class="tg-dzk6">15</td>
     <td class="tg-dzk6">1</td>
   </tr>
@@ -360,7 +360,7 @@ tags:
     <td class="tg-0lax">Aldo Madariaga</td>
     <td class="tg-0lax">n0UQqa4AAAAJ</td>
     <td class="tg-0lax">UDP</td>
-    <td class="tg-baqh">1,135</td>
+    <td class="tg-baqh">1.135</td>
     <td class="tg-baqh">12</td>
     <td class="tg-baqh">1</td>
   </tr>
@@ -1580,16 +1580,16 @@ tags:
     <td class="tg-dzk6">4</td>
   </tr>
 </tbody></table>
-<small>Note: The affiliations have been standardised. Data collected on March 1, 2022.</small><br><br>
+<small>Nota: Las afiliaciones se han estandarizado. Datos recogidos el 1 de marzo de 2022.</small><br><br>
 
-**Disclaimer**
+**Descargo de responsabilidad**
 
-Please bear in mind that this citation data comes from own user-created profiles on Google Scholar, whose coverage is not as rigorous as Scopus or Web of Science. In addition, the main ranking criterion is the H-Index, which has some limitations and is subject to bias and manipulation in some cases. Our quarterly ranking elaboration does not involve rearranging data, we focus on ordering the list by H-Index and citation.
+Tenga en cuenta que estos datos de citas proceden de perfiles creados por los propios usuarios en Google Scholar, cuya cobertura no es tan rigurosa como la de Scopus o Web of Science. Además, el principal criterio de clasificación es el índice H, que tiene algunas limitaciones y está sujeto a sesgos y manipulaciones en algunos casos. Nuestra elaboración trimestral de la clasificación no implica reordenar los datos, sino que nos centramos en ordenar la lista por índice H y citación.
 
-**Would you like to suggest someone?**
+**¿Quiere sugerir a alguien?**
 
-Please send an email to cps-ranking@training-datalab.com.
+Envíe un correo electrónico a cps-ranking@training-datalab.com.
 
-**How to cite this dataset?**
+**¿Cómo citar esta base de datos?**
 
-[González-Bustamante, B.]({{< relref "../authors/bgonzalezbustamante" >}}), [Olivares, A.]({{< relref "../authors/aolivares" >}}), [Cisternas, C.]({{< relref "../authors/ccisternas" >}}), & [Cuevas, R.]({{< relref "../authors/rcuevas" >}}) (2022). Chilean Political Science Ranking. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. http://doi.org/10.17605/OSF.IO/C8PRA.
+[González-Bustamante, B.]({{< relref "../authors/bgonzalezbustamante" >}}), [Olivares, A.]({{< relref "../authors/aolivares" >}}), [Cisternas, C.]({{< relref "../authors/ccisternas" >}}), & [Cuevas, R.]({{< relref "../authors/rcuevas" >}}) (2022). Chilean Political Science Ranking. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH) y Training Data Lab. http://doi.org/10.17605/OSF.IO/C8PRA.
