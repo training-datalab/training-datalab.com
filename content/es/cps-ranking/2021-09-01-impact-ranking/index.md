@@ -1,5 +1,5 @@
 ---
-title: Chilean Political Science Ranking, September 2021
+title: Ranking Chileno de Ciencia Política, septiembre 2021
 date: 2021-09-01
 authors: ["CPS-Ranking Series"]
 ## image:
@@ -32,12 +32,12 @@ tags:
 <table class="tg"><thead>
   <tr>
     <th class="tg-amwm">Ranking</th>
-    <th class="tg-1wig">Name</th>
+    <th class="tg-1wig">Nombre</th>
     <th class="tg-1wig">ID</th>
-    <th class="tg-1wig">Affiliation</th>
-    <th class="tg-amwm">Cites</th>
-    <th class="tg-amwm">H-Index</th>
-    <th class="tg-amwm">Quartile</th>
+    <th class="tg-1wig">Afiliación</th>
+    <th class="tg-amwm">Citas</th>
+    <th class="tg-amwm">Índice-H</th>
+    <th class="tg-amwm">Cuartil</th>
   </tr></thead>
 <tbody>
   <tr>
@@ -1562,16 +1562,16 @@ tags:
     <td class="tg-dzk6">4</td>
   </tr>
 </tbody></table>
-<small>Note: The affiliations have been standardised. Data collected on September 1, 2021.</small><br><br>
+<small>Nota: Las afiliaciones se han estandarizado. Datos recogidos el 1 de septiembre de 2021.</small><br><br>
 
-**Disclaimer**
+**Descargo de responsabilidad**
 
-Please bear in mind that this citation data comes from own user-created profiles on Google Scholar, whose coverage is not as rigorous as Scopus or Web of Science. In addition, the main ranking criterion is the H-Index, which has some limitations and is subject to bias and manipulation in some cases. Our quarterly ranking elaboration does not involve rearranging data, we focus on ordering the list by H-Index and citation.
+Tenga en cuenta que estos datos de citas proceden de perfiles creados por los propios usuarios en Google Scholar, cuya cobertura no es tan rigurosa como la de Scopus o Web of Science. Además, el principal criterio de clasificación es el Índice-H, que tiene algunas limitaciones y está sujeto a sesgos y manipulaciones en algunos casos. Nuestra elaboración trimestral de la clasificación no implica reordenar los datos, sino que nos centramos en ordenar la lista por Índice-H y citación.
 
-**Would you like to suggest someone?**
+**¿Quiere sugerir a alguien?**
 
-Please send an email to cps-ranking@training-datalab.com.
+Envíe un correo electrónico a cps-ranking@training-datalab.com.
 
-**How to cite this dataset?**
+**¿Cómo citar esta base de datos?**
 
-[González-Bustamante, B.]({{< relref "../authors/bgonzalezbustamante" >}}), [Olivares, A.]({{< relref "../authors/aolivares" >}}), [Cisternas, C.]({{< relref "../authors/ccisternas" >}}), & [Cuevas, R.]({{< relref "../authors/rcuevas" >}}) (2021). Chilean Political Science Ranking. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. http://doi.org/10.17605/OSF.IO/C8PRA.
+[González-Bustamante, B.]({{< relref "../authors/bgonzalezbustamante" >}}), [Olivares, A.]({{< relref "../authors/aolivares" >}}), [Cisternas, C.]({{< relref "../authors/ccisternas" >}}), & [Cuevas, R.]({{< relref "../authors/rcuevas" >}}) (2021). Chilean Political Science Ranking. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH) y Training Data Lab. http://doi.org/10.17605/OSF.IO/C8PRA.
