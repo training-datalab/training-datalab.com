@@ -30,7 +30,7 @@ sections:
 
           <div class="ml-3"><a href="/en/cps-ranking/"><img src="/cps-ranking.png" style="width: 150px; float: right; margin-left: 30px"></a></div> <div class="section-subheading article-title mb-0 mt-0"><a href="/en/cps-ranking/">Ranking Chileno de Ciencia Política (CPS-Ranking)</a></div>
 
-           <p><font size="3">Este ranking de <strong>ciencia política en Chile</strong> es uno de nuestros proyectos emblemáticos. Presenta un grupo de investigadores en distintas etapas de su carrera ordenados por <strong>índice H</strong> y utiliza el número de citas acumuladas como criterio de desempate. Se basa en Google Scholar y pronto cumplirá cinco años con <strong>series temporales trimestrales</strong>.</font></p>
+           <p><font size="3">Este ranking de <strong>ciencia política en Chile</strong> es uno de nuestros proyectos emblemáticos. Presenta un grupo de investigadores en distintas etapas de su carrera ordenados por <strong>Índice-H</strong> y utiliza el número de citas acumuladas como criterio de desempate. Se basa en Google Scholar y pronto cumplirá cinco años con <strong>series temporales trimestrales</strong>.</font></p>
 
            <p><i class="fas fa-newspaper"></i> <font size="3"><a href="https://zcmp.eu/e28J">¡Recibe las actualizaciones en tu email!</a></font></p>
     design:
