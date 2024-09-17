@@ -1,5 +1,5 @@
 ---
-title: 'Identificando la toxicidad en la esfera digital: Bastián González-Bustamante presenta su Trabajo en el 8th Monash-Warwick-Zurich Text-as-Data Workshop'
+title: 'Identificando la toxicidad en la esfera digital: Bastián González-Bustamante presenta su trabajo en el 8th Monash-Warwick-Zurich Text-as-Data Workshop'
 date: '2024-09-17'
 authors: ["ollama"]
 image:
