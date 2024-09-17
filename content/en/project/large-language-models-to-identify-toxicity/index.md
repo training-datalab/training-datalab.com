@@ -37,5 +37,8 @@ Our results shall provide a relevant comparison of the performance of different 
 
 * González-Bustamante, B. (2023). [Digital Activism, Protests and Incivility in Latin America](https://doi.org/10.17605/OSF.IO/Q4G6P). Research project, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab.
 * Blog post: [Training Data Lab participates in the XII Latin American Congress of Political Science]({{< relref "../post/2024-07-25-xii-latin-american-congress-of-political-science" >}}).
+* González-Bustamante, B. (2024). [Benchmarking LLMs in Political Content Text-Annotation: Proof-of-Concept with Toxicity and Incivility Data](https://doi.org/10.48550/arXiv.2409.09741). arXiv Preprint.
+* Blog post: [Identifying Toxicity in the Digital Sphere: Bastián González-Bustamante presents his Work at the 8th Monash-Warwick-Zurich Text-as-Data Workshop]({{< relref "../post/2024-09-17-identifying-toxicity-in-the-digital-sphere" >}}).
 
-_Last updated: 25 July 2024._
+
+_Last updated: 17 September 2024._
