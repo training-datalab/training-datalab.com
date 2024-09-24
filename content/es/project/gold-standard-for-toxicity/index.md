@@ -40,5 +40,6 @@ Las metas de relevancia de este proyecto son dos presentaciones en congresos (ju
 **Recursos**
 
 * Entrada del blog: [Training Data Lab participa en el XII Congreso Latinoamericano de Ciencia Política]({{< relref "../post/2024-07-25-xii-latin-american-congress-of-political-science" >}}).
+* González-Bustamante, B., & Rivera, S. (2024). [Annotated Data in Spanish for Toxicity and Insults in Digital Social Networks]({{< relref "../publication/2024-06-27-annotated-data-in-spanish-for-toxicity-and-insults-in-digital-social-networks" >}}). Dataset, versión preliminar 0.3.3 -- Purple Butterfly. Leiden University, Universidad Diego Portales, University of California Irvine y Training Data Lab.
 
-_Última actualización: 25 de julio de 2024._
+_Última actualización: 24 de septiembre de 2024._
