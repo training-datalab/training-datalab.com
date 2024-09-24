@@ -20,7 +20,7 @@ doi: ''
 # Publication type.
 publication_types: ['dataset']
 
-publication: 'Dataset versión preliminar bajo accceso restringido 1.13.19 -- Bold Lab. University of Oxford, Universidad de Santiago de Chile (USACH) y Training Data Lab'
+publication: 'Dataset, versión preliminar bajo accceso restringido 1.13.19 -- Bold Lab, University of Oxford, Universidad de Santiago de Chile (USACH) y Training Data Lab'
 publication_short: ''
 abstract: 'Este repositorio contiene un novedoso conjunto de datos de altos directivos públicos en Chile durante el período 2009-2017. Esta es una versión previa a la publicación del conjunto de datos bajo acceso restringido.'
 summary: ''

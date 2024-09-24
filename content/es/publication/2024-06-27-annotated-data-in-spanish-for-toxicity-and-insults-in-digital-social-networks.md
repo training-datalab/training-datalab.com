@@ -19,7 +19,7 @@ doi: ''
 # Publication type.
 publication_types: ['dataset']
 
-publication: 'Dataset versión preliminar v0.3.3 -- Purple Butterfly. Leiden University, Universidad Diego Portales, University of California Irvine y Training Data Lab'
+publication: 'Dataset, versión preliminar v0.3.3 -- Purple Butterfly, Leiden University, Universidad Diego Portales, University of California Irvine y Training Data Lab'
 publication_short: ''
 abstract: 'Este repositorio contiene conjuntos de datos y materiales para una elaboración estándar de oro sobre toxicidad e incivilidad en la esfera digital basada en la codificación humana para evaluar comparativamente las tareas de clasificación algorítmica con transformadores y LLMs. El progreso del etiquetado es del 62%. Estamos etiquetando dos muestras de nuevos conjuntos de datos de interacciones políticas digitales en Twitter (rebautizado como X). El primer conjunto comprende casi 5 millones de puntos de datos de tres eventos de protesta latinoamericanos: (a) protestas contra el coronavirus y las medidas de reforma judicial en Argentina durante agosto de 2020; (b) protestas contra los recortes presupuestarios en educación en Brasil en mayo de 2019; y (c) el estallido social en Chile derivado de las protestas contra la subida de la tarifa del metro en octubre de 2019. Nos centramos en las interacciones en español para elaborar un patrón oro de interacciones digitales en este idioma, por lo que priorizamos los datos argentinos y chilenos. El segundo conjunto contiene más de 31 millones de mensajes y más de 9 millones de interacciones entre 2010 y 2022, que cubren la elección de los miembros de la primera Convención Constitucional en Chile, el proceso de redacción y el referéndum en el que se rechazó la propuesta.'
 summary: ''

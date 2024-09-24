@@ -19,7 +19,7 @@ doi: ''
 # Publication type.
 publication_types: ['dataset']
 
-publication: 'Dataset versión preliminar 0.21.15 -- Late Sky. University of Oxford, Universidad de Santiago de Chile (USACH) y Training Data Lab'
+publication: 'Dataset, versión preliminar 0.21.15 -- Late Sky, University of Oxford, Universidad de Santiago de Chile (USACH) y Training Data Lab'
 publication_short: ''
 abstract: 'Este repositorio contiene un conjunto de datos en progreso (20%) sobre indicadores de gobiernos locales en Chile entre 2010 y 2021, con un indicador de gobierno electrónico (EGI) en 2016, 2019 y 2021 en formato CSV Comma-Separated Values con codificación Unicode UTF-8.'
 summary: ''

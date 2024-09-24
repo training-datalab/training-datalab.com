@@ -38,6 +38,6 @@ Las imágenes se convirtieron a un formato de texto manejable a través del proc
 
 **¿Cómo citar esta base de datos?**
 
-* González-Bustamante, B., Astete, M., & Orvenes, B. (2021). Survival of the Senior Civil Servants in the Chilean Executive Branch. Dataset, versión preliminar bajo acceso restringido, 1.13.19 -- Bold Lab, University of Oxford, Universidad de Santiago de Chile (USACH) y Training Data Lab. https://doi.org/10.5281/zenodo.8115596.
+* González-Bustamante, B., Astete, M., & Orvenes, B. (2021). [Survival of the Senior Civil Servants in the Chilean Executive Branch]({{< relref "../publication/2021-11-17-survival-of-the-senior-civil-servants-in-the-chilean-executive-branch" >}}). Dataset, versión preliminar bajo acceso restringido 1.13.19 -- Bold Lab, University of Oxford, Universidad de Santiago de Chile (USACH) y Training Data Lab.
 
 _Última actualización: 6 de julio de 2023._

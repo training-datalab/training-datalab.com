@@ -20,7 +20,7 @@ doi: ''
 # Publication type.
 publication_types: ['dataset']
 
-publication: 'Dataset pre-release version under restricted access 1.13.19 -- Bold Lab. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab'
+publication: 'Dataset, pre-release version under restricted access 1.13.19 -- Bold Lab, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab'
 publication_short: ''
 abstract: 'This repository contains a novel data set of senior public managers in Chile during the 2009-2017 period. This is a pre-release version of the dataset under restricted access.'
 summary: ''
