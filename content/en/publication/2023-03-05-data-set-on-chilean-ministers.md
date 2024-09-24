@@ -19,7 +19,7 @@ doi: ''
 # Publication type.
 publication_types: ['dataset']
 
-publication: 'Dataset version 3.3.7 -- Soft Dew. University of Oxford, Universidad de Santiago de Chile (USACH), Universidad Mayor, Training Data Lab'
+publication: 'Dataset version 3.3.7 -- Soft Dew. University of Oxford, Universidad de Santiago de Chile (USACH), Universidad Mayor and Training Data Lab'
 publication_short: ''
 abstract: 'This repository contains a data set on Chilean ministers between 1990 and 2014 in Comma-Separated Values (CSV) format with Unicode encoding (UTF-8). The data collection was carried out based on official sources such as archives of Congress and ministries, the National Library, and press archives.'
 summary: ''
