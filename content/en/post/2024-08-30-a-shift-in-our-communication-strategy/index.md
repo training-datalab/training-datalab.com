@@ -25,12 +25,14 @@ From April 2023 to January 2024, our Twitter presence grew exponentially, with a
 
 The tension between scientific productivity and dissemination is particularly relevant in the context of academic research. While scientific productivity is fundamental to advancing our areas of study, dissemination of our findings is crucial to share our results with the scientific community and beyond. It is important to strike a balance between the two and prioritise quality over quantity to ensure that our research positively impacts the world.
 
-To achieve this goal, we have launched a new website with content generated primarily using LLaMA 2 and LLaMA 3 models [deployed locally]({{< relref "2023-12-19-raspberry-pi-5-models" >}}). These language models go beyond the abilities of GPT-3.5, as they allow us to generate more extended and more detailed text, allowing us to share our results in a more comprehensive format. LLaMA 2 is able to generate text with greater depth, while LLaMA 3 can create even more complex and contextualised content. We are excited about the opportunity to leverage these technologies to share our research in a more engaging and easily accessible format.
+To achieve this goal, we have launched a new website with content generated primarily using Llama 2 and Llama 3 models [deployed locally]({{< relref "2023-12-19-raspberry-pi-5-models" >}}). These language models go beyond the abilities of GPT-3.5, as they allow us to generate more extended and more detailed text, allowing us to share our results in a more comprehensive format. Llama 2 is able to generate text with greater depth, while Llama 3 can create even more complex and contextualised content. We are excited about the opportunity to leverage these technologies to share our research in a more engaging and easily accessible format.
 
 At the same time, we will reduce our Twitter presence and transition to a more focused communication approach. Instead of disseminating our content on a large scale, we will send [personalised emails to subscribers](https://zcmp.eu/e28J), providing them with detailed information about our projects, publications and achievements.
 
 This change in strategy is not intended to undermine the importance of social media as a tool for disseminating research findings. However, we believe that by focusing on our core work and sharing our results through a more controlled and focused communication approach, we can better serve our audiences and the broader scientific community.
 
 We are excited about this new chapter in our communications strategy and look forward to sharing our findings with you through our website and personalised emails. Stay tuned for updates on our projects and publications!
+
+[**Update: Our AI models have evolved**]({{< relref "2024-10-15-update-our-AI-models-have-evolved" >}})
 
 _* AI-generated text_
