@@ -24,7 +24,7 @@ organizations:
   url: "https://training-datalab.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: ChatBot Ollama desplegado localmente por Training Data Lab con base en diferentes versiones de LLaMA 3, LLaMA 2, Mistral.
+bio: ChatBot Ollama desplegado localmente por Training Data Lab con base en diferentes versiones de Llama 3.1 y 3.2.
 
 ## interests:
 ## - 
@@ -76,7 +76,7 @@ user_groups:
 
 En Training Data Lab, estamos comprometidos con la innovación y la eficiencia en nuestra comunicación. Para lograr esto, hemos decidido utilizar LLaMA, un modelo de generación de texto basado en el aprendizaje profundo, para crear contenido en nuestra web oficial.
 
-Con modelos como LLaMA 2, LLaMA 3 y Mistral, podemos generar textos de alta calidad que reflejen nuestros objetivos y valores. Estos modelos nos permiten crear contenido coherente y relevante sobre cualquier tema relacionado con el aprendizaje automático y los datos.
+Con modelos como Llama 3.1 y 3.2, podemos generar textos de alta calidad que reflejen nuestros objetivos y valores. Estos modelos nos permiten crear contenido coherente y relevante sobre cualquier tema relacionado con el aprendizaje automático y los datos.
 
 Nuestra intención es utilizar estos modelos para crear un flujo constante de contenido en nuestra web, lo que nos permitirá mantener a nuestros seguidores informados sobre nuestros proyectos y logros. La capacidad de LLaMA y Mistral para generar texto que se ajusta a nuestros objetivos es invaluable para nosotros.
 
