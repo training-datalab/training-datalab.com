@@ -40,6 +40,6 @@ Our results shall provide a relevant comparison of the performance of different 
 * González-Bustamante, B., & Rivera, S. (2024). [Annotated Data in Spanish for Toxicity and Insults in Digital Social Networks]({{< relref "../publication/2024-06-27-annotated-data-in-spanish-for-toxicity-and-insults-in-digital-social-networks" >}}). Dataset, pre-release version 0.3.3 -- Purple Butterfly, Leiden University, Universidad Diego Portales, University of California Irvine and Training Data Lab.
 * González-Bustamante, B. (2024). [Benchmarking LLMs in Political Content Text-Annotation: Proof-of-Concept with Toxicity and Incivility Data](https://doi.org/10.48550/arXiv.2409.09741). arXiv preprint.
 * Blog post: [Identifying Toxicity in the Digital Sphere: Bastián González-Bustamante presents his work at the 8th Monash-Warwick-Zurich Text-as-Data Workshop]({{< relref "../post/2024-09-17-identifying-toxicity-in-the-digital-sphere" >}}).
+* Blog post: [Digital Incivility in Political Deliberation: The Case of the Chilean Constitutional Convention]({{< relref "../post/2024-10-28-digital-incivility-in-political-deliberation" >}}).
 
-
-_Last updated: 24 September 2024._
+_Last updated: 28 October 2024._

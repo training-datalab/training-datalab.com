@@ -41,5 +41,6 @@ The project's milestones of relevance are two conference presentations (July 202
 
 * Blog post: [Training Data Lab participates in the XII Latin American Congress of Political Science]({{< relref "../post/2024-07-25-xii-latin-american-congress-of-political-science" >}}).
 * González-Bustamante, B., & Rivera, S. (2024). [Annotated Data in Spanish for Toxicity and Insults in Digital Social Networks]({{< relref "../publication/2024-06-27-annotated-data-in-spanish-for-toxicity-and-insults-in-digital-social-networks" >}}). Dataset, pre-release version 0.3.3 -- Purple Butterfly, Leiden University, Universidad Diego Portales, University of California Irvine and Training Data Lab.
+* Blog post: [Digital Incivility in Political Deliberation: The Case of the Chilean Constitutional Convention]({{< relref "../post/2024-10-28-digital-incivility-in-political-deliberation" >}}).
 
-_Last updated: 24 September 2024._
+_Last updated: 28 October 2024._
