@@ -12,7 +12,7 @@ address:
   ## postcode: ''
   country: 
 
-summary: 'This coming Friday 15 November, between 15.00 and 17.00 hours (Chilean time), our Training Data Lab research team will meet virtually to celebrate our fourth annual workshop. In this meeting, we will focus on three areas of specialisation: data mining, econometric modelling and machine learning with artificial intelligence.'
+summary: 'This coming Friday 15 November, between 15:00 and 17:00 hours (Chilean time), our Training Data Lab research team will meet virtually to celebrate our fourth annual workshop. In this meeting, we will focus on three areas of specialisation: data mining, econometric modelling and machine learning with artificial intelligence.'
 abstract: ''
 
 # Talk start and end times.
@@ -58,7 +58,7 @@ slides:
 projects:
 ---
 
-This coming Friday 15 November, between 15.00 and 17.00 hours (Chilean time), our Training Data Lab research team will meet virtually to celebrate our fourth annual workshop. In this meeting, we will focus on three areas of specialisation: data mining, econometric modelling and machine learning with artificial intelligence.
+This coming Friday 15 November, between 15:00 and 17:00 hours (Chilean time), our Training Data Lab research team will meet virtually to celebrate our fourth annual workshop. In this meeting, we will focus on three areas of specialisation: data mining, econometric modelling and machine learning with artificial intelligence.
 
 For two hours, four of our research associates will present their most recent and innovative work, addressing relevant and current issues in the field of social sciences. The papers presented will be:
 

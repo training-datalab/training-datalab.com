@@ -12,7 +12,7 @@ address:
   ## postcode: ''
   country: 
 
-summary: 'Este próximo viernes 15 de noviembre, entre las 15.00 y 17.00 horas (hora de Chile), nuestro equipo de investigación Training Data Lab nos reuniremos virtualmente para celebrar nuestro cuarto workshop anual. En este encuentro, nos enfocaremos en tres áreas de especialización: minería de datos, modelamiento econométrico y aprendizaje automático con inteligencia artificial.'
+summary: 'Este próximo viernes 15 de noviembre, entre las 15:00 y 17:00 horas (hora de Chile), nuestro equipo de investigación Training Data Lab nos reuniremos virtualmente para celebrar nuestro cuarto workshop anual. En este encuentro, nos enfocaremos en tres áreas de especialización: minería de datos, modelamiento econométrico y aprendizaje automático con inteligencia artificial.'
 abstract: ''
 
 # Talk start and end times.
@@ -58,7 +58,7 @@ slides:
 projects:
 ---
 
-Este próximo viernes 15 de noviembre, entre las 15.00 y 17.00 horas (hora de Chile), nuestro equipo de investigación Training Data Lab nos reuniremos virtualmente para celebrar nuestro cuarto workshop anual. En este encuentro, nos enfocaremos en tres áreas de especialización: minería de datos, modelamiento econométrico y aprendizaje automático con inteligencia artificial.
+Este próximo viernes 15 de noviembre, entre las 15:00 y 17:00 horas (hora de Chile), nuestro equipo de investigación Training Data Lab nos reuniremos virtualmente para celebrar nuestro cuarto workshop anual. En este encuentro, nos enfocaremos en tres áreas de especialización: minería de datos, modelamiento econométrico y aprendizaje automático con inteligencia artificial.
 
 Durante dos horas, cuatro de nuestros investigadores asociados presentarán sus trabajos más recientes e innovadores, abordando temas relevantes y actuales en el campo de las ciencias sociales. Los trabajos presentados serán:
 
