@@ -62,13 +62,13 @@ This coming Friday 15 November, between 15.00 and 17.00 hours (Chilean time), ou
 
 For two hours, four of our research associates will present their most recent and innovative work, addressing relevant and current issues in the field of social sciences. The papers presented will be:
 
-1. "Strategic Use of Advisory Commissions During Government Crises" by Carla Cisternas: This paper examines how presidents use experts to deal with crises.
+1. "Strategic Use of Advisory Commissions During Government Crises" by [Carla Cisternas]({{< relref "../authors/ccisternas" >}}): This paper examines how presidents use experts to deal with crises.
 
-2. "Distancias entre el concepto y la medición: Un análisis de las dimensiones de gobernanza a partir del Índice de Gobernanza Global" by Rodrigo Cuevas: This paper examines how governance indicators can be used to measure and evaluate government performance.
+2. "Distancias entre el concepto y la medición: Un análisis de las dimensiones de gobernanza a partir del Índice de Gobernanza Global" by [Rodrigo Cuevas]({{< relref "../authors/rcuevas" >}}): This paper examines how governance indicators can be used to measure and evaluate government performance.
 
-3. "Toxicity and Digital Incivility during Political Deliberation: The Case of the Constitutional Convention in Chile" by Sebastián Rivera: This paper explores toxicity and incivility in digital political deliberations, using the Chilean Constitutional Convention as a case study.
+3. "Toxicity and Digital Incivility during Political Deliberation: The Case of the Constitutional Convention in Chile" by [Sebastián Rivera]({{< relref "../authors/srivera" >}}): This paper explores toxicity and incivility in digital political deliberations, using the Chilean Constitutional Convention as a case study.
 
-4. "Benchmarking LLMs in Political Content Text-Annotation: Proof-of-Concept with Toxicity and Incivility Data" by Bastián González-Bustamante: In this paper, Large Language Models (LLMs) for the annotation of political content are evaluated in terms of their toxicity and incivility.
+4. "Benchmarking LLMs in Political Content Text-Annotation: Proof-of-Concept with Toxicity and Incivility Data" by [Bastián González-Bustamante]({{< relref "../authors/bgonzalezbustamante" >}}): In this paper, Large Language Models (LLMs) for the annotation of political content are evaluated in terms of their toxicity and incivility.
 
 **How to participate?**
 

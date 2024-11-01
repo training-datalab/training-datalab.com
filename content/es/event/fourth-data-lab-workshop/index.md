@@ -62,13 +62,13 @@ Este próximo viernes 15 de noviembre, entre las 15.00 y 17.00 horas (hora de Ch
 
 Durante dos horas, cuatro de nuestros investigadores asociados presentarán sus trabajos más recientes e innovadores, abordando temas relevantes y actuales en el campo de las ciencias sociales. Los trabajos presentados serán:
 
-1. "Strategic Use of Advisory Commissions During Government Crises" por Carla Cisternas: Esta ponencia analiza cómo los presidentes recurren a expertos para afrontar crisis.
+1. "Strategic Use of Advisory Commissions During Government Crises" por [Carla Cisternas]({{< relref "../authors/ccisternas" >}}): Esta ponencia analiza cómo los presidentes recurren a expertos para afrontar crisis.
 
-2. "Distancias entre el concepto y la medición: Un análisis de las dimensiones de gobernanza a partir del Índice de Gobernanza Global" por Rodrigo Cuevas: En este trabajo, se examina cómo los indicadores de gobernanza pueden ser utilizados para medir y evaluar el desempeño gubernamental.
+2. "Distancias entre el concepto y la medición: Un análisis de las dimensiones de gobernanza a partir del Índice de Gobernanza Global" por [Rodrigo Cuevas]({{< relref "../authors/rcuevas" >}}): En este trabajo, se examina cómo los indicadores de gobernanza pueden ser utilizados para medir y evaluar el desempeño gubernamental.
 
-3. "Toxicity and Digital Incivility during Political Deliberation: The Case of the Constitutional Convention in Chile" por Sebastián Rivera: Esta ponencia explora la toxicidad y la incivilidad en las deliberaciones políticas digitales, utilizando como caso de estudio la Convención Constitucional chilena.
+3. "Toxicity and Digital Incivility during Political Deliberation: The Case of the Constitutional Convention in Chile" por [Sebastián Rivera]({{< relref "../authors/srivera" >}}): Esta ponencia explora la toxicidad y la incivilidad en las deliberaciones políticas digitales, utilizando como caso de estudio la Convención Constitucional chilena.
 
-4. "Benchmarking LLMs in Political Content Text-Annotation: Proof-of-Concept with Toxicity and Incivility Data" por Bastián González-Bustamante: En este trabajo, se evalúan los modelos de lenguaje (LLMs) para la annotación de contenido político en función de su toxicidad e incivilidad.
+4. "Benchmarking LLMs in Political Content Text-Annotation: Proof-of-Concept with Toxicity and Incivility Data" por [Bastián González-Bustamante]({{< relref "../authors/bgonzalezbustamante" >}}): En este trabajo, se evalúan los modelos de lenguaje (LLMs) para la annotación de contenido político en función de su toxicidad e incivilidad.
 
 **¿Cómo participar?**
 
