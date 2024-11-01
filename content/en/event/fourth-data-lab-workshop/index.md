@@ -17,12 +17,12 @@ abstract: ''
 
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-11-15T15:00:00Z'
-date_end: '2023-11-15T17:00:00Z'
+date: '2024-11-15T15:00:00Z'
+date_end: '2024-11-15T17:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-11-01T00:00:00Z'
+publishDate: '2024-11-01T00:00:00Z'
 
 authors: ["ollama"]
 pager: true
@@ -35,7 +35,7 @@ tags: ["workshop"]
 featured: false
 
 image:
-  caption: 'Créditos de la imagen: [**DALL·E 3**](https://openai.com/index/dall-e-3/)'
+  caption: 'Picture credits: [**DALL·E 3**](https://openai.com/index/dall-e-3/)'
   focal_point: smart
 
 url_code: ''
