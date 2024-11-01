@@ -62,7 +62,7 @@ This coming Friday 15 November, between 15.00 and 17.00 hours (Chilean time), ou
 
 For two hours, four of our research associates will present their most recent and innovative work, addressing relevant and current issues in the field of social sciences. The papers presented will be:
 
-1. "Strategic Use of Advisory Commissions During Government Crises" by Carla Cisternas: This paper looks at how presidents use experts to deal with crises.
+1. "Strategic Use of Advisory Commissions During Government Crises" by Carla Cisternas: This paper examines how presidents use experts to deal with crises.
 
 2. "Distancias entre el concepto y la medición: Un análisis de las dimensiones de gobernanza a partir del Índice de Gobernanza Global" by Rodrigo Cuevas: This paper examines how governance indicators can be used to measure and evaluate government performance.
 
@@ -72,7 +72,7 @@ For two hours, four of our research associates will present their most recent an
 
 **How to participate?**
 
-The workshop will be online, which makes it easy to participate remotely. You can easily register by filling in the form at the following link: [https://forms.gle/cDKPoEU8ktB2pZH78](https://forms.gle/cDKPoEU8ktB2pZH78). 
+The workshop will be online, which makes it easy to participate remotely. You can easily register by filling out the form using the following link: [https://forms.gle/cDKPoEU8ktB2pZH78](https://forms.gle/cDKPoEU8ktB2pZH78). 
 
 _* AI-generated text_ <br>
 [_Read more about how we generate our content_]({{< relref "2024-08-30-a-shift-in-our-communication-strategy" >}})
