@@ -9,7 +9,7 @@ pager: true
 commentable: true
 show_related: false
 show_breadcrumb: true
-draft: false
+draft: true
 tags:
 - blog
 - opinion
