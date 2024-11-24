@@ -1859,7 +1859,7 @@ tags:
     <td class="tg-baqh">4</td>
   </tr>
 </tbody></table>
-<small>Nota: Las afiliaciones se han estandarizado. Datos recogidos el 2 de septiembre de 2024. Investigadores por añadir: Rocio Zepeda Majmud (ID TvCsGuwAAAAJ) y Ariel Alvarez Martinez (ID 4qdstdgAAAAJ).</small><br><br>
+<small>Nota: Las afiliaciones se han estandarizado. Datos recogidos el 2 de septiembre de 2024. Investigadores por añadir: Rocio Zepeda Majmud (ID TvCsGuwAAAAJ), Ariel Alvarez Martinez (ID 4qdstdgAAAAJ), Jaquelin Morillo Remesnitzky (ID 1ZuEcHUAAAAJ) y Tito Olavarría A. (ID Wb0oL9gAAAAJ).</small><br><br>
 
 **Descargo de responsabilidad**
 

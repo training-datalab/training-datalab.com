@@ -1859,7 +1859,7 @@ tags:
     <td class="tg-baqh">4</td>
   </tr>
 </tbody></table>
-<small>Note: The affiliations have been standardised. Data collected on September 2, 2024. Researchers to be added: Rocio Zepeda Majmud (ID TvCsGuwAAAAJ) and Ariel Alvarez Martinez (ID 4qdstdgAAAAJ).</small><br><br>
+<small>Note: The affiliations have been standardised. Data collected on September 2, 2024. Researchers to be added: Rocio Zepeda Majmud (ID TvCsGuwAAAAJ), Ariel Alvarez Martinez (ID 4qdstdgAAAAJ), Jaquelin Morillo Remesnitzky (ID 1ZuEcHUAAAAJ) and Tito Olavarría A. (ID Wb0oL9gAAAAJ).</small><br><br>
 
 **Disclaimer**
 
