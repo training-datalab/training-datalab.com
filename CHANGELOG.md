@@ -5,10 +5,6 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 
 ## [Released]
 
-## [4.0.1] - 2024-12-01
-### Changed
-- Minor corrections.
-
 ## [4.0.0] - 2024-09-03
 ### Added
 - Update to Hugo Blox.
