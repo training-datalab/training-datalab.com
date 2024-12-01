@@ -92,7 +92,7 @@ sections:
   - block: markdown
     content:
       title: Contact
-      subtitle: "contact@training-datalab.com <br> <i class="fas fa-newspaper"></i> <font size="3">[Subscribe to our quarterly newsletter](https://zcmp.eu/e28J)</font> <br> <i class="fa-brands fa-linkedin"></i> <font size="3">[Follow us on LinkedIN](http://linkedin.com/company/training-data-lab)</font">"
+      subtitle: "contact@training-datalab.com <br> <font size="3">[Subscribe to our quarterly newsletter](https://zcmp.eu/e28J)</font> <br> <font size="3">[Follow us on LinkedIN](http://linkedin.com/company/training-data-lab)</font">"
     design:
       columns: '1'
       spacing:
