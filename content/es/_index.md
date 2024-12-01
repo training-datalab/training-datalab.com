@@ -91,7 +91,7 @@ sections:
   - block: markdown
     content:
       title: Contacto
-      subtitle: "contact@training-datalab.com <br> [Suscríbete a nuestro boletín trimestral](https://zcmp.eu/e28J)"
+      subtitle: "[Síguenos en LinkedIN](http://linkedin.com/company/training-data-lab) <br> contact@training-datalab.com <br> [Suscríbete a nuestro boletín trimestral](https://zcmp.eu/e28J)"
     design:
       columns: '1'
       spacing:
