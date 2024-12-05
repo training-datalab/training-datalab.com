@@ -23,7 +23,7 @@ tags:
 .tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-c3ow{text-align:center;vertical-align:top}
 .tg .tg-buh4{background-color:#f9f9f9;text-align:left;vertical-align:top}
 .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-dzk6{background-color:#f9f9f9;text-align:center;vertical-align:top}

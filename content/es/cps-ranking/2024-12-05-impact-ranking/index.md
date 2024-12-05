@@ -36,7 +36,7 @@ tags:
     <th class="tg-1wig">ID</th>
     <th class="tg-1wig">Afiliación</th>
     <th class="tg-amwm">Citas</th>
-    <th class="tg-amwm">Índice-H<</th>
+    <th class="tg-amwm">Índice-H</th>
     <th class="tg-amwm">Cuartil</th>
   </tr></thead>
 <tbody>
