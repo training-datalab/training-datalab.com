@@ -70,8 +70,9 @@ social:
 - icon: home
   icon_pack: fas
   link: https://bgonzalezbustamante.com/
-## - icon: university
-  ## icon_pack: fas
+- icon: university
+  icon_pack: fas
+  link: https://obpex.com/
   ## link: https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante
 - icon: orcid
   icon_pack: fab
