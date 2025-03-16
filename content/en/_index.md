@@ -22,32 +22,12 @@ sections:
           - 50px
           - '0'
 
-  - block: markdown
-    content:
-      title: Ranking
-      subtitle: Flagship Project
-      text: |
-
-          <div class="ml-3"><a href="/en/cps-ranking/"><img src="/cps-ranking.png" style="width: 150px; float: right; margin-left: 30px"></a></div> <div class="section-subheading article-title mb-0 mt-0"><a href="/en/cps-ranking/">Chilean Political Science Ranking (CPS-Ranking)</a></div>
-
-           <p><font size="3">This <strong>ranking of political science in Chile</strong> is one of our flagship projects. It presents a group of researchers at different stages of their careers ordered by <strong>H-index</strong> and uses the number of accumulated citations as a tie-breaker. It is based on Google Scholar and will soon be five years old with <strong>quarterly time series</strong>.</font></p>
-
-           <p><i class="fas fa-newspaper"></i> <font size="3"><a href="https://zcmp.eu/e28J">Receive updates in your email inbox!</a></font></p>
-    design:
-      columns: '2'
-      spacing:
-        padding:
-          - 50px
-          - '0'
-          - 50px
-          - '0'
-
   - block: collection
     content:
       title: Blog
       subtitle: News and Columns
       text:
-      count: 2
+      count: 3
       filters:
         author: ''
         category: ''
@@ -92,7 +72,7 @@ sections:
   - block: markdown
     content:
       title: Contact
-      subtitle: "[Follow us on LinkedIN](http://linkedin.com/company/training-data-lab) <br> contact@training-datalab.com <br> [Subscribe to our quarterly newsletter](https://zcmp.eu/e28J)"
+      subtitle: "[Follow us on LinkedIN](http://linkedin.com/company/training-data-lab) <br> contact@training-datalab.com"
     design:
       columns: '1'
       spacing:
