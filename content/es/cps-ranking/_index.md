@@ -11,11 +11,11 @@ tags:
 - cps-ranking
 ---
 
+<br>
+
 {{% callout warning %}}
 Este proyecto ya no se encuentra funcionando
 {{% /callout %}}
-
-<br>
 
 <h2>Descripción</h2>
 
