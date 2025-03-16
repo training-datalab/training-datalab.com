@@ -56,9 +56,9 @@ social:
 ## - icon: home
   ## icon_pack: fas
   ## link: 
-## - icon: university
-  ## icon_pack: fas
-  ## link: 
+- icon: university
+  icon_pack: fas
+  link: https://obpex.com/
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0003-4531-5922
@@ -90,8 +90,8 @@ user_groups:
 - Adjunct Researchers
 ---
 
-I am a Social Policy Officer at Indigenous Services Canada (Federal Government), where I ensure the efficient delivery of sustainable infrastructure projects in First Nation communities. I also serve on the [Board of the Brantford Public Library](https://www.brantfordlibrary.ca/en/about-the-library/library-board.aspx), contributing to policy development and financial oversight.
+I am a policy researcher at Indigenous Services Canada (ISC), part of the Canadian Federal Government. I work on a team that ensures the successful implementation of sustainable infrastructure projects, such as energy systems, structural mitigation, and winter roads, in Indigenous communities across Canada. I am also a member of the [Brantford Public Library Board](https://www.brantfordlibrary.ca/en/about-the-library/library-board.aspx), where I help shape policies, manage financial oversight, and lead as chair of the Governance Committee.
 
-Before relocating to Canada, I worked as a Lawyer on the collective mediation team and as an International Relations Coordinator at the Servicio Nacional del Consumidor (SERNAC) in Chile.
+Before moving to Canada, I worked as a lawyer at the National Consumer Service (*Servicio Nacional del Consumidor*, SERNAC) in Chile, where I was part of the collective mediation team and also served as international relations coordinator.
 
-I hold an MA in Political Science from the [Universidad de Chile](https://gobierno.uchile.cl/), an MA in Global Politics from [McMaster University, Canada](https://socialsciences.mcmaster.ca/), and an LLB from [Universidad Alberto Hurtado, Chile](https://derecho.uahurtado.cl/). My interests include transparency and open government, public policy, Indigenous affairs, and international relations.
+I hold an MA in Political Science from the [Universidad de Chile](https://gobierno.uchile.cl/), an MA in Global Politics from [McMaster University, Canada](https://socialsciences.mcmaster.ca/), and an LLB from the Universidad Alberto Hurtado, Chile. My interests include transparency and open government, public policy, Indigenous affairs, and international relations.
