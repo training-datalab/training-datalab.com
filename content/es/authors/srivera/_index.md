@@ -39,16 +39,16 @@ education:
   courses:
   - course: PhD en Ciencia Política
     institution: University of California, Irvine
-    year: start-2024
+    year: 2024
   - course: Magíster en Ciencia Política
     institution: University of California, Irvine
-    year: start-2021
+    year: 2021
   - course: Magíster en Comunicación
     institution: Universidad Diego Portales, Chile
-    year: start-2017
+    year: 2017
   - course: Licenciatura en Ciencia Política
     institution: Universidad Alberto Hurtado, Chile
-    year: start-2012
+    year: 2012
 
 # Social/Academic Networking
 social:
