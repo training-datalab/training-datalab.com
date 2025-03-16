@@ -1,5 +1,5 @@
 ---
-title: 'Chilean Political Science discontinuation note'
+title: 'Chilean Political Science Ranking discontinuation note'
 date: '2025-03-16'
 authors: ["bgonzalezbustamante"]
 image:
