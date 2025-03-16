@@ -90,7 +90,7 @@ user_groups:
   - Investigadores Adjuntos
 ---
 
-Soy investigador de políticas en Indigenous Services Canada (ISC), parte del Gobierno Federal de Canadá. Trabajo en un equipo que asegura la ejecución de proyectos de infraestructura sostenible, como sistemas de energía, mitigación estructural y carreteras de invierno, en comunidades indígenas de Canadá. Además, soy miembro del Consejo de la Biblioteca Pública de Brantford, donde colaboro en la creación de políticas y la supervisión financiera, presidiendo el Comité de Gobernanza.
+Soy investigador de políticas en Indigenous Services Canada (ISC), parte del Gobierno Federal de Canadá. Trabajo en un equipo que asegura la ejecución de proyectos de infraestructura sostenible, como sistemas de energía, mitigación estructural y carreteras de invierno, en comunidades indígenas de Canadá. Además, soy miembro del Consejo de la [Biblioteca Pública de Brantford](https://www.brantfordlibrary.ca/en/about-the-library/library-board.aspx), donde colaboro en la creación de políticas y la supervisión financiera, presidiendo el Comité de Gobernanza.
 
 Antes de mudarme a Canadá, trabajé como abogado en el Servicio Nacional del Consumidor (SERNAC) en Chile, donde formé parte del equipo de mediaciones colectivas y también me desempeñé como cordinador de relaciones internacionales.
 
