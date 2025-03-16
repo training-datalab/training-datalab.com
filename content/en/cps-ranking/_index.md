@@ -13,6 +13,10 @@ tags:
 
 <br>
 
+{{% callout warning %}}
+This project is no longer in operation
+{{% /callout %}}
+
 <h2>Overview</h2>
 
 This ranking is presented from **the highest to the lowest H-Index**. The number of cites has been used as a second criterion in case of a tie in the H-Index.
