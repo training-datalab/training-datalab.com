@@ -39,16 +39,16 @@ education:
   courses:
   - course: PhD in Political Science
     institution: University of California, Irvine
-    year: start-2024
+    year: 2024
   - course: MA in Political Science
     institution: University of California, Irvine
-    year: start-2021
+    year: 2021
   - course: MA in Communication
     institution: Universidad Diego Portales, Chile
-    year: start-2017
+    year: 2017
   - course: BA in Political Science
     institution: Universidad Alberto Hurtado, Chile
-    year: start-2012
+    year: 2012
 
 # Social/Academic Networking
 social:
