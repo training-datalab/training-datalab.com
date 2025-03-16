@@ -38,7 +38,7 @@ interests:
 
 education:
   courses:
-  - course: MA Global Politics
+  - course: Magíster en Relaciones Internacionales
     institution: McMaster University
     year: 2019-2020
   - course: Magíster en Ciencia Política
@@ -56,9 +56,9 @@ social:
 ## - icon: home
   ## icon_pack: fas
   ## link: 
-## - icon: university
-  ## icon_pack: fas
-  ## link: 
+- icon: university
+  icon_pack: fas
+  link: https://obpex.com/
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0003-4531-5922
@@ -90,8 +90,8 @@ user_groups:
   - Investigadores Adjuntos
 ---
 
-Soy oficial de política social en Indigenous Services Canada (Gobierno Federal), donde garantizo la ejecución eficaz de proyectos de infraestructuras sostenibles en las comunidades de las Primeras Naciones. También formo parte del [Consejo de la Biblioteca Pública de Brantford](https://www.brantfordlibrary.ca/en/about-the-library/library-board.aspx), donde contribuyo a la elaboración de políticas y a la supervisión financiera.
+Soy investigador de políticas en Indigenous Services Canada (ISC), parte del Gobierno Federal de Canadá. Trabajo en un equipo que asegura la ejecución de proyectos de infraestructura sostenible, como sistemas de energía, mitigación estructural y carreteras de invierno, en comunidades indígenas de Canadá. Además, soy miembro del Consejo de la Biblioteca Pública de Brantford, donde colaboro en la creación de políticas y la supervisión financiera, presidiendo el Comité de Gobernanza.
 
-Antes de trasladarme a Canadá, trabajé como abogado en el equipo de mediación colectiva y como coordinador de relaciones internacionales en el Servicio Nacional del Consumidor (SERNAC) en Chile.
+Antes de mudarme a Canadá, trabajé como abogado en el Servicio Nacional del Consumidor (SERNAC) en Chile, donde formé parte del equipo de mediaciones colectivas y también me desempeñé como cordinador de relaciones internacionales.
 
-Tengo un Magíster en Ciencia Política por la [Universidad de Chile](https://gobierno.uchile.cl/), un Magíster en Política Global por la [Universidad de McMaster, Canadá](https://socialsciences.mcmaster.ca/), y una Licenciatura en Derecho por la [Universidad Alberto Hurtado, Chile](https://derecho.uahurtado.cl/). Mis intereses incluyen la transparencia y el gobierno abierto, las políticas públicas, los asuntos indígenas y las relaciones internacionales.
+Tengo un Magíster en Ciencia Política por la [Universidad de Chile](https://gobierno.uchile.cl/), un Magíster en Relaciones Internacionales de [McMaster University, Canadá](https://socialsciences.mcmaster.ca/), y una Licenciatura en Ciencias Jurídicas y Sociales por la [Universidad Alberto Hurtado, Chile](https://derecho.uahurtado.cl/). Mis intereses incluyen la transparencia y el gobierno abierto, las políticas públicas, los asuntos indígenas y las relaciones internacionales.
