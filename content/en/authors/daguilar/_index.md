@@ -94,4 +94,4 @@ I am a policy researcher at Indigenous Services Canada (ISC), part of the Canadi
 
 Before moving to Canada, I worked as a lawyer at the National Consumer Service (*Servicio Nacional del Consumidor*, SERNAC) in Chile, where I was part of the collective mediation team and also served as international relations coordinator.
 
-I hold an MA in Political Science from the [Universidad de Chile](https://gobierno.uchile.cl/), an MA in Global Politics from [McMaster University, Canada](https://socialsciences.mcmaster.ca/), and an LLB from the Universidad Alberto Hurtado, Chile. My interests include transparency and open government, public policy, Indigenous affairs, and international relations.
+I hold an MA in Political Science from the [Universidad de Chile](https://gobierno.uchile.cl/), an MA in Global Politics from [McMaster University, Canada](https://socialsciences.mcmaster.ca/), and an LLB from the [Universidad Alberto Hurtado, Chile](https://derecho.uahurtado.cl/). My interests include transparency and open government, public policy, Indigenous affairs, and international relations.
