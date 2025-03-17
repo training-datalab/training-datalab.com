@@ -28,7 +28,11 @@ This series has only the editorial team as its executive body. The editorial tea
 
 <p align = "center"><small>The full text usage, which is the sum of views and downloads from Zenodo and OSF/SocArXiv, is 3,506 until March 2025.</small></p>
 
-<small><strong>Intellectual Heritage.</strong> This series of working papers seeks to take up the work of the **Serie Política, Gestión y Políticas Públicas (ISSN 0719-739X)**, published bimonthly by the Centro de Estudios de Gestión y Política Pública in 2016. The main objective of this series was to promote an enriching debate on politics, public management and public policy in Spanish. The editorial team consisted of [Bastián González-Bustamante]({{< relref "../authors/bgonzalezbustamante" >}}), Diego Barría Traverso, Federico Rojas de Galarreta and Carlos Palacios. The editorial board was made up of renowned academics, including Adriano Codato, Gonzalo Delamaza, Mauricio Dussauge-Laguna, Alfredo Joignant, Florencia Luci and Álvaro Ramírez-Alujas.</small>
+<small><strong>Intellectual Heritage.</strong> This series of working papers seeks to take up the work of the **Serie Política, Gestión y Políticas Públicas (ISSN 0719-739X)**, published bimonthly by the Centro de Estudios de Gestión y Política Pública in 2016. The main objective of this series was to promote an enriching debate on politics, public management and public policy in Spanish. The editorial team consisted of [Bastián González-Bustamante]({{< relref "../authors/bgonzalezbustamante" >}}), Diego Barría Traverso, Federico Rojas de Galarreta and Carlos Palacios. The editorial board was made up of renowned academics, including Adriano Codato, Gonzalo Delamaza, Mauricio Dussauge-Laguna, Alfredo Joignant, Florencia Luci and Álvaro Ramírez-Alujas. This series published the following documents:</small>
+
+* <small>Painepán, C. (2016). ¿Información o desinformación político-regional? Descentralización en Biobío, Los Lagos y Los Ríos. *Serie Política, Gestión y Políticas Públicas*, (1), 1-21.</small>
+* <small>González–Bustamante, B., & Saldías, D. (2016). Pluralismo en los medios digitales escritos en Chile, una exploración de casos clave. *Serie Política, Gestión y Políticas Públicas*, (2), 1-26.</small>
+* <small>Del Valle, N. (2016). Pluralismo informativo de los medios digitales escritos en Chile: apuntes de investigación. *Serie Política, Gestión y Políticas Públicas*, (3), 1-29.</small>
 
 <h1>Issues</h1>
 
