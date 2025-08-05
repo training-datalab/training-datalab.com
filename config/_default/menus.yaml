@@ -7,21 +7,21 @@ main:
   - name: Inicio
     url: '#index'
     weight: 10
-  - name: Equipo
-    url: people
-    weight: 20
+  ## - name: Equipo
+    ## url: people
+    ## weight: 20
   - name: Blog
     url: post
     weight: 30
-  - name: Proyectos y datos
-    url: project
-    weight: 40
-  - name: Eventos
-    url: event
-    weight: 50
-  - name: Publicaciones
-    url: publication
-    weight: 60
+  ## - name: Proyectos y datos
+    ## url: project
+    ## weight: 40
+  ## - name: Eventos
+    ## url: event
+    ## weight: 50
+  ## - name: Publicaciones
+    ## url: publication
+    ## weight: 60
   - name: CPS-Ranking
     url: cps-ranking
     weight: 70
