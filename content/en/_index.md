@@ -27,7 +27,7 @@ sections:
       title: Blog
       subtitle: News and Columns
       text:
-      count: 3
+      count: 2
       filters:
         author: ''
         category: ''
@@ -48,31 +48,32 @@ sections:
           - 50px
           - '0'
  
-  - block: collection
-    content:
-      title: Featured Publications
-      subtitle: Scientific journal articles
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article-journal'
-        tag: 'wos-article'
-    design:
-      view: citation
-      columns: '2'
-      spacing:
-        padding:
-          - 50px
-          - '0'
-          - 50px
-          - '0'
+  ## - block: collection
+    ## content:
+      ## title: Featured Publications
+      ## subtitle: Scientific journal articles
+      ## text: ""
+      ## count: 5
+      ## filters:
+        ## folders:
+          ## - publication
+        ## publication_type: 'article-journal'
+        ## tag: 'wos-article'
+    ## design:
+      ## view: citation
+      ## columns: '2'
+      ## spacing:
+        ## padding:
+          ## - 50px
+          ## - '0'
+          ## - 50px
+          ## - '0'
 
   - block: markdown
     content:
       title: Contact
-      subtitle: "[Follow us on LinkedIN](http://linkedin.com/company/training-data-lab) <br> contact@training-datalab.com"
+      ## subtitle: "[Follow us on LinkedIN](http://linkedin.com/company/training-data-lab) <br> contact@training-datalab.com"
+      subtitle: "contact@training-datalab.com"
     design:
       columns: '1'
       spacing:
