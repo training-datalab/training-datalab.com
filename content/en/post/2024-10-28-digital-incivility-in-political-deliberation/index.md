@@ -1,5 +1,5 @@
 ---
-title: 'Digital Incivility in Political Deliberation: The Case of the Chilean Constitutional Convention'
+title: 'Digital incivility in political deliberation: The Case of the Chilean Constitutional Convention'
 date: '2024-10-28'
 authors: ["ollama"]
 image:
