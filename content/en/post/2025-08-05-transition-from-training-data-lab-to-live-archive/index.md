@@ -1,5 +1,5 @@
 ---
-title: 'Official Announcement: Transition from Training Data Lab to live archive'
+title: 'Official announcement: Transition from Training Data Lab to live archive'
 date: '2025-08-05'
 authors: ["bgonzalezbustamante"]
 image:
