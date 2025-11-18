@@ -12,7 +12,6 @@ show_breadcrumb: true
 draft: false
 tags:
 - blog
-- cps-ranking
 ---
 
 In August 2025, we announced the transition of Training Data Lab to a **living archive mode**, with the aim of preserving the work developed since 2020 without creating expectations of regular activity that we could no longer sustain responsibly. Since then, we have been relocating our initiatives and collaborations to spaces with more stable structures and institutional support.
