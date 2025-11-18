@@ -19,7 +19,7 @@ In August 2025, we announced the transition of Training Data Lab to a **living a
 
 <!--more-->
 
-Starting in 2026, most of the activities we previously promoted under the Training Data Lab, including applied projects, data analysis, and tool development, have been carried out as consultancies and professional projects through [Empiria Lab](https://empirialab.cl/). Several of the researchers who were part of our group continue to collaborate there, now in a format focused on knowledge transfer, solving specific problems for public and private institutions, and designing solutions based on data and artificial intelligence.
+Starting in 2025, most of the activities we previously promoted under the Training Data Lab, including applied projects, data analysis, and tool development, have been carried out as consultancies and professional projects through [Empiria Lab](https://empirialab.cl/). Several of the researchers who were part of our group continue to collaborate there, now in a format focused on knowledge transfer, solving specific problems for public and private institutions, and designing solutions based on data and artificial intelligence.
 
 In this new scenario, the series [Tufte Working Papers (ISSN 2735-6043)]({{< relref "../tufte-working-papers" >}}) will no longer accept manuscripts, and new issues will not be published. Documents already published will remain available in open access as part of our legacy, but the series will now be exclusively historical in nature, with no editorial processes or incorporation of new works.
 
