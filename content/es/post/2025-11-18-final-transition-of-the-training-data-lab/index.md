@@ -12,7 +12,6 @@ show_breadcrumb: true
 draft: false
 tags:
 - blog
-- cps-ranking
 ---
 
 En agosto de 2025 anunciamos la transición de Training Data Lab a un **modo de archivo vivo**, con el objetivo de preservar el trabajo desarrollado desde 2020 sin generar la expectativa de una actividad regular que ya no podíamos sostener de forma responsable. Desde entonces, hemos ido reubicando nuestras iniciativas y colaboraciones en espacios que cuenten con estructuras más estables y respaldo institucional.
