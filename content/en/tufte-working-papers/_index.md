@@ -12,6 +12,10 @@ banner:
 
 <br>
 
+{{% callout warning %}}
+These working papers are no longer in operation
+{{% /callout %}}
+
 <h2>About</h2>
 
 **Tufte Working Papers (ISSN 2735-6043)** is a continuous publication based at Training Data Lab. This series of papers promotes debate in the social sciences, especially on issues related to political science and public policies. The series includes unpublished papers and revised versions of previous publications that propose **innovative research techniques or offer novel empirical information**. The papers are published in Spanish and English, although preference is given to publications in Spanish in order to support the divulgation of open access knowledge in Ibero-America.
